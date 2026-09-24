@@ -1,5 +1,5 @@
 // Fondos del sitio, dibujados por código (sin imágenes de terceros):
-//  - Portada: mapa topográfico con curvas de nivel, grilla de coordenadas y un sismograma.
+//  - Portada: cordilleras con neblina y una red de puntos, al estilo del banner de LinkedIn de MetGeo.
 //  - Resto de la página: red de puntos interconectados que se mueven y siguen al cursor.
 (function () {
   var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -14,106 +14,103 @@
     return { ctx: ctx, w: r.width, h: r.height };
   }
 
-  /* ---------- Portada: curvas de nivel ---------- */
+  /* ---------- Portada: cordillera al estilo del banner de LinkedIn ---------- */
 
-  // Relieve fijo: cerros gaussianos y ondulaciones suaves. Siempre el mismo dibujo.
-  var HILLS = [
-    [0.72, 0.30, 0.16, 1.00], [0.88, 0.72, 0.13, 0.85], [0.55, 0.78, 0.20, 0.70],
-    [0.95, 0.15, 0.10, 0.55], [0.40, 0.25, 0.14, 0.45], [0.66, 0.58, 0.07, 0.40],
-  ];
-  function height(x, y) {
-    var z = 0.12 * Math.sin(x * 7.1 + y * 2.3) + 0.08 * Math.cos(y * 9.4 - x * 3.2);
-    for (var i = 0; i < HILLS.length; i++) {
-      var h = HILLS[i], dx = x - h[0], dy = y - h[1];
-      z += h[3] * Math.exp(-(dx * dx + dy * dy) / (2 * h[2] * h[2]));
-    }
-    return z;
+  // Generador pseudoaleatorio con semilla: el paisaje es siempre el mismo.
+  function rng(seed) {
+    return function () {
+      seed |= 0; seed = (seed + 0x6D2B79F5) | 0;
+      var t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
   }
 
-  // Marching squares: segmentos de la curva de nivel `level` sobre una grilla de valores.
-  function contour(ctx, grid, cols, rows, step, level) {
-    ctx.beginPath();
-    for (var j = 0; j < rows - 1; j++) {
-      for (var i = 0; i < cols - 1; i++) {
-        var a = grid[j * cols + i], b = grid[j * cols + i + 1];
-        var c = grid[(j + 1) * cols + i + 1], d = grid[(j + 1) * cols + i];
-        var idx = (a > level ? 8 : 0) | (b > level ? 4 : 0) | (c > level ? 2 : 0) | (d > level ? 1 : 0);
-        if (idx === 0 || idx === 15) continue;
-        var x = i * step, y = j * step;
-        var top = [x + step * (level - a) / (b - a), y];
-        var right = [x + step, y + step * (level - b) / (c - b)];
-        var bottom = [x + step * (level - d) / (c - d), y + step];
-        var left = [x, y + step * (level - a) / (d - a)];
-        var segs = {
-          1: [left, bottom], 2: [bottom, right], 3: [left, right], 4: [top, right],
-          5: [left, top, bottom, right], 6: [top, bottom], 7: [left, top], 8: [left, top],
-          9: [top, bottom], 10: [left, bottom, top, right], 11: [top, right], 12: [left, right],
-          13: [bottom, right], 14: [left, bottom],
-        }[idx];
-        for (var s = 0; s < segs.length; s += 2) {
-          ctx.moveTo(segs[s][0], segs[s][1]);
-          ctx.lineTo(segs[s + 1][0], segs[s + 1][1]);
-        }
+  // Perfil de una cordillera por desplazamiento de punto medio (valores entre -1 y 1).
+  function ridge(rand, n, rough) {
+    var size = 1;
+    while (size < n) size *= 2;
+    var p = new Float32Array(size + 1);
+    p[0] = rand() * 2 - 1; p[size] = rand() * 2 - 1;
+    for (var step = size, amp = 1; step > 1; step /= 2, amp *= rough) {
+      for (var i = step / 2; i < size; i += step) {
+        p[i] = (p[i - step / 2] + p[i + step / 2]) / 2 + (rand() * 2 - 1) * amp;
       }
     }
-    ctx.stroke();
+    return p;
+  }
+
+  function mix(a, b, t) {
+    return "rgb(" + [0, 1, 2].map(function (k) { return Math.round(a[k] + (b[k] - a[k]) * t); }).join(",") + ")";
   }
 
   function drawGeo(canvas) {
-    var f = fit(canvas), ctx = f.ctx, w = f.w, h = f.h;
-    ctx.clearRect(0, 0, w, h);
+    var f = fit(canvas), ctx = f.ctx, w = f.w, h = f.h, rand = rng(20260924);
 
-    // Grilla de coordenadas, con las de Concepción como referencia.
-    ctx.strokeStyle = "rgba(143, 195, 230, 0.10)";
-    ctx.lineWidth = 1;
-    var gs = 120;
-    ctx.beginPath();
-    for (var gx = gs; gx < w; gx += gs) { ctx.moveTo(gx + 0.5, 0); ctx.lineTo(gx + 0.5, h); }
-    for (var gy = gs; gy < h; gy += gs) { ctx.moveTo(0, gy + 0.5); ctx.lineTo(w, gy + 0.5); }
-    ctx.stroke();
-    ctx.fillStyle = "rgba(143, 195, 230, 0.35)";
-    ctx.font = "10px 'Courier New', monospace";
-    var lat = ["36°45′S", "36°49′S", "36°53′S", "36°57′S", "37°01′S"];
-    var lon = ["73°15′O", "73°09′O", "73°03′O", "72°57′O", "72°51′O", "72°45′O", "72°39′O", "72°33′O", "72°27′O", "72°21′O", "72°15′O", "72°09′O"];
-    for (var k = 1; k * gs < h && k <= lat.length; k++) ctx.fillText(lat[k - 1], w - 58, k * gs - 4);
-    for (var m = 1; m * gs < w - 80 && m <= lon.length; m++) ctx.fillText(lon[m - 1], m * gs + 4, 14);
+    // Cielo: celeste arriba, casi blanco en el horizonte.
+    var sky = ctx.createLinearGradient(0, 0, 0, h);
+    sky.addColorStop(0, "#5E98C8");
+    sky.addColorStop(0.45, "#A8C9E4");
+    sky.addColorStop(0.75, "#DDEBF6");
+    sky.addColorStop(1, "#EEF5FB");
+    ctx.fillStyle = sky;
+    ctx.fillRect(0, 0, w, h);
+    var glow = ctx.createRadialGradient(w * 0.62, h * 0.55, 0, w * 0.62, h * 0.55, Math.max(w, h) * 0.55);
+    glow.addColorStop(0, "rgba(255, 255, 255, 0.55)");
+    glow.addColorStop(1, "rgba(255, 255, 255, 0)");
+    ctx.fillStyle = glow;
+    ctx.fillRect(0, 0, w, h);
 
-    // Curvas de nivel. Cada quinta es una curva maestra, más gruesa, como en una carta topográfica.
-    var step = 6, cols = Math.ceil(w / step) + 1, rows = Math.ceil(h / step) + 1;
-    var grid = new Float32Array(cols * rows), lo = Infinity, hi = -Infinity;
-    for (var j = 0; j < rows; j++) {
-      for (var i = 0; i < cols; i++) {
-        var v = height((i * step) / Math.max(w, 900), (j * step) / Math.max(h, 420));
-        grid[j * cols + i] = v;
-        if (v < lo) lo = v;
-        if (v > hi) hi = v;
+    // Seis cordilleras, de la más lejana (clara) a la más cercana (azul profundo).
+    var far = [184, 210, 232], near = [22, 66, 112];
+    var layers = 6, n = Math.ceil(w / 12) + 2;
+    for (var L = 0; L < layers; L++) {
+      var t = L / (layers - 1);
+      var baseY = h * (0.52 + 0.08 * L);
+      var amp = h * (0.14 + 0.06 * t);
+      var prof = ridge(rand, n, 0.56 + 0.03 * t);
+      ctx.beginPath();
+      ctx.moveTo(0, h);
+      for (var i = 0; i <= n; i++) {
+        var x = (i / n) * w;
+        var k = Math.min(prof.length - 1, Math.round((i / n) * (prof.length - 1)));
+        ctx.lineTo(x, baseY - amp * (prof[k] + 0.25));
+      }
+      ctx.lineTo(w, h);
+      ctx.closePath();
+      var fill = ctx.createLinearGradient(0, baseY - amp * 1.3, 0, h);
+      fill.addColorStop(0, mix(far, near, t));
+      fill.addColorStop(1, mix(far, near, Math.min(1, t + 0.18)));
+      ctx.fillStyle = fill;
+      ctx.fill();
+
+      // Neblina en el valle, delante de cada cordillera salvo la última.
+      if (L < layers - 1) {
+        var fog = ctx.createLinearGradient(0, baseY - amp * 0.2, 0, baseY + h * 0.10);
+        fog.addColorStop(0, "rgba(232, 242, 250, 0)");
+        fog.addColorStop(1, "rgba(232, 242, 250, " + (0.55 - 0.08 * L) + ")");
+        ctx.fillStyle = fog;
+        ctx.fillRect(0, baseY - amp * 0.2, w, h);
       }
     }
-    var levels = 22;
-    for (var L = 1; L < levels; L++) {
-      var master = L % 5 === 0;
-      ctx.strokeStyle = master ? "rgba(143, 195, 230, 0.42)" : "rgba(143, 195, 230, 0.18)";
-      ctx.lineWidth = master ? 1.3 : 0.8;
-      contour(ctx, grid, cols, rows, step, lo + ((hi - lo) * L) / levels);
-    }
 
-    // Sismograma: ruido de fondo, llegada de la onda P y luego la onda S, más fuerte.
-    var base = h - 34, x0 = w * 0.42;
-    ctx.strokeStyle = "rgba(78, 148, 195, 0.75)";
-    ctx.lineWidth = 1.2;
-    ctx.beginPath();
-    for (var x = x0; x < w; x += 1.5) {
-      var t = (x - x0) / (w - x0);
-      var amp = 1.5;
-      if (t > 0.30) amp += 9 * Math.exp(-(t - 0.30) * 18);
-      if (t > 0.52) amp += 22 * Math.exp(-(t - 0.52) * 9);
-      var y = base + amp * Math.sin(x * 0.9) * Math.cos(x * 0.23 + t * 4);
-      if (x === x0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+    // Red de puntos blancos sobre el paisaje.
+    var pts = [], count = Math.round(Math.min(70, Math.max(24, w / 22)));
+    for (var p = 0; p < count; p++) pts.push([rand() * w, rand() * h, 1 + rand() * 1.6]);
+    ctx.lineWidth = 0.8;
+    for (var a = 0; a < pts.length; a++) {
+      for (var b = a + 1; b < pts.length; b++) {
+        var dx = pts[a][0] - pts[b][0], dy = pts[a][1] - pts[b][1], d = Math.sqrt(dx * dx + dy * dy);
+        if (d < 150) {
+          ctx.strokeStyle = "rgba(255, 255, 255, " + (0.45 * (1 - d / 150)).toFixed(3) + ")";
+          ctx.beginPath(); ctx.moveTo(pts[a][0], pts[a][1]); ctx.lineTo(pts[b][0], pts[b][1]); ctx.stroke();
+        }
+      }
     }
-    ctx.stroke();
-    ctx.fillStyle = "rgba(143, 195, 230, 0.55)";
-    ctx.fillText("P", x0 + (w - x0) * 0.30 - 3, base - 24);
-    ctx.fillText("S", x0 + (w - x0) * 0.52 - 3, base - 36);
+    for (var q = 0; q < pts.length; q++) {
+      ctx.fillStyle = "rgba(255, 255, 255, 0.85)";
+      ctx.beginPath(); ctx.arc(pts[q][0], pts[q][1], pts[q][2], 0, Math.PI * 2); ctx.fill();
+    }
   }
 
   var geos = Array.prototype.slice.call(document.querySelectorAll("canvas.geo"));
