@@ -5,7 +5,7 @@ Sitio estático para GitHub Pages. Reúne los servicios de MetGeo:
 | Página | Contenido |
 |---|---|
 | `index.html` | Portada, servicios y acceso al monitor |
-| `monitor.html` | El monitor meteorológico del Gran Concepción, incrustado desde Streamlit |
+| `monitor.html` | El monitor meteorológico del Gran Concepción: descripción, vista previa y enlace a la app en Streamlit |
 | `noticias.html` | Noticias científicas del día por área, con enlace a cada fuente, y el registro al newsletter |
 
 No necesita compilarse ni instalar nada: son archivos HTML, CSS y JavaScript.
@@ -15,6 +15,8 @@ No necesita compilarse ni instalar nada: son archivos HTML, CSS y JavaScript.
 `data/noticias.json` lo genera cada madrugada la app del newsletter (`MetGeo-Newsletter`): `prepare_news` elige y resume las noticias de las 13 áreas con Claude, y `export_news` escribe este archivo. Con `SITE_PUSH=1` además hace commit y push, y GitHub Pages publica el cambio en uno o dos minutos. La página lo lee al abrirse, así que no hay que tocar el HTML.
 
 Cada nota aparece una sola vez y enlaza a su fuente original. La página indica que los resúmenes son de MetGeo con apoyo de inteligencia artificial y que el contenido pertenece a cada medio.
+
+El monitor no va incrustado dentro de la página: Streamlit Community Cloud queda en blanco dentro de un marco de otro dominio (se comprobó en Chrome el 24 de septiembre de 2026), así que la página lo enlaza y abre en una pestaña nueva. Si más adelante el monitor se publica en un servidor propio, se puede volver a incrustar.
 
 ## Configuración
 

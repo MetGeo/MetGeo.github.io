@@ -32,12 +32,19 @@
       <div class="rule"></div>
       <p>Lo observado en las estaciones del Gran Concepción frente a lo que pronostican 7 modelos globales y un super-ensamble de 143 miembros, para lluvia, temperatura, humedad, viento, ráfagas y presión.</p>
 
+      <div class="btns" style="margin-top:22px">
+        <a class="btn btn-solid" data-monitor href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener">Abrir el monitor &#8599;</a>
+      </div>
+      <p class="fine" style="margin-top:10px">Se abre en una pestaña nueva. Si nadie lo ha visitado en unos días, tarda unos segundos en despertar.</p>
+
       <div class="frame" style="margin-top:26px">
         <div class="frame-bar">
-          <span class="muted">Si el monitor no carga, puede estar despertando: espera unos segundos.</span>
-          <a id="monitor-link" href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener">Abrir a pantalla completa &#8599;</a>
+          <span class="muted">Vista previa de la portada del monitor</span>
+          <a data-monitor href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener">Abrir &#8599;</a>
         </div>
-        <iframe id="monitor-frame" class="embed" title="Monitor meteorológico MetGeo Concepción" src="https://metgeo-concepcion.streamlit.app/?embed=true" loading="lazy" allow="fullscreen"></iframe>
+        <a class="shot" data-monitor href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener" aria-label="Abrir el monitor">
+          <img src="assets/monitor.png" alt="Portada del monitor MetGeo Concepción con las condiciones actuales de Carriel Sur" width="1280" height="900" loading="lazy">
+        </a>
       </div>
 
       <dl class="views">
@@ -67,8 +74,7 @@
 (function () {
   var base = (window.METGEO && window.METGEO.monitorUrl || "").replace(/\/$/, "");
   if (!base) return;
-  document.getElementById("monitor-link").href = base + "/";
-  document.getElementById("monitor-frame").src = base + "/?embed=true";
+  document.querySelectorAll("[data-monitor]").forEach(function (a) { a.href = base + "/"; });
 })();
 </script>
 </body>
