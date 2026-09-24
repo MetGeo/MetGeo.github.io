@@ -12,7 +12,7 @@ No necesita compilarse ni instalar nada: son archivos HTML, CSS y JavaScript.
 
 ## Cómo se actualizan las noticias
 
-`data/noticias.json` lo genera cada madrugada la app del newsletter (`MetGeo-Newsletter`): `prepare_news` elige y resume las noticias de las 13 áreas con Claude, y `export_news` escribe este archivo. Con `SITE_PUSH=1` además hace commit y push, y GitHub Pages publica el cambio en uno o dos minutos. La página lo lee al abrirse, así que no hay que tocar el HTML.
+`data/noticias.json` lo genera cada madrugada la app del newsletter (`MetGeo-Newsletter`): `prepare_news` elige y resume las noticias de las 11 áreas con Claude, y `export_news` escribe este archivo. Con `SITE_PUSH=1` además hace commit y push, y GitHub Pages publica el cambio en uno o dos minutos. La página lo lee al abrirse, así que no hay que tocar el HTML.
 
 Cada nota aparece una sola vez y enlaza a su fuente original. La página indica que los resúmenes son de MetGeo con apoyo de inteligencia artificial y que el contenido pertenece a cada medio.
 
