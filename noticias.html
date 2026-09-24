@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias científicas · MetGeo Spa</title>
+<meta name="description" content="Las novedades científicas del día en 13 áreas, con enlace a cada fuente original. Recibe el newsletter matutino de MetGeo.">
+<link rel="icon" type="image/png" href="assets/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="index.html"><img src="assets/logo.png" alt="MetGeo Spa" width="190" height="49"></a>
+    <nav class="nav" aria-label="Principal">
+      <a href="index.html#servicios">Servicios</a>
+      <a href="monitor.html">Monitor</a>
+      <a class="nav-cta" href="noticias.html" aria-current="page">Noticias científicas</a>
+    </nav>
+  </div>
+  <div class="accent"></div>
+</header>
+
+<main>
+  <section class="hero hero-sm">
+    <div class="wrap">
+      <div class="hero-copy">
+        <p class="eyebrow">Noticias científicas</p>
+        <h1>Lo más relevante de la ciencia, cada día</h1>
+        <p class="lead">Las novedades del día en 13 áreas, elegidas y resumidas en español, con el enlace a cada nota original.</p>
+        <div class="btns" style="margin-top:24px">
+          <a class="btn btn-sky" href="#newsletter">Recibir mi newsletter</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" id="noticias">
+    <div class="wrap">
+      <div class="toolbar">
+        <h2 style="margin:0">Noticias por área</h2>
+        <span class="updated" id="updated">Cargando las noticias de hoy…</span>
+      </div>
+      <div class="rule"></div>
+      <ul class="chips" id="area-chips" aria-label="Filtrar por área"></ul>
+      <div id="areas"><p class="empty">Cargando…</p></div>
+      <noscript><p class="empty">Activa JavaScript para ver las noticias.</p></noscript>
+      <p class="credits">Los títulos y resúmenes son elaborados por MetGeo con apoyo de inteligencia artificial, a partir de las notas enlazadas. El contenido original pertenece a sus autores y medios: ScienceDaily, Phys.org, Nature, Robotitus y NASA Earth Observatory. Lee siempre la fuente antes de citar un dato.</p>
+    </div>
+  </section>
+
+  <section class="sec" id="newsletter">
+    <div class="wrap">
+      <div class="signup">
+        <div>
+          <p class="kicker">Newsletter MetGeo</p>
+          <h2>Tu newsletter, cada mañana en tu correo</h2>
+          <div class="rule"></div>
+          <p>Conecta tu cuenta de Google, indica tu ciudad y elige tus áreas científicas. Te enviamos un resumen personalizado antes de comenzar tu jornada.</p>
+          <div class="btns" style="margin-top:20px">
+            <a class="btn btn-solid" data-newsletter href="#newsletter">Recibir mi newsletter</a>
+          </div>
+          <p class="soon-note" data-newsletter-soon>El registro abre muy pronto. Vuelve a esta página en unos días.</p>
+          <p class="fine">Solo pedimos permiso de lectura de tu calendario. Nunca creamos, editamos ni borramos eventos, y puedes cancelar la suscripción desde cualquier correo que recibas.</p>
+        </div>
+        <ul class="includes" aria-label="Qué incluye el newsletter">
+          <li><b>Tu día</b><span>Los eventos de hoy de tu Google Calendar.</span></li>
+          <li><b>El tiempo hoy</b><span>Pronóstico cada tres horas para tu ciudad.</span></li>
+          <li><b>Ciencia</b><span>Las 5 noticias más relevantes de tus áreas.</span></li>
+          <li><b>País</b><span>Las 5 más relevantes de medios chilenos.</span></li>
+          <li><b>Economía</b><span>Las 3 más relevantes.</span></li>
+          <li><b>Mundo</b><span>Las 3 más relevantes.</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="plate"><img src="assets/logo.png" alt="MetGeo Spa" width="160" height="41"></div>
+    <div>
+      <p><strong>MetGeo Spa</strong> · Concepción, Chile</p>
+      <p>Noticias: ScienceDaily, Phys.org, Nature, Robotitus y NASA Earth Observatory. Cada nota enlaza a su fuente original.</p>
+    </div>
+  </div>
+</footer>
+<script src="assets/config.js"></script>
+<script src="assets/site.js"></script>
+<script src="assets/noticias.js"></script>
+</body>
+</html>

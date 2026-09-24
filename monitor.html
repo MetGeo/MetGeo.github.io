@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor meteorológico · MetGeo Spa</title>
+<meta name="description" content="Monitor meteorológico del Gran Concepción: estaciones locales frente a 7 modelos globales y un super-ensamble de 143 miembros.">
+<link rel="icon" type="image/png" href="assets/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="index.html"><img src="assets/logo.png" alt="MetGeo Spa" width="190" height="49"></a>
+    <nav class="nav" aria-label="Principal">
+      <a href="index.html#servicios">Servicios</a>
+      <a href="monitor.html" aria-current="page">Monitor</a>
+      <a class="nav-cta" href="noticias.html">Noticias científicas</a>
+    </nav>
+  </div>
+  <div class="accent"></div>
+</header>
+
+<main>
+  <section class="sec">
+    <div class="wrap">
+      <p class="kicker">Monitor</p>
+      <h2>MetGeo Concepción</h2>
+      <div class="rule"></div>
+      <p>Lo observado en las estaciones del Gran Concepción frente a lo que pronostican 7 modelos globales y un super-ensamble de 143 miembros, para lluvia, temperatura, humedad, viento, ráfagas y presión.</p>
+
+      <div class="frame" style="margin-top:26px">
+        <div class="frame-bar">
+          <span class="muted">Si el monitor no carga, puede estar despertando: espera unos segundos.</span>
+          <a id="monitor-link" href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener">Abrir a pantalla completa &#8599;</a>
+        </div>
+        <iframe id="monitor-frame" class="embed" title="Monitor meteorológico MetGeo Concepción" src="https://metgeo-concepcion.streamlit.app/?embed=true" loading="lazy" allow="fullscreen"></iframe>
+      </div>
+
+      <dl class="views">
+        <div><dt>Home</dt><dd>Las condiciones de ahora y lo que viene en 24 horas.</dd></div>
+        <div><dt>Comparar modelos</dt><dd>Los 7 modelos frente a lo observado, con sesgo, MAE y RMSE.</dd></div>
+        <div><dt>Lluvia</dt><dd>Mapa satelital, histograma horario y acumulado.</dd></div>
+        <div><dt>Meteograma</dt><dd>Las 6 variables sobre un mismo eje de tiempo.</dd></div>
+        <div><dt>Mapa de estaciones</dt><dd>La última medición de cada estación.</dd></div>
+      </dl>
+      <p class="fine">Observaciones preliminares, sin control de calidad. Es una herramienta de divulgación y no reemplaza los avisos de SENAPRED ni de la DMC.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="plate"><img src="assets/logo.png" alt="MetGeo Spa" width="160" height="41"></div>
+    <div>
+      <p><strong>MetGeo Spa</strong> · Concepción, Chile</p>
+      <p>Datos del monitor: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center y Open-Meteo. Imagen satelital de Esri World Imagery.</p>
+    </div>
+  </div>
+</footer>
+<script src="assets/config.js"></script>
+<script src="assets/site.js"></script>
+<script>
+(function () {
+  var base = (window.METGEO && window.METGEO.monitorUrl || "").replace(/\/$/, "");
+  if (!base) return;
+  document.getElementById("monitor-link").href = base + "/";
+  document.getElementById("monitor-frame").src = base + "/?embed=true";
+})();
+</script>
+</body>
+</html>
