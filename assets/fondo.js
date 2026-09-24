@@ -1,5 +1,5 @@
 // Fondos del sitio, dibujados por código (sin imágenes de terceros):
-//  - Portada: cordilleras con neblina y una red de puntos, al estilo del banner de LinkedIn de MetGeo.
+//  - Portada: cordilleras con neblina, al estilo del banner de LinkedIn de MetGeo.
 //  - Resto de la página: red de puntos interconectados que se mueven y siguen al cursor.
 (function () {
   var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -94,23 +94,6 @@
       }
     }
 
-    // Red de puntos blancos sobre el paisaje.
-    var pts = [], count = Math.round(Math.min(70, Math.max(24, w / 22)));
-    for (var p = 0; p < count; p++) pts.push([rand() * w, rand() * h, 1 + rand() * 1.6]);
-    ctx.lineWidth = 0.8;
-    for (var a = 0; a < pts.length; a++) {
-      for (var b = a + 1; b < pts.length; b++) {
-        var dx = pts[a][0] - pts[b][0], dy = pts[a][1] - pts[b][1], d = Math.sqrt(dx * dx + dy * dy);
-        if (d < 150) {
-          ctx.strokeStyle = "rgba(255, 255, 255, " + (0.45 * (1 - d / 150)).toFixed(3) + ")";
-          ctx.beginPath(); ctx.moveTo(pts[a][0], pts[a][1]); ctx.lineTo(pts[b][0], pts[b][1]); ctx.stroke();
-        }
-      }
-    }
-    for (var q = 0; q < pts.length; q++) {
-      ctx.fillStyle = "rgba(255, 255, 255, 0.85)";
-      ctx.beginPath(); ctx.arc(pts[q][0], pts[q][1], pts[q][2], 0, Math.PI * 2); ctx.fill();
-    }
   }
 
   var geos = Array.prototype.slice.call(document.querySelectorAll("canvas.geo"));
