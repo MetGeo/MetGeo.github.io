@@ -47,8 +47,15 @@ a { color: var(--link); }
 .accent { height: 4px; background: linear-gradient(90deg, #4E94C3 0%, #8FC3E6 50%, #4E94C3 100%); }
 
 /* Portada */
-.hero { color: #FFFFFF; background: linear-gradient(105deg, rgba(0, 27, 61, .95) 0%, rgba(0, 41, 91, .84) 52%, rgba(0, 41, 91, .52) 100%), url("caracol.jpg") center 62% / cover #00295B; }
-.hero .wrap { padding-block: 76px 64px; }
+.hero { position: relative; overflow: hidden; color: #FFFFFF; background: radial-gradient(120% 140% at 85% 20%, #0A3A73 0%, #00295B 38%, #001B3D 100%); }
+/* Mapa topográfico dibujado por assets/fondo.js; el velo de la izquierda protege la lectura del texto. */
+.hero .geo { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.hero::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0, 27, 61, .92) 0%, rgba(0, 27, 61, .55) 45%, rgba(0, 27, 61, 0) 75%); pointer-events: none; }
+.hero .wrap { position: relative; z-index: 1; padding-block: 76px 64px; }
+
+/* Red de puntos del fondo (assets/fondo.js): fija detrás de todo el contenido */
+.net { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
+main, .foot { position: relative; z-index: 1; }
 .hero-sm .wrap { padding-block: 52px 44px; }
 .hero-copy { max-width: 760px; }
 .eyebrow { margin: 0 0 14px; font: 600 12px var(--f-mono); letter-spacing: .14em; text-transform: uppercase; color: #8FC3E6; }
@@ -91,7 +98,7 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 34px) / 1.15 var(--f-head); 
 .pill-new { background: var(--new-bg); color: var(--new-ink); }
 .more { margin-top: auto; padding-top: 6px; font: 600 15px var(--f-head); color: var(--link); text-decoration: none; }
 .more:hover { text-decoration: underline; }
-.card-empty { background: transparent; border-style: dashed; box-shadow: none; }
+.card-empty { background: var(--page); border-style: dashed; box-shadow: none; }
 .card-empty h3 { color: var(--muted); }
 .soon { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 0; padding: 0; list-style: none; }
 .soon li { padding: 4px 11px; border: 1px solid var(--line); border-radius: 999px; font-size: 13.5px; color: var(--muted); }
