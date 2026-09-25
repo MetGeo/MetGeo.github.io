@@ -19,6 +19,24 @@
     return DIAS[d.getDay()] + " " + p[2] + " de " + MESES[p[1] - 1] + " de " + p[0];
   }
 
+  // Fecha de un instante en la hora de Chile, como "AAAA-MM-DD".
+  function chileDay(date) {
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Santiago", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
+  }
+
+  // «Publicada hoy, 24 de septiembre», «Publicada ayer, …» o «Publicada el 22 de septiembre de 2026».
+  function publishedLabel(iso) {
+    if (!iso) return null;
+    var when = new Date(iso);
+    if (isNaN(when)) return null;
+    var day = chileDay(when), p = day.split("-").map(Number);
+    var short = p[2] + " de " + MESES[p[1] - 1];
+    var now = new Date();
+    if (day === chileDay(now)) return "Publicada hoy, " + short;
+    if (day === chileDay(new Date(now.getTime() - 864e5))) return "Publicada ayer, " + short;
+    return "Publicada el " + short + " de " + p[0];
+  }
+
   function safeUrl(u) {
     return /^https?:\/\//i.test(u) ? u : null;
   }
@@ -43,6 +61,12 @@
       var li = el("li", "item");
       li.appendChild(el("h4", null, n.titulo));
       if (n.resumen) li.appendChild(el("p", null, n.resumen));
+      var label = publishedLabel(n.fecha);
+      if (label) {
+        var t = el("time", "fecha", label);
+        t.dateTime = n.fecha;
+        li.appendChild(t);
+      }
       var a = el("a", null, "Leer la nota original en " + n.fuente + " ↗");
       a.href = href;
       a.target = "_blank";
