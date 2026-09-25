@@ -15,7 +15,8 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 
 | Archivo | Qué es |
 |---|---|
-| `index.html` | Portada: paisaje de cordilleras, cifras del monitor, tarjetas de servicios y vista previa del monitor |
+| `index.html` | Portada (título «Consultora Geofísica: Ciencias de la Tierra y Análisis de Datos»), «Quiénes somos» (`#nosotros`, cuatro ejes: modelación numérica, pronóstico y monitoreo, análisis de datos y clima, consultoría e investigación), servicios y vista previa del monitor |
+| `equipo.html` | Equipo: una tarjeta `.member` por persona con iniciales, nombre, rol, descripción breve, especialidades y GitHub si lo tiene |
 | `monitor.html` | Descripción del monitor y enlace a la app en Streamlit |
 | `noticias.html` | Pestaña «Noticias científicas» y bloque de registro al newsletter (`#newsletter`) |
 | `assets/style.css` | Estilos de todo el sitio, con tokens de color y modo oscuro |
@@ -25,13 +26,14 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `assets/config.js` | `newsletterUrl` y `monitorUrl` |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
-Cada página repite la misma cabecera (placa blanca con logo, menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino. Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
+Cada página repite la misma cabecera (placa blanca con logo de 280 px, menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
 
 ## Diseño
 
 - **Tipografías (Google Fonts):** Montserrat 500/600/700 para títulos, botones y etiquetas; Source Sans 3 400/600/700 para el texto; `Courier New` para etiquetas técnicas (eyebrows, fechas, «kicker»).
 - **Colores (tokens en `:root` de `style.css`):** azul marino `#00295B`, azul profundo `#001B3D`, celeste `#4E94C3`, celeste claro `#8FC3E6`, niebla `#E8F1F9`, fondo `#EEF2F6`, texto `#20242A`, gris `#4B586A`, líneas `#D6E2EE`. El modo oscuro redefine los mismos tokens; los componentes usan siempre tokens, nunca colores sueltos.
-- **Menú:** «Servicios», «Monitor» y el botón destacado «Noticias científicas» (`.nav-cta`). En teléfono solo queda el botón.
+- **Menú:** «Quiénes somos», «Servicios», «Equipo», «Monitor», «Contacto» y el botón destacado «Noticias científicas» (`.nav-cta`). En teléfono solo queda el botón. Si cambia, cambiarlo en las cuatro páginas.
+- **Equipo:** las reseñas completas están en `metgeo_equipo/` (privado, en `.gitignore`); en `equipo.html` va solo un resumen de dos o tres líneas, con el mismo formato para todos, sin datos personales de contacto. Orden: por apellido.
 - **Portada (`.hero`):** fondo claro con el paisaje de `fondo.js`, velo claro a la izquierda para leer el texto, título y texto en azul marino. Botones: `.btn-sky` (azul sólido) y `.btn-ghost` (borde azul).
 - **Secciones:** `.kicker` en `Courier New` mayúsculas, `h2` en Montserrat, y bajo el título `.rule`: barra de 2 px con degradado azul marino a azul profundo.
 - **Tarjetas (`.card`):** fondo blanco, borde `--line`, radio 12 px y sombra suave. La de «Próximamente» usa borde punteado (`.card-empty`).
