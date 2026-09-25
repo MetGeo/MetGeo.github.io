@@ -1,6 +1,6 @@
 {
  "dia": "2026-09-25",
- "generado": "2026-09-25T14:35-03:00",
+ "generado": "2026-09-25T15:18-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -9,6 +9,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Sobrecalentamiento climático dejará daños duraderos incluso después de que bajen temperaturas",
@@ -39,6 +40,7 @@
    "fuentes": [
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Corriente atlántica clave muestra debilitamiento sostenido en dos décadas",
@@ -76,7 +78,15 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "noticias": []
+   "actualizada": "2026-09-24",
+   "noticias": [
+    {
+     "titulo": "Arrecife coralino considerado muerto hace 60 años está repleto de vida",
+     "resumen": "Tras 60 años de ser considerado probablemente muerto, científicos encontraron vivo un arrecife coralino profundo frente a Benín. Cámaras revelaron colonias de coral saludables con múltiples especies de peces a más de 50 metros de profundidad.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+     "fuente": "ScienceDaily"
+    }
+   ]
   },
   {
    "clave": "geologia",
@@ -85,6 +95,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Zona de subducción bajo Vancouver Island se desgarra progresivamente",
@@ -116,6 +127,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Erupción del supervolcán de Yellowstone estaría precedida de señales de alerta",
@@ -133,6 +145,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Volcán Anak Krakatau expulsó ceniza a 15 kilómetros de altura",
@@ -164,6 +177,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Científicos construyen el reloj atómico más preciso del mundo",
@@ -209,6 +223,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Confirman el planeta más joven conocido, con menos de un millón de años",
@@ -254,6 +269,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Desarrollan proceso para convertir plástico de desecho en combustibles",
@@ -299,6 +315,7 @@
     "Phys.org",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Capacidad de energías renovables alcanza niveles récord en 2025",
@@ -345,6 +362,7 @@
     "Robotitus",
     "ScienceDaily"
    ],
+   "actualizada": "2026-09-25",
    "noticias": [
     {
      "titulo": "Científicos crean computadora de ADN que realiza cálculos de 100 bits",

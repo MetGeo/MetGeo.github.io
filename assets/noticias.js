@@ -41,7 +41,7 @@
     return /^https?:\/\//i.test(u) ? u : null;
   }
 
-  function renderArea(area) {
+  function renderArea(area, today) {
     var sec = el("section", "area");
     sec.id = area.clave;
     sec.dataset.area = area.clave;
@@ -50,6 +50,11 @@
     head.appendChild(el("span", "area-src", "Fuentes: " + area.fuentes.join(", ")));
     sec.appendChild(head);
     sec.appendChild(el("div", "bar"));
+    // Un área sin novedades hoy conserva sus últimas noticias: se avisa desde cuándo son.
+    if (area.actualizada && area.actualizada !== today && area.noticias.length) {
+      var p = area.actualizada.split("-").map(Number);
+      sec.appendChild(el("p", "stale", "Sin novedades hoy · última actualización: " + p[2] + " de " + MESES[p[1] - 1]));
+    }
     if (!area.noticias.length) {
       sec.appendChild(el("p", "empty", "Hoy no hay novedades destacadas en esta área."));
       return sec;
@@ -113,7 +118,7 @@
       chipsEl.replaceChildren(chip("todas", "Todas", total));
       data.areas.forEach(function (a) {
         chipsEl.appendChild(chip(a.clave, a.nombre, a.noticias.length));
-        listEl.appendChild(renderArea(a));
+        listEl.appendChild(renderArea(a, data.dia));
       });
       var wanted = location.hash.slice(1);
       select(data.areas.some(function (a) { return a.clave === wanted; }) ? wanted : "todas");
