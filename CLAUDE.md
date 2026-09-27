@@ -26,7 +26,7 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `assets/config.js` | `newsletterUrl` y `monitorUrl` |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
-Cada página repite la misma cabecera (placa blanca con logo de 280 px, menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
+Cada página repite la misma cabecera (placa blanca con logo de 340 px (250 px en pantallas medianas y 200 px en teléfono; hasta 900 px el menú muestra solo el botón de noticias), menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
 
 ## Diseño
 

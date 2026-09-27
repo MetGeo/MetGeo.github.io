@@ -26,7 +26,7 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; scroll-padding-top: 110px; }
+html { scroll-behavior: smooth; scroll-padding-top: 125px; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 body { margin: 0; background: var(--page); color: var(--ink); font: 400 17px/1.6 var(--f-body); }
 img { max-width: 100%; }
@@ -37,10 +37,10 @@ a { color: var(--link); }
 /* Cabecera: placa blanca con el logo, como en el newsletter */
 .top { position: sticky; top: 0; z-index: 20; background: #FFFFFF; box-shadow: 0 1px 0 rgba(0, 27, 61, .08); }
 .top-in { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 12px; }
-.brand { display: block; line-height: 0; }
-.brand img { width: 280px; height: auto; display: block; }
+.brand { display: block; line-height: 0; flex: none; }
+.brand img { width: 340px; height: auto; display: block; }
 .nav { display: flex; align-items: center; gap: 4px; }
-.nav a { font: 600 14px var(--f-head); color: #00295B; text-decoration: none; padding: 9px 12px; border-radius: 8px; }
+.nav a { font: 600 14px var(--f-head); color: #00295B; text-decoration: none; padding: 9px 12px; border-radius: 8px; white-space: nowrap; }
 .nav a:hover, .nav a[aria-current="page"] { background: #E8F1F9; }
 .nav a.nav-cta { background: #00295B; color: #FFFFFF; margin-left: 6px; white-space: nowrap; }
 .nav a.nav-cta:hover, .nav a.nav-cta[aria-current="page"] { background: #001B3D; }
@@ -194,12 +194,19 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 34px) / 1.15 var(--f-head); 
 .foot a { color: #CFE0EF; }
 .foot strong { color: #FFFFFF; }
 
+/* Pantallas medianas: logo algo menor y menú compacto para que todo quepa en una fila. */
+@media (max-width: 1080px) {
+  .brand img { width: 250px; }
+  .nav { gap: 0; }
+  .nav a { padding: 8px 8px; font-size: 13px; }
+}
 @media (max-width: 900px) {
+  .nav a:not(.nav-cta) { display: none; }
   .split, .signup { grid-template-columns: minmax(0, 1fr); gap: 28px; }
 }
 @media (max-width: 760px) {
   .nav a:not(.nav-cta) { display: none; }
-  .brand img { width: 190px; }
+  .brand img { width: 200px; }
   .team { grid-template-columns: minmax(0, 1fr); }
   .nav a.nav-cta { padding: 8px 12px; font-size: 13px; }
   .hero .wrap { padding-block: 52px 44px; }
