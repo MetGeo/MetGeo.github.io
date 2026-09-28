@@ -24,6 +24,7 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `assets/noticias.js` | Lee `data/noticias.json` y dibuja las áreas, filtros, fechas y avisos |
 | `assets/site.js` | Activa o desactiva los botones `[data-newsletter]` según `config.js` |
 | `assets/config.js` | `newsletterUrl` y `monitorUrl` |
+| `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor; todas las páginas lo cargan como `icon` y `apple-touch-icon`. No usar `logo.png` como ícono: es alargado y se ve aplastado |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
 Cada página repite la misma cabecera (placa blanca con logo de 340 px (250 px en pantallas medianas y 200 px en teléfono; hasta 900 px el menú muestra solo el botón de noticias), menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
