@@ -45,7 +45,7 @@ Cada página repite la misma cabecera (placa blanca con logo de 420 px (290 px e
 
 `index.html#servicios` tiene dos bloques en grilla de dos columnas (`.cards.cards-2`):
 
-1. **Servicios de consultoría**, uno por ficha de `metgeo_servicios/` (PDF privados, en `.gitignore`): circulación costera y dispersión de efluentes, plataforma de datos y trazabilidad ambiental, monitoreo y pronóstico meteorológico, y clima, agua y riesgo climático. Cada `.card` lleva etiqueta, título, un párrafo y tres entregables en `.gets`. Si cambian las fichas, actualizar estas tarjetas a partir de ellas, con texto general (no dirigido a una industria en particular).
+1. **Servicios de consultoría**, uno por ficha de `metgeo_servicios/` (PDF privados, en `.gitignore`): «Modelación numérica» (ficha 1, circulación costera y dispersión de efluentes), «Análisis de datos y dashboards interactivos» (ficha 2), «Pronóstico meteorológico y monitoreo» (ficha 3) y «Consultoría y asesoría técnica» (ficha 4, clima, agua y riesgo climático). Los títulos son cortos y dicen qué hace MetGeo; el detalle va en el párrafo. Cada `.card` lleva etiqueta, título, un párrafo y tres entregables en `.gets`. Si cambian las fichas, actualizar estas tarjetas a partir de ellas, con texto general (no dirigido a una industria en particular).
 2. **De acceso libre** (`.sub-h`): el **monitor** (Streamlit, de Bruno Herrera) y las **noticias científicas con el newsletter**.
 
 Al agregar un servicio, sumar una `.card` en el bloque que corresponda y, si tiene página propia, una entrada en el menú de las cuatro páginas.
