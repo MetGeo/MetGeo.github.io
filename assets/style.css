@@ -38,7 +38,7 @@ a { color: var(--link); }
 .top { position: sticky; top: 0; z-index: 20; background: #FFFFFF; box-shadow: 0 1px 0 rgba(0, 27, 61, .08); }
 .top-in { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 12px; }
 .brand { display: block; line-height: 0; flex: none; }
-.brand img { width: 340px; height: auto; display: block; }
+.brand img { width: 420px; height: auto; display: block; }
 .nav { display: flex; align-items: center; gap: 4px; }
 .nav a { font: 600 14px var(--f-head); color: #00295B; text-decoration: none; padding: 9px 12px; border-radius: 8px; white-space: nowrap; }
 .nav a:hover, .nav a[aria-current="page"] { background: #E8F1F9; }
@@ -101,6 +101,10 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 34px) / 1.15 var(--f-head); 
 .more:hover { text-decoration: underline; }
 .card-empty { background: var(--page); border-style: dashed; box-shadow: none; }
 .card-empty h3 { color: var(--muted); }
+.cards-2 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); }
+.gets { margin: 0; padding-left: 20px; font-size: 15.5px; color: var(--muted); }
+.gets li + li { margin-top: 4px; }
+.sub-h { margin: 44px 0 0; font: 700 18px / 1.3 var(--f-head); color: var(--heading); }
 .soon { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 0; padding: 0; list-style: none; }
 .soon li { padding: 4px 11px; border: 1px solid var(--line); border-radius: 999px; font-size: 13.5px; color: var(--muted); }
 
@@ -196,7 +200,7 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 34px) / 1.15 var(--f-head); 
 
 /* Pantallas medianas: logo algo menor y menú compacto para que todo quepa en una fila. */
 @media (max-width: 1080px) {
-  .brand img { width: 250px; }
+  .brand img { width: 290px; }
   .nav { gap: 0; }
   .nav a { padding: 8px 8px; font-size: 13px; }
 }
@@ -206,7 +210,7 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 34px) / 1.15 var(--f-head); 
 }
 @media (max-width: 760px) {
   .nav a:not(.nav-cta) { display: none; }
-  .brand img { width: 200px; }
+  .brand img { width: 230px; }
   .team { grid-template-columns: minmax(0, 1fr); }
   .nav a.nav-cta { padding: 8px 12px; font-size: 13px; }
   .hero .wrap { padding-block: 52px 44px; }
@@ -214,4 +218,10 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 34px) / 1.15 var(--f-head); 
   .views div, .includes li { grid-template-columns: 1fr; gap: 2px; }
   .signup { padding: 22px; }
   .items { grid-template-columns: minmax(0, 1fr); }
+}
+/* Teléfonos angostos: logo y botón caben en una fila sin desplazamiento horizontal. */
+@media (max-width: 440px) {
+  .top-in { gap: 10px; }
+  .brand img { width: 190px; }
+  .nav a.nav-cta { margin-left: 0; padding: 8px 10px; font-size: 12.5px; }
 }

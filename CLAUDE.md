@@ -4,7 +4,7 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 
 ## Reglas que no se rompen
 
-- **Subir solo lo que cambiaste.** Antes de cada commit, `git status` y `git add <archivo>` uno por uno. Nunca `git add -A` ni `git add .`: en esta carpeta hay archivos privados que no se publican (por ejemplo `metgeo_equipo/`, excluido en `.gitignore`). El repositorio es **público**.
+- **Subir solo lo que cambiaste.** Antes de cada commit, `git status` y `git add <archivo>` uno por uno. Nunca `git add -A` ni `git add .`: en esta carpeta hay archivos privados que no se publican (`metgeo_equipo/` y `metgeo_servicios/`, excluidos en `.gitignore`). El repositorio es **público**.
 - **No incrustar el monitor.** Streamlit Community Cloud queda en blanco dentro de un `<iframe>` de otro dominio (comprobado en Chrome). `monitor.html` muestra una vista previa (`assets/monitor.png`) y abre el monitor en una pestaña nueva.
 - **Sin imágenes de terceros.** Los fondos se dibujan con código en `assets/fondo.js`. No usar fotos de bancos ni imágenes con derechos.
 - **Texto siempre como texto.** El contenido de `data/noticias.json` viene de fuentes externas: se inserta con `textContent`, nunca con `innerHTML`, y los enlaces se aceptan solo si empiezan con `http://` o `https://`.
@@ -27,7 +27,7 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor; todas las páginas lo cargan como `icon` y `apple-touch-icon`. No usar `logo.png` como ícono: es alargado y se ve aplastado |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
-Cada página repite la misma cabecera (placa blanca con logo de 340 px (250 px en pantallas medianas y 200 px en teléfono; hasta 900 px el menú muestra solo el botón de noticias), menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
+Cada página repite la misma cabecera (placa blanca con logo de 420 px (290 px en pantallas medianas, 230 px en teléfono y 190 px bajo 440 px; hasta 900 px el menú muestra solo el botón de noticias), menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
 
 ## Diseño
 
@@ -43,7 +43,12 @@ Cada página repite la misma cabecera (placa blanca con logo de 340 px (250 px e
 
 ## Servicios que muestra
 
-Hoy: el **monitor** (Streamlit, de Bruno Herrera) y las **noticias científicas con el newsletter**. «Próximamente»: consultoría, asesoría y divulgación científica. Al agregar un servicio, sumar una `.card` en `index.html#servicios` y, si tiene página propia, una entrada en el menú de las tres páginas.
+`index.html#servicios` tiene dos bloques en grilla de dos columnas (`.cards.cards-2`):
+
+1. **Servicios de consultoría**, uno por ficha de `metgeo_servicios/` (PDF privados, en `.gitignore`): circulación costera y dispersión de efluentes, plataforma de datos y trazabilidad ambiental, monitoreo y pronóstico meteorológico, y clima, agua y riesgo climático. Cada `.card` lleva etiqueta, título, un párrafo y tres entregables en `.gets`. Si cambian las fichas, actualizar estas tarjetas a partir de ellas, con texto general (no dirigido a una industria en particular).
+2. **De acceso libre** (`.sub-h`): el **monitor** (Streamlit, de Bruno Herrera) y las **noticias científicas con el newsletter**.
+
+Al agregar un servicio, sumar una `.card` en el bloque que corresponda y, si tiene página propia, una entrada en el menú de las cuatro páginas.
 
 ## Probar y publicar
 
