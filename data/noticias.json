@@ -1,6 +1,6 @@
 {
- "dia": "2026-09-28",
- "generado": "2026-09-28T16:02-03:00",
+ "dia": "2026-09-29",
+ "generado": "2026-09-29T05:32-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -9,28 +9,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Agujero de ozono antártico alcanza su segunda mayor extensión en 20 años",
-     "resumen": "El agujero de ozono antártico cubrió más de 27 millones de kilómetros cuadrados en septiembre, la segunda área más grande jamás observada para esta época del año.",
+     "titulo": "Agujero de ozono antártico alcanzó su mayor extensión en veinte años durante septiembre",
+     "resumen": "El área del agujero de ozono antártico alcanzó más de 27 millones de kilómetros cuadrados en septiembre, siendo la segunda mayor área observada para esta época del año.",
      "enlace": "https://phys.org/news/2026-09-september-ozone-hole-biggest-years.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-25T12:40+00:00"
     },
     {
-     "titulo": "Ecosistemas áridos muestran dinámicas cada vez más inestables",
-     "resumen": "Los datos satelitales revelan que los ecosistemas de secanos, que cubren el 40% de la tierra y sustentan 2 mil millones de personas, presentan ciclos crecientes de inestabilidad ambiental.",
+     "titulo": "Ecosistemas áridos muestran dinámica inestable de expansión y contracción acelerada",
+     "resumen": "Según un nuevo estudio publicado en Nature Climate Change, los ecosistemas áridos que cubren el 40 por ciento de la superficie terrestre se vuelven cada vez más inestables con ciclos extremos de verdor y decaimiento.",
      "enlace": "https://phys.org/news/2026-09-satellite-expose-escalating-boom-dynamic.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-25T14:00+00:00"
     },
     {
-     "titulo": "Datos de radar antártico mejoran predicciones de ríos atmosféricos",
-     "resumen": "La incorporación de observaciones radar de la Antártida fortalece los pronósticos meteorológicos del Hemisferio Sur, históricamente menos precisos por carencia de datos en esa región.",
-     "enlace": "https://phys.org/news/2026-09-antarctic-radar-southern-hemisphere-atmospheric.html",
+     "titulo": "Rebasar objetivos climáticos dejaría daños permanentes incluso después de bajar temperaturas",
+     "resumen": "Investigación liderada por Concordia publicada en Communications Earth & Environment muestra que retornar temperaturas globales a un objetivo climático no revierte necesariamente los daños causados por haberlo excedido.",
+     "enlace": "https://phys.org/news/2026-09-climate-overshoot-impacts-global-temperatures.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-28T07:00+00:00"
+     "fecha": "2026-09-25T14:20+00:00"
     }
    ]
   },
@@ -40,28 +40,28 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Corriente del Atlántico se debilita y podría alterar patrones climáticos globales",
-     "resumen": "Evidencia observacional confirma que la Circulación Meridional del Atlántico se ha debilitado durante casi dos décadas. El fenómeno podría remodelar patrones de precipitación, tormentas e inviernos en escala global.",
+     "titulo": "Circulación oceánica del Atlántico se debilita con consecuencias meteorológicas globales",
+     "resumen": "Evidencia observacional muestra que la Circulación Meridional del Atlántico se ha debilitado durante casi dos décadas. El fenómeno podría rediseñar patrones climáticos, precipitaciones, tormentas e inviernos a escala global.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922222558.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-23T05:09+00:00"
     },
     {
-     "titulo": "Investigadores identifican cuatro señales de intensificación rápida de huracanes",
-     "resumen": "Análisis de tres décadas de datos de cazadores de huracanes revela características que permiten predecir cuándo un ciclón tropical podría fortalecerse. Los hallazgos facilitarían pronósticos más precisos sobre tormentas en desarrollo.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-20T04:29+00:00"
-    },
-    {
-     "titulo": "Estación de fusión de hielo ártico se prolongó cuarenta días desde 1979",
-     "resumen": "La temporada de fusión del hielo marino ártico es aproximadamente 40 días más larga que en 1979, pero su expansión se estabilizó inesperadamente hacia 2010. Cambios en nubosidad y hielo más delgado podrían explicar el fenómeno.",
+     "titulo": "Temporada de fusión del hielo ártico se alargó 40 días desde 1979 con desaceleración reciente",
+     "resumen": "La estación de fusión del hielo ártico es aproximadamente 40 días más larga que en 1979, pero su expansión se estabilizó alrededor de 2010. Cambios en nubes e hielo más delgado podrían explicar esta pausa.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922005658.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-23T11:39+00:00"
+    },
+    {
+     "titulo": "Investigadores identifican cuatro señales de intensificación rápida en huracanes",
+     "resumen": "Análisis de tres décadas de datos de vuelos de reconocimiento revelan cuatro características que permiten a huracanes tilted fortalecer su circulación e intensificarse. Estos hallazgos mejorarían las predicciones de tormentas aparentemente desorganizadas.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-20T04:29+00:00"
     }
    ]
   },
@@ -71,11 +71,11 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Descubrimiento de nueva especie de pingüino gentú en islas remotas del Atlántico Sur",
-     "resumen": "Evidencia genética reveló una especie previamente desconocida de pingüino gentú en las islas Kerguelen y mostró que los gentús comprenden cuatro especies distintas. El hallazgo subraya amenazas crecientes por océanos más cálidos para poblaciones insulares.",
+     "titulo": "Descubren primera especie nueva de pingüino en más de cien años mediante análisis genético",
+     "resumen": "Evidencia genética reveló una especie desconocida de pingüino papúa en las islas Kerguelen remotas y mostró que existen cuatro especies distintas. El hallazgo subraya una amenaza creciente, ya que océanos más cálidos podrían dejar a varias poblaciones insulares en riesgo.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-22T03:11+00:00"
@@ -89,18 +89,18 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Firma química de 2.000 millones de años podría haber sido reinterpretada",
-     "resumen": "Una famosa firma química de 2.000 millones de años, previamente considerada como registro de cambio global en el ciclo de carbono terrestre, pudo haber sido producida por magma local, hidrocarburos y microbios comedores de metano. El hallazgo cuestiona interpretaciones previas sobre la historia del carbono de la Tierra.",
+     "titulo": "Reinterpretación de firma química de 2 mil millones de años cuestiona cambio global del carbono",
+     "resumen": "Una famosa firma química de 2 mil millones de años, considerada registro de cambios masivos en el ciclo del carbono terrestre, pudo haber sido producida por magma local, hidrocarburos y microbios consumidores de metano. El hallazgo plantea nuevas interrogantes sobre la historia del carbono terrestre.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-26T14:38+00:00"
     },
     {
-     "titulo": "Cráter de impacto de 390 millones de años descubierto en Quebec",
-     "resumen": "Un astrónomo aficionado halló accidentalmente un antiguo cráter de impacto masivo en mapas satelitales de Quebec. Los conos de fractura confirmaron que la estructura de 25 kilómetros de ancho se formó hace aproximadamente 390 millones de años.",
+     "titulo": "Astrónomo aficionado descubre cráter de impacto de 390 millones de años en Quebec",
+     "resumen": "Una estructura circular de 25 kilómetros de ancho identificada accidentalmente en mapas satelitales fue confirmada como cráter de impacto antiguo mediante conos de fractura. El impacto ocurrió hace aproximadamente 390 millones de años.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-22T10:43+00:00"
@@ -114,35 +114,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Zona de subducción bajo la isla de Vancouver se está desgarrando gradualmente",
-     "resumen": "Científicos capturaron una zona de subducción frente a la isla de Vancouver en proceso de desgarramiento, revelando que estos sistemas tectónicos masivos pueden desintegrarse gradualmente en lugar de colapsar completamente. El hallazgo ayuda a explicar fragmentos de placas antiguas y actividad volcánica.",
+     "titulo": "Zona de subducción frente a Vancouver Island se está desgarrando",
+     "resumen": "Científicos capturaron una zona de subducción en proceso de desgarrarse, revelando que estos sistemas tectónicos masivos pueden colapsar gradualmente en lugar de hacerlo de una sola vez. El descubrimiento ayuda a explicar fragmentos de placas antiguas y actividad volcánica.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-25T12:20+00:00"
     },
     {
-     "titulo": "Dos grandes fallas de la costa oeste podrían rupturarse en sucesión rápida",
-     "resumen": "La zona de subducción de Cascadia y la falla de San Andreas norte pueden rupturarse ocasionalmente en sucesión rápida, según evidencia preservada en 3100 años de sedimentos oceánicos. Los investigadores identificaron capas de sedimento inusual sugiriendo que terremotos en ambos sistemas han ocurrido juntos.",
+     "titulo": "Fallas sísmicas del oeste de Norteamérica podrían rupturarse en sucesión rápida",
+     "resumen": "La zona de subducción de Cascadia y la falla de San Andreas septentrional pueden rupturarse en rápida sucesión según evidencia en 3.100 años de sedimentos oceánicos. Investigadores identificaron capas de sedimento inusual que sugieren terremotos simultáneos en ambos sistemas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922222730.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-24T01:07+00:00"
     },
     {
-     "titulo": "Erupción del supervolcán de Yellowstone sería precedida por signos de alerta",
-     "resumen": "Una supererupción de Yellowstone comenzaría con semanas de signos cada vez más alarmantes como enjambres sísmicos migrantes, levantamiento rápido del terreno, cambios en géiseres y aumento de gases volcánicos. En el peor escenario, esas señales podrían culminar en consecuencias catastróficas.",
+     "titulo": "Supererupción de Yellowstone estaría precedida por señales de advertencia progresivas",
+     "resumen": "Una supererupción del volcán Yellowstone comenzaría con semanas de signos de alerta como enjambres sísmicos migratorios, levantamiento rápido del terreno, cambios en géiseres y aumento de gases volcánicos. En el peor escenario, estas señales podrían culminar en erupción catastrófica.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-22T08:32+00:00"
-    },
-    {
-     "titulo": "Cristales volcánicos permiten rastrear el viaje de magma hacia la superficie terrestre",
-     "resumen": "El magma en volcanes es una mezcla compleja de roca fundida y cristales minerales sólidos. El estudio de estos cristales actúa como una caja negra para entender mejor cómo el magma viaja desde las profundidades de la Tierra hacia la superficie durante erupciones volcánicas.",
-     "enlace": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-27T19:00+00:00"
     }
    ]
   },
@@ -153,28 +146,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Reconstruyen erupción volcánica submarina de Tonga de 2022 y su rol en tsunami",
-     "resumen": "Científicos estudiaron la erupción y colapso del volcán submarino en Tonga en 2022, uno de los eventos volcánicos más potentes de este siglo. El evento causó un tsunami devastador que mató a cuatro personas y dañó cables de telecomunicaciones submarinos.",
+     "titulo": "Reconstruyen erupción volcánica subacuática de Tonga para estudiar su rol en tsunami",
+     "resumen": "Científicos reconstructyeron la erupción de 2022 de un volcán submarino en Tonga, uno de los eventos volcánicos más poderosos del siglo. El evento causó un tsunami devastador que mató a cuatro personas y dañó cables de telecomunicaciones submarinos.",
      "enlace": "https://phys.org/news/2026-09-scientists-reconstruct-century-explosive-volcanic.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-24T16:10+00:00"
     },
     {
-     "titulo": "Datos de satélite revelan movimiento de magma bajo volcanes de Etiopía",
-     "resumen": "Un estudio utilizó radar satelital para examinar la erupción de noviembre de 2025 en Etiopía, midiendo cambios en el terreno que indican dónde se almacena magma y cómo viaja bajo los volcanes.",
+     "titulo": "Imágenes satelitales revelan movimiento de magma bajo volcanes de Etiopia",
+     "resumen": "Un estudio utilizó radar satelital para examinar la erupción de noviembre de 2025 en Etiopia. El análisis permite rastrear cambios en el terreno que indican dónde se almacena el magma y cómo se desplaza bajo los volcanes.",
      "enlace": "https://phys.org/news/2026-09-combined-satellite-views-clues-magma.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-23T23:00+00:00"
     },
     {
-     "titulo": "Erupción de Pompeya calibra métodos de datación volcánica a nivel de décadas",
-     "resumen": "El relato de Plinio el Joven sobre la erupción del Vesubio hace 2.000 años proporciona suficiente detalle para que los científicos caligren métodos de datación de eventos volcánicos con precisión de décadas.",
-     "enlace": "https://phys.org/news/2026-09-pompeii-destruction-calibrate-volcanic-dating.html",
+     "titulo": "Cristales volcánicos revelan información sobre el viaje del magma hacia la superficie",
+     "resumen": "Investigadores estudian los cristales minerales sólidos en el magma para comprender mejor cómo funciona la mezcla de roca fundida bajo los volcanes. Los cristales actúan como registradores del viaje del magma hacia la superficie terrestre.",
+     "enlace": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-25T18:00+00:00"
+     "fecha": "2026-09-27T19:00+00:00"
     }
    ]
   },
@@ -185,42 +178,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Simulador cuántico recrea proceso de formación de partículas del universo temprano",
-     "resumen": "Científicos utilizaron un simulador cuántico de 13 iones para recrear un proceso de formación de partículas vinculado a la física extrema del universo primitivo. El avance sugiere que las computadoras cuánticas podrían ayudar a investigar cómo se formó y evolucionó la materia después del Big Bang.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-26T13:47+00:00"
-    },
-    {
-     "titulo": "Entrelazamiento cuántico de bosones Z confirmado en colisiones del Gran Colisionador de Hadrones",
-     "resumen": "Físicos detectaron evidencia sólida de que bosones Z pesados y efímeros pueden entrelazarse cuánticamente durante desintegraciones de bosones de Higgs en el LHC del CERN. El resultado confirma la acción fantasmal a distancia de Einstein en condiciones extremas sin precedentes.",
+     "titulo": "Entrelazamiento cuántico de bosones Z confirmado en el Gran Colisionador de Hadrones",
+     "resumen": "Físicos detectaron evidencia sólida de que bosones Z pesados pueden entrelazarse cuánticamente durante desintegraciones de bosones de Higgs en el LHC del CERN, demostrando que la \"acción fantasmal\" de Einstein persiste bajo condiciones extremas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-20T05:16+00:00"
     },
     {
-     "titulo": "Partículas cuánticas no abelianas demuestran capacidad para computación cuántica universal",
-     "resumen": "Investigadores probaron que anyones no abelianos pueden realizar el rango completo de operaciones necesarias para computación cuántica universal. Usando 54 qubits en el procesador H2 de Quantinuum, combinaron trenzado y fusión para desbloquear capacidades previamente inalcanzables.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+     "titulo": "Simulador cuántico recrea proceso de formación de materia del universo primordial",
+     "resumen": "Científicos utilizaron un simulador cuántico de 13 iones para recrear un proceso de formación de partículas vinculado a la física extrema del universo temprano, sugiriendo que las computadoras cuánticas podrían investigar cómo se formó la materia tras el Big Bang.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-09-25T12:45+00:00"
+     "fecha": "2026-09-26T13:47+00:00"
     },
     {
-     "titulo": "Científicos observan por primera vez saltos cuánticos en tiempo real de ondas de sonido",
-     "resumen": "Investigadores de Stanford registraron los primeros saltos cuánticos en tiempo real de sonido, observando fonones individuales desaparecer abruptamente de un estado de energía a otro. El avance podría abrir nuevos caminos para computación cuántica, corrección de errores y sensores biológicos ultrasensibles.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-22T13:17+00:00"
+     "titulo": "Científicos construyen el reloj atómico más preciso del mundo",
+     "resumen": "Investigadores del Centro de Tecnologías Cuánticas de Singapur lograron un reloj atómico con precisión récord, publicado en Nature el 23 de septiembre, capaz de medir intervalos de tiempo extraordinariamente pequeños.",
+     "enlace": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-23T20:20+00:00"
     },
     {
-     "titulo": "CERN inicia reemplazo de imanes del Gran Colisionador de Hadrones en actualización de alta luminosidad",
-     "resumen": "El CERN comenzó a reemplazar algunos de los imanes más importantes del LHC con superconductores que producirán campos aproximadamente 40% más fuertes. Esto permitirá comprimir más estrechamente los haces de partículas antes de que colisionen.",
+     "titulo": "CERN inicia actualización del Gran Colisionador sustituyendo imanes superconductores",
+     "resumen": "El CERN comenzó a reemplazar imanes críticos del LHC como parte de la actualización de Alta Luminosidad, con nuevos imanes superconductores que producirán campos 40 por ciento más fuertes para colisiones más precisas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-25T13:01+00:00"
+    },
+    {
+     "titulo": "Medición de la constante gravitacional universal sigue presentando discrepancias de décadas",
+     "resumen": "Un experimento del NIST de diez años produjo una nueva medición de la constante gravitacional que difiere inesperadamente de otro resultado importante, profundizando un acertijo físico de 225 años.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-20T10:30+00:00"
     }
    ]
   },
@@ -231,42 +224,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "El Telescopio James Webb revela que la formación planetaria es una carrera contra el tiempo",
-     "resumen": "El JWST ha mostrado que los sistemas planetarios jóvenes pierden su gas para formar planetas a través de jets, vientos moleculares y expulsiones radiativas. A medida que los discos envejecen y desaparecen, los planetas gigantes tienen una ventana cada vez más pequeña para construir atmósferas masivas.",
+     "titulo": "Experimento CHIME detecta hidrógeno distante para investigar energía oscura",
+     "resumen": "El Canadian Hydrogen Intensity Mapping Experiment demostró por primera vez que puede detectar el débil brillo del gas de hidrógeno del pasado profundo del universo utilizando solo sus propios datos, abriendo nuevas formas de investigación cosmológica.",
+     "enlace": "https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-28T23:00+00:00"
+    },
+    {
+     "titulo": "James Webb revela que la formación planetaria es una carrera contra el tiempo",
+     "resumen": "El telescopio espacial identificó que los sistemas planetarios jóvenes pierden su gas mediante jets potentes, vientos moleculares y flujos impulsados por radiación, lo que crea una ventana cada vez menor para que los gigantes gaseosos construyan masivas atmósferas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260925093158.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-28T12:02+00:00"
     },
     {
-     "titulo": "Astrónomos descubren una galaxia de radio con evidencia de cuatro estallidos de jets separados",
-     "resumen": "Usando el Telescopio de Ondas Métricas Gigantes mejorado, astrónomos identificaron lo que puede ser el primer ejemplo de una nueva clase de galaxia de radio, cuyo agujero negro central lanzó jets poderosos en cuatro ocasiones diferentes.",
+     "titulo": "Astrónomos descubren galaxia de radio con cuatro eventos de eyecciones de jets",
+     "resumen": "Mediante observaciones de alta resolución del Giant Metrewave Radio Telescope mejorado, se identificó lo que podría ser el primer ejemplo de una nueva clase de galaxia de radio cuyo agujero negro central lanzó jets potentes en cuatro ocasiones separadas.",
      "enlace": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-27T14:20+00:00"
     },
     {
-     "titulo": "Una enana blanca sin disco detectable produce una onda de choque que no debería existir",
-     "resumen": "Una enana blanca muerta ha generado una onda de choque poderosa que aparentemente ha persistido durante al menos 1.000 años. Su campo magnético puede ser parcialmente responsable, pero astrónomos sugieren que un desconocido 'motor misterioso' también podría estar actuando.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-25T03:19+00:00"
-    },
-    {
      "titulo": "Astrónomos detectan por primera vez señales de radio provenientes de un exoplaneta",
-     "resumen": "Por primera vez, científicos han detectado señales de radio procedentes de un exoplaneta, abriendo nuevas posibilidades para estudiar y comprender estos mundos distantes que orbitan estrellas lejanas.",
+     "resumen": "Los científicos lograron la primera detección de señales de radio originarias de un exoplaneta en órbita alrededor de una estrella distante, marcando un hito en el estudio de mundos más allá del sistema solar.",
      "enlace": "https://phys.org/news/2026-09-astronomers-radio-exoplanet.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-22T16:40+00:00"
     },
     {
-     "titulo": "El primer microblazar de la Vía Láctea podría producir las partículas más rápidas de la galaxia",
-     "resumen": "Un equipo internacional de astrónomos descubrió el primer 'microblazar' en la Vía Láctea, un sistema estelar compuesto por una estrella masiva y un agujero negro con un jet dirigido hacia la Tierra.",
-     "enlace": "https://phys.org/news/2026-09-milky-microblazar-fastest-particles-galaxy.html",
+     "titulo": "James Webb mide el entorno donde se formaron los primeros agujeros negros supermasivos",
+     "resumen": "El telescopio espacial detectó una abundancia inesperada de galaxias masivas con agujeros negros supermasivos menos de mil millones de años después del Big Bang, desafiando los modelos actuales de formación.",
+     "enlace": "https://phys.org/news/2026-09-environment-supermassive-black-holes.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-22T15:40+00:00"
+     "fecha": "2026-09-21T13:40+00:00"
     }
    ]
   },
@@ -277,42 +270,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Químicos utilizan inteligencia artificial para acelerar el estudio de reacciones químicas",
-     "resumen": "Investigadores de la Universidad de Tokio desarrollaron un método que utiliza inteligencia artificial para extraer información oculta sobre la velocidad de las reacciones químicas, eliminando la necesidad de experimentos laboriosos que rastrean reacciones en el tiempo.",
-     "enlace": "https://phys.org/news/2026-09-chemists-harness-ai-uncover-fast.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-28T16:00+00:00"
-    },
-    {
-     "titulo": "Nueva forma de boro flexible aumenta su conductividad eléctrica 10 millones de veces",
-     "resumen": "Se identificó un nuevo alótropo de boro con propiedades estructurales únicas que presenta una conductividad eléctrica significativamente superior a las formas conocidas del elemento.",
-     "enlace": "https://phys.org/news/2026-09-flexible-boron-million-electrically.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-25T13:20+00:00"
-    },
-    {
-     "titulo": "Científicos convierten plástico de polietileno en combustibles mediante sales fundidas",
-     "resumen": "Investigadores del Laboratorio Nacional de Oak Ridge desarrollaron un proceso que utiliza sales fundidas de aluminio para convertir plástico común como bolsas de compras en gasolina y combustible similar al diésel.",
+     "titulo": "Desarrollan proceso para convertir plástico en combustible mediante sales fundidas",
+     "resumen": "Científicos del Laboratorio Nacional Oak Ridge crearon un método simple que transforma polietileno en gasolina y diésel utilizando sales de aluminio fundidas inexpensivas. El avance permite reutilizar plásticos comunes como bolsas de compra en combustibles útiles.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-21T13:08+00:00"
     },
     {
-     "titulo": "Inteligencia artificial predice posiciones de átomos de hidrógeno en moléculas similares a fármacos",
-     "resumen": "Investigadores de la Universidad de Nueva York entrenaron un modelo de inteligencia artificial que aprende patrones químicos de estabilidad y predice con precisión dónde deben posicionarse los átomos de hidrógeno en moléculas tipo fármaco.",
-     "enlace": "https://phys.org/news/2026-09-ai-scans-million-compounds-hours.html",
+     "titulo": "Catalizador resistente al agua habilita síntesis de enlaces de carbono en células vivas",
+     "resumen": "Investigadores desarrollaron un catalizador de rutenio estable en agua para la metátesis de olefinas, reacción fundamental en química orgánica para la síntesis de fármacos y materiales. El avance supera limitaciones previas de catalizado en ambientes biológicos.",
+     "enlace": "https://phys.org/news/2026-09-stable-catalyst-carbon-bond-chemistry.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-23T09:00+00:00"
+     "fecha": "2026-09-28T21:20+00:00"
     },
     {
-     "titulo": "Disolvente centenario permite síntesis eficiente de enlaces amida en química orgánica",
-     "resumen": "Se demostró que un disolvente antiguo puede facilitar la síntesis eficiente de enlaces amida, esenciales en biología, medicina y química de materiales, incluyendo proteínas y polímeros.",
-     "enlace": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
+     "titulo": "Nanopartículas ultrabrillantes detectan y distinguen moléculas químicas casi idénticas",
+     "resumen": "Científicos crearon nanopartículas que detectan cantidades mínimas de químicos y diferencian entre moléculas similares. La tecnología podría facilitar la detección de impurezas en drogas y contaminantes ambientales con métodos más económicos.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-20T11:35+00:00"
+    },
+    {
+     "titulo": "Membrana de paladio sintetiza amoníaco desde agua con reducción de emisiones",
+     "resumen": "Un equipo de investigadores surcoreano desarrolló una membrana que transporta hidrógeno selectivamente para síntesis amigable de amoníaco. El proceso reduce significativamente las emisiones de carbono en la producción industrial de este químico.",
+     "enlace": "https://phys.org/news/2026-09-hydrogen-stays-palladium-membrane-enables.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-25T20:00+00:00"
+     "fecha": "2026-09-24T21:40+00:00"
+    },
+    {
+     "titulo": "Proceso acuoso separa circonio y hafnio con eficiencia cinco veces superior",
+     "resumen": "Científicos de la Universidad Estatal de Oregón patentaron un método más eficiente y ambientalmente amigable para separar estos metales críticos para la industria semiconductora y energía atómica. La técnica mejora significativamente el proceso convencional.",
+     "enlace": "https://phys.org/news/2026-09-based-zirconium-hafnium-fivefold-higher.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-22T11:40+00:00"
     }
    ]
   },
@@ -323,42 +316,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Capacidad global de energías renovables alcanzó niveles récord en 2025",
-     "resumen": "La capacidad de energía renovable creció a niveles récord el año pasado según un informe de la ONU, demostrando que las fuerzas del mercado hacen irreversible la transición hacia energía limpia.",
+     "titulo": "Capacidad de energías renovables alcanza récord mundial en 2025",
+     "resumen": "La capacidad global de energía renovable creció a niveles récord el año pasado, según un informe respaldado por el jefe de clima de la ONU como evidencia de que las fuerzas del mercado hacen irreversible la transición hacia energía limpia.",
      "enlace": "https://techxplore.com/news/2026-09-renewables-world-faster.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-21T16:40+00:00"
     },
     {
-     "titulo": "Células solares de perovskita alcanzan eficiencia del 30,1 por ciento",
-     "resumen": "Investigadores lograron mejorar la eficiencia de células solares de tres capas de perovskita a 30,1 por ciento mediante películas más uniformes, demostrando potencial de estos materiales fotovoltaicos.",
+     "titulo": "Celdas solares de perovskita alcanzan eficiencia de 30,1 por ciento",
+     "resumen": "Investigadores lograron aumentar la eficiencia de celdas solares de tres capas de perovskita a 30,1 por ciento mediante películas más lisas, destacando el potencial de estos materiales fotovoltaicos frente a las celdas de silicio convencionales.",
      "enlace": "https://techxplore.com/news/2026-09-smoother-perovskite-layer-solar-cell.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-26T13:40+00:00"
     },
     {
-     "titulo": "Experimentos en túnel de viento presurizado mejoran generación de energía eólica",
-     "resumen": "Nuevas metodologías de prueba en túneles de viento presurizados permiten optimizar el diseño de turbinas eólicas y aumentar la potencia generada en granjas existentes.",
+     "titulo": "Túneles de viento presurizados mejoran generación de potencia en granjas eólicas",
+     "resumen": "Experimentos en túneles de viento presurizados podrían ayudar a diseñar nuevas turbinas eólicas y optimizar el rendimiento de las existentes al permitir pruebas controladas de nuevos enfoques.",
      "enlace": "https://techxplore.com/news/2026-09-pressurized-tunnel-farms-generate-power.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-28T19:00+00:00"
     },
     {
-     "titulo": "Imperfecciones de carbono reemplazan metales escasos en producción de hidrógeno limpio",
-     "resumen": "Investigadores desarrollaron métodos para producir hidrógeno limpio usando imperfecciones de carbono en lugar de metales escasos como platino, reduciendo costos de producción.",
+     "titulo": "Almacenamiento en baterías de Bulgaria compensa impacto de sequía en plantas de energía",
+     "resumen": "Bulgaria se benefició de inversiones en capacidad de almacenamiento de baterías durante una sequía que afectó el sector energético de Europa Oriental, demostrando la importancia del almacenamiento para la estabilidad de sistemas con energía solar.",
+     "enlace": "https://techxplore.com/news/2026-09-bulgaria-battery-boom-pays-drought.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-24T09:00+00:00"
+    },
+    {
+     "titulo": "Imperfecciones de carbono podrían reemplazar metales escasos en producción de hidrógeno limpio",
+     "resumen": "Investigadores desarrollan nuevas tecnologías que utilizan carbono con imperfecciones para reemplazar metales escasos como el platino en la producción de hidrógeno mediante división de agua, reduciendo costos.",
      "enlace": "https://techxplore.com/news/2026-09-carbon-imperfections-scarce-metals-future.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-21T15:40+00:00"
-    },
-    {
-     "titulo": "Plantas de energía flotantes ofrecen fuente confiable a comunidades costeras",
-     "resumen": "Instalaciones de energía renovable flotante presentan soluciones innovadoras para comunidades costeras, aprovechando recursos solares y eólicos con menor impacto territorial.",
-     "enlace": "https://techxplore.com/news/2026-09-power-coastal-communities-reliable-energy.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-28T14:00+00:00"
     }
    ]
   },
@@ -370,28 +363,35 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-09-28",
+   "actualizada": "2026-09-29",
    "noticias": [
     {
-     "titulo": "Códec inspirado en blockchain recupera datos de secuencias de ADN fuertemente dañadas",
-     "resumen": "Investigadores de la Universidad de Hong Kong desarrollaron Gungnir, un sistema que aplica principios de blockchain para recuperar información genética de secuencias de ADN severamente deterioradas, mejorando la confiabilidad del almacenamiento de datos en ADN.",
+     "titulo": "Partículas cuánticas no abelianas demuestran capacidad para computación cuántica universal",
+     "resumen": "Investigadores utilizaron 54 qubits en el procesador H2 de Quantinuum para demostrar que las partículas cuánticas exóticas llamadas anyones no abelianos pueden realizar operaciones cuánticas universales combinando técnicas de trenzado y fusión.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-25T12:45+00:00"
+    },
+    {
+     "titulo": "Científicos registran por primera vez saltos cuánticos en tiempo real de fonones",
+     "resumen": "Investigadores de Stanford observaron transiciones cuánticas de fonones individuales entre estados de energía distintos, con potencial aplicación en computación cuántica, corrección de errores y sensores biológicos ultrasensibles.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-22T13:17+00:00"
+    },
+    {
+     "titulo": "Codec inspirado en blockchain recupera datos de secuencias de ADN gravemente dañadas",
+     "resumen": "Investigadores de la Universidad de Hong Kong desarrollaron Gungnir, un sistema basado en blockchain que logra recuperar información de almacenamiento en ADN incluso cuando las secuencias están considerablemente dañadas.",
      "enlace": "https://techxplore.com/news/2026-09-blockchain-dna-storage-codec-recovers.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-23T19:40+00:00"
     },
     {
-     "titulo": "Sistemas de notificación de archivos en Windows, Linux, Android y macOS presentan vulnerabilidades de seguridad",
-     "resumen": "Investigadores de la Universidad Técnica de Graz descubrieron riesgos de seguridad en los sistemas de notificación de archivos de sistemas operativos ampliamente utilizados mediante ataques de canal lateral que permiten rastrear actividades de usuarios.",
+     "titulo": "Sistemas de notificación de archivos en Windows, Linux, Android y macOS presentan vulnerabilidades",
+     "resumen": "Investigadores de la Universidad Técnica de Graz identificaron riesgos de seguridad en sistemas de notificación de archivos de sistemas operativos ampliamente utilizados, explotables mediante ataques de canal lateral.",
      "enlace": "https://techxplore.com/news/2026-09-notification-windows-linux-android-macos.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-28T16:00+00:00"
-    },
-    {
-     "titulo": "Desarrollan método para que inteligencia artificial señale sus propias respuestas dudosas",
-     "resumen": "Investigadores desarrollaron técnicas para que modelos de inteligencia artificial reconozcan y adviertan sobre la incertidumbre en sus respuestas, mejorando la confiabilidad al distinguir entre respuestas acertadas y erróneas con confianza injustificada.",
-     "enlace": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-24T14:20+00:00"
     }
    ]
   }
