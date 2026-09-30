@@ -309,8 +309,8 @@ a.info-item:hover { border-color: var(--sky); transform: translateX(3px); }
 /* ---------- Pie ---------- */
 .foot { background: #001B3D; color: #B9CFE3; }
 .foot-grid { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, .8fr) minmax(0, 1.2fr); gap: 36px 44px; padding-block: 52px 36px; }
-.foot .plate { display: inline-block; padding: 10px 14px; background: #FFFFFF; border-radius: 8px; line-height: 0; }
-.foot .plate img { display: block; width: 230px; height: auto; }
+/* Logo en versión clara (assets/logo-claro.svg), directo sobre el azul del pie. */
+.foot .foot-logo { display: block; width: 280px; max-width: 100%; height: auto; }
 .foot p { margin: 12px 0 0; max-width: 46ch; font-size: 14.5px; }
 .foot .foot-h { margin: 0 0 12px; font: 600 12px var(--f-mono); letter-spacing: .14em; text-transform: uppercase; color: #8FC3E6; }
 .foot-links { display: flex; flex-direction: column; gap: 8px; margin: 0; padding: 0; list-style: none; }

@@ -31,13 +31,16 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `assets/contacto.js` | Formulario de contacto: lo envía al Worker del newsletter (ver abajo) |
 | `assets/config.js` | `newsletterUrl`, `monitorUrl`, `contactoUrl` (Worker que recibe el formulario) y `contactoEmail` (respaldo) |
 | `assets/img/` | Ilustraciones SVG propias: `servicio-eventos.svg` (hietograma con período de retorno), `servicio-modelacion.svg` (bahía con malla, corrientes y pluma), `servicio-capacitacion.svg` (editor con Python escrito con apoyo de IA generativa y mapa de calor), `servicio-ambiental.svg` (cuenca con curvas de nivel y estaciones), `equipo.svg` (cuatro especialidades: modelación numérica, hidrología, climatología y energías renovables) y `topo.svg` (curvas de nivel de fondo de las bandas). Se generaron con un script de Python de un solo uso; se pueden editar a mano |
-| `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor. No usar `logo.png` como ícono: es alargado y se ve aplastado |
+| `assets/icono.svg` | Ícono de pestaña adaptable: símbolo azul con tema claro y en colores claros con tema oscuro (`@media (prefers-color-scheme: dark)` dentro del SVG), ambos con el anillo corregido a círculo. Lleva dentro dos PNG de 128 px |
+| `assets/icono.png` | Respaldo del ícono (Safari no usa íconos SVG) y `apple-touch-icon`: símbolo azul, 256×256, fondo transparente. Es el mismo `logo_solo.png` que usa el monitor. No usar `logo.png` como ícono: es alargado y se ve aplastado |
+| `assets/logo-claro.svg` | Logo en versión clara para fondos oscuros (pie de página): «MetGeo» blanco, «Spa» y la línea `#8FC3E6`, bajada `#B9CFE3`; en el símbolo, anillo y ola superior blancos, ola del medio `#8FC3E6` y ola inferior `#4E94C3`. Se hizo a partir de `logo_completo.svg` de Canva |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
 Cada página repite la misma cabecera, el mismo `<canvas class="net">` y el mismo pie. **Si cambia el menú o el pie, cambiarlo en las seis páginas.** Una página nueva debe copiar esa estructura (incluida la meta de seguridad), cargar `config.js` y `site.js` en `<head>` y `fondo.js` al final.
 
 - **Cabecera:** placa blanca con el logo (470 px en escritorio, 300 px al bajar por la página, 360 px bajo 1120 px, 270 px bajo 900 px, 220 px bajo 640 px y 175 px bajo 440 px), menú «Nosotros · Servicios · Monitor · Noticias» y el botón destacado «Contacto» (`.nav-cta`), y la franja celeste `.accent`. Bajo 900 px el menú se abre con el botón `.menu-btn`; sin JavaScript queda visible debajo del logo. `logo.png` mide 480×123, así que no conviene mostrarlo a más de 480 px.
-- **Pie:** azul profundo, logo sobre placa blanca, mapa del sitio, correo, LinkedIn e Instagram, y una línea legal con las fuentes de datos de la página (monitor o noticias).
+- **Pie:** azul profundo, logo claro (`logo-claro.svg`, clase `.foot-logo`) directo sobre el azul, mapa del sitio, correo, LinkedIn e Instagram, y una línea legal con las fuentes de datos de la página (monitor o noticias).
+- **Ícono en `<head>`:** `<link rel="icon" … icono.png sizes="32x32">` seguido de `<link rel="icon" type="image/svg+xml" href="assets/icono.svg">` (Chrome y Firefox usan el SVG; Safari, el PNG).
 
 ## Diseño
 
