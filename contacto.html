@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://metgeo-newsletter.metgeo.workers.dev; object-src 'none'; base-uri 'self'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <title>Contacto · MetGeo Spa</title>
 <meta name="description" content="Escríbele al equipo de MetGeo: formulario de contacto, correo, LinkedIn e Instagram.">
@@ -75,12 +75,16 @@
           </div>
           <div class="field field-wide">
             <label for="f-mensaje">Mensaje</label>
-            <textarea id="f-mensaje" name="mensaje" maxlength="1000" required aria-describedby="f-mensaje-hint"></textarea>
-            <span class="hint" id="f-mensaje-hint">Hasta 1.000 caracteres. Si puedes, indica el lugar, las fechas y qué decisión necesitas tomar.</span>
+            <textarea id="f-mensaje" name="mensaje" maxlength="2000" required aria-describedby="f-mensaje-hint"></textarea>
+            <span class="hint" id="f-mensaje-hint">Hasta 2.000 caracteres. Si puedes, indica el lugar, las fechas y qué decisión necesitas tomar.</span>
+          </div>
+          <div class="trap" aria-hidden="true">
+            <label for="f-web">No llenes este campo</label>
+            <input id="f-web" name="website" type="text" tabindex="-1" autocomplete="off">
           </div>
           <div class="form-foot">
-            <button class="btn btn-solid" type="submit">Preparar el correo <span class="arr" aria-hidden="true">&rarr;</span></button>
-            <p class="fine">Al enviar se abre tu programa de correo con el mensaje listo para mandarlo al equipo de MetGeo. Este sitio no guarda tus datos.</p>
+            <button class="btn btn-solid" type="submit">Enviar mensaje <span class="arr" aria-hidden="true">&rarr;</span></button>
+            <p class="fine">Tu mensaje llega al correo del equipo de MetGeo. Solo usamos tus datos para responderte y no los guardamos en el sitio.</p>
           </div>
           <p class="form-status" id="form-status" role="status" hidden></p>
         </form>

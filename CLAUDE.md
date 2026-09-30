@@ -28,8 +28,8 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `assets/fondo.js` | Cordilleras con neblina de las portadas (`canvas.geo`) y red de puntos del fondo que sigue al cursor |
 | `assets/noticias.js` | Lee `data/noticias.json`: en `noticias.html` dibuja áreas, filtros, fechas y avisos; en `index.html` las tres últimas. Cada tarjeta lleva una ilustración dibujada según el área (franjas de temperatura, isobaras, olas, estratos, sismograma, volcán, interferencia, órbitas, anillos, aerogeneradores, circuito; red de puntos para un área nueva) |
 | `assets/site.js` | Se carga en `<head>` en todas las páginas: menú de teléfono, cabecera que se compacta al bajar, botones `[data-newsletter]` y enlaces `[data-monitor]` según `config.js` |
-| `assets/contacto.js` | Formulario de contacto (ver abajo) |
-| `assets/config.js` | `newsletterUrl`, `monitorUrl` y `contactoEmail` |
+| `assets/contacto.js` | Formulario de contacto: lo envía al Worker del newsletter (ver abajo) |
+| `assets/config.js` | `newsletterUrl`, `monitorUrl`, `contactoUrl` (Worker que recibe el formulario) y `contactoEmail` (respaldo) |
 | `assets/img/` | Ilustraciones SVG propias: `servicio-eventos.svg` (hietograma con período de retorno), `servicio-modelacion.svg` (bahía con malla, corrientes y pluma), `servicio-capacitacion.svg` (editor con Python y mapa de calor), `servicio-ambiental.svg` (cuenca con curvas de nivel y estaciones), `equipo.svg` (cuatro especialidades) y `topo.svg` (curvas de nivel de fondo de las bandas). Se generaron con un script de Python de un solo uso; se pueden editar a mano |
 | `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor. No usar `logo.png` como ícono: es alargado y se ve aplastado |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
@@ -64,7 +64,12 @@ Cada fila de `servicios.html` lleva imagen, etiqueta, título, un párrafo, cuat
 
 ## Formulario de contacto
 
-GitHub Pages no ejecuta código en el servidor, así que el formulario **no envía ni guarda datos**: `contacto.js` valida los campos, arma un correo (asunto «Contacto desde el sitio: <tema> · <nombre>») y abre el programa de correo de la persona con un enlace `mailto:` a `contactoEmail` de `config.js`. Los textos se limpian de caracteres de control y se recortan (nombre 100, correo y organización 120, mensaje 1.000). Si el enlace `mailto:` codificado supera 1.900 caracteres, no se abre y se pide acortar el mensaje, porque varios programas de correo cortan los enlaces largos. Si más adelante se quiere recibir los mensajes sin que la persona use su correo, se puede agregar un endpoint al Worker de Cloudflare del newsletter; en ese caso hay que sumar su dirección a `connect-src` y `form-action` de la meta de seguridad de `contacto.html`.
+`contacto.js` envía el mensaje (JSON) a `contactoUrl` de `config.js`: el Worker del newsletter (`POST /api/contacto`), que lo guarda en Cloudflare D1 hasta que el computador de MetGeo lo reenvía por Gmail a metgeo.spa@gmail.com cada 15 minutos (detalle y anti-spam en el `CLAUDE.md` del newsletter). La página muestra «¡Gracias! Recibimos tu mensaje…» cuando el Worker responde bien. Si el Worker no responde, ofrece un enlace «Abrir mi programa de correo» con el mensaje listo para `contactoEmail` (respaldo `mailto:`, recortado si supera 1.900 caracteres).
+
+- La meta de seguridad de `contacto.html` permite `connect-src` hacia `https://metgeo-newsletter.metgeo.workers.dev`. Si cambia la dirección del Worker, actualizar ahí y en `config.js`.
+- El Worker solo acepta envíos desde `https://metgeo.github.io` (`CONTACT_ORIGINS` en su `wrangler.toml`): si el sitio pasa a un dominio propio, agregarlo allá.
+- El campo oculto `website` (`.trap`) es una trampa para bots: no borrarlo ni hacerlo visible.
+- Límites: nombre 100, correo y organización 120, mensaje 2.000 caracteres. Los temas (`TEMAS`) deben coincidir con `TOPICS` del Worker.
 
 ## Probar y publicar
 

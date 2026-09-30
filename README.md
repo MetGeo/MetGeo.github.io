@@ -27,7 +27,8 @@ Todo lo que cambia está en `assets/config.js`:
 
 - `newsletterUrl`: la dirección pública de la app del newsletter. Mientras esté vacía, el botón «Recibir mi newsletter» aparece desactivado con el aviso «El registro abre muy pronto».
 - `monitorUrl`: la dirección del monitor en Streamlit.
-- `contactoEmail`: el correo al que se dirige el formulario de contacto.
+- `contactoUrl`: la dirección del Worker que recibe el formulario de contacto (`/api/contacto`).
+- `contactoEmail`: el correo que se ofrece como respaldo si el Worker no responde.
 
 ## Publicar en GitHub Pages
 
