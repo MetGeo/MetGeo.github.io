@@ -6,4 +6,6 @@ window.METGEO = {
   newsletterUrl: "https://metgeo-newsletter.metgeo.workers.dev",
   // Monitor meteorológico (Streamlit Community Cloud).
   monitorUrl: "https://metgeo-concepcion.streamlit.app/",
+  // Correo al que llega el formulario de contacto (contacto.html abre el programa de correo de la persona).
+  contactoEmail: "metgeo.spa@gmail.com",
 };

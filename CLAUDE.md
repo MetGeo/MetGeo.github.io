@@ -1,54 +1,70 @@
 # Sitio web de MetGeo Spa (metgeo.github.io)
 
-Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `main`, publicación automática al hacer push). Sin compilación: HTML, CSS y JavaScript planos. La identidad visual general de MetGeo está en la skill `metgeo-marca`; este archivo fija las reglas propias del sitio.
+Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `main`, publicación automática al hacer push). Sin compilación: HTML, CSS y JavaScript planos. La identidad visual general de MetGeo está en la skill `metgeo-marca`; este archivo fija las reglas propias del sitio. La estructura (portada con bandas, servicios con imagen, nosotros, noticias con imagen y contacto) se inspiró en el sitio de la empresa amiga GFDas (gfdas.com).
 
 ## Reglas que no se rompen
 
 - **Subir solo lo que cambiaste.** Antes de cada commit, `git status` y `git add <archivo>` uno por uno. Nunca `git add -A` ni `git add .`: en esta carpeta hay archivos privados que no se publican (`metgeo_equipo/` y `metgeo_servicios/`, excluidos en `.gitignore`). El repositorio es **público**.
 - **No incrustar el monitor.** Streamlit Community Cloud queda en blanco dentro de un `<iframe>` de otro dominio (comprobado en Chrome). `monitor.html` muestra una vista previa (`assets/monitor.png`) y abre el monitor en una pestaña nueva.
-- **Sin imágenes de terceros.** Los fondos se dibujan con código en `assets/fondo.js`. No usar fotos de bancos ni imágenes con derechos.
-- **Texto siempre como texto.** El contenido de `data/noticias.json` viene de fuentes externas: se inserta con `textContent`, nunca con `innerHTML`, y los enlaces se aceptan solo si empiezan con `http://` o `https://`.
+- **Sin imágenes de terceros.** Los fondos se dibujan con código en `assets/fondo.js`; las ilustraciones de servicios y equipo son SVG propios en `assets/img/`, y las de cada noticia se dibujan en `assets/noticias.js`. No usar fotos de bancos, ni la imagen original de una noticia, ni imágenes con derechos.
+- **Texto siempre como texto.** El contenido de `data/noticias.json` viene de fuentes externas: se inserta con `textContent`, nunca con `innerHTML`, y los enlaces se aceptan solo si empiezan con `https://`. `noticias.js` descarta las áreas o notas mal formadas antes de dibujar (los contadores cuentan solo lo que se muestra) y usa `area-<clave>` como id de cada sección, para que una clave nueva no tape otros ids de la página.
+- **Sin scripts ni estilos en línea.** Cada página declara una política de seguridad (`<meta http-equiv="Content-Security-Policy">`) que solo permite scripts y estilos de archivos del propio sitio (más Google Fonts). No usar `<script>` con código dentro, `onclick=` ni `style="…"`: no funcionarían. Para un ajuste puntual, crear una clase en `style.css` (por ejemplo `.mt`).
+- **Enlaces externos** con `target="_blank" rel="noopener noreferrer"`.
 - **Español neutro, forma «tú»,** sin modismos chilenos ni rioplatenses (nada de «podés», «mirá», «bacán», «po»).
-- **Una sola configuración:** las direcciones externas (newsletter y monitor) viven en `assets/config.js`. No escribirlas a mano en el HTML.
+- **Una sola configuración:** las direcciones externas (newsletter, monitor y correo del formulario) viven en `assets/config.js`.
 
 ## Estructura
 
 | Archivo | Qué es |
 |---|---|
-| `index.html` | Portada (título «Consultora Geofísica: Ciencias de la Tierra y Análisis de Datos»), «Quiénes somos» (`#nosotros`, cuatro ejes: modelación numérica, pronóstico y monitoreo, análisis de datos y clima, consultoría e investigación), servicios y vista previa del monitor |
-| `equipo.html` | Equipo: una tarjeta `.member` por persona con iniciales, nombre, rol, descripción breve, especialidades y GitHub si lo tiene |
+| `index.html` | Portada: título y bajada (con el ejemplo del temporal de julio en Los Ángeles), banda «MetGeo en cifras», «Qué hacemos» (modelación numérica, análisis de datos, asesoría técnica, consultoría), cuatro tarjetas de servicio con imagen, banda «Cómo trabajamos», «Por qué MetGeo» (seis puntos), las tres noticias más recientes (`#ultimas`), vista previa del monitor y banda final de contacto |
+| `nosotros.html` | Equipo de geofísicos: especialidades con el diagrama `img/equipo.svg`, banda con el propósito, seis compromisos (`#proposito`) y las tarjetas del equipo (`#equipo`) |
+| `servicios.html` | Los cuatro servicios, uno por fila con su imagen (`#eventos`, `#modelacion`, `#capacitaciones`, `#ambiental`), banda de análisis de datos y «De acceso libre» (`#libre`: monitor y noticias) |
+| `contacto.html` | Formulario de contacto (`assets/contacto.js`) y tarjetas de correo, LinkedIn, Instagram y ubicación |
 | `monitor.html` | Descripción del monitor y enlace a la app en Streamlit |
 | `noticias.html` | Pestaña «Noticias científicas» y bloque de registro al newsletter (`#newsletter`) |
+| `equipo.html` | Solo redirige a `nosotros.html#equipo`, para no romper enlaces antiguos |
 | `assets/style.css` | Estilos de todo el sitio, con tokens de color y modo oscuro |
-| `assets/fondo.js` | Portada (cordilleras con neblina, estilo banner de LinkedIn) y red de puntos del fondo que sigue al cursor |
-| `assets/noticias.js` | Lee `data/noticias.json` y dibuja las áreas, filtros, fechas y avisos |
-| `assets/site.js` | Activa o desactiva los botones `[data-newsletter]` según `config.js` |
-| `assets/config.js` | `newsletterUrl` y `monitorUrl` |
-| `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor; todas las páginas lo cargan como `icon` y `apple-touch-icon`. No usar `logo.png` como ícono: es alargado y se ve aplastado |
+| `assets/fondo.js` | Cordilleras con neblina de las portadas (`canvas.geo`) y red de puntos del fondo que sigue al cursor |
+| `assets/noticias.js` | Lee `data/noticias.json`: en `noticias.html` dibuja áreas, filtros, fechas y avisos; en `index.html` las tres últimas. Cada tarjeta lleva una ilustración dibujada según el área (franjas de temperatura, isobaras, olas, estratos, sismograma, volcán, interferencia, órbitas, anillos, aerogeneradores, circuito; red de puntos para un área nueva) |
+| `assets/site.js` | Se carga en `<head>` en todas las páginas: menú de teléfono, cabecera que se compacta al bajar, botones `[data-newsletter]` y enlaces `[data-monitor]` según `config.js` |
+| `assets/contacto.js` | Formulario de contacto (ver abajo) |
+| `assets/config.js` | `newsletterUrl`, `monitorUrl` y `contactoEmail` |
+| `assets/img/` | Ilustraciones SVG propias: `servicio-eventos.svg` (hietograma con período de retorno), `servicio-modelacion.svg` (bahía con malla, corrientes y pluma), `servicio-capacitacion.svg` (editor con Python y mapa de calor), `servicio-ambiental.svg` (cuenca con curvas de nivel y estaciones), `equipo.svg` (cuatro especialidades) y `topo.svg` (curvas de nivel de fondo de las bandas). Se generaron con un script de Python de un solo uso; se pueden editar a mano |
+| `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor. No usar `logo.png` como ícono: es alargado y se ve aplastado |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
-Cada página repite la misma cabecera (placa blanca con logo de 420 px (290 px en pantallas medianas, 230 px en teléfono y 190 px bajo 440 px; hasta 900 px el menú muestra solo el botón de noticias), menú, franja celeste `.accent`), el `<canvas class="net">` del fondo y el pie azul marino, que empieza con la sección «Contacto» (`#contacto`: correo metgeo.spa@gmail.com, Instagram @metgeo.spa y LinkedIn `linkedin.com/company/metgeo-spa`). Una página nueva debe copiar esa estructura y cargar `config.js`, `site.js` y `fondo.js`.
+Cada página repite la misma cabecera, el mismo `<canvas class="net">` y el mismo pie. **Si cambia el menú o el pie, cambiarlo en las seis páginas.** Una página nueva debe copiar esa estructura (incluida la meta de seguridad), cargar `config.js` y `site.js` en `<head>` y `fondo.js` al final.
+
+- **Cabecera:** placa blanca con el logo (470 px en escritorio, 300 px al bajar por la página, 360 px bajo 1120 px, 270 px bajo 900 px, 220 px bajo 640 px y 175 px bajo 440 px), menú «Nosotros · Servicios · Monitor · Noticias» y el botón destacado «Contacto» (`.nav-cta`), y la franja celeste `.accent`. Bajo 900 px el menú se abre con el botón `.menu-btn`; sin JavaScript queda visible debajo del logo. `logo.png` mide 480×123, así que no conviene mostrarlo a más de 480 px.
+- **Pie:** azul profundo, logo sobre placa blanca, mapa del sitio, correo, LinkedIn e Instagram, y una línea legal con las fuentes de datos de la página (monitor o noticias).
 
 ## Diseño
 
-- **Tipografías (Google Fonts):** Montserrat 500/600/700 para títulos, botones y etiquetas; Source Sans 3 400/600/700 para el texto; `Courier New` para etiquetas técnicas (eyebrows, fechas, «kicker»).
-- **Colores (tokens en `:root` de `style.css`):** azul marino `#00295B`, azul profundo `#001B3D`, celeste `#4E94C3`, celeste claro `#8FC3E6`, niebla `#E8F1F9`, fondo `#EEF2F6`, texto `#20242A`, gris `#4B586A`, líneas `#D6E2EE`. El modo oscuro redefine los mismos tokens; los componentes usan siempre tokens, nunca colores sueltos.
-- **Menú:** «Quiénes somos», «Servicios», «Equipo», «Monitor», «Contacto» y el botón destacado «Noticias científicas» (`.nav-cta`). En teléfono solo queda el botón. Si cambia, cambiarlo en las cuatro páginas.
-- **Equipo:** las reseñas completas están en `metgeo_equipo/` (privado, en `.gitignore`); en `equipo.html` va solo un resumen de dos o tres líneas, con el mismo formato para todos, sin datos personales de contacto. Orden: por apellido.
-- **Portada (`.hero`):** fondo claro con el paisaje de `fondo.js`, velo claro a la izquierda para leer el texto, título y texto en azul marino. Botones: `.btn-sky` (azul sólido) y `.btn-ghost` (borde azul).
-- **Secciones:** `.kicker` en `Courier New` mayúsculas, `h2` en Montserrat, y bajo el título `.rule`: barra de 2 px con degradado azul marino a azul profundo.
-- **Tarjetas (`.card`):** fondo blanco, borde `--line`, radio 12 px y sombra suave. La de «Próximamente» usa borde punteado (`.card-empty`).
-- **Noticias:** una tarjeta por nota con título, resumen, «Publicada hoy / ayer / el …» (hora de Chile) y «Leer la nota original en <medio> ↗». Cada área muestra sus fuentes. Si un área no trae novedades hoy, conserva las últimas y muestra «Sin novedades hoy · última actualización: …».
-- **Accesibilidad:** foco visible, `prefers-reduced-motion` respetado (la red de puntos queda quieta), sin desplazamiento horizontal a 400 px.
+- **Tipografías (Google Fonts):** Montserrat 500/600/700 para títulos, botones y etiquetas; Source Sans 3 400/600/700 para el texto; `Courier New` para etiquetas técnicas (eyebrows, fechas, «kicker», números).
+- **Colores (tokens en `:root` de `style.css`):** azul marino `#00295B`, azul profundo `#001B3D`, celeste `#4E94C3`, celeste claro `#8FC3E6`, niebla `#E8F1F9`, fondo `#EEF2F6`, texto `#20242A`, gris `#4B586A`, líneas `#D6E2EE`. El modo oscuro redefine los mismos tokens.
+- **Portadas (`.hero`, `.hero-sm`):** paisaje de `fondo.js`, velo claro a la izquierda (parejo en teléfono) y texto en azul marino. Botones `.btn-sky` (sólido) y `.btn-ghost` (borde).
+- **Bandas (`.band`):** franjas azul marino a todo el ancho con las curvas de nivel de `img/topo.svg`, para hacer contraste entre secciones. Llevan una frase (`.band-statement`, con la parte destacada en `<em>` celeste), cifras (`.figures`) o una llamada a la acción (`.band-cta`, botones `.btn-light` y `.btn-line`).
+- **Secciones:** `.kicker` en `Courier New` mayúsculas, `h2` en Montserrat y `.rule` bajo el título. `.sec-head` pone a la derecha un enlace «Ver todos…».
+- **Tarjetas:** `.cap` (capacidad con ícono), `.svc-card` (servicio con imagen, enlaza a `servicios.html#…`), `.feature` (punto numerado), `.purpose article` (compromiso), `.member` (persona), `.card` (genérica) y `.item` (noticia con imagen).
+- **Íconos:** SVG en línea con `stroke="currentColor"`, dibujados a mano y genéricos (sobre, cuadro con «in», cámara, capas, gráfico, portapapeles, globo de diálogo, ubicación).
+- **Noticias:** una tarjeta por nota con ilustración del área, título, resumen, «Publicada hoy / ayer / el …» (hora de Chile) y «Leer la nota original en <medio> ↗». Cada área muestra sus fuentes. Si un área no trae novedades hoy, conserva las últimas y muestra «Sin novedades hoy · última actualización: …». El aviso de créditos aclara que las ilustraciones son de MetGeo y no de la noticia.
+- **Accesibilidad:** enlace «Saltar al contenido», foco visible, `prefers-reduced-motion` respetado (la red de puntos queda quieta y no hay transiciones), sin desplazamiento horizontal a 400 px.
 
 ## Servicios que muestra
 
-`index.html#servicios` tiene dos bloques en grilla de dos columnas (`.cards.cards-2`):
+Los mismos cuatro, en este orden, en `index.html#servicios` (tarjetas cortas) y en `servicios.html` (detalle):
 
-1. **Servicios de consultoría**, uno por ficha de `metgeo_servicios/` (PDF privados, en `.gitignore`): «Modelación numérica» (ficha 1, circulación costera y dispersión de efluentes), «Análisis de datos y dashboards interactivos» (ficha 2), «Pronóstico meteorológico y monitoreo» (ficha 3) y «Consultoría y asesoría técnica» (ficha 4, clima, agua y riesgo climático). Los títulos son cortos y dicen qué hace MetGeo; el detalle va en el párrafo. Cada `.card` lleva etiqueta, título, un párrafo y tres entregables en `.gets`. Si cambian las fichas, actualizar estas tarjetas a partir de ellas, con texto general (no dirigido a una industria en particular).
-2. **De acceso libre** (`.sub-h`): el **monitor** (Streamlit, de Bruno Herrera) y las **noticias científicas con el newsletter**.
+1. **Estudios técnicos de eventos extremos** (`#eventos`): peritajes y consultoría ante temporales, lluvias, vientos, marejadas, olas de calor y sequías, para aseguradoras, liquidadores, instituciones y particulares. Ejemplo público: el estudio del temporal de julio en Los Ángeles que respaldó el cobro del seguro de una vivienda (sin nombrar a la persona).
+2. **Modelación numérica y monitoreo de pronósticos** (`#modelacion`): WRF, CROCO e hidrológicos; fichas 1, 2 y 3 de `metgeo_servicios/`.
+3. **Capacitaciones técnicas** (`#capacitaciones`): cursos de geofísica aplicada y programación.
+4. **Estudios de evaluación ambiental** (`#ambiental`): componentes para una DIA o un EIA en el SEIA; ficha 4.
 
-Al agregar un servicio, sumar una `.card` en el bloque que corresponda y, si tiene página propia, una entrada en el menú de las cuatro páginas.
+Cada fila de `servicios.html` lleva imagen, etiqueta, título, un párrafo, cuatro puntos en `.gets` y el botón «Consultar por este servicio», que abre `contacto.html?servicio=<clave>` con el tema ya elegido. Al agregar un servicio: sumar la fila (`.svc`, y `.svc-alt` para alternar el lado de la imagen), la tarjeta de la portada, la opción en el `<select>` de `contacto.html` y la clave en `TEMAS` de `contacto.js`.
+
+## Formulario de contacto
+
+GitHub Pages no ejecuta código en el servidor, así que el formulario **no envía ni guarda datos**: `contacto.js` valida los campos, arma un correo (asunto «Contacto desde el sitio: <tema> · <nombre>») y abre el programa de correo de la persona con un enlace `mailto:` a `contactoEmail` de `config.js`. Los textos se limpian de caracteres de control y se recortan (nombre 100, correo y organización 120, mensaje 1.000). Si el enlace `mailto:` codificado supera 1.900 caracteres, no se abre y se pide acortar el mensaje, porque varios programas de correo cortan los enlaces largos. Si más adelante se quiere recibir los mensajes sin que la persona use su correo, se puede agregar un endpoint al Worker de Cloudflare del newsletter; en ese caso hay que sumar su dirección a `connect-src` y `form-action` de la meta de seguridad de `contacto.html`.
 
 ## Probar y publicar
 
@@ -58,8 +74,8 @@ git status                      # revisar qué cambió
 git add <archivos> && git commit -m "…" && git push
 ```
 
-GitHub Pages tarda uno o dos minutos y guarda caché unos diez minutos: recargar con `Ctrl+Shift+R`. Activar Pages o cambiar su configuración solo puede hacerlo la cuenta **MetGeo** (es una cuenta personal: los colaboradores no pueden administrarla).
+Revisar en escritorio y a 400 px de ancho (menú de teléfono, portada legible, sin desplazamiento horizontal). GitHub Pages tarda uno o dos minutos y guarda caché unos diez minutos: recargar con `Ctrl+Shift+R`. Activar Pages o cambiar su configuración solo puede hacerlo la cuenta **MetGeo** (es una cuenta personal: los colaboradores no pueden administrarla).
 
 ## Relación con el newsletter
 
-El proyecto `MetGeo/metgeo-newsletter` escribe `data/noticias.json` cada día a las 05:30 (hora de Chile) y lo sube con un commit «Noticias científicas del AAAA-MM-DD». El registro del newsletter está en `https://metgeo-newsletter.metgeo.workers.dev`. Las áreas científicas y su orden se definen allá (`app/news.py`), no aquí.
+El proyecto `MetGeo/metgeo-newsletter` escribe `data/noticias.json` cada día a las 05:30 (hora de Chile) y lo sube con un commit «Noticias científicas del AAAA-MM-DD». El registro del newsletter está en `https://metgeo-newsletter.metgeo.workers.dev`. Las áreas científicas y su orden se definen allá (`app/news.py`), no aquí. Si se agrega un área, conviene sumar su dibujo en `MOTIVOS` de `assets/noticias.js` (mientras tanto usa la red de puntos).

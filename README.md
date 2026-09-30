@@ -4,7 +4,10 @@ Sitio estático para GitHub Pages. Reúne los servicios de MetGeo:
 
 | Página | Contenido |
 |---|---|
-| `index.html` | Portada, servicios y acceso al monitor |
+| `index.html` | Portada: qué hace MetGeo, cifras, servicios, últimas noticias, monitor y contacto |
+| `nosotros.html` | El equipo de geofísicos, sus especialidades y su propósito |
+| `servicios.html` | Los cuatro servicios en detalle y las herramientas de acceso libre |
+| `contacto.html` | Formulario de contacto (abre el correo de quien escribe) y redes |
 | `monitor.html` | El monitor meteorológico del Gran Concepción: descripción, vista previa y enlace a la app en Streamlit |
 | `noticias.html` | Noticias científicas del día por área, con enlace a cada fuente, y el registro al newsletter |
 
@@ -24,6 +27,7 @@ Todo lo que cambia está en `assets/config.js`:
 
 - `newsletterUrl`: la dirección pública de la app del newsletter. Mientras esté vacía, el botón «Recibir mi newsletter» aparece desactivado con el aviso «El registro abre muy pronto».
 - `monitorUrl`: la dirección del monitor en Streamlit.
+- `contactoEmail`: el correo al que se dirige el formulario de contacto.
 
 ## Publicar en GitHub Pages
 

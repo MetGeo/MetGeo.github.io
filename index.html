@@ -3,150 +3,185 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <title>MetGeo Spa · Consultora Geofísica</title>
-<meta name="description" content="MetGeo Spa, consultora geofísica de Concepción: modelación numérica, pronóstico y monitoreo, análisis de datos ambientales y asesoría en estudios ambientales.">
+<meta name="description" content="MetGeo Spa, consultora geofísica de Concepción: estudios técnicos de eventos extremos, modelación numérica y monitoreo de pronósticos, capacitaciones técnicas y estudios de evaluación ambiental.">
 <link rel="icon" type="image/png" href="assets/icono.png">
 <link rel="apple-touch-icon" href="assets/icono.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
 <link rel="stylesheet" href="assets/style.css">
+<script src="assets/config.js"></script>
+<script src="assets/site.js"></script>
 </head>
 <body>
+<a class="skip" href="#main">Saltar al contenido</a>
 <canvas class="net" aria-hidden="true"></canvas>
 <header class="top">
   <div class="wrap top-in">
-    <a class="brand" href="index.html"><img src="assets/logo.png" alt="MetGeo Spa" width="190" height="49"></a>
-    <nav class="nav" aria-label="Principal">
-      <a href="index.html#nosotros">Quiénes somos</a>
-      <a href="index.html#servicios">Servicios</a>
-      <a href="equipo.html">Equipo</a>
+    <a class="brand" href="index.html"><img src="assets/logo.png" alt="MetGeo Spa, inicio" width="480" height="123"></a>
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="bars" aria-hidden="true"></span><span class="txt">Menú</span></button>
+    <nav class="nav" id="menu" aria-label="Principal">
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
       <a href="monitor.html">Monitor</a>
-      <a href="#contacto">Contacto</a>
-      <a class="nav-cta" href="noticias.html">Noticias científicas</a>
+      <a href="noticias.html">Noticias</a>
+      <a class="nav-cta" href="contacto.html">Contacto</a>
     </nav>
   </div>
   <div class="accent"></div>
 </header>
 
-<main>
+<main id="main">
   <section class="hero">
     <canvas class="geo" aria-hidden="true"></canvas>
     <div class="wrap">
       <div class="hero-copy">
-        <p class="eyebrow">MetGeo Spa · Concepción, Chile</p>
-        <h1>Consultora Geofísica: Ciencias de la Tierra y Análisis de Datos</h1>
-        <p class="lead">Herramientas de monitoreo, modelación numérica y asesoría en estudios ambientales.</p>
+        <p class="eyebrow">Consultora geofísica · Concepción, Chile</p>
+        <h1>Geofísica aplicada para decidir mejor sobre el clima, el agua y el territorio</h1>
+        <p class="lead">Hemos desarrollado desde plataformas que siguen el pronóstico hora a hora hasta peritajes técnicos de eventos extremos, como el estudio del temporal de julio en Los Ángeles que respaldó el cobro del seguro de una vivienda.</p>
         <div class="btns">
-          <a class="btn btn-sky" href="monitor.html">Ver el monitor</a>
-          <a class="btn btn-ghost" href="noticias.html">Noticias científicas</a>
+          <a class="btn btn-sky" href="servicios.html">Conoce nuestros servicios <span class="arr" aria-hidden="true">&rarr;</span></a>
+          <a class="btn btn-ghost" href="contacto.html">Conversemos</a>
         </div>
-        <ul class="stats" aria-label="El monitor en cifras">
-          <li><b>17</b> sitios de observación</li>
-          <li><b>7</b> modelos globales</li>
-          <li><b>143</b> miembros de ensamble</li>
-          <li>Se actualiza <b>cada hora</b></li>
-        </ul>
       </div>
     </div>
   </section>
 
-  <section class="sec" id="nosotros">
+  <section class="band" aria-labelledby="hecho-1">
     <div class="wrap">
-      <p class="kicker">Quiénes somos</p>
-      <h2>Geofísica aplicada a las decisiones sobre clima, agua y territorio</h2>
+      <p class="kicker">MetGeo en cifras</p>
+      <p class="band-statement" id="hecho-1">En MetGeo usamos las herramientas de la geofísica, <em>modelos numéricos, estaciones, satélites y reanálisis</em>, para responder preguntas concretas con resultados que se pueden verificar.</p>
+      <ul class="figures">
+        <li><b>4</b><span>geofísicos con especialidades que se complementan</span></li>
+        <li><b>7</b><span>modelos de pronóstico combinados en un ensamble</span></li>
+        <li><b>143</b><span>miembros de ensamble en nuestro monitor abierto</span></li>
+        <li><b>1,2<small>M</small></b><span>observaciones de estaciones auditadas por el equipo</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <p class="kicker">Qué hacemos</p>
+      <h2>Cuatro formas de aplicar la geofísica a tu problema</h2>
       <div class="rule"></div>
-      <p class="about-intro">MetGeo Spa es una consultora geofísica de Concepción. Nuestro equipo de geofísicos combina modelación numérica, análisis de datos y conocimiento del territorio para responder preguntas concretas sobre la atmósfera, el océano, el agua y el clima, con resultados trazables y útiles para quien debe decidir.</p>
-      <p>Trabajamos con empresas, instituciones y equipos de investigación, desde el pronóstico del día hasta estudios de largo plazo.</p>
-      <div class="pillars">
-        <div class="pillar">
-          <div class="rule"></div>
+      <p>Cada proyecto combina lo que mejor sabemos hacer: modelar, analizar datos y traducir los resultados en recomendaciones que se pueden aplicar.</p>
+      <div class="caps">
+        <article class="cap">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M3 7l9-4 9 4-9 4-9-4z"/><path d="M3 12l9 4 9-4"/><path d="M3 17l9 4 9-4"/></svg></span>
           <h3>Modelación numérica</h3>
-          <p>Modelos atmosféricos (WRF), oceánicos costeros (CROCO), hidrológicos, hidrogeológicos e hidráulicos, incluso en infraestructura de alto rendimiento.</p>
-        </div>
-        <div class="pillar">
-          <div class="rule"></div>
-          <h3>Pronóstico y monitoreo</h3>
-          <p>Herramientas que comparan lo observado con lo pronosticado, como nuestro monitor meteorológico del Gran Concepción.</p>
-        </div>
-        <div class="pillar">
-          <div class="rule"></div>
-          <h3>Análisis de datos y clima</h3>
-          <p>Eventos extremos, períodos de retorno, tendencias, escenarios futuros y riesgo climático, a partir de estaciones, reanálisis y modelos.</p>
-        </div>
-        <div class="pillar">
-          <div class="rule"></div>
-          <h3>Consultoría e investigación</h3>
-          <p>Estudios ambientales, informes técnicos, asesoría, investigación científica, capacitación y divulgación.</p>
-        </div>
+          <p>Modelos atmosféricos (WRF), oceánicos (CROCO) e hidrológicos para estudiar lo que no se puede medir, también en supercomputación.</p>
+        </article>
+        <article class="cap">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 5-6"/></svg></span>
+          <h3>Análisis de datos</h3>
+          <p>Reunimos, depuramos y analizamos datos de estaciones, reanálisis y modelos, y los mostramos en tableros que se actualizan solos.</p>
+        </article>
+        <article class="cap">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M9 3h6v3H9z"/><path d="M9 4.5H6a1 1 0 0 0-1 1V20a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5.5a1 1 0 0 0-1-1h-3"/><path d="m9 14 2 2 4-4"/></svg></span>
+          <h3>Asesoría técnica</h3>
+          <p>Estudios y peritajes que explican qué ocurrió en un evento extremo, con qué intensidad y qué tan excepcional fue.</p>
+        </article>
+        <article class="cap">
+          <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/><path d="M8.5 12h.01M12 12h.01M15.5 12h.01"/></svg></span>
+          <h3>Consultoría</h3>
+          <p>Acompañamos proyectos de evaluación ambiental, riesgo climático y gestión del agua, desde la pregunta hasta el informe.</p>
+        </article>
       </div>
     </div>
   </section>
 
   <section class="sec" id="servicios">
     <div class="wrap">
-      <p class="kicker">Servicios</p>
-      <h2>Lo que MetGeo ofrece hoy</h2>
+      <div class="sec-head">
+        <div>
+          <p class="kicker">Servicios</p>
+          <h2>Lo que ofrecemos</h2>
+          <div class="rule"></div>
+        </div>
+        <a class="more" href="servicios.html">Ver todos los servicios &rarr;</a>
+      </div>
+      <div class="svc-cards">
+        <a class="svc-card" href="servicios.html#eventos">
+          <img src="assets/img/servicio-eventos.svg" alt="" width="640" height="360" loading="lazy">
+          <div class="body">
+            <span class="num">01</span>
+            <h3>Estudios técnicos de eventos extremos</h3>
+            <p>Peritajes y consultoría ante temporales, lluvias intensas, marejadas y sequías, también para liquidaciones de seguros.</p>
+            <span class="more">Ver el servicio &rarr;</span>
+          </div>
+        </a>
+        <a class="svc-card" href="servicios.html#modelacion">
+          <img src="assets/img/servicio-modelacion.svg" alt="" width="640" height="360" loading="lazy">
+          <div class="body">
+            <span class="num">02</span>
+            <h3>Modelación numérica y monitoreo de pronósticos</h3>
+            <p>Modelos de la atmósfera, el océano y el agua, y tableros que comparan cada hora lo observado con lo pronosticado.</p>
+            <span class="more">Ver el servicio &rarr;</span>
+          </div>
+        </a>
+        <a class="svc-card" href="servicios.html#capacitaciones">
+          <img src="assets/img/servicio-capacitacion.svg" alt="" width="640" height="360" loading="lazy">
+          <div class="body">
+            <span class="num">03</span>
+            <h3>Capacitaciones técnicas</h3>
+            <p>Cursos de geofísica aplicada, hidrología, modelación y programación científica, con ejercicios sobre datos reales.</p>
+            <span class="more">Ver el servicio &rarr;</span>
+          </div>
+        </a>
+        <a class="svc-card" href="servicios.html#ambiental">
+          <img src="assets/img/servicio-ambiental.svg" alt="" width="640" height="360" loading="lazy">
+          <div class="body">
+            <span class="num">04</span>
+            <h3>Estudios de evaluación ambiental</h3>
+            <p>Componentes de clima, agua y cambio climático para una DIA o un EIA en el SEIA, según las guías del SEA.</p>
+            <span class="more">Ver el servicio &rarr;</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" aria-labelledby="hecho-2">
+    <div class="wrap band-cta">
+      <div>
+        <p class="kicker">Cómo trabajamos</p>
+        <p class="band-statement" id="hecho-2">Cada resultado es reproducible: <em>entregamos el informe, los datos y el código</em> para que tu equipo pueda revisarlo y seguir usándolo.</p>
+      </div>
+      <a class="btn btn-light" href="nosotros.html">Conoce al equipo <span class="arr" aria-hidden="true">&rarr;</span></a>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <p class="kicker">Por qué MetGeo</p>
+      <h2>Ciencia rigurosa, herramientas propias y cercanía con el territorio</h2>
       <div class="rule"></div>
-      <p>Partimos de una pregunta concreta y de los datos que ya tienes. Entregamos resultados reproducibles y un informe o un tablero que tu equipo pueda seguir usando. Estamos en Concepción y podemos visitar tus instalaciones.</p>
-      <div class="cards cards-2">
-        <article class="card">
-          <div class="card-head"><span class="tag">Océano</span></div>
-          <h3>Modelación numérica</h3>
-          <p>Modelamos la circulación costera y la dispersión de efluentes en bahías y emisarios con CROCO, forzado con ERA5 o WRF y validado con boyas, correntómetros y perfiles CTD, para saber hacia dónde va lo que se descarga al mar y cuánto tiempo se queda.</p>
-          <ul class="gets">
-            <li>Mapas de la pluma y de las zonas de acumulación por escenario</li>
-            <li>Tiempos de residencia y renovación del agua</li>
-            <li>Recomendaciones para ubicar puntos de monitoreo o un emisario</li>
-          </ul>
-        </article>
-        <article class="card">
-          <div class="card-head"><span class="tag">Datos</span></div>
-          <h3>Análisis de datos y dashboards interactivos</h3>
-          <p>Reunimos los datos ambientales de tu operación en un solo lugar, revisamos su calidad de forma automática y los mostramos en un tablero con los indicadores que necesitas reportar.</p>
-          <ul class="gets">
-            <li>Base de datos ambiental ordenada, con su historial</li>
-            <li>Tablero web con indicadores y reportes descargables</li>
-            <li>Código y documentación, sin licencias pagadas</li>
-          </ul>
-        </article>
-        <article class="card">
-          <div class="card-head"><span class="tag">Atmósfera</span><span class="pill pill-ok">Monitor en línea</span></div>
-          <h3>Pronóstico meteorológico y monitoreo</h3>
-          <p>Un tablero con las mediciones de las estaciones cercanas y un ensamble de siete modelos de pronóstico para los lugares donde operas, actualizado cada hora. Si hace falta más detalle, corremos WRF a alta resolución.</p>
-          <ul class="gets">
-            <li>Tablero web, también para celular, por sitio</li>
-            <li>Alertas según los umbrales de tu operación</li>
-            <li>Registro histórico de las condiciones</li>
-          </ul>
-          <a class="more" href="monitor.html">Ver el monitor en funcionamiento &rarr;</a>
-        </article>
-        <article class="card">
-          <div class="card-head"><span class="tag">Clima y agua</span></div>
-          <h3>Consultoría y asesoría técnica</h3>
-          <p>Estudios sobre cómo cambia el clima donde operas y qué significa para tu agua y tus instalaciones, con CR2MET, ERA5 y proyecciones CMIP6.</p>
-          <ul class="gets">
-            <li>Caracterización climática y escenarios futuros por sitio</li>
-            <li>Riesgo climático por instalación y disponibilidad de agua</li>
-            <li>Insumos para la componente de cambio climático de una DIA o un EIA</li>
-          </ul>
-        </article>
+      <div class="features">
+        <div class="feature"><span class="n">01</span><h3>Un equipo de geofísicos</h3><p>Atmósfera, océano, hidrología y clima en un mismo equipo, formado en la Universidad de Concepción y en centros de investigación.</p></div>
+        <div class="feature"><span class="n">02</span><h3>Modelos en supercomputación</h3><p>Corremos WRF y CROCO en infraestructura de alto rendimiento (NLHPC) y en la nube cuando el problema lo requiere.</p></div>
+        <div class="feature"><span class="n">03</span><h3>Resultados trazables</h3><p>Cada informe explica la metodología, la validación contra mediciones y las limitaciones del análisis.</p></div>
+        <div class="feature"><span class="n">04</span><h3>Herramientas propias</h3><p>Programamos en Python, SQL, MATLAB y R. Lo que construimos no depende de licencias pagadas.</p></div>
+        <div class="feature"><span class="n">05</span><h3>Cerca del territorio</h3><p>Estamos en Concepción, conocemos el clima y el agua del sur de Chile y podemos visitar tus instalaciones.</p></div>
+        <div class="feature"><span class="n">06</span><h3>Ciencia abierta</h3><p>Mantenemos un monitor meteorológico público, publicamos noticias científicas cada día y divulgamos ciencia en Instagram.</p></div>
       </div>
-      <h3 class="sub-h">De acceso libre</h3>
-      <div class="cards cards-2">
-        <article class="card">
-          <div class="card-head"><span class="tag">Monitor</span><span class="pill pill-ok">En línea</span></div>
-          <h3>Monitor meteorológico del Gran Concepción</h3>
-          <p>Lo observado en las estaciones frente a lo que pronostican 7 modelos globales y un super-ensamble de 143 miembros.</p>
-          <a class="more" href="monitor.html">Ver el monitor &rarr;</a>
-        </article>
-        <article class="card">
-          <div class="card-head"><span class="tag">Noticias y newsletter</span><span class="pill pill-new">Nuevo</span></div>
-          <h3>Noticias científicas y newsletter</h3>
-          <p>Las novedades científicas del día en 11 áreas, con enlace a cada fuente. Y, si quieres, un newsletter cada mañana con tu agenda, el pronóstico de tu ciudad y tus áreas de interés.</p>
-          <a class="more" href="noticias.html">Ver las noticias &rarr;</a>
-        </article>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <p class="kicker">Noticias científicas</p>
+          <h2>Lo último en ciencias de la Tierra y más</h2>
+          <div class="rule"></div>
+        </div>
+        <a class="more" href="noticias.html">Ver todas las noticias &rarr;</a>
       </div>
+      <ul class="items items-3" id="ultimas"><li class="empty">Cargando las noticias de hoy…</li></ul>
     </div>
   </section>
 
@@ -154,46 +189,69 @@
     <div class="wrap">
       <div class="split">
         <div>
-          <p class="kicker">Monitor</p>
+          <p class="kicker">Monitor en línea</p>
           <h2>MetGeo Concepción</h2>
           <div class="rule"></div>
-          <p>Reúne en un solo lugar lo observado en el Gran Concepción y lo pronosticado por siete modelos globales. Sirve para ver qué viene y para comparar los modelos entre sí y contra la observación.</p>
-          <div class="btns" style="margin-top:22px">
-            <a class="btn btn-solid" href="monitor.html">Abrir el monitor</a>
+          <p>Reúne lo observado en 17 sitios del Gran Concepción y lo pronosticado por siete modelos globales. Sirve para ver qué viene y para comparar los modelos entre sí y contra la observación.</p>
+          <div class="btns mt">
+            <a class="btn btn-solid" href="monitor.html">Conoce el monitor <span class="arr" aria-hidden="true">&rarr;</span></a>
           </div>
+          <p class="fine">Datos: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center y Open-Meteo. Imagen satelital de Esri World Imagery.</p>
         </div>
-        <div>
-          <a class="frame shot-link" href="monitor.html" aria-label="Abrir el monitor">
-            <span class="shot"><img src="assets/monitor.png" alt="Portada del monitor MetGeo Concepción con las condiciones actuales de Carriel Sur" width="1280" height="900" loading="lazy"></span>
-          </a>
-        </div>
+        <a class="frame shot-link" href="monitor.html" aria-label="Conoce el monitor">
+          <span class="shot"><img src="assets/monitor.png" alt="Portada del monitor MetGeo Concepción con las condiciones actuales de Carriel Sur" width="1280" height="900" loading="lazy"></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" aria-labelledby="cta">
+    <div class="wrap band-cta">
+      <div>
+        <h2 id="cta">¿Tienes un proyecto o un evento que estudiar?</h2>
+        <p>Cuéntanos qué necesitas y te proponemos cómo abordarlo.</p>
+      </div>
+      <div class="btns">
+        <a class="btn btn-light" href="contacto.html">Escríbenos <span class="arr" aria-hidden="true">&rarr;</span></a>
+        <a class="btn btn-line" href="servicios.html">Ver servicios</a>
       </div>
     </div>
   </section>
 </main>
 
-<footer class="foot" id="contacto">
-  <div class="contact">
-    <div class="wrap">
-      <h2>Contacto</h2>
-      <p class="lead-sm">Escríbenos para conversar sobre un proyecto, una asesoría o una colaboración.</p>
-      <div class="contact-grid">
-        <a class="contact-item" href="mailto:metgeo.spa@gmail.com"><span class="label">Correo</span><span class="value">metgeo.spa@gmail.com</span></a>
-        <a class="contact-item" href="https://www.instagram.com/metgeo.spa/" target="_blank" rel="noopener"><span class="label">Instagram</span><span class="value">@metgeo.spa</span></a>
-        <a class="contact-item" href="https://www.linkedin.com/company/metgeo-spa/" target="_blank" rel="noopener"><span class="label">LinkedIn</span><span class="value">MetGeo SpA</span></a>
-      </div>
+<footer class="foot">
+  <div class="wrap foot-grid">
+    <div>
+      <div class="plate"><img src="assets/logo.png" alt="MetGeo Spa" width="480" height="123" loading="lazy"></div>
+      <p>Consultora geofísica en Concepción, Región del Biobío. Modelación numérica, análisis de datos, asesoría técnica y consultoría.</p>
+    </div>
+    <nav aria-label="Mapa del sitio">
+      <p class="foot-h">Sitio</p>
+      <ul class="foot-links">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="monitor.html">Monitor</a></li>
+        <li><a href="noticias.html">Noticias científicas</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+    <div>
+      <p class="foot-h">Contacto</p>
+      <ul class="foot-links">
+        <li><a href="mailto:metgeo.spa@gmail.com"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>metgeo.spa@gmail.com</a></li>
+        <li><a href="https://www.linkedin.com/company/metgeo-spa/" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/></svg>LinkedIn · MetGeo SpA</a></li>
+        <li><a href="https://www.instagram.com/metgeo.spa/" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5v.01"/></svg>Instagram · @metgeo.spa</a></li>
+      </ul>
     </div>
   </div>
-  <div class="wrap">
-    <div class="plate"><img src="assets/logo.png" alt="MetGeo Spa" width="160" height="41"></div>
-    <div>
-      <p><strong>MetGeo Spa</strong> · Concepción, Chile</p>
-      <p>Datos del monitor: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center y Open-Meteo. Imagen satelital de Esri World Imagery.</p>
+  <div class="foot-legal">
+    <div class="wrap">
+      <p>© 2026 MetGeo SpA · Concepción, Chile</p>
     </div>
   </div>
 </footer>
-<script src="assets/config.js"></script>
-<script src="assets/site.js"></script>
 <script src="assets/fondo.js"></script>
+<script src="assets/noticias.js"></script>
 </body>
 </html>
