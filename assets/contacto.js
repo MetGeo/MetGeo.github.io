@@ -12,7 +12,7 @@
   var started = Date.now();
   var MAX_HREF = 1900;
   var TEMAS = {
-    eventos: "Estudio de un evento extremo",
+    eventos: "Estudio técnico pericial",
     modelacion: "Modelación numérica y monitoreo",
     capacitaciones: "Capacitación técnica",
     ambiental: "Evaluación ambiental (SEIA)",

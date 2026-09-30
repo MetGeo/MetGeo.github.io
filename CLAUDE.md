@@ -26,11 +26,11 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 | `equipo.html` | Solo redirige a `nosotros.html#equipo`, para no romper enlaces antiguos |
 | `assets/style.css` | Estilos de todo el sitio, con tokens de color y modo oscuro |
 | `assets/fondo.js` | Cordilleras con neblina de las portadas (`canvas.geo`) y red de puntos del fondo que sigue al cursor |
-| `assets/noticias.js` | Lee `data/noticias.json`: en `noticias.html` dibuja áreas, filtros, fechas y avisos; en `index.html` las tres últimas. Cada tarjeta lleva una ilustración dibujada según el área (franjas de temperatura, isobaras, olas, estratos, sismograma, volcán, interferencia, órbitas, anillos, aerogeneradores, circuito; red de puntos para un área nueva) |
+| `assets/noticias.js` | Lee `data/noticias.json`: en `noticias.html` dibuja áreas, filtros, fechas y avisos; en `index.html` las tres últimas. Cada tarjeta lleva una ilustración dibujada por código: cada área tiene cinco dibujos (`AREAS`) y se elige el que calza con las palabras del título y el resumen (por ejemplo «huracán» → ciclón, «hielo» → témpanos, «galaxia» → espiral), sin repetir dentro del área; con más de cinco notas, se repiten con otra semilla. Los dibujos base están en `D` |
 | `assets/site.js` | Se carga en `<head>` en todas las páginas: menú de teléfono, cabecera que se compacta al bajar, botones `[data-newsletter]` y enlaces `[data-monitor]` según `config.js` |
 | `assets/contacto.js` | Formulario de contacto: lo envía al Worker del newsletter (ver abajo) |
 | `assets/config.js` | `newsletterUrl`, `monitorUrl`, `contactoUrl` (Worker que recibe el formulario) y `contactoEmail` (respaldo) |
-| `assets/img/` | Ilustraciones SVG propias: `servicio-eventos.svg` (hietograma con período de retorno), `servicio-modelacion.svg` (bahía con malla, corrientes y pluma), `servicio-capacitacion.svg` (editor con Python y mapa de calor), `servicio-ambiental.svg` (cuenca con curvas de nivel y estaciones), `equipo.svg` (cuatro especialidades) y `topo.svg` (curvas de nivel de fondo de las bandas). Se generaron con un script de Python de un solo uso; se pueden editar a mano |
+| `assets/img/` | Ilustraciones SVG propias: `servicio-eventos.svg` (hietograma con período de retorno), `servicio-modelacion.svg` (bahía con malla, corrientes y pluma), `servicio-capacitacion.svg` (editor con Python y mapa de calor), `servicio-ambiental.svg` (cuenca con curvas de nivel y estaciones), `equipo.svg` (cuatro especialidades: modelación numérica, hidrología, climatología y energías renovables) y `topo.svg` (curvas de nivel de fondo de las bandas). Se generaron con un script de Python de un solo uso; se pueden editar a mano |
 | `assets/icono.png` | Ícono de pestaña (símbolo de MetGeo sin texto, 256×256, fondo transparente). Es el mismo `logo_solo.png` que usa el monitor. No usar `logo.png` como ícono: es alargado y se ve aplastado |
 | `data/noticias.json` | Lo genera y sube cada madrugada la app del newsletter. **No se edita a mano.** |
 
@@ -55,12 +55,12 @@ Cada página repite la misma cabecera, el mismo `<canvas class="net">` y el mism
 
 Los mismos cuatro, en este orden, en `index.html#servicios` (tarjetas cortas) y en `servicios.html` (detalle):
 
-1. **Estudios técnicos de eventos extremos** (`#eventos`): peritajes y consultoría ante temporales, lluvias, vientos, marejadas, olas de calor y sequías, para aseguradoras, liquidadores, instituciones y particulares. Ejemplo público: el estudio del temporal de julio en Los Ángeles que respaldó el cobro del seguro de una vivienda (sin nombrar a la persona).
+1. **Estudios técnicos periciales** (`#eventos`): peritajes y consultoría ante temporales, lluvias, vientos, marejadas, olas de calor y sequías, con un informe técnico pericial para aseguradoras, liquidadores, instituciones y particulares. El ejemplo del temporal de julio en Los Ángeles va solo en la bajada de la portada (sin nombrar a la persona).
 2. **Modelación numérica y monitoreo de pronósticos** (`#modelacion`): WRF, CROCO e hidrológicos; fichas 1, 2 y 3 de `metgeo_servicios/`.
-3. **Capacitaciones técnicas** (`#capacitaciones`): cursos de geofísica aplicada y programación.
+3. **Capacitaciones técnicas** (`#capacitaciones`): cursos generales (atmósfera, océano, hidrología, energías renovables), evaluación del error en modelación numérica y análisis estadístico (Python, MATLAB, R, SQL).
 4. **Estudios de evaluación ambiental** (`#ambiental`): componentes para una DIA o un EIA en el SEIA; ficha 4.
 
-Cada fila de `servicios.html` lleva imagen, etiqueta, título, un párrafo, cuatro puntos en `.gets` y el botón «Consultar por este servicio», que abre `contacto.html?servicio=<clave>` con el tema ya elegido. Al agregar un servicio: sumar la fila (`.svc`, y `.svc-alt` para alternar el lado de la imagen), la tarjeta de la portada, la opción en el `<select>` de `contacto.html` y la clave en `TEMAS` de `contacto.js`.
+Cada fila de `servicios.html` lleva imagen, etiqueta, título, un párrafo, tres o cuatro puntos en `.gets` y el botón «Consultar por este servicio», que abre `contacto.html?servicio=<clave>` con el tema ya elegido. Al agregar un servicio: sumar la fila (`.svc`, y `.svc-alt` para alternar el lado de la imagen), la tarjeta de la portada, la opción en el `<select>` de `contacto.html` y la clave en `TEMAS` de `contacto.js`.
 
 ## Formulario de contacto
 
