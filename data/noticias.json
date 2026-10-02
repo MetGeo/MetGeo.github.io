@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-01",
- "generado": "2026-10-01T05:32-03:00",
+ "dia": "2026-10-02",
+ "generado": "2026-10-02T05:32-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -9,21 +9,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Olas de calor marino subestiman el calentamiento total en más de 150 por ciento",
-     "resumen": "Las olas de calor marino pueden ser solo la parte más intensa de eventos de calentamiento más prolongados, con temperaturas elevadas persistiendo durante meses. Mediciones convencionales subestiman la exposición total de calor en promedio más de 150 por ciento.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-30T12:15+00:00"
-    },
-    {
      "titulo": "Glaciares suizos pierden una quinta parte de su masa en cinco años",
-     "resumen": "Los glaciares de Suiza, desproporcionadamente afectados por el cambio climático, han perdido casi el 20 por ciento de su masa en cinco años. El año 2026 registró el segundo mayor deshielo en el registro disponible.",
+     "resumen": "Los glaciares de Suiza, desproporcionadamente afectados por el cambio climático, perdieron casi el 20% de su masa en cinco años, siendo 2026 el segundo mayor deshielo registrado.",
      "enlace": "https://phys.org/news/2026-10-catastrophic-swiss-glaciers-mass-years.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-01T06:50+00:00"
+    },
+    {
+     "titulo": "Récord de estrés térmico en Europa durante el verano más caluroso",
+     "resumen": "El 52% de Europa fue expuesto a estrés térmico intenso durante el excepcional verano de este año, según el monitor climático de la Unión Europea.",
+     "enlace": "https://phys.org/news/2026-10-europe-hottest-summer-stress.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-02T07:40+00:00"
     }
    ]
   },
@@ -33,21 +33,28 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Circulación oceánica atlántica muestra debilitamiento prolongado en dos décadas",
-     "resumen": "Científicos han encontrado evidencia observacional de que una parte crítica de la Circulación Meridional del Atlántico se ha debilitado durante casi dos décadas. Este ralentizo podría remodelar patrones climáticos, precipitaciones, tormentas e inviernos globales.",
+     "titulo": "Circulación oceánica atlántica muestra debilitamiento sostenido en dos décadas",
+     "resumen": "Evidencia observacional confirma que la Circulación Meridional del Atlántico se debilita desde hace casi veinte años. El ralentizamiento podría rediseñar patrones de clima, precipitación, tormentas e inviernos a escala global.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922222558.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-23T05:09+00:00"
     },
     {
-     "titulo": "Temporada de deshielo del hielo marino ártico se alargó 40 días desde 1979",
-     "resumen": "La temporada de deshielo del hielo ártico es aproximadamente 40 días más larga que en 1979, aunque su expansión rápida se estabilizó inesperadamente alrededor de 2010. Cambios en nubosidad e hielo cada vez más delgado pueden explicar la pausa.",
+     "titulo": "Temporada de fusión de hielo ártico se estabiliza tras expandirse cuarenta días desde 1979",
+     "resumen": "La estación de deshielo del hielo marino ártico se prolongó aproximadamente cuarenta días desde 1979, pero su expansión se detuvo inesperadamente alrededor de 2010. El cambio de nubosidad y el hielo más delgado podrían explicar la pausa.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922005658.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-23T11:39+00:00"
+    },
+    {
+     "titulo": "Reserva estadounidense Powell alcanza nivel histórico mínimo por sequía extrema",
+     "resumen": "El lago Powell llegó a su nivel más bajo registrado tras un invierno excepcionalmente seco y cálido que dejó la cuenca del río Colorado con escasa nieve de montaña. El lago Mead también alcanzó mínimos récord.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-23T02:01+00:00"
     }
    ]
   },
@@ -57,14 +64,14 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Fósiles de mil setecientos millones de años revelan vida eucariota en ambientes oceánicos",
-     "resumen": "Más de doce mil fósiles hallados en rocas australianas demuestran que los eucariotas más antiguos conocidos vivían en entornos costeros y marinos abiertos, pero solo donde había oxígeno disponible.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+     "titulo": "Olas de calor marino subestiman exposición térmica en más de 150 por ciento",
+     "resumen": "Las olas de calor marinas son solo la parte más intensa de eventos de calentamiento más prolongados, con temperaturas elevadas que persisten durante meses. Las mediciones convencionales subestiman la exposición total de calor en más del 150 por ciento en promedio.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-09-27T11:55+00:00"
+     "fecha": "2026-09-30T12:15+00:00"
     }
    ]
   },
@@ -75,21 +82,14 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Descubren cráter de impacto de 390 millones de años en Quebec mediante imágenes satelitales",
-     "resumen": "Un astrónomo aficionado identificó accidentalmente una estructura de 25 kilómetros de ancho en mapas satelitales. Científicos confirmaron mediante conos de fractura que fue creada por un impacto hace aproximadamente 390 millones de años.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-22T10:43+00:00"
-    },
-    {
-     "titulo": "Núcleos de hielo tibetanos revelan fragmentos de la última era glacial con más de 100.000 años",
-     "resumen": "Investigadores recuperaron núcleos de hielo de un casquete en el noroeste de Tibet que preservan fragmentos de hielo antiguo de la última era glacial, extendiendo el registro glacial de la región más de 100.000 años.",
-     "enlace": "https://phys.org/news/2026-09-deep-high-altitude-glacier-ice.html",
+     "titulo": "Corteza en desprendimiento bajo los Apeninos italianos explica comportamiento contradictorio de la montaña",
+     "resumen": "Investigadores identificaron que bajo los Apeninos ocurren simultáneamente extensión y compresión debido al desprendimiento cortical. Este mecanismo resuelve el puzzle de por qué sectores adyacentes de la montaña se comportan de manera opuesta.",
+     "enlace": "https://phys.org/news/2026-09-crust-beneath-italy-apennines-mountains.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-30T21:50+00:00"
+     "fecha": "2026-09-29T13:40+00:00"
     }
    ]
   },
@@ -100,35 +100,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Zona de subducción bajo Vancouver se fragmenta gradualmente",
-     "resumen": "Científicos observaron una zona de subducción frente a la isla de Vancouver en proceso de fragmentación, revelando que estos sistemas tectónicos masivos pueden desintegrarse por partes en lugar de colapsar de una sola vez, lo que ayuda a explicar fragmentos de placas antiguas y actividad volcánica.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-25T12:20+00:00"
+     "titulo": "Terremoto de magnitud 8,8 en Kamchatka en 2025 genera tsunami que resuena en el Pacífico",
+     "resumen": "El 29 de julio de 2025, un terremoto de magnitud 8,8 frente a la península de Kamchatka, Rusia, fue el más grande desde Tohoku 2011. El tsunami generado mantuvo resonancia en el Pacífico durante más de diez horas, lo que podría mejorar sistemas de alerta temprana.",
+     "enlace": "https://phys.org/news/2026-09-kamchatka-tsunami-pacific-ten-hours.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-01T21:20+00:00"
     },
     {
-     "titulo": "Fallas de la costa oeste podrían rupturarse en rápida sucesión",
-     "resumen": "La zona de subducción Cascadia y la falla de San Andrés del norte pueden rupturarse en sucesión rápida, según evidencia en capas de sedimento oceánico de 3.100 años que sugieren que terremotos en ambos sistemas han ocurrido juntos históricamente.",
+     "titulo": "Fallas sísmicas de la costa oeste estadounidense pueden rupturarse en sucesión rápida",
+     "resumen": "Evidencia en 3.100 años de sedimentos oceánicos indica que la zona de subducción Cascadia y la falla de San Andrés septentrional pueden rupturarse con rapidez consecutiva. Los investigadores identificaron capas sedimentarias inusuales que sugieren ocurrencia de terremotos simultáneos en ambos sistemas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260922222730.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-24T01:07+00:00"
     },
     {
-     "titulo": "Terremoto de magnitud 8,8 en Kamchatka generó tsunami menor al esperado",
-     "resumen": "Un terremoto de magnitud 8,8 en Kamchatka en 2025 produjo un tsunami de casi 20 metros de altura en la costa local, pero olas significativamente menores en el Pacífico que las generadas por el terremoto de 9,0 de 1952 en la misma región.",
-     "enlace": "https://phys.org/news/2026-09-kamchatka-giant-earthquake-smaller-tsunami.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-30T12:40+00:00"
-    },
-    {
-     "titulo": "Gravedad lunar y solar pueden activar terremotos lentos en la tierra",
-     "resumen": "La atracción gravitacional de la luna y el sol crea pequeños esfuerzos sobre la tierra capaces de desencadenar terremotos lentos, movimientos a lo largo de líneas de falla que liberan energía gradualmente durante períodos mucho más largos que los terremotos convencionales.",
-     "enlace": "https://phys.org/news/2026-09-moon-sun-trigger-earthquakes-earth.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-29T18:00+00:00"
+     "titulo": "Zona de subducción frente a la isla de Vancouver se está desgarrando progresivamente",
+     "resumen": "Científicos capturaron evidencia de que un sistema tectónico masivo frente a Vancouver Island se está desgarrando en fragmentos separados. Este hallazgo podría explicar fragmentos de placas antiguas y patrones de actividad volcánica.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-25T12:20+00:00"
     }
    ]
   },
@@ -139,35 +132,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Erupción de Vesuvio precisa datación de eventos geológicos antiguos",
-     "resumen": "La erupción del Monte Vesuvio en el año 79 d.C. proporciona un referente extremadamente preciso para datar eventos en la historia de la Tierra. La técnica mejorada permitirá afinar las cronologías de erupciones volcánicas, impactos de asteroides y extinciones.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-30T09:37+00:00"
-    },
-    {
-     "titulo": "Cristales volcánicos revelan la trayectoria del magma hacia la superficie",
-     "resumen": "Los cristales minerales en el magma actúan como registros de su viaje subterráneo. El estudio de estas estructuras proporciona información sobre los procesos complejos de mezcla y cristalización que ocurren en profundidad antes de una erupción.",
+     "titulo": "Cristales volcánicos revelan el viaje del magma hacia la superficie terrestre",
+     "resumen": "Los cristales minerales sólidos en la mezcla de magma actúan como registradores de la historia geológica. Estos cristales permiten rastrear el complejo recorrido del magma bajo la superficie antes de una erupción volcánica.",
      "enlace": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-27T19:00+00:00"
     },
     {
-     "titulo": "Reconstrucción de erupción volcánica submarina de Tonga explora su papel en tsunami",
-     "resumen": "La erupción y colapso del volcán submarino en Tonga en 2022 fue uno de los eventos volcánicos más poderosos del siglo. La investigación reconstruye el evento para entender su relación con el tsunami devastador que mató a cuatro personas.",
-     "enlace": "https://phys.org/news/2026-09-scientists-reconstruct-century-explosive-volcanic.html",
+     "titulo": "Satélite EarthCARE mejora la seguridad aérea mediante observación de penachos volcánicos",
+     "resumen": "El satélite EarthCARE ha registrado el comportamiento del volcán Anak Krakatau, que ha estado activo de forma esporádica desde su emergencia en el siglo pasado. Los datos ayudan a mejorar sistemas de alerta para la aviación civil.",
+     "enlace": "https://phys.org/news/2026-10-earthcare-view-volcanic-plume-boosts.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-24T16:10+00:00"
+     "fecha": "2026-10-01T20:20+00:00"
     },
     {
-     "titulo": "Yellowstone podría presentar semanas de señales de advertencia antes de una supererupción",
-     "resumen": "Una supererupción de Yellowstone comenzaría con enjambres sísmicos migrantes, levantamiento rápido del terreno, cambios en géiseres y aumento de gases volcánicos. Estos signales podrían proporcionar tiempo para prepararse antes de un evento catastrófico.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
+     "titulo": "Erupción de Pompeya de hace 2.000 años proporciona reloj preciso para datar el pasado terrestre",
+     "resumen": "La erupción del Vesubio en el año 79 d.C. permite a los científicos calibrar técnicas de datación con precisión sin precedentes. Este avance mejora las líneas de tiempo de erupciones volcánicas, impactos de asteroides y otros eventos geológicos mayores.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-09-22T08:32+00:00"
+     "fecha": "2026-09-30T09:37+00:00"
     }
    ]
   },
@@ -178,42 +164,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Partículas cuánticas exóticas demuestran capacidad para computación cuántica universal",
-     "resumen": "Investigadores probaron que los anyones no abelianos pueden realizar todas las operaciones necesarias para computación cuántica universal. Utilizando 54 qubits en el procesador H2 de Quantinuum, combinaron trenzado y fusión para desbloquear capacidades previamente limitadas.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+     "titulo": "Físicos de Caltech observan por primera vez una escalera de energía cuántica predicha hace 40 años",
+     "resumen": "Investigadores recrearon dos puntos de inflexión cuánticos diferentes usando átomos atrapados con láser en un simulador cuántico, observando que los átomos caen en las proporciones de energía exactamente predichas por la teoría.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-09-25T12:45+00:00"
+     "fecha": "2026-10-01T03:06+00:00"
     },
     {
-     "titulo": "Científicos registran por primera vez saltos cuánticos de sonido en tiempo real",
-     "resumen": "Investigadores de Stanford capturaron los primeros saltos cuánticos reales del sonido, observando fonones individuales desaparecer abruptamente entre estados de energía. El hallazgo abre nuevas vías para computación cuántica, corrección de errores y sensores biológicos ultrasensibles.",
+     "titulo": "Científicos registran por primera vez saltos cuánticos en tiempo real del sonido",
+     "resumen": "Investigadores de Stanford observaron cómo fonones individuales desaparecen abruptamente de un estado energético a otro, lo que podría abrir nuevas posibilidades para computación cuántica y sensores biológicos de alta sensibilidad.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-22T13:17+00:00"
     },
     {
-     "titulo": "Simulador cuántico recrea proceso de formación de materia del universo temprano",
-     "resumen": "Científicos reproducen un proceso vinculado a la física extrema del universo primitivo usando un simulador cuántico de 13 iones. El avance sugiere que las computadoras cuánticas podrían investigar cómo se formó y evolucionó la materia tras el Big Bang.",
+     "titulo": "Computadora cuántica simula materia formándose en el universo primitivo",
+     "resumen": "Científicos reconstruyeron un proceso de formación de partículas vinculado a la física extrema del universo temprano usando un simulador cuántico de 13 iones, sugiriendo que las computadoras cuánticas podrían investigar cómo se formó la materia tras el Big Bang.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-26T13:47+00:00"
     },
     {
-     "titulo": "Científicos resuelven desafío de 25 años en entrelazamiento de fotones múltiples",
-     "resumen": "Se desarrolló y demostró experimentalmente un método buscado durante décadas para identificar estados W, una forma importante de entrelazamiento cuántico multifotónico. La técnica facilitará la medición de sistemas entrelazados complejos y abrirá nuevas posibilidades en teleportación cuántica.",
+     "titulo": "Avance en teletransportación cuántica: identificación de estados de enredamiento de 25 años",
+     "resumen": "Científicos demostraron un método de larga búsqueda para identificar estados W, una forma importante de enredamiento cuántico multifotón, facilitando la medición de sistemas enredados complejos.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-29T12:02+00:00"
     },
     {
-     "titulo": "Campos de luz 3D impulsan electrones hacia estados cuánticos nunca antes alcanzados",
-     "resumen": "Físicos de la Universidad de Oldenburg generaron campos de luz tridimensionales superponiendo dos pulsos láser ultrabreves convergentes desde diferentes direcciones, logrando llevar electrones a estados cuánticos experimentalmente inaccesibles.",
-     "enlace": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-30T17:40+00:00"
+     "titulo": "Computación cuántica universal demostrada con anyones no abelianos",
+     "resumen": "Investigadores probaron que partículas cuánticas exóticas llamadas anyones no abelianos pueden realizar el rango completo de operaciones necesarias para computación cuántica universal usando 54 qubits.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-25T12:45+00:00"
     }
    ]
   },
@@ -224,42 +210,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Destello de rayos X revela el nacimiento de una magnetar por colisión de estrellas de neutrones",
-     "resumen": "Astrónomos encontraron evidencia de que colisiones entre dos estrellas de neutrones crean magnetares, detectados mediante destellos de rayos X que duran varios minutos. Un evento récord brilló en rayos X durante casi 10 minutos, abriendo una nueva forma de identificar estos objetos cósmicos extremos.",
+     "titulo": "Destello de rayos X revela el nacimiento de un magnetar en colisión de estrellas de neutrones",
+     "resumen": "Astrónomos encontraron evidencia de que destellos de rayos X de varios minutos se producen cuando dos estrellas de neutrones colisionan y crean un magnetar. Un evento récord brilló en rayos X durante casi 10 minutos.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-30T12:27+00:00"
     },
     {
+     "titulo": "Satélite CosmoCube buscará señales del universo anterior a las primeras estrellas",
+     "resumen": "Un satélite del tamaño de una maleta utilizará el lado oculto de la Luna como escudo para detectar radiación de la era oscura cósmica, antes de la formación de las primeras estrellas y galaxias.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-29T03:45+00:00"
+    },
+    {
      "titulo": "James Webb revela que la formación planetaria es una carrera contra el tiempo",
-     "resumen": "El telescopio espacial detectó que sistemas planetarios jóvenes pierden gas mediante jets, vientos moleculares y flujos impulsados por radiación. A medida que envejecen, los gigantes gaseosos enfrentan una ventana cada vez más pequeña para construir atmósferas masivas.",
+     "resumen": "El telescopio espacial James Webb demostró que los sistemas planetarios jóvenes pierden gas constructor de planetas mediante jets, vientos moleculares y flujos impulsados por radiación, limitando la ventana para que se formen gigantes gaseosos.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260925093158.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-28T12:02+00:00"
     },
     {
-     "titulo": "Descubierta la primera corriente de cúmulo globular más allá de la Vía Láctea",
-     "resumen": "Astrónomos identificaron el primer flujo estelar de cúmulo globular fuera de la Vía Láctea, abriendo nuevas vías para estudiar materia oscura en galaxias distantes. Estos rastros de estrellas trazan la estructura gravitacional de galaxias y podrían mapear materia invisible.",
+     "titulo": "Primera corriente estelar descubierta más allá de la Vía Láctea podría revelar materia oscura",
+     "resumen": "Astrónomos identificaron la primera corriente estelar de un cúmulo globular fuera de la Vía Láctea, abriendo nuevas formas de estudiar la materia oscura en galaxias distantes mediante los rastros gravitacionales que trazan.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260921081110.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-23T11:23+00:00"
     },
     {
-     "titulo": "El sabor de los neutrinos podría determinar si una estrella moribunda colapsa o explota",
-     "resumen": "Astrofísicos investigan cómo el tipo de neutrino producido en el colapso de una estrella masiva podría definir si genera una supernova con estrella de neutrones o un agujero negro. Esta pregunta permanece como uno de los grandes enigmas de la astrofísica.",
-     "enlace": "https://phys.org/news/2026-09-supernova-black-hole-neutrino-flavor.html",
+     "titulo": "Descubierta galaxia de radio con evidencia de cuatro brotes de jets separados",
+     "resumen": "Astrónomos identificaron posiblemente la primera galaxia de radio de una nueva clase, cuyo agujero negro central habría lanzado jets potentes en cuatro ocasiones distintas, confirmado con observaciones del Telescopio de Radio Giant Metrewave actualizado.",
+     "enlace": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-24T16:20+00:00"
-    },
-    {
-     "titulo": "El brillo lejano del hidrógeno abre nueva vía para investigar la energía oscura",
-     "resumen": "El experimento canadiense CHIME detectó por primera vez el débil resplandor del hidrógeno en el universo primitivo usando únicamente sus propios datos. Este descubrimiento permite investigar la energía oscura mediante observaciones de profundidad cósmica.",
-     "enlace": "https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-28T23:00+00:00"
+     "fecha": "2026-09-27T14:20+00:00"
     }
    ]
   },
@@ -270,39 +256,39 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Desarrollan proceso para convertir plástico en combustibles líquidos",
-     "resumen": "Investigadores del Laboratorio Nacional Oak Ridge crearon un método que transforma polietileno en gasolina y diésel usando sales fundidas de aluminio económicas para romper las cadenas plásticas largas.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-21T13:08+00:00"
+     "titulo": "Catalizador de níquel activado por luz forma enlaces químicos usando menos metal",
+     "resumen": "Investigadores desarrollaron un catalizador de níquel impulsado por luz que mejora la eficiencia de reacciones químicas industriales para fármacos, químicos finos y productos agrícolas, reduciendo costos y mejorando la sostenibilidad.",
+     "enlace": "https://phys.org/news/2026-09-driven-nickel-catalyst-chemical-bonds.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-29T22:00+00:00"
     },
     {
-     "titulo": "Nueva familia de materiales convierte luz solar en hidrógeno limpio",
-     "resumen": "Investigadores de la Universidad Estatal de Oregón desarrollaron materiales que utilizan luz para producir hidrógeno a partir de agua, abriendo caminos para convertir la radiación solar en energía limpia.",
+     "titulo": "Solvente centenario permite síntesis eficiente de enlaces amida",
+     "resumen": "Un solvente tradicional permite sintetizar enlaces amida de manera más eficiente; estos enlaces son fundamentales en proteínas, medicamentos y polímeros.",
+     "enlace": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-25T20:00+00:00"
+    },
+    {
+     "titulo": "Nueva familia de materiales convierte luz solar en energía limpia con hidrógeno",
+     "resumen": "Investigadores de la Universidad Estatal de Oregón desarrollaron materiales que utilizan luz para producir hidrógeno a partir de agua, abriendo nuevas vías para convertir la energía solar en combustible limpio.",
      "enlace": "https://phys.org/news/2026-09-family-materials-efficiently-sunlight-energy.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-29T19:40+00:00"
     },
     {
-     "titulo": "Membrana de paladio permite síntesis de amoníaco usando agua",
-     "resumen": "Un equipo de investigación surcoreano desarrolló un proceso amigable con el ambiente que reduce emisiones de carbono mediante una membrana que transporta selectivamente hidrógeno para la síntesis de amoníaco.",
-     "enlace": "https://phys.org/news/2026-09-hydrogen-stays-palladium-membrane-enables.html",
+     "titulo": "Sales estables ofrecen alternativa segura a reactivos explosivos en química de carbenos",
+     "resumen": "Se identificaron sales estables que reemplazan compuestos de diazonio en la generación de carbenos reactivos, eliminando riesgos de seguridad en síntesis química.",
+     "enlace": "https://phys.org/news/2026-10-stable-salts-alternative-potentially-explosive.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-24T21:40+00:00"
+     "fecha": "2026-10-01T15:40+00:00"
     },
     {
-     "titulo": "Optimizan cobalto para transformaciones químicas más limpias",
-     "resumen": "Investigadores exploran el ajuste fino del cobalto como alternativa a metales preciosos en la fabricación química industrial, buscando reducir costos y mejorar sostenibilidad.",
-     "enlace": "https://phys.org/news/2026-09-fine-tuning-cobalt-cleaner-chemical.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-30T23:40+00:00"
-    },
-    {
-     "titulo": "Catalizador estable en agua aproxima metátesis de olefina a células vivas",
-     "resumen": "Se desarrolló un catalizador de rutenio resistente al agua que permite la metátesis de olefina, reacción fundamental para formar enlaces carbono-carbono en medicamentos y polímeros, funcionando en ambientes acuosos.",
+     "titulo": "Catalizador soluble en agua acerca la metátesis de olefinas a aplicaciones biológicas",
+     "resumen": "Un nuevo catalizador de rutenio soluble en agua mejora la metátesis de olefinas, una reacción clave en síntesis de fármacos y materiales complejos.",
      "enlace": "https://phys.org/news/2026-09-stable-catalyst-carbon-bond-chemistry.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-28T21:20+00:00"
@@ -316,39 +302,39 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Celdas solares de perovskita alcanzan eficiencia del 30,1 por ciento",
-     "resumen": "Películas de perovskita más lisas han permitido lograr una eficiencia del 30,1% en celdas solares de tres capas, demostrando el potencial de estos materiales fotovoltaicos como alternativa a las celdas de silicio convencionales.",
-     "enlace": "https://techxplore.com/news/2026-09-smoother-perovskite-layer-solar-cell.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-26T13:40+00:00"
-    },
-    {
-     "titulo": "Azul de Prusia mejora el desempeño de celdas solares de perovskita",
-     "resumen": "El azul de Prusia aumenta la eficiencia y estabilidad a largo plazo de las celdas solares de perovskita, resolviendo problemas de desempeño que surgen durante la manufactura y operación de estos dispositivos fotovoltaicos.",
+     "titulo": "Azul de Prusia mejora rendimiento de celdas solares de perovskita en módulos grandes",
+     "resumen": "Investigadores lograron aumentar la eficiencia de conversión de energía y la estabilidad a largo plazo de celdas solares de perovskita utilizando azul de Prusia, abordando problemas que surgen durante la manufactura y operación de estas tecnologías fotovoltaicas de próxima generación.",
      "enlace": "https://techxplore.com/news/2026-09-prussian-blue-perovskite-solar-small.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-30T17:20+00:00"
     },
     {
-     "titulo": "Desbloqueo del tercer electrón del azufre mejora baterías de litio-azufre",
-     "resumen": "Investigadores han logrado aumentar significativamente el voltaje y la capacidad de las baterías de litio-azufre, una alternativa promisoria a las baterías de iones de litio convencionales, mediante el aprovechamiento del tercer electrón del azufre.",
-     "enlace": "https://techxplore.com/news/2026-09-sulfur-electron-boosts-lithium-battery.html",
+     "titulo": "Supercapacitores basados en cemento podrían almacenar energía en estructuras de edificios",
+     "resumen": "Investigadores desarrollan supercapacitores de cemento que permitirían generar, almacenar y usar energía en el mismo lugar, integrando el almacenamiento en el concreto de construcción de edificios alimentados por fuentes renovables.",
+     "enlace": "https://techxplore.com/news/2026-10-cement-based-supercapacitors-power-generation.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-24T12:20+00:00"
+     "fecha": "2026-10-01T21:09+00:00"
     },
     {
-     "titulo": "Pigmento azul acelera celdas de combustible sin usar platino costoso",
-     "resumen": "Un catalizador basado en pigmento azul mejora la potencia de las celdas de combustible sin depender del platino, ofreciendo una solución más económica para tecnologías de energía limpia.",
+     "titulo": "Pigmento azul reduce costos de celdas de combustible sin necesidad de platino",
+     "resumen": "Un equipo de investigación en la Universidad de Tohoku demuestra que pigmentos azules utilizados en tintas y colorantes podrían mejorar la potencia de celdas de combustible, eliminando la dependencia del costoso platino en tecnologías limpias de energía.",
      "enlace": "https://techxplore.com/news/2026-09-green-future-powered-blue-pigments.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-29T15:20+00:00"
     },
     {
-     "titulo": "Túnel de viento presurizado optimiza el diseño de turbinas eólicas",
-     "resumen": "Experimentos en túneles de viento presurizado permiten pruebas controladas de nuevos diseños de turbinas para aumentar la generación de energía eólica, superando los desafíos de experimentar en condiciones atmosféricas reales.",
+     "titulo": "Aerogel inspirado en branquias de peces mejora desalinización solar",
+     "resumen": "Investigadores desarrollan un material basado en branquias de peces que resuelve desafíos técnicos en la desalinización solar, permitiendo que la evaporación inducida por luz solar sea más eficiente para convertir agua salada en agua dulce.",
+     "enlace": "https://techxplore.com/news/2026-09-fish-gill-aerogel-tackles-issue.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-29T16:20+00:00"
+    },
+    {
+     "titulo": "Experimentos con túnel de viento presurizados optimizan generación de energía eólica",
+     "resumen": "Un nuevo enfoque experimental permite a los diseñadores de turbinas eólicas probar enfoques innovadores en condiciones controladas, potencialmente aumentando la potencia generada por parques eólicos existentes.",
      "enlace": "https://techxplore.com/news/2026-09-pressurized-tunnel-farms-generate-power.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-28T19:00+00:00"
@@ -363,28 +349,28 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-01",
+   "actualizada": "2026-10-02",
    "noticias": [
     {
-     "titulo": "Sistema de inteligencia artificial vence rivales en juego de estrategia con menos entrenamiento",
-     "resumen": "Un nuevo sistema de IA excels en juegos desafiantes con información oculta usando planificación dinámicamente. El desarrollo podría aplicarse en situaciones complejas donde se requiere seleccionar estrategias óptimas contra adversarios.",
+     "titulo": "Qubit de helio superfluido reduce errores en computación cuántica en aproximadamente 100 veces",
+     "resumen": "Un qubit propuesto hecho con helio superfluido podría reducir las tasas de error en computación cuántica protegiendo la información cuántica del ruido electromagnético común. Si los experimentos confirman las predicciones, la tecnología podría trabajar junto a sistemas actuales.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-01T13:17+00:00"
+    },
+    {
+     "titulo": "Sistema de inteligencia artificial vence rivales en juegos estratégicos con menos entrenamiento",
+     "resumen": "Un nuevo sistema de IA se destaca en juegos con información oculta utilizando menos juegos de práctica y planificación en tiempo real. El sistema podría ayudar a los tomadores de decisiones humanos a seleccionar estrategias para situaciones complejas como maniobras militares.",
      "enlace": "https://techxplore.com/news/2026-09-ai-defeats-war-game-rivals.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-30T15:00+00:00"
     },
     {
-     "titulo": "Desarrollan modelo de inteligencia artificial que razona sin procesar lenguaje",
-     "resumen": "Investigadores crearon BDH-CQ, un modelo que resuelve problemas sin convertir su razonamiento en secuencias largas de palabras. Representa un avance en cómo los sistemas de IA pueden procesar y resolver información.",
-     "enlace": "https://robotitus.com/investigadores-desarrollan-una-que-ia-piensa-sin-usar-palabras/",
-     "fuente": "Robotitus",
-     "fecha": "2026-09-28T20:58+00:00"
-    },
-    {
-     "titulo": "Nuevo código de almacenamiento en ADN inspirado en blockchain recupera datos dañados",
-     "resumen": "Investigadores de la Universidad de Hong Kong desarrollaron Gungnir, un sistema inspirado en blockchain para almacenamiento en ADN que puede recuperar datos de secuencias severamente dañadas. El método mejora la confiabilidad del almacenamiento de información genética.",
-     "enlace": "https://techxplore.com/news/2026-09-blockchain-dna-storage-codec-recovers.html",
+     "titulo": "Sistemas de notificación de archivos en Windows, Linux, Android y macOS presentan vulnerabilidades",
+     "resumen": "Investigadores de la Universidad Tecnológica de Graz descubrieron riesgos de seguridad en sistemas de notificación de archivos de sistemas operativos ampliamente utilizados. Mediante ataques de canal lateral, atacantes pueden rastrear actividad del usuario en estos sistemas.",
+     "enlace": "https://techxplore.com/news/2026-09-notification-windows-linux-android-macos.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-23T19:40+00:00"
+     "fecha": "2026-09-28T16:00+00:00"
     }
    ]
   }
