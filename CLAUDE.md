@@ -5,31 +5,31 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 ## Reglas que no se rompen
 
 - **Subir solo lo que cambiaste.** Antes de cada commit, `git status` y `git add <archivo>` uno por uno. Nunca `git add -A` ni `git add .`: en esta carpeta hay archivos privados que no se publican (`metgeo_equipo/` y `metgeo_servicios/`, excluidos en `.gitignore`). El repositorio es **público**.
-- **No incrustar el monitor.** Streamlit Community Cloud queda en blanco dentro de un `<iframe>` de otro dominio (comprobado en Chrome). `monitor.html` muestra una vista previa (`assets/monitor.png`) y abre el monitor en una pestaña nueva.
+- **No incrustar los monitores en este sitio.** `monitor.html` muestra una vista previa de cada uno (`assets/monitor-<clave>.png`) y lo abre en una pestaña nueva en su subdominio (`concepcion`, `araucania` y `coronel` `.metgeo.cl`). Esos subdominios los sirve el Worker `metgeo-dashboards` de Cloudflare, que muestra la app de Streamlit a pantalla completa (código en `00_Empresa/dashboards-worker/`).
 - **Sin imágenes de terceros.** Los fondos se dibujan con código en `assets/fondo.js`; las ilustraciones de servicios y equipo son SVG propios en `assets/img/`, y las de cada noticia se dibujan en `assets/noticias.js`. No usar fotos de bancos, ni la imagen original de una noticia, ni imágenes con derechos.
 - **Texto siempre como texto.** El contenido de `data/noticias.json` viene de fuentes externas: se inserta con `textContent`, nunca con `innerHTML`, y los enlaces se aceptan solo si empiezan con `https://`. `noticias.js` descarta las áreas o notas mal formadas antes de dibujar (los contadores cuentan solo lo que se muestra) y usa `area-<clave>` como id de cada sección, para que una clave nueva no tape otros ids de la página.
 - **Sin scripts ni estilos en línea.** Cada página declara una política de seguridad (`<meta http-equiv="Content-Security-Policy">`) que solo permite scripts y estilos de archivos del propio sitio (más Google Fonts). No usar `<script>` con código dentro, `onclick=` ni `style="…"`: no funcionarían. Para un ajuste puntual, crear una clase en `style.css` (por ejemplo `.mt`).
 - **Enlaces externos** con `target="_blank" rel="noopener noreferrer"`.
 - **Español neutro, forma «tú»,** sin modismos chilenos ni rioplatenses (nada de «podés», «mirá», «bacán», «po»).
-- **Una sola configuración:** las direcciones externas (newsletter, monitor y correo del formulario) viven en `assets/config.js`.
+- **Una sola configuración:** las direcciones externas (newsletter, monitores y correo del formulario) viven en `assets/config.js`.
 
 ## Estructura
 
 | Archivo | Qué es |
 |---|---|
-| `index.html` | Portada: título y bajada (con el ejemplo del temporal de julio en Los Ángeles), banda «MetGeo en cifras», «Qué hacemos» (modelación numérica, análisis de datos, asesoría técnica, consultoría), cuatro tarjetas de servicio con imagen, banda «Cómo trabajamos», «Por qué MetGeo» (seis puntos), las tres noticias más recientes (`#ultimas`), vista previa del monitor y banda final de contacto |
+| `index.html` | Portada: título y bajada (con el ejemplo del temporal de julio en Los Ángeles), banda «MetGeo en cifras», «Qué hacemos» (modelación numérica, análisis de datos, asesoría técnica, consultoría), cuatro tarjetas de servicio con imagen, banda «Cómo trabajamos», «Por qué MetGeo» (seis puntos), las tres noticias más recientes (`#ultimas`), tres tarjetas de los monitores (enlazan a `monitor.html#<clave>`) y banda final de contacto |
 | `nosotros.html` | Equipo de geofísicos: especialidades con el diagrama `img/equipo.svg`, banda con el propósito, seis compromisos (`#proposito`) y las tarjetas del equipo (`#equipo`) |
-| `servicios.html` | Los cuatro servicios, uno por fila con su imagen (`#eventos`, `#modelacion`, `#capacitaciones`, `#ambiental`), banda de análisis de datos y «De acceso libre» (`#libre`: monitor y noticias) |
+| `servicios.html` | Los cuatro servicios, uno por fila con su imagen (`#eventos`, `#modelacion`, `#capacitaciones`, `#ambiental`), banda de análisis de datos y «De acceso libre» (`#libre`: monitores y noticias) |
 | `contacto.html` | Formulario de contacto (`assets/contacto.js`) y tarjetas de correo, LinkedIn, Instagram y ubicación |
-| `monitor.html` | Descripción del monitor y enlace a la app en Streamlit |
+| `monitor.html` | Los tres monitores, uno por fila con su vista previa (`#concepcion`, `#araucania`, `#coronel`): Concepción y Araucanía (meteorológicos) y Coronel (oceanográfico, boya vs modelos). Para sumar uno: la fila, la tarjeta de la portada, la captura `assets/monitor-<clave>.png` (1280×900, la app con `?embed=true`) y la dirección en `monitores` de `config.js` |
 | `noticias.html` | Pestaña «Noticias científicas» y bloque de registro al newsletter (`#newsletter`) |
 | `equipo.html` | Solo redirige a `nosotros.html#equipo`, para no romper enlaces antiguos |
 | `assets/style.css` | Estilos de todo el sitio, con tokens de color y modo oscuro |
 | `assets/fondo.js` | Cordilleras con neblina de las portadas (`canvas.geo`) y red de puntos del fondo que sigue al cursor |
 | `assets/noticias.js` | Lee `data/noticias.json`: en `noticias.html` dibuja áreas, filtros, fechas y avisos; en `index.html` las tres últimas. Cada tarjeta lleva una ilustración dibujada por código: cada área tiene cinco dibujos (`AREAS`) y se elige el que calza con las palabras del título y el resumen (por ejemplo «huracán» → ciclón, «hielo» → témpanos, «galaxia» → espiral), sin repetir dentro del área; con más de cinco notas, se repiten con otra semilla. Los dibujos base están en `D` |
-| `assets/site.js` | Se carga en `<head>` en todas las páginas: menú de teléfono, cabecera que se compacta al bajar, botones `[data-newsletter]` y enlaces `[data-monitor]` según `config.js` |
+| `assets/site.js` | Se carga en `<head>` en todas las páginas: menú de teléfono, cabecera que se compacta al bajar, botones `[data-newsletter]` y enlaces `[data-monitor="<clave>"]` según `monitores` de `config.js` |
 | `assets/contacto.js` | Formulario de contacto: lo envía al Worker del newsletter (ver abajo) |
-| `assets/config.js` | `newsletterUrl`, `monitorUrl`, `contactoUrl` (Worker que recibe el formulario) y `contactoEmail` (respaldo) |
+| `assets/config.js` | `newsletterUrl`, `monitores` (clave → dirección), `contactoUrl` (Worker que recibe el formulario) y `contactoEmail` (respaldo) |
 | `assets/img/` | Ilustraciones SVG propias: `servicio-eventos.svg` (hietograma con período de retorno), `servicio-modelacion.svg` (bahía con malla, corrientes y pluma), `servicio-capacitacion.svg` (editor con Python escrito con apoyo de IA generativa y mapa de calor), `servicio-ambiental.svg` (cuenca con curvas de nivel y estaciones), `equipo.svg` (cuatro especialidades: modelación numérica, hidrología, climatología y energías renovables) y `topo.svg` (curvas de nivel de fondo de las bandas). Se generaron con un script de Python de un solo uso; se pueden editar a mano |
 | `assets/icono.svg` | Ícono de pestaña adaptable: símbolo azul con tema claro y en colores claros con tema oscuro (`@media (prefers-color-scheme: dark)` dentro del SVG), ambos con el anillo corregido a círculo. Lleva dentro dos PNG de 128 px |
 | `assets/icono.png` | Respaldo del ícono (Safari no usa íconos SVG) y `apple-touch-icon`: símbolo azul, 256×256, fondo transparente. Es el mismo `logo_solo.png` que usa el monitor. No usar `logo.png` como ícono: es alargado y se ve aplastado |
@@ -38,8 +38,8 @@ Sitio estático en GitHub Pages (repositorio `MetGeo/MetGeo.github.io`, rama `ma
 
 Cada página repite la misma cabecera, el mismo `<canvas class="net">` y el mismo pie. **Si cambia el menú o el pie, cambiarlo en las seis páginas.** Una página nueva debe copiar esa estructura (incluida la meta de seguridad), cargar `config.js` y `site.js` en `<head>` y `fondo.js` al final.
 
-- **Cabecera:** placa blanca con el logo (470 px en escritorio, 300 px al bajar por la página, 360 px bajo 1120 px, 270 px bajo 900 px, 220 px bajo 640 px y 175 px bajo 440 px), menú «Nosotros · Servicios · Monitor · Noticias» y el botón destacado «Contacto» (`.nav-cta`), y la franja celeste `.accent`. Bajo 900 px el menú se abre con el botón `.menu-btn`; sin JavaScript queda visible debajo del logo. `logo.png` mide 480×123, así que no conviene mostrarlo a más de 480 px.
-- **Pie:** azul profundo, logo claro (`logo-claro.svg`, clase `.foot-logo`) directo sobre el azul, mapa del sitio, correo, LinkedIn e Instagram, y una línea legal con las fuentes de datos de la página (monitor o noticias).
+- **Cabecera:** placa blanca con el logo (470 px en escritorio, 300 px al bajar por la página, 360 px bajo 1120 px, 270 px bajo 900 px, 220 px bajo 640 px y 175 px bajo 440 px), menú «Nosotros · Servicios · Monitores · Noticias» y el botón destacado «Contacto» (`.nav-cta`), y la franja celeste `.accent`. Bajo 900 px el menú se abre con el botón `.menu-btn`; sin JavaScript queda visible debajo del logo. `logo.png` mide 480×123, así que no conviene mostrarlo a más de 480 px.
+- **Pie:** azul profundo, logo claro (`logo-claro.svg`, clase `.foot-logo`) directo sobre el azul, mapa del sitio, correo, LinkedIn e Instagram, y una línea legal con las fuentes de datos de la página (monitores o noticias).
 - **Ícono en `<head>`:** `<link rel="icon" … icono.png sizes="32x32">` seguido de `<link rel="icon" type="image/svg+xml" href="assets/icono.svg">` (Chrome y Firefox usan el SVG; Safari, el PNG).
 
 ## Diseño

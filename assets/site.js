@@ -22,10 +22,12 @@ document.addEventListener("DOMContentLoaded", function () {
     el.hidden = Boolean(newsletter);
   });
 
-  // Enlaces al monitor: la dirección vive en config.js.
-  if (/^https:\/\//.test(cfg.monitorUrl || "")) {
-    document.querySelectorAll("[data-monitor]").forEach(function (a) { a.href = cfg.monitorUrl; });
-  }
+  // Enlaces a los monitores: data-monitor="<clave>" toma la dirección de config.js.
+  var monitores = cfg.monitores || {};
+  document.querySelectorAll("[data-monitor]").forEach(function (a) {
+    var url = monitores[a.getAttribute("data-monitor")];
+    if (/^https:\/\//.test(url || "")) a.href = url;
+  });
 
   // Menú de teléfono.
   var btn = document.querySelector(".menu-btn");
@@ -42,11 +44,20 @@ document.addEventListener("DOMContentLoaded", function () {
     nav.addEventListener("click", function (e) { if (e.target.closest("a")) setOpen(false); });
   }
 
-  // Cabecera compacta al bajar por la página.
+  // Cabecera compacta al bajar por la página. Al compactarse la cabecera pierde ~55 px de alto y la
+  // página sube lo mismo: con un solo umbral eso la hacía crecer y achicarse sin parar. Por eso se
+  // compacta pasados 140 px y vuelve a crecer bajo 20 px (la brecha es mayor que ese salto).
   var top = document.querySelector(".top");
   if (top) {
     var ticking = false;
-    var update = function () { top.classList.toggle("is-compact", window.scrollY > 60); ticking = false; };
+    var compact = false;
+    var update = function () {
+      var y = window.scrollY;
+      if (!compact && y > 140) compact = true;
+      else if (compact && y < 20) compact = false;
+      top.classList.toggle("is-compact", compact);
+      ticking = false;
+    };
     window.addEventListener("scroll", function () {
       if (!ticking) { ticking = true; requestAnimationFrame(update); }
     }, { passive: true });

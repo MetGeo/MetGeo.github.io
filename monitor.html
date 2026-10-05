@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<title>Monitor meteorológico · MetGeo Spa</title>
-<meta name="description" content="Monitor MetGeo Concepción: lo observado en las estaciones del Gran Concepción frente a 7 modelos globales de pronóstico.">
+<title>Monitores · MetGeo Spa</title>
+<meta name="description" content="Monitores de MetGeo: Concepción y Araucanía (meteorológicos) y Coronel (oceanográfico), lo observado frente a los modelos globales de pronóstico.">
 <link rel="icon" type="image/png" href="assets/icono.png" sizes="32x32">
 <link rel="icon" type="image/svg+xml" href="assets/icono.svg">
 <link rel="apple-touch-icon" href="assets/icono.png">
@@ -27,7 +27,7 @@
     <nav class="nav" id="menu" aria-label="Principal">
       <a href="nosotros.html">Nosotros</a>
       <a href="servicios.html">Servicios</a>
-      <a href="monitor.html" aria-current="page">Monitor</a>
+      <a href="monitor.html" aria-current="page">Monitores</a>
       <a href="noticias.html">Noticias</a>
       <a class="nav-cta" href="contacto.html">Contacto</a>
     </nav>
@@ -40,45 +40,87 @@
     <canvas class="geo" aria-hidden="true"></canvas>
     <div class="wrap">
       <div class="hero-copy">
-        <p class="eyebrow">Monitor meteorológico</p>
+        <p class="eyebrow">Monitores en línea</p>
         <h1>Lo observado frente a lo pronosticado, cada hora</h1>
-        <p class="lead">Una herramienta abierta de MetGeo para el Gran Concepción, desarrollada por Bruno Herrera.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="sec">
-    <div class="wrap">
-      <p class="kicker">Monitor</p>
-      <h2>MetGeo Concepción</h2>
-      <div class="rule"></div>
-      <p>Lo observado en las estaciones del Gran Concepción frente a lo que pronostican 7 modelos globales y un super-ensamble de 143 miembros, para lluvia, temperatura, humedad, viento, ráfagas y presión.</p>
-
-      <div class="btns mt">
-        <a class="btn btn-solid" data-monitor href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener noreferrer">Abrir el monitor &#8599;</a>
-      </div>
-      <p class="fine">Se abre en una pestaña nueva. Si nadie lo ha visitado en unos días, tarda unos segundos en despertar.</p>
-
-      <div class="frame frame-top">
-        <div class="frame-bar">
-          <span class="muted">Vista previa de la portada del monitor</span>
-          <a data-monitor href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener noreferrer">Abrir &#8599;</a>
+        <p class="lead">Tres herramientas abiertas de MetGeo, desarrolladas por Bruno Herrera: dos monitores meteorológicos y uno oceanográfico, que comparan las mediciones reales con los modelos globales de pronóstico.</p>
+        <div class="btns">
+          <a class="btn btn-sky" href="#concepcion">Concepción</a>
+          <a class="btn btn-ghost" href="#araucania">Araucanía</a>
+          <a class="btn btn-ghost" href="#coronel">Coronel</a>
         </div>
-        <a class="shot" data-monitor href="https://metgeo-concepcion.streamlit.app/" target="_blank" rel="noopener noreferrer" aria-label="Abrir el monitor">
-          <img src="assets/monitor.png" alt="Portada del monitor MetGeo Concepción con las condiciones actuales de Carriel Sur" width="1280" height="900" loading="lazy">
-        </a>
       </div>
-
-      <dl class="views">
-        <div><dt>Home</dt><dd>Las condiciones de ahora y lo que viene en 24 horas.</dd></div>
-        <div><dt>Comparar modelos</dt><dd>Los 7 modelos frente a lo observado, con sesgo, MAE y RMSE.</dd></div>
-        <div><dt>Lluvia</dt><dd>Mapa satelital, histograma horario y acumulado.</dd></div>
-        <div><dt>Meteograma</dt><dd>Las 6 variables sobre un mismo eje de tiempo.</dd></div>
-        <div><dt>Mapa de estaciones</dt><dd>La última medición de cada estación.</dd></div>
-      </dl>
-      <p class="fine">Observaciones preliminares, sin control de calidad. Es una herramienta de divulgación y no reemplaza los avisos de SENAPRED ni de la DMC.</p>
     </div>
   </section>
+
+  <div class="wrap">
+    <section class="svc" id="concepcion">
+      <a class="svc-img shot-link" data-monitor="concepcion" href="https://concepcion.metgeo.cl" target="_blank" rel="noopener noreferrer" aria-label="Abrir el monitor MetGeo Concepción">
+        <span class="shot"><img src="assets/monitor-concepcion.png" alt="Portada del monitor MetGeo Concepción con las condiciones actuales de Carriel Sur" width="1280" height="900" loading="lazy"></span>
+      </a>
+      <div>
+        <p class="kicker">01 · Meteorológico</p>
+        <h2>MetGeo Concepción</h2>
+        <div class="rule"></div>
+        <p>Lo observado en 17 sitios del Gran Concepción frente a lo que pronostican 7 modelos globales y un super-ensamble de 143 miembros, para lluvia, temperatura, humedad, viento, ráfagas y presión.</p>
+        <ul class="gets">
+          <li>Las condiciones de ahora y lo que viene en 24 horas</li>
+          <li>Los 7 modelos frente a lo observado, con sesgo, MAE y RMSE</li>
+          <li>Lluvia en mapa satelital, histograma horario y acumulado</li>
+          <li>Meteograma y mapa con la última medición de cada estación</li>
+        </ul>
+        <div class="btns">
+          <a class="btn btn-solid" data-monitor="concepcion" href="https://concepcion.metgeo.cl" target="_blank" rel="noopener noreferrer">Abrir el monitor &#8599;</a>
+        </div>
+        <p class="fine">concepcion.metgeo.cl · Datos: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center y Open-Meteo.</p>
+      </div>
+    </section>
+
+    <section class="svc svc-alt" id="araucania">
+      <a class="svc-img shot-link" data-monitor="araucania" href="https://araucania.metgeo.cl" target="_blank" rel="noopener noreferrer" aria-label="Abrir el monitor MetGeo Araucanía">
+        <span class="shot"><img src="assets/monitor-araucania.png" alt="Portada del monitor MetGeo Araucanía con las condiciones actuales del aeropuerto La Araucanía" width="1280" height="900" loading="lazy"></span>
+      </a>
+      <div>
+        <p class="kicker">02 · Meteorológico</p>
+        <h2>MetGeo Araucanía</h2>
+        <div class="rule"></div>
+        <p>La versión regional para La Araucanía: 72 sitios agrupados en costa, valle y cordillera, con los mismos 7 modelos globales y el super-ensamble de 143 miembros.</p>
+        <ul class="gets">
+          <li>71 estaciones VIPNet y el METAR del aeropuerto La Araucanía</li>
+          <li>Comparación de modelos con sesgo, MAE, RMSE y correlación</li>
+          <li>Lluvia esperada cada 6 horas, con la ráfaga máxima</li>
+          <li>Gráficos descargables en PNG y PDF</li>
+        </ul>
+        <div class="btns">
+          <a class="btn btn-solid" data-monitor="araucania" href="https://araucania.metgeo.cl" target="_blank" rel="noopener noreferrer">Abrir el monitor &#8599;</a>
+        </div>
+        <p class="fine">araucania.metgeo.cl · Datos: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center y Open-Meteo.</p>
+      </div>
+    </section>
+
+    <section class="svc" id="coronel">
+      <a class="svc-img shot-link" data-monitor="coronel" href="https://coronel.metgeo.cl" target="_blank" rel="noopener noreferrer" aria-label="Abrir el monitor MetGeo Coronel">
+        <span class="shot"><img src="assets/monitor-coronel.png" alt="Portada del monitor MetGeo Coronel con el oleaje y las corrientes medidos por la boya de Puerto Coronel" width="1280" height="900" loading="lazy"></span>
+      </a>
+      <div>
+        <p class="kicker">03 · Oceanográfico</p>
+        <h2>MetGeo Coronel</h2>
+        <div class="rule"></div>
+        <p>La boya de Puerto Coronel, en el golfo de Arauco, frente a los modelos oceánicos y de oleaje globales de acceso abierto: altura y periodo del oleaje, dirección y corrientes.</p>
+        <ul class="gets">
+          <li>Boya Sofar Spotter con ADCP, operada por la UdeC</li>
+          <li>Oleaje: MFWAM, ECMWF WAM, NOAA GFS-Wave y DWD GWAM</li>
+          <li>Corrientes: GLO12, GLORYS12, HYCOM ESPC y RTOFS</li>
+          <li>Validación de cada modelo contra la boya</li>
+        </ul>
+        <div class="btns">
+          <a class="btn btn-solid" data-monitor="coronel" href="https://coronel.metgeo.cl" target="_blank" rel="noopener noreferrer">Abrir el monitor &#8599;</a>
+        </div>
+        <p class="fine">coronel.metgeo.cl · Datos: boya de Puerto Coronel (UdeC, publicada por el CDOM), Copernicus Marine, HYCOM, NOAA RTOFS y Open-Meteo Marine.</p>
+      </div>
+    </section>
+
+    <p class="fine mon-note">Si un monitor no se ha visitado en un tiempo, tarda unos segundos en despertar. Observaciones preliminares: son herramientas de divulgación y no reemplazan los avisos de SENAPRED, la DMC ni el SHOA.</p>
+  </div>
 </main>
 
 <footer class="foot">
@@ -93,7 +135,7 @@
         <li><a href="index.html">Inicio</a></li>
         <li><a href="nosotros.html">Nosotros</a></li>
         <li><a href="servicios.html">Servicios</a></li>
-        <li><a href="monitor.html">Monitor</a></li>
+        <li><a href="monitor.html">Monitores</a></li>
         <li><a href="noticias.html">Noticias científicas</a></li>
         <li><a href="contacto.html">Contacto</a></li>
       </ul>
@@ -110,7 +152,7 @@
   <div class="foot-legal">
     <div class="wrap">
       <p>© 2026 MetGeo SpA · Concepción, Chile</p>
-      <p>Datos del monitor: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center y Open-Meteo. Imagen satelital de Esri World Imagery.</p>
+      <p>Datos de los monitores: VIPNet (DGA/MOP), METAR de NOAA Aviation Weather Center, Open-Meteo, boya de Puerto Coronel (UdeC/CDOM), Copernicus Marine, HYCOM y NOAA RTOFS. Imagen satelital de Esri World Imagery.</p>
     </div>
   </div>
 </footer>
