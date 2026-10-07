@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-06",
- "generado": "2026-10-06T09:02-03:00",
+ "dia": "2026-10-07",
+ "generado": "2026-10-07T09:00-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -9,35 +9,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Se identifican brechas críticas en el monitoreo de cambios climáticos en ecosistemas mediterráneos",
-     "resumen": "Una revisión global reveló importantes vacíos en la comprensión de cómo el cambio climático impacta las comunidades vegetales en algunos de los ecosistemas más vulnerables del mundo.",
+     "titulo": "Las olas de calor oceánico ocultan meses adicionales de calentamiento",
+     "resumen": "Las olas de calor marinas pueden ser solo la parte más intensa de eventos de calentamiento más prolongados, con temperaturas elevadas que persisten durante meses. Las mediciones convencionales subestiman la exposición total de calor en más del 150% en promedio.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-09-30T12:15+00:00"
+    },
+    {
+     "titulo": "El Niño y el calentamiento del Atlántico tropical advierten sobre calor extremo en la Amazonía",
+     "resumen": "El Niño y el calentamiento en el Atlántico tropical pueden proporcionar advertencia anticipada del calor extremo en la Amazonía, con señales que aparecen hasta siete meses antes. Esta investigación permite identificar patrones climáticos para prever eventos extremos.",
+     "enlace": "https://phys.org/news/2026-10-el-nio-tropical-atlantic-early.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-06T18:00+00:00"
+    },
+    {
+     "titulo": "Revisión global revela brechas importantes en el monitoreo de ecosistemas mediterráneos",
+     "resumen": "Un análisis global de impactos observados del cambio climático en comunidades vegetales muestra vacíos significativos en dónde y cómo se monitorean algunos de los ecosistemas más vulnerables al clima del mundo.",
      "enlace": "https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-06T01:40+00:00"
     },
     {
-     "titulo": "Ríos voladores sobre América del Sur forman redes de drenaje similares a las terrestres",
-     "resumen": "Grandes volúmenes de agua se desplazan a través de la atmósfera en trayectorias persistentes, transportados por vientos desde océanos y tierra antes de precipitarse cientos o miles de kilómetros de distancia.",
-     "enlace": "https://phys.org/news/2026-10-flying-rivers-south-america-drainage.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-05T16:00+00:00"
-    },
-    {
-     "titulo": "Metano atrapado en el permafrost ártico se filtra lentamente y calienta el planeta",
-     "resumen": "En Alaska, el metano congelado en el permafrost comienza a liberarse gradualmente a medida que se descongela el terreno, acelerando el calentamiento global.",
+     "titulo": "Gas atrapador de calor congelado en el Ártico escapa lentamente calentando el planeta",
+     "resumen": "Metano, un gas potente que atrapa calor proveniente de plantas y animales descompuestos, está siendo liberado lentamente desde el permafrost de Alaska que se descongela, contribuyendo al calentamiento global.",
      "enlace": "https://phys.org/news/2026-10-gas-frozen-arctic-ground-slowly.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-04T16:20+00:00"
-    },
-    {
-     "titulo": "Cambios en la circulación atmosférica alteran sutilmente la velocidad de rotación terrestre",
-     "resumen": "Los cambios en los vientos y la distribución de masa atmosférica pueden intercambiar momento angular con la Tierra sólida, modificando ligeramente la velocidad de rotación del planeta.",
-     "enlace": "https://phys.org/news/2026-10-atmosphere-earth-uncovering-subtle-climate.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-03T16:20+00:00"
     }
    ]
   },
@@ -78,16 +78,8 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
-   "noticias": [
-    {
-     "titulo": "Las olas de calor oceánicas ocultan meses de calentamiento adicional",
-     "resumen": "Investigadores descubrieron que las mediciones convencionales subestiman la exposición total de calor en más del 150% en promedio, ya que temperaturas elevadas persisten durante meses más allá de los eventos de onda de calor marina.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-30T12:15+00:00"
-    }
-   ]
+   "actualizada": "2026-10-07",
+   "noticias": []
   },
   {
    "clave": "geologia",
@@ -96,28 +88,14 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Tsunami del terremoto de Kamchatka 2025 mantiene oscilaciones detectables por horas",
-     "resumen": "Un terremoto de magnitud 8,8 en julio de 2025 frente a la Península de Kamchatka generó un tsunami que mantuvo el océano Pacífico oscilando más de diez horas, proporcionando patrones rítmicos que podrían mejorar los sistemas de alerta temprana.",
-     "enlace": "https://phys.org/news/2026-09-kamchatka-tsunami-pacific-ten-hours.html",
+     "titulo": "Niveles antiguos de mar revelan desplazamiento histórico de polos terrestres",
+     "resumen": "El análisis de niveles del mar antiguos evidencia cambios en la posición de los polos terrestres, proceso conocido como precesión polar verdadera. Regiones que estuvieron cerca del polo norte pueden haber migrado hacia el ecuador geológicamente.",
+     "enlace": "https://phys.org/news/2026-10-ancient-sea-reveal-earth-poles.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-01T21:20+00:00"
-    },
-    {
-     "titulo": "Núcleos de hielo tibetano preservan fragmentos de la última edad de hielo",
-     "resumen": "Núcleos de hielo recuperados de una región de alta altitud en el Tíbet noroeste extienden el registro glacial terrestre más de cien mil años, siendo los más antiguos jamás obtenidos en esa región.",
-     "enlace": "https://phys.org/news/2026-09-deep-high-altitude-glacier-ice.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-30T21:50+00:00"
-    },
-    {
-     "titulo": "Fósiles de 1,7 mil millones de años revelan origen de la vida compleja",
-     "resumen": "Más de 12 mil fósiles de eukariotas antiguos encontrados en rocas australianas demuestran que las primeras células complejas se desarrollaron solo en ambientes con oxígeno disponible.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-27T11:55+00:00"
+     "fecha": "2026-10-02T17:20+00:00"
     }
    ]
   },
@@ -128,28 +106,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Fallas de California alcanzan máximos niveles de estrés en mil años",
-     "resumen": "El estrés en las fallas de San Andreas y San Jacinto del sur de California ha llegado a niveles entre los más altos registrados en simulaciones de mil años. La confluencia en el Cajon Pass presenta riesgo creciente de ruptura debido a que ambas fallas están altamente tensionadas simultáneamente.",
+     "titulo": "Estrés en fallas de California alcanza máximos de mil años",
+     "resumen": "Investigadores detectaron que el estrés en las fallas de San Andreas y San Jacinto en el sur de California ha alcanzado niveles entre los más altos registrados en una simulación de mil años. La confluencia en el paso de Cajón presenta condiciones cada vez más proclives a una ruptura.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-02T04:58+00:00"
     },
     {
-     "titulo": "Volcán Masaya podría albergar dos reservorios magmáticos activos",
-     "resumen": "Investigadores de Penn State descubrieron evidencia de dos nuevas fuentes magmáticas bajo el volcán Masaya en Nicaragua, que se ubica a 21 kilómetros de 2 millones de personas. El hallazgo subraya riesgos críticos para esta zona densamente poblada con un volcán activo y lago de lava.",
-     "enlace": "https://phys.org/news/2026-10-magma-reservoirs-beneath-masaya-volcano.html",
+     "titulo": "Pulsos de luz en perforación revelan peligros sísmicos ocultos",
+     "resumen": "Científicos proponen disparar pulsos de luz a través de un pozo de tres kilómetros para comprender mejor cómo ocurren los terremotos y qué sucede durante una ruptura. Este método podría mejorar significativamente la evaluación del riesgo sísmico.",
+     "enlace": "https://phys.org/news/2026-10-pulses-kilometer-borehole-illuminate-seismic.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-02T13:40+00:00"
-    },
-    {
-     "titulo": "Rayos cósmicos revelan campos eléctricos extremos en tormentas",
-     "resumen": "El telescopio de muones GRAPES-3, diseñado para estudiar rayos cósmicos, demostró ser herramienta poderosa para investigar tormentas eléctricas. Las observaciones muestran que las nubes de tormenta desarrollan diferencias de potencial eléctrico muy superiores a las medidas anteriormente.",
-     "enlace": "https://phys.org/news/2026-10-cosmic-ray-particles-probe-powerful.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-02T04:00+00:00"
+     "fecha": "2026-10-06T17:00+00:00"
     }
    ]
   },
@@ -160,21 +131,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Erupción de Vesuvio del año 79 proporciona reloj más preciso para datar eventos geológicos",
-     "resumen": "El equipo de Vesuvio mejora técnicas de datación de eventos profundos en la Tierra. La precisión alcanzada permitirá afinar cronologías de erupciones volcánicas, impactos de asteroides y extinciones.",
+     "titulo": "Dos reservorios de magma activo bajo volcán Masaya podrían afectar a 2 millones de personas",
+     "resumen": "Investigadores de la Universidad Estatal de Pensilvania encontraron evidencia de dos nuevas fuentes de magma bajo el volcán Masaya en Nicaragua, ubicado a 21 kilómetros de 2 millones de habitantes y un popular destino turístico con lago de lava.",
+     "enlace": "https://phys.org/news/2026-10-magma-reservoirs-beneath-masaya-volcano.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-02T13:40+00:00"
+    },
+    {
+     "titulo": "Erupción del Vesubio de hace 2000 años proporciona precisión para datar eventos geológicos",
+     "resumen": "La erupción del Vesubio en el 79 d.C. ofrece a los científicos un punto de referencia notablemente preciso para fechar eventos profundos en el pasado terrestre, mejorando las cronologías de erupciones volcánicas, impactos de asteroides y extinciones.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-09-30T09:37+00:00"
     },
     {
-     "titulo": "Satélite EarthCARE mejora monitoreo de columnas volcánicas para seguridad aérea",
-     "resumen": "Observaciones del satélite EarthCARE sobre el volcán Anak Krakatau optimizan el seguimiento de plumas volcánicas. Estos datos contribuyen a mejorar la seguridad de la aviación comercial.",
+     "titulo": "Satélite EarthCARE mejora seguridad aérea con monitoreo de pluma volcánica de Anak Krakatau",
+     "resumen": "El satélite EarthCARE observó la pluma volcánica de Anak Krakatau, el volcán que emergió en la caldera formada por la erupción de Krakatoa en 1883, demostrando cómo la tecnología satelital aumenta la seguridad en el transporte aéreo.",
      "enlace": "https://phys.org/news/2026-10-earthcare-view-volcanic-plume-boosts.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-01T20:20+00:00"
+    },
+    {
+     "titulo": "Tsunami de Kamchatka de 2025 mantuvo el Pacífico resonando más de diez horas",
+     "resumen": "El terremoto de magnitud 8.8 del 29 de julio de 2025 frente a Kamchatka fue el mayor en la Tierra desde 2011, generando un tsunami cuyo patrón de oscilación en el Pacífico durante más de diez horas podría mejorar sistemas de alerta temprana.",
+     "enlace": "https://phys.org/news/2026-09-kamchatka-tsunami-pacific-ten-hours.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-01T21:20+00:00"
     }
    ]
   },
@@ -185,42 +170,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Francis Halzen recibe Premio Nobel de Física por investigación en neutrinos cósmicos",
-     "resumen": "Francis Halzen fue galardonado con el Premio Nobel de Física por sus esfuerzos en el estudio de neutrinos, partículas cósmicas raras que ofrecen evidencia sobre la evolución del universo.",
-     "enlace": "https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-06T10:12+00:00"
+     "titulo": "Evidencia de que el plasma de quarks-gluones se comporta como líquido verdadero",
+     "resumen": "Físicos del Gran Colisionador de Hadrones capturaron la evidencia más clara hasta ahora de que el plasma de quarks-gluones, la materia ardiente que llenó el universo recién nacido, se comporta como un líquido verdadero al rastrear quarks individuales atravesando el plasma.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-06T12:04+00:00"
     },
     {
-     "titulo": "Fluctuaciones cuánticas en el vacío fortalecen superconductores ultrafinos",
-     "resumen": "Investigadores demostraron que fluctuaciones cuánticas en el espacio vacío pueden incrementar la superconductividad, elevando la temperatura de transición de materiales ultrafinos hasta 5,4 por ciento.",
+     "titulo": "Fluctuaciones cuánticas en el vacío fortalecen la superconductividad hasta 5,4 por ciento",
+     "resumen": "Investigadores demostraron que las fluctuaciones cuánticas en el espacio vacío pueden fortalecer la superconductividad, elevando la temperatura de transición de un material ultradelgado hasta 5,4 por ciento y abriendo posibilidades de usar ambientes de vacío especialmente diseñados.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-03T12:03+00:00"
     },
     {
-     "titulo": "Campos magnéticos primordiales explican discrepancia en expansión del universo",
-     "resumen": "Campos magnéticos diminutos creados poco después del Big Bang podrían explicar la divergencia sobre la velocidad de expansión cósmica al alterar la formación de hidrógeno en el universo temprano.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+     "titulo": "Rayos X ultrarrápidos revelan transferencia eficiente de energía en reacciones químicas",
+     "resumen": "Investigadores capturaron pasos clave en una reacción química que permite a la naturaleza transferir energía con eficiencia notable, donde cambios de electrones y protones están vinculados con el reordenamiento de moléculas de agua circundantes.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-04T12:05+00:00"
+     "fecha": "2026-10-06T07:49+00:00"
     },
     {
-     "titulo": "Descubrimiento de altermagnetismo abre camino a computadores más eficientes",
-     "resumen": "Científicos encontraron evidencia de altermagnetismo en un material sintonizable que permitiría a dispositivos electrónicos utilizar el espín electrónico en lugar de depender solo de carga eléctrica.",
+     "titulo": "Magnetismo alternado podría permitir computadoras más rápidas y eficientes en energía",
+     "resumen": "Científicos descubrieron evidencia de altermagnetismo en un material delgado y altamente sintonizable que permitiría que la electrónica use espín de electrones sin depender únicamente de carga eléctrica, posibilitando dispositivos más eficientes.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-05T11:35+00:00"
     },
     {
-     "titulo": "Avance en teleportación cuántica resuelve desafío de 25 años en entrelazamiento",
-     "resumen": "Se desarrolló y demostró experimentalmente un método para identificar estados W, una forma importante de entrelazamiento cuántico multifoton que podría facilitar la medición de sistemas complejos entrelazados.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-29T12:02+00:00"
+     "titulo": "Primer superconductor de tipo I que rompe simetría de inversión temporal identificado",
+     "resumen": "Físicos descubrieron el primer superconductor de tipo I que rompe la simetría de inversión temporal, revelando propiedades cuánticas extrañas adicionales más allá de las ya conocidas en superconductores.",
+     "enlace": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-02T21:00+00:00"
     }
    ]
   },
@@ -231,42 +216,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Telescopio espacial Roman de la NASA demuestra capacidad de búsqueda de planetas",
-     "resumen": "El telescopio espacial Roman de la NASA mostró estabilidad de apuntamiento notable y permitió que su coronógrafo de imagen planetaria observara el cosmos por primera vez, con precisión comparable a apuntar un láser a una moneda desde 240 kilómetros de distancia.",
+     "titulo": "Telescopio espacial de la NASA demuestra capacidad de búsqueda de planetas",
+     "resumen": "El telescopio espacial Roman de la NASA demostró estabilidad de apuntamiento y su coronagráfo para imágenes planetarias obtuvo sus primeras observaciones cósmicas, con precisión comparable a apuntar un láser a una moneda desde 150 millas de distancia.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-02T12:21+00:00"
     },
     {
+     "titulo": "Motor de explosión de rayos gamma activo durante casi un mes",
+     "resumen": "Astrónomos observaron la actividad del motor central más prolongada jamás registrada en una explosión de rayos gamma, durando aproximadamente 27 días en el marco de referencia del estallido, unos 20 días más que el registro anterior.",
+     "enlace": "https://phys.org/news/2026-10-gamma-ray-stayed-month-previous.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-06T17:20+00:00"
+    },
+    {
      "titulo": "Simulaciones revelan cómo las primeras estrellas transformaron el universo",
-     "resumen": "El proyecto MEGATRON utiliza simulaciones ultra detalladas para mostrar cómo las primeras estrellas iluminaron el universo oscuro y sembraron el espacio con carbono, oxígeno y hierro, conectando observaciones del JWST con pistas químicas en estrellas antiguas.",
+     "resumen": "Simulaciones detalladas muestran cómo las primeras estrellas iluminaron el universo oscuro y sembraron el espacio con elementos como carbono, oxígeno e hierro, conectando observaciones del telescopio JWST con pistas químicas en estrellas antiguas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-03T12:50+00:00"
     },
     {
-     "titulo": "Galaxias primitivas enriquecieron químicamente el universo más rápido de lo esperado",
-     "resumen": "El JWST reveló que galaxias dispersaban carbono, oxígeno y otros elementos pesados apenas 500 millones de años después del Big Bang, sugiriendo que el universo joven se enriqueció químicamente mucho antes de lo previsto.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-02T11:24+00:00"
+     "titulo": "Telescopio James Webb revela estrellas ocultas en vivero estelar",
+     "resumen": "El observatorio Webb capturó en luz infrarroja numerosas estrellas previamente ocultas por nubes de polvo en NGC 7129, un vivero estelar situado a 3.300 años luz de la Tierra.",
+     "enlace": "https://phys.org/news/2026-10-webb-captures-commotion-nebula-stellar.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-06T17:40+00:00"
     },
     {
-     "titulo": "Astrónomos descubren planeta de segunda generación orbitando enana blanca",
-     "resumen": "Se identificó el primer ejemplo de un planeta que orbita una enana blanca y parece haber formado a partir de los restos de la estrella muerta que ahora rodea.",
+     "titulo": "Primer planeta de segunda generación orbitando una enana blanca",
+     "resumen": "Astrónomos descubrieron el primer ejemplo de un planeta formado a partir de los restos de una enana blanca muerta, un mundo renacido de las cenizas de su estrella.",
      "enlace": "https://phys.org/news/2026-10-phoenix-planet-astronomers-world-reborn.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-05T15:00+00:00"
-    },
-    {
-     "titulo": "Destello de rayos X récord revela posible nacimiento de magnetar",
-     "resumen": "Astrónomos encontraron evidencia de que algunos destellos misteriosos de rayos X de minutos de duración se producen cuando dos estrellas de neutrones colisionan y crean un magnetar, con un evento que brilló durante casi 10 minutos.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-30T12:27+00:00"
     }
    ]
   },
@@ -277,39 +262,32 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Material activado por luz produce hidrógeno del agua sin catalizador metálico costoso",
-     "resumen": "Investigadores desarrollaron un material basado en sulfuro que genera hidrógeno eficientemente desde agua mediante activación lumínica, eliminando la necesidad de catalizadores metálicos caros y abriendo caminos hacia combustibles limpios más prácticos.",
+     "titulo": "Mapeo de 10.000 reacciones químicas revela pasos desconocidos en conversión de CO₂ a combustible",
+     "resumen": "Científicos mapearon miles de pasos químicos elementales que ocurren en catalizadores durante la hidrogenación de CO₂ para producir metanol y otros combustibles, identificando etapas previamente pasadas por alto en esta conversión química.",
+     "enlace": "https://phys.org/news/2026-10-reactions-reveal-overlooked-fuel-conversion.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-06T23:20+00:00"
+    },
+    {
+     "titulo": "Nuevo material activado por luz produce hidrógeno del agua sin catalizador de metal costoso",
+     "resumen": "Investigadores desarrollaron un material basado en química de azufre que genera eficientemente hidrógeno a partir de agua mediante luz, ofreciendo una ruta más económica y práctica para convertir luz solar en combustible limpio.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-04T11:11+00:00"
     },
     {
-     "titulo": "Modificación de química superficial del platino mejora producción de hidrógeno solar",
-     "resumen": "Investigadores del EPFL descubrieron cómo diferentes haluros modifican la química superficial de fotocatalizadores de nanopartículas semiconductoras orgánicas, mejorando significativamente la eficiencia de producción de hidrógeno solar.",
-     "enlace": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-02T22:20+00:00"
-    },
-    {
-     "titulo": "Uranio forma raro triple enlace con carbono en compuesto recientemente aislado",
-     "resumen": "Un equipo internacional sintetizó y caracterizó el primer carbineo Fischer de uranio aislable, un compuesto que demuestra nuevas posibilidades en la química del uranio, según publicación en Nature Chemistry.",
+     "titulo": "Uranio forma raro triple enlace con carbono en compuesto recién aislado",
+     "resumen": "Un equipo internacional sintetizó y caracterizó el primer carbino Fischer de uranio aislable, según publicación en Nature Chemistry, demostrando un enlace triple inusual entre uranio y carbono.",
      "enlace": "https://phys.org/news/2026-10-uranium-rare-triple-bond-carbon.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-02T14:40+00:00"
     },
     {
-     "titulo": "Rayos X ultrarrápidos revelan cambios de forma de azobenceno en picosegundos",
-     "resumen": "Después de casi 50 años sin resolverse, investigadores utilizaron rayos X ultrarrápidos para observar cómo el azobenceno, una molécula sensible a la luz, cambia de forma en los primeros picosegundos tras absorber luz.",
-     "enlace": "https://phys.org/news/2026-10-ultrafast-rays-reveal-responsive-molecular.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-02T20:00+00:00"
-    },
-    {
-     "titulo": "Sales estables ofrecen alternativa segura a reactivos potencialmente explosivos en química de carbenos",
-     "resumen": "Químicos desarrollaron sales estables que generan carbenos reactivos sin los riesgos de seguridad asociados a compuestos diazo tradicionales, permitiendo reacciones químicas útiles con menor peligro.",
+     "titulo": "Sales estables reemplazan reactivos potencialmente explosivos en química de carbenos",
+     "resumen": "Investigadores desarrollaron sales estables como alternativa a compuestos diazos para generar carbenos reactivos en síntesis química, eliminando los riesgos de seguridad asociados a reactivos explosivos tradicionales.",
      "enlace": "https://phys.org/news/2026-10-stable-salts-alternative-potentially-explosive.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-01T15:40+00:00"
@@ -323,42 +301,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
-     "titulo": "Sistema escalado de agua marina produce hidrógeno y agua dulce con mayor eficiencia",
-     "resumen": "Electrolizadores de agua impulsados por energías renovables como celdas solares pueden producir hidrógeno de forma sostenible para la fabricación de amoníaco. El sistema escalado mejora la eficiencia en la producción simultánea de hidrógeno y agua dulce.",
+     "titulo": "Investigadores alcanzan récord mundial de eficiencia en celdas solares de perovskita",
+     "resumen": "Un equipo de la UNSW logró una eficiencia de conversión de potencia certificada del 23,5% en un submódulo fotovoltaico de perovskita de gran área, superando registros anteriores y acercando esta tecnología a aplicaciones comerciales.",
+     "enlace": "https://techxplore.com/news/2026-10-large-scale-perovskite-photovoltaic-efficiency.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-07T11:20+00:00"
+    },
+    {
+     "titulo": "Sistema de electrólisis con agua de mar produce hidrógeno y agua dulce con mayor rendimiento",
+     "resumen": "Investigadores desarrollaron un electroalizador que divide agua de mar en hidrógeno y oxígeno con eficiencia mejorada, permitiendo producción sostenible de hidrógeno impulsada por energías renovables para aplicaciones como síntesis de amoníaco.",
      "enlace": "https://techxplore.com/news/2026-09-scaled-seawater-hydrogen-fresh-higher.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-03T13:00+00:00"
     },
     {
-     "titulo": "Azul de Prusia mejora desempeño de celdas solares de perovskita en módulos grandes",
-     "resumen": "Las celdas solares de perovskita son una tecnología fotovoltaica de próxima generación con alta eficiencia de conversión. El uso de azul de Prusia resuelve problemas de rendimiento y estabilidad a largo plazo en la fabricación y operación.",
-     "enlace": "https://techxplore.com/news/2026-09-prussian-blue-perovskite-solar-small.html",
+     "titulo": "Fotocatalizadores mejorados potencian la producción de hidrógeno verde mediante energía solar",
+     "resumen": "Científicos desarrollaron fotocatalizadores con metales sometidos a tratamientos especiales que mejoran la dispersión y actividad fotocatalítica, incrementando significativamente la producción de hidrógeno verde a partir de energía solar.",
+     "enlace": "https://techxplore.com/news/2026-10-photocatalysts-boost-solar-hydrogen-production.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-30T17:20+00:00"
+     "fecha": "2026-10-06T19:20+00:00"
     },
     {
-     "titulo": "Autobuses eléctricos se cargan mediante las ruedas en paradas de transporte",
-     "resumen": "Investigadores desarrollaron un sistema de carga inalámbrica que carga buses eléctricos a través de sus ruedas en las paradas. La tecnología se espera reduzca significativamente los costos operacionales de las líneas de transporte.",
+     "titulo": "Autobuses eléctricos se cargan de forma inalámbrica mediante sus ruedas en paradas",
+     "resumen": "Investigadores desarrollaron un sistema de carga inalámbrica que alimenta autobuses eléctricos a través de sus ruedas en paradas de autobús, reduciendo significativamente los costos operacionales de las líneas de transporte.",
      "enlace": "https://techxplore.com/news/2026-10-electric-buses.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-05T16:40+00:00"
     },
     {
-     "titulo": "Supercapacitores basados en cemento podrían potenciar edificios inteligentes",
-     "resumen": "La energía podría generarse, almacenarse y utilizarse en el mismo lugar usando fuentes renovables almacenadas en el concreto de construcción. Esta solución permite crear edificios inteligentes de próxima generación autosuficientes energéticamente.",
+     "titulo": "Supercapacitores de cemento podrían almacenar y suministrar energía en edificios inteligentes",
+     "resumen": "Científicos desarrollaron supercapacitores integrados en hormigón que permitirían generar, almacenar y usar energía renovable en el mismo lugar, transformando edificios en sistemas autónomos de energía limpia.",
      "enlace": "https://techxplore.com/news/2026-10-cement-based-supercapacitors-power-generation.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-01T21:09+00:00"
-    },
-    {
-     "titulo": "Dispositivo basado en batería reduce costos de captura de carbono bajo 100 dólares por tonelada",
-     "resumen": "Un dispositivo basado en batería permite capturar dióxido de carbono directamente del aire con costos inferiores a 100 dólares por tonelada. Esta tecnología complementa esfuerzos para reducir emisiones de procesos industriales y actividades humanas.",
-     "enlace": "https://techxplore.com/news/2026-10-battery-based-device-carbon-capture.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-01T15:20+00:00"
     }
    ]
   },
@@ -370,35 +348,35 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-06",
+   "actualizada": "2026-10-07",
    "noticias": [
     {
      "titulo": "Qubits de helio superfluido reducirían errores en computación cuántica cien veces",
-     "resumen": "Investigadores proponen qubits fabricados con helio superfluido que podrían disminuir las tasas de error en computadoras cuánticas alrededor de cien veces al blindar la información cuántica del ruido electromagnético común.",
+     "resumen": "Investigadores proponen un qubit basado en helio superfluido que podría disminuir las tasas de error en computadoras cuánticas aproximadamente cien veces al blindar la información cuántica del ruido electromagnético común.",
      "enlace": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-01T13:17+00:00"
     },
     {
-     "titulo": "Los benchmarks estándar para evaluar inteligencia artificial podrían estar errados",
-     "resumen": "Investigadores señalan que las pruebas utilizadas para calificar modelos de inteligencia artificial antes de su lanzamiento pueden no estar evaluando correctamente capacidades como razonamiento y seguridad.",
-     "enlace": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+     "titulo": "Nuevo índice preserva precisión en búsquedas de inteligencia artificial con datos dinámicos",
+     "resumen": "Investigadores de KAIST desarrollaron una tecnología de base de datos vectorial que mantiene los caminos de búsqueda correctos incluso cuando se agregan y eliminan registros continuamente en sistemas de inteligencia artificial.",
+     "enlace": "https://techxplore.com/news/2026-10-index-ai-accuracy-added-deleted.html",
      "fuente": "Phys.org",
-     "fecha": "2026-09-30T13:20+00:00"
+     "fecha": "2026-10-06T15:40+00:00"
     },
     {
-     "titulo": "Sistemas de notificación de archivos vulnerables en Windows, Linux, Android y macOS",
-     "resumen": "Investigadores de la Universidad Técnica de Graz descubrieron riesgos de seguridad en sistemas de notificación de archivos de sistemas operativos ampliamente utilizados mediante ataques de canal lateral.",
-     "enlace": "https://techxplore.com/news/2026-09-notification-windows-linux-android-macos.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-28T16:00+00:00"
-    },
-    {
-     "titulo": "Inteligencia artificial derrota rivales de videojuegos de estrategia con planificación dinámica",
-     "resumen": "Un nuevo sistema de inteligencia artificial logra desempeño superior en juegos complejos con información oculta, demostrando potencial para ayudar en toma de decisiones estratégicas.",
+     "titulo": "Inteligencia artificial derrota rivales en juego estratégico con menos entrenamiento",
+     "resumen": "Un nuevo sistema de inteligencia artificial que sobresale en juegos complejos con información oculta podría ayudar en futuras decisiones estratégicas ante oponentes en situaciones como maniobras militares.",
      "enlace": "https://techxplore.com/news/2026-09-ai-defeats-war-game-rivals.html",
      "fuente": "Phys.org",
      "fecha": "2026-09-30T15:00+00:00"
+    },
+    {
+     "titulo": "Pruebas estándar para evaluar inteligencia artificial podrían producir resultados incorrectos",
+     "resumen": "Investigadores cuestionan la confiabilidad de los benchmarks que califican sistemas de inteligencia artificial antes de su lanzamiento público, sobre los que se asientan miles de millones en inversión.",
+     "enlace": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-09-30T13:20+00:00"
     }
    ]
   }
