@@ -69,7 +69,7 @@ Cada fila de `servicios.html` lleva imagen, etiqueta, título, un párrafo, tres
 
 `contacto.js` envía el mensaje (JSON) a `contactoUrl` de `config.js`: el Worker del newsletter (`POST /api/contacto`), que lo guarda en Cloudflare D1 hasta que el computador de MetGeo lo reenvía por Gmail a metgeo.spa@gmail.com cada 15 minutos (detalle y anti-spam en el `CLAUDE.md` del newsletter). La página muestra «¡Gracias! Recibimos tu mensaje…» cuando el Worker responde bien. Si el Worker no responde, ofrece un enlace «Abrir mi programa de correo» con el mensaje listo para `contactoEmail` (respaldo `mailto:`, recortado si supera 1.900 caracteres).
 
-- La meta de seguridad de `contacto.html` permite `connect-src` hacia `https://metgeo-newsletter.metgeo.workers.dev`. Si cambia la dirección del Worker, actualizar ahí y en `config.js`.
+- La meta de seguridad de `contacto.html` permite `connect-src` hacia `https://newsletter.metgeo.cl`. Si cambia la dirección del Worker, actualizar ahí y en `config.js`.
 - El Worker solo acepta envíos desde `https://metgeo.github.io` (`CONTACT_ORIGINS` en su `wrangler.toml`): si el sitio pasa a un dominio propio, agregarlo allá.
 - El campo oculto `website` (`.trap`) es una trampa para bots: no borrarlo ni hacerlo visible.
 - Límites: nombre 100, correo y organización 120, mensaje 2.000 caracteres. Los temas (`TEMAS`) deben coincidir con `TOPICS` del Worker.
