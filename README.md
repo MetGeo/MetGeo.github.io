@@ -66,3 +66,20 @@ python3 -m http.server 8000
 ```
 
 Y abre `http://localhost:8000`. Abrir el HTML con doble clic no carga las noticias, porque el navegador bloquea la lectura de `data/noticias.json` desde un archivo local.
+
+## SEO e indexación
+
+El dominio principal actual es `https://metgeo.cl/` (ver `CNAME`). Las seis páginas principales tienen una URL canónica, título y descripción propios, y metadatos Open Graph y Twitter para compartir enlaces. `equipo.html` conserva su redirección y señala como canónica `nosotros.html`.
+
+`robots.txt` permite el rastreo y anuncia `sitemap.xml`, que enumera las seis páginas principales. No incluye la redirección antigua, URLs con parámetros ni anclas. Al agregar una página pública, actualizar el sitemap y agregar sus metadatos. Si cambia el dominio, actualizar las canónicas, los metadatos sociales, `robots.txt` y `sitemap.xml`, además de `CNAME`. No agregar fechas `lastmod` que no correspondan a cambios reales del contenido.
+
+### Después de publicar
+
+1. Comprobar que `https://metgeo.cl/robots.txt` y `https://metgeo.cl/sitemap.xml` responden con HTTP 200, y que las páginas no reciben un encabezado `X-Robots-Tag: noindex`.
+2. Abrir [Google Search Console](https://search.google.com/search-console), agregar la propiedad de dominio `metgeo.cl` y verificarla con el registro TXT que Google entregue. Esto requiere acceso al proveedor DNS del dominio. Si ya existe una propiedad verificada, usarla.
+3. En **Sitemaps**, enviar `https://metgeo.cl/sitemap.xml`.
+4. En **Inspección de URLs**, inspeccionar `https://metgeo.cl/`, probar la URL publicada y solicitar indexación. Repetir para servicios y las demás páginas si corresponde.
+5. Revisar **Indexación > Páginas** para conocer los motivos concretos de exclusión. Una búsqueda `site:metgeo.cl` sin resultados no confirma por sí sola que ninguna página esté indexada.
+6. Verificar que LinkedIn e Instagram enlacen al dominio principal, y conseguir enlaces desde colaboradores o instituciones con los que MetGeo trabaje.
+
+Estos cambios facilitan el descubrimiento y la identificación del sitio; no garantizan indexación ni una posición determinada. Google indica que el rastreo puede tardar días o semanas. Referencias: [sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview) y [solicitar rastreo](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
