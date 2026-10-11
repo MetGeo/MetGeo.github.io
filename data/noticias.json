@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-09",
- "generado": "2026-10-09T08:47-03:00",
+ "dia": "2026-10-11",
+ "generado": "2026-10-11T20:38-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -9,28 +9,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "La temperatura superficial del mar en el Pacífico tropical llegaría a niveles récord en 2026 por El Niño",
-     "resumen": "Se pronostica que la temperatura superficial del mar en el Pacífico central y oriental tropical alcance niveles récord entre octubre y diciembre de 2026, reflejando el fortalecimiento de El Niño.",
+     "titulo": "El Niño se fortalece y el Pacífico tropical podría alcanzar temperaturas superficiales récord en el último trimestre de 2026",
+     "resumen": "Según el pronóstico, la temperatura superficial del mar en el Pacífico tropical central y oriental subiría a niveles récord entre octubre y diciembre de 2026.",
      "enlace": "https://phys.org/news/2026-10-sea-surface-temperatures-el-nio.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-08T14:20+00:00"
     },
     {
-     "titulo": "Los vientos estratosféricos podrían anticipar demandas extremas de energía en Europa",
-     "resumen": "Un quiebre de los vientos polares normales en invierno aumenta la probabilidad de frío extremo y de un alza en la demanda energética en Europa, según nuevas investigaciones.",
+     "titulo": "Nuevo algoritmo permite pronosticar la extensión del hielo marino ártico con hasta nueve meses de anticipación",
+     "resumen": "Investigadores del centro ACCESS de NYU Abu Dhabi desarrollaron un algoritmo que predice la extensión del hielo marino en el Ártico hasta nueve meses antes.",
+     "enlace": "https://phys.org/news/2026-10-algorithm-arctic-sea-ice-months.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-11T13:00+00:00"
+    },
+    {
+     "titulo": "Algunos puntos de inflexión climáticos reciben mucha más atención científica que otros",
+     "resumen": "Groenlandia, la Antártida, la Amazonia, los arrecifes de coral y corrientes oceánicas contienen posibles puntos de inflexión, pero su nivel de estudio es desigual.",
+     "enlace": "https://phys.org/news/2026-10-climate.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-09T15:40+00:00"
+    },
+    {
+     "titulo": "La pérdida de diversidad vegetal podría reducir en 15% la absorción de CO2 de los pastizales hacia 2050",
+     "resumen": "Un modelo proyecta que, sin mantener la diversidad vegetal, los pastizales del mundo absorberían cerca de 15% menos CO2 por fotosíntesis a mitad de siglo.",
+     "enlace": "https://phys.org/news/2026-10-diversity-grassland-absorption.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-08T20:30+00:00"
+    },
+    {
+     "titulo": "Quiebres en los vientos estratosféricos polares podrían anticipar demanda energética extrema en Europa",
+     "resumen": "Una interrupción de los vientos polares invernales aumenta la probabilidad de frío extremo y de un alza en la demanda de energía en Europa, según nueva investigación.",
      "enlace": "https://phys.org/news/2026-10-stratospheric-extreme-energy-demand-europe.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-08T23:10+00:00"
-    },
-    {
-     "titulo": "Un patrón atmosférico del Atlántico moldeó la lluvia y la nieve del sur de Groenlandia por milenios",
-     "resumen": "Sedimentos muestran que la Oscilación del Atlántico Norte influyó en los cambios de precipitación del sur de Groenlandia, donde el calentamiento ártico es más rápido que el promedio global.",
-     "enlace": "https://phys.org/news/2026-10-atlantic-weather-pattern-southern-greenland.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-08T21:40+00:00"
     }
    ]
   },
@@ -71,21 +85,21 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Las olas de calor marinas ocultan meses de calentamiento adicional en el océano",
-     "resumen": "Los eventos de calor marino pueden prolongarse durante meses con temperaturas elevadas. Las mediciones convencionales subestiman la exposición total al calor en más de 150 % en promedio.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-30T12:15+00:00"
-    },
-    {
-     "titulo": "Un coral dorado frente a Costa Rica es tan inusual que obligó a crear una familia nueva",
-     "resumen": "Sus colonias de un metro de altura crecen sobre fondos marinos cubiertos de estrellas quebradizas. Los científicos debieron crear una familia nueva para clasificarlo.",
+     "titulo": "Corales dorados de Costa Rica exigieron crear una familia nueva para clasificarlos",
+     "resumen": "Un coral amarillo brillante hallado frente a Costa Rica resultó tan inusual que los científicos debieron crear una familia completamente nueva para clasificarlo. Sus colonias miden un metro de altura.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-08T13:18+00:00"
+    },
+    {
+     "titulo": "La NASA midió con mayor precisión los desplazamientos del centro de masa de la Tierra",
+     "resumen": "El centro de masa terrestre se desplaza unos pocos milímetros con las estaciones, por la migración de agua, hielo y aire. La NASA desarrolló un método más preciso con satélites de medición láser.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-07T11:30+00:00"
     }
    ]
   },
@@ -96,21 +110,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Un impacto de meteorito en Oklahoma ocurrió hace unos 370 millones de años",
-     "resumen": "El cráter Ames, enterrado bajo Oklahoma, resultó ser casi 100 millones de años más joven de lo estimado. Cristales de circón indican que no formó parte del bombardeo ordovícico.",
+     "titulo": "Un cráter de meteorito bajo Oklahoma es unos 100 millones de años más joven de lo estimado",
+     "resumen": "Cristales de circón muestran que el impacto de Ames ocurrió hace unos 370 millones de años. Por ello, no formaría parte del misterioso bombardeo del Ordovícico, al que se había vinculado.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-04T12:41+00:00"
     },
     {
-     "titulo": "Microbios sin luz solar podrían explicar depósitos de hierro formados durante la Tierra bola de nieve",
-     "resumen": "Una nueva hipótesis propone que microbios que viven sin luz solar podrían haber oxidado el hierro y formado depósitos. La teoría dominante atribuía esa oxidación a bacterias fotosintéticas.",
-     "enlace": "https://phys.org/news/2026-10-snowball-earth-iron-deposits-microbes.html",
+     "titulo": "Sismos registran huellas fosilizadas del flujo del manto bajo la placa oceánica más antigua del Pacífico",
+     "resumen": "Datos sísmicos captados por instrumentos en el fondo oceánico revelan trazas fosilizadas de flujo del manto bajo la corteza preservada más antigua del Pacífico. Los patrones antiguos en el manto superior son complejos.",
+     "enlace": "https://phys.org/news/2026-10-seismic-analysis-reveals-ancient-mantle.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-08T00:00+00:00"
+     "fecha": "2026-10-08T14:20+00:00"
+    },
+    {
+     "titulo": "Un estudio sobre un punto caliente de Hawái aporta evidencias de deriva polar verdadera",
+     "resumen": "Richard Gordon, de la Universidad Rice, analizó el movimiento relativo de las placas y del eje de rotación terrestre. Sus resultados sobre el punto caliente hawaiano muestran evidencias de deriva polar verdadera.",
+     "enlace": "https://phys.org/news/2026-10-hawaiian-hot-uncovers-evidence-true.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-07T21:40+00:00"
     }
    ]
   },
@@ -121,21 +142,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Esfuerzo en las fallas San Andreas y San Jacinto alcanza niveles récord en una simulación de 1.000 años",
-     "resumen": "Investigadores reportan que el esfuerzo en las fallas San Andreas y San Jacinto, en el sur de California, está entre los más altos de una simulación de 1.000 años. Como ambas están muy esforzadas a la vez, el cruce de Cajon Pass podría estar cada vez más preparado para una ruptura.",
+     "titulo": "Un sismo de magnitud 7,7 sacude Panamá y activa alertas de tsunami",
+     "resumen": "Un sismo de magnitud 7,7 remeció Panamá el viernes, provocó pánico en la capital y generó advertencias de olas de tsunami peligrosas.",
+     "enlace": "https://phys.org/news/2026-10-tsunami-major-earthquake-panama.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-10T12:19+00:00"
+    },
+    {
+     "titulo": "Esfuerzo en las fallas San Andrés y San Jacinto está entre los más altos de 1.000 años simulados",
+     "resumen": "Un estudio indica que ambas fallas del sur de California están muy tensionadas a la vez, lo que podría aumentar el riesgo de ruptura en el cruce de Cajon Pass.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-02T04:58+00:00"
-    },
-    {
-     "titulo": "Datos sísmicos revelan huellas antiguas del flujo del manto bajo la corteza más antigua del Pacífico",
-     "resumen": "Registros de instrumentos de fondo oceánico muestran patrones fósiles de flujo en el manto superior bajo la corteza oceánica preservada más antigua del Pacífico. Los patrones reflejan cambios en el movimiento de las placas tectónicas.",
-     "enlace": "https://phys.org/news/2026-10-seismic-analysis-reveals-ancient-mantle.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-08T14:20+00:00"
     }
    ]
   },
@@ -146,21 +167,14 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Una erupción del Vesubio del año 79 d.C. ofrece un referente más preciso para datar eventos geológicos",
-     "resumen": "Un método mejorado de datación usa la erupción del Vesubio de 79 d.C. como referencia. Podría afinar las cronologías de erupciones volcánicas, impactos de asteroides y extinciones.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-09-30T09:37+00:00"
-    },
-    {
-     "titulo": "Estudio del punto caliente de Hawái encuentra evidencia de deriva polar verdadera",
-     "resumen": "Richard Gordon, de la Universidad Rice, usó el punto caliente de Hawái para buscar señales de deriva polar verdadera, es decir, el desplazamiento de la capa sólida de la Tierra respecto de su eje de rotación.",
-     "enlace": "https://phys.org/news/2026-10-hawaiian-hot-uncovers-evidence-true.html",
+     "titulo": "El hinchamiento de la cumbre del Kīlauea ayuda a pronosticar erupciones de fuentes de lava",
+     "resumen": "Las fuentes de lava episódicas son un comportamiento volcánico poco común: ráfagas de lava y gas de horas, separadas por pausas de días a semanas. El hinchamiento de la cumbre ayuda a pronosticarlas.",
+     "enlace": "https://phys.org/news/2026-10-klauea-summit-scientists-lava-fountain.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-07T21:40+00:00"
+     "fecha": "2026-10-09T16:40+00:00"
     }
    ]
   },
@@ -171,42 +185,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Viena alberga el primer reloj nuclear autoestabilizado del mundo",
-     "resumen": "El sistema se estabiliza por sí mismo, como lo hacen los relojes atómicos convencionales. Su funcionamiento ha demostrado ser estable tras décadas de investigación.",
+     "titulo": "Plasma de fusión calentado primero podría acelerar la energía de fusión",
+     "resumen": "Investigadores del Princeton Plasma Physics Laboratory proponen invertir el enfoque tradicional: calentar el plasma antes de aumentar su densidad. Sus cálculos sugieren una vía más eficiente hacia la fusión autosostenida.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-10T18:57+00:00"
+    },
+    {
+     "titulo": "Científicos construyen un reloj nuclear autoestabilizado que podría superar a los relojes atómicos",
+     "resumen": "Investigadores en Viena crearon el primer reloj nuclear autoestabilizado, que usa núcleos en lugar de electrones. La tecnología podría llegar a superar la precisión de los relojes atómicos.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-11T03:06+00:00"
+    },
+    {
+     "titulo": "Viena pone en marcha el primer reloj nuclear autónomo que se estabiliza por sí mismo",
+     "resumen": "Viena alberga el primer reloj nuclear que se estabiliza como lo hacen los relojes atómicos. El sistema ha demostrado mantener su funcionamiento de forma sostenida.",
      "enlace": "https://phys.org/news/2026-10-nuclear-clock-vienna.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-07T15:00+00:00"
-    },
-    {
-     "titulo": "Científicos observan directamente los estados cuánticos de Bethe predichos en 1931",
-     "resumen": "Los estados, llamados cuerdas de Bethe, se crearon en un gas ultrafrío de átomos de cesio enfriados cerca del cero absoluto y atrapados en tubos unidimensionales.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-09T08:25+00:00"
-    },
-    {
-     "titulo": "Físicos del LHC del CERN observan que el plasma quark-gluón se comporta como un líquido",
-     "resumen": "Al seguir quarks individuales que atravesaban el plasma, los investigadores registraron ondas. Es la evidencia más clara hasta ahora de que esta materia se comporta como un líquido.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-06T12:04+00:00"
-    },
-    {
-     "titulo": "Fluctuaciones cuánticas del vacío elevan la temperatura crítica de un superconductor ultrafino",
-     "resumen": "La temperatura de transición de un material ultrafino aumentó hasta un 5,4 %. El hallazgo abre la posibilidad de usar entornos de vacío diseñados con ingeniería.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-03T12:03+00:00"
-    },
-    {
-     "titulo": "Campos magnéticos primordiales podrían explicar la discrepancia en la expansión del universo",
-     "resumen": "Simulaciones detalladas muestran que estos campos, generados poco después del Big Bang, podrían haber alterado la formación de hidrógeno en el universo temprano.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-04T12:05+00:00"
     }
    ]
   },
@@ -217,42 +217,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Astrónomos localizan la ráfaga de radio rápida más lejana jamás registrada",
-     "resumen": "La ráfaga viajó por más de 10.000 millones de años a través del cosmos antes de llegar a la Tierra. Fue detectada y rastreada hasta su origen.",
-     "enlace": "https://phys.org/news/2026-10-astronomers-distant-fast-radio.html",
+     "titulo": "JWST detecta por primera vez nubes de agua variables en un mundo fuera del Sistema Solar",
+     "resumen": "Un planeta del tamaño de Júpiter, a 7,5 años luz, tiene nubes de agua variables según observaciones del telescopio James Webb dirigidas por Brittany Miles, de la Universidad de Arizona.",
+     "enlace": "https://phys.org/news/2026-10-discovery-variable-clouds-solar.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-08T18:00+00:00"
+     "fecha": "2026-10-09T18:20+00:00"
     },
     {
-     "titulo": "El radiotelescopio canadiense CHIME capta una señal de hidrógeno de hace 9.000 millones de años",
-     "resumen": "CHIME detectó el brillo tenue del hidrógeno usando solo sus propias observaciones, lo que demuestra que el método funciona. La señal permitirá trazar cómo se distribuye la materia en el espacio y podría ayudar a explicar la energía oscura.",
+     "titulo": "El radiotelescopio CHIME detecta hidrógeno de hace 9.000 millones de años para mapear el universo",
+     "resumen": "CHIME captó la tenue señal del hidrógeno de hace unos 9.000 millones de años usando solo sus propias observaciones, lo que permite trazar la distribución de la materia y estudiar la energía oscura.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-09T08:53+00:00"
     },
     {
-     "titulo": "Confirman una radiogalaxia de hace 12.500 millones de años que podría ser la más potente hallada",
-     "resumen": "La fuente TXS 2354+015 fue confirmada mediante espectroscopía, con un corrimiento al rojo de 4,946. Su potencia la convierte en candidata a la radiogalaxia más potente encontrada hasta ahora.",
-     "enlace": "https://phys.org/news/2026-10-radio-galaxy-billion-years-powerful.html",
+     "titulo": "Astrónomos localizan el estallido de radio rápido más lejano jamás registrado",
+     "resumen": "El destello de ondas de radio viajó más de 10.000 millones de años antes de llegar a la Tierra, según el equipo que lo detectó y ubicó.",
+     "enlace": "https://phys.org/news/2026-10-astronomers-distant-fast-radio.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-07T19:40+00:00"
+     "fecha": "2026-10-08T18:00+00:00"
     },
     {
-     "titulo": "El motor de un estallido de rayos gamma permaneció activo cerca de un mes, un nuevo récord",
-     "resumen": "La actividad central duró unos 27 días en el marco de reposo del estallido, unos 20 días más que el récord anterior. El estallido ocurrió con un corrimiento al rojo de 0,8577.",
-     "enlace": "https://phys.org/news/2026-10-gamma-ray-stayed-month-previous.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-06T17:20+00:00"
+     "titulo": "Hubble podría haber detectado un planeta formado después de la muerte de su estrella",
+     "resumen": "Niveles inusualmente altos de niobio alrededor de la enana blanca HS 0209+0832 sugieren que parte del material expulsado por la estrella se habría reunido en un planeta.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-09T17:31+00:00"
     },
     {
-     "titulo": "Un nuevo mapa 2D del universo y la inteligencia artificial permiten hallar 70 lentes gravitacionales",
-     "resumen": "Un equipo internacional usó datos de los DESI Legacy Imaging Surveys con apoyo de inteligencia artificial. Las lentes gravitacionales son alineaciones cósmicas raras que actúan como lupas naturales.",
-     "enlace": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-08T13:40+00:00"
+     "titulo": "Astrónomos captan una estrella que devora lentamente a una enana marrón a 300 años luz",
+     "resumen": "Una estrella pequeña consume poco a poco a una enana marrón cercana, en un sistema a unos 300 años luz de la Tierra, en un proceso que podría durar miles de millones de años.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-10T18:56+00:00"
     }
    ]
   },
@@ -263,39 +263,39 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Dos científicos reciben el Nobel de Química por estudiar moléculas con imagen especular",
-     "resumen": "Henri B. Kagan y Kenso Soai ganaron el Nobel de Química por esclarecer la quiralidad de las moléculas, un hallazgo usado para desarrollar numerosos fármacos.",
+     "titulo": "Kagan y Soai reciben el Nobel de Química por estudios sobre moléculas especulares",
+     "resumen": "Henri B. Kagan y Kenso Soai ganaron el Nobel de Química por desentrañar la quiralidad de las moléculas, un hallazgo usado para desarrollar numerosos fármacos.",
      "enlace": "https://phys.org/news/2026-10-nobel-prize-chemistry-awarded-kagan.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-07T10:12+00:00"
     },
     {
-     "titulo": "Una película molecular revela cómo se forma la penicilina",
-     "resumen": "Investigadores de la Universidad de Oxford y colaboradores observaron etapas químicas rápidas no vistas antes en la formación de antibióticos beta-lactámicos como la penicilina. Los resultados pueden apoyar el desarrollo de nuevos antibióticos.",
-     "enlace": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-09T09:00+00:00"
-    },
-    {
-     "titulo": "Investigadores aíslan un compuesto de uranio con un enlace triple con carbono",
-     "resumen": "Un equipo internacional sintetizó y caracterizó el primer carbino de tipo Fischer de uranio aislable, con un enlace triple entre uranio y carbono. El estudio fue publicado en Nature Chemistry.",
+     "titulo": "Un equipo sintetiza el primer carbino de Fischer de uranio aislable con enlace triple uranio-carbono",
+     "resumen": "Investigadores de Alemania, Reino Unido y la Universidad de Manchester describieron en Nature Chemistry un compuesto de uranio con un enlace triple con carbono, poco común.",
      "enlace": "https://phys.org/news/2026-10-uranium-rare-triple-bond-carbon.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-02T14:40+00:00"
     },
     {
-     "titulo": "Rayos X ultrarrápidos muestran cómo cambia de forma el azobenceno tras absorber luz",
-     "resumen": "El estudio resuelve la dinámica del azobenceno en los primeros picosegundos después de absorber luz, una pregunta sin respuesta por casi 50 años.",
-     "enlace": "https://phys.org/news/2026-10-ultrafast-rays-reveal-responsive-molecular.html",
+     "titulo": "Un nuevo catalizador permite convertir metano a menor temperatura con rendimiento sostenido",
+     "resumen": "El acoplamiento oxidativo del metano transforma metano y oxígeno en etano y etileno. El catalizador aborda el desafío de selectividad de esta reacción a menor temperatura.",
+     "enlace": "https://phys.org/news/2026-10-catalyst-enables-temperature-methane-conversion.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-02T20:00+00:00"
+     "fecha": "2026-10-10T12:00+00:00"
     },
     {
-     "titulo": "Un nuevo diseño de electrodo supera una limitación energética clave del amoniaco verde",
-     "resumen": "La producción de amoniaco con electricidad renovable superó una limitación energética fundamental de la tecnología. El avance abre vías para producirlo de forma más limpia y potencialmente más económica.",
+     "titulo": "Una película molecular revela los pasos químicos rápidos en la formación de la penicilina",
+     "resumen": "Investigadores de la Universidad de Oxford y colaboradores identificaron etapas químicas rápidas no observadas antes en la formación de antibióticos β-lactámicos como la penicilina.",
+     "enlace": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-09T09:00+00:00"
+    },
+    {
+     "titulo": "Un nuevo diseño de electrodo supera una barrera energética clave en la producción de amoníaco",
+     "resumen": "Un enfoque de producción de amoníaco con electricidad renovable superó una limitación energética fundamental de la tecnología, abriendo opciones más limpias y potencialmente más económicas.",
      "enlace": "https://phys.org/news/2026-10-electrode-key-barrier-greener-ammonia.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-08T15:00+00:00"
@@ -309,42 +309,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Investigadores de UNSW y UtmoLight logran récord mundial de eficiencia en un submódulo solar de perovskita",
-     "resumen": "El submódulo de gran área alcanzó una eficiencia de conversión estabilizada certificada de 23,5 %, superando el registro anterior. El equipo de UNSW es liderado por Xiaojing Hao.",
-     "enlace": "https://techxplore.com/news/2026-10-large-scale-perovskite-photovoltaic-efficiency.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-07T11:20+00:00"
+     "titulo": "Físicos observan ondas de pares de electrones en superconductor de ditelurio de uranio",
+     "resumen": "Investigadores hallaron evidencia de un comportamiento superconductor inusual en el ditelurio de uranio, con patrones llamados ondas de densidad de pares. Estos patrones parecen sobrevivir después de que la superconductividad habitual desaparece.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-07T12:34+00:00"
     },
     {
-     "titulo": "Acortar en un año los plazos de aprobación reduciría los costos de la energía eólica marina",
-     "resumen": "Un estudio en Environmental Research Letters estima que reducir un año los plazos de aprobación de un parque eólico marino de 1 GW disminuye sus costos. Los plazos largos encarecen la energía generada.",
-     "enlace": "https://techxplore.com/news/2026-10-shortening-offshore-year-millions.html",
+     "titulo": "Batería zinc-aire con catalizador de hierro, níquel y carbono se puede recargar",
+     "resumen": "Las baterías zinc-aire pueden almacenar mucho más energía que las de ion-litio, pero hasta ahora era casi imposible recargarlas. Un equipo liderado por el profesor Jörg J. Schneider demostró un material de hierro, níquel y carbono que lo permite.",
+     "enlace": "https://techxplore.com/news/2026-10-zinc-air-batteries-gain-momentum.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-08T08:00+00:00"
-    },
-    {
-     "titulo": "La eólica y la solar alcanzaron un récord de 17 % de la electricidad generada por empresas eléctricas de EE. UU.",
-     "resumen": "Según el artículo, el diseño del mercado y no la tecnología frena la transición limpia. Los combustibles fósiles siguen aportando la mayor parte de la electricidad.",
-     "enlace": "https://techxplore.com/news/2026-10-energy-bottleneck-isnt-technology.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-02T11:00+00:00"
-    },
-    {
-     "titulo": "La nubosidad baja acelera la recuperación del viento tras un parque eólico marino, según simulaciones",
-     "resumen": "Investigadores de la Universidad de Twente muestran que calcular la generación solo con datos de viento deja fuera parte del rendimiento. Con poca nubosidad, el viento se recupera más rápido detrás de un parque.",
-     "enlace": "https://techxplore.com/news/2026-10-cloud-offshore-farms-easing-shadows.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-02T15:40+00:00"
-    },
-    {
-     "titulo": "Nuevo método de producción de hidrógeno verde genera un químico industrial valioso en lugar de oxígeno",
-     "resumen": "Un estudio en Nature Communications describe un proceso verde y de bajo costo que produce hidrógeno y, a la vez, químicos de valor industrial. La investigación es liderada por Avner Rothschild.",
-     "enlace": "https://techxplore.com/news/2026-10-green-hydrogen-production-method-yields.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-07T20:40+00:00"
+     "fecha": "2026-10-11T16:20+00:00"
     }
    ]
   },
@@ -356,42 +335,35 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-09",
+   "actualizada": "2026-10-11",
    "noticias": [
     {
-     "titulo": "Un qubit basado en helio superfluido podría reducir los errores cuánticos unas 100 veces",
-     "resumen": "Según predicciones teóricas, un qubit hecho con helio superfluido blindaría la información cuántica del ruido electromagnético y reduciría las tasas de error unas 100 veces. Aún falta confirmarlo experimentalmente.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-01T13:17+00:00"
-    },
-    {
-     "titulo": "Un nuevo índice mantiene la precisión de búsqueda de la IA al agregar y eliminar registros",
-     "resumen": "Investigadores del KAIST desarrollaron una tecnología de base de datos vectorial que preserva las rutas de búsqueda hacia la información necesaria, incluso cuando los datos se agregan y eliminan de forma continua.",
-     "enlace": "https://techxplore.com/news/2026-10-index-ai-accuracy-added-deleted.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-06T15:40+00:00"
-    },
-    {
-     "titulo": "Las pruebas que evalúan la IA podrían estar entregando resultados erróneos",
-     "resumen": "Antes de llegar al público, los modelos de IA pasan por pruebas llamadas benchmarks, que puntúan desde el razonamiento hasta la seguridad. Miles de millones de dólares de inversión dependen de esos puntajes.",
-     "enlace": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-09-30T13:20+00:00"
-    },
-    {
-     "titulo": "Hallan evidencia de altermagnetismo en un material delgado que podría acelerar las computadoras",
-     "resumen": "Científicos encontraron evidencia de altermagnetismo en un material delgado y ajustable, que permitiría usar el espín de los electrones además de su carga. Podría dar lugar a dispositivos más rápidos y eficientes en energía.",
+     "titulo": "Científicos hallan evidencia de altermagnetismo en un material delgado y ajustable",
+     "resumen": "El altermagnetismo podría permitir dispositivos electrónicos más rápidos y eficientes energéticamente, al usar el espín de los electrones además de su carga.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-05T11:35+00:00"
     },
     {
-     "titulo": "Expertos de Northeastern exploran cómo detectar información falsa en chatbots de IA",
-     "resumen": "Los chatbots de IA aún pueden compartir información falsa, como recomendar ir al hospital por una simple indigestión. Los investigadores se preguntan si es posible construir un detector de mentiras para estos sistemas.",
-     "enlace": "https://techxplore.com/news/2026-10-scientists-detector-ai-chatbots.html",
+     "titulo": "Un estudio de redes neuronales explica cómo los chatbots de IA razonan de forma similar a los humanos",
+     "resumen": "Investigadores analizaron cómo los chatbots de IA, aunque no piensan de forma simbólica como las personas, pueden ofrecer consejos coherentes en escritura, matemáticas y otros temas.",
+     "enlace": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-06T13:20+00:00"
+     "fecha": "2026-10-09T15:40+00:00"
+    },
+    {
+     "titulo": "Los modelos de IA deletrean hacia atrás con más facilidad al poder ver cada letra",
+     "resumen": "Los modelos de lenguaje dividen el texto en fragmentos y no ven las letras individuales; una versión mejorada que sí las distingue logra invertir palabras con más facilidad.",
+     "enlace": "https://techxplore.com/news/2026-10-easier-ai-letter.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-09T14:20+00:00"
+    },
+    {
+     "titulo": "Un nuevo índice mantiene la precisión de búsqueda de la IA al agregar y eliminar registros",
+     "resumen": "Investigadores del KAIST desarrollaron una tecnología de base de datos vectorial que conserva las rutas de búsqueda hacia la información necesaria aunque los datos cambien constantemente.",
+     "enlace": "https://techxplore.com/news/2026-10-index-ai-accuracy-added-deleted.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-06T15:40+00:00"
     }
    ]
   }
