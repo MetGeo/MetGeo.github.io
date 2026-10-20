@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-19",
- "generado": "2026-10-19T09:09-03:00",
+ "dia": "2026-10-20",
+ "generado": "2026-10-20T09:01-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -9,42 +9,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "NASA monitorea el histórico El Niño de 2026, que se desarrolla este otoño",
-     "resumen": "NASA sigue de cerca un fenómeno más raro que un eclipse solar y más poderoso que cualquier tormenta individual, que se desarrolla durante este otoño.",
-     "enlace": "https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-16T16:44+00:00"
+     "titulo": "El hielo marino del Ártico sigue reduciéndose y se vuelve más delgado y vulnerable en 2026",
+     "resumen": "Los registros satelitales muestran que el hielo ártico disminuye en invierno y verano, y que es más delgado y joven. Los científicos advierten sobre nuevos riesgos, aunque las pérdidas de verano se desaceleraron.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-15T11:32+00:00"
     },
     {
-     "titulo": "El hielo marino invernal del Ártico podría reducirse más de lo previsto",
-     "resumen": "Investigadores usaron registros de un periodo cálido hace 6.000 años para mejorar los modelos climáticos. Estiman que el hielo marino invernal ártico futuro podría disminuir cerca de 1 millón de km² adicionales.",
-     "enlace": "https://phys.org/news/2026-10-winter-sea-ice-loss-underestimated.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-16T09:00+00:00"
-    },
-    {
-     "titulo": "Suelos forestales absorben más metano a medida que suben las temperaturas",
-     "resumen": "Un estudio de hasta 24 años detectó que la absorción de metano aumentó en promedio 3% anual en algunos suelos forestales, a medida que las temperaturas subieron y las lluvias disminuyeron.",
+     "titulo": "Suelos forestales absorben cada vez más metano a medida que aumentan las temperaturas",
+     "resumen": "Un estudio de hasta 24 años halló que la absorción de metano por suelos forestales crece en promedio 3% anual. El fenómeno ocurre con temperaturas más altas y lluvias menores.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261014015525.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-17T11:33+00:00"
     },
     {
-     "titulo": "El hielo marino antártico alcanzó en 2026 su tercer máximo invernal más bajo",
-     "resumen": "Tras años de crecimiento récord, el hielo marino antártico muestra un marcado retroceso. Los científicos investigan si este cambio revela una transformación a largo plazo.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
+     "titulo": "El satélite europeo Sentinel-3C envía imágenes de la Tierra y primeras mediciones prometedoras",
+     "resumen": "Dos semanas después de su lanzamiento, Sentinel-3C entregó imágenes de los Alpes y el Ártico. Sus primeras mediciones sirven para seguir el aumento del nivel del mar y el derretimiento de hielo.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261011211559.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-16T01:15+00:00"
-    },
-    {
-     "titulo": "España registra su septiembre más cálido desde que existen registros en 1961",
-     "resumen": "La agencia meteorológica AEMET informó que la España peninsular tuvo su septiembre más cálido desde 1961, con un calor excepcional que lo hizo parecer otro mes de verano.",
-     "enlace": "https://phys.org/news/2026-10-spain-sizzles-hottest-september-weather.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-16T14:45+00:00"
+     "fecha": "2026-10-12T23:48+00:00"
     }
    ]
   },
@@ -54,21 +40,28 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
      "titulo": "Satélites de la NASA captan ondas atmosféricas inusuales sobre el huracán Simon",
-     "resumen": "Mientras el huracán Simon causaba vientos destructivos e inundaciones en la costa de México, satélites de la NASA registraron ondas atmosféricas de gran tamaño sobre la tormenta. Las imágenes muestran cómo los huracanes pueden perturbar la alta atmósfera.",
+     "resumen": "Mientras el huracán Simon dejaba vientos destructivos e inundaciones en la costa de México, satélites de la NASA captaron ondas atmosféricas sobre la tormenta. Muestran cómo los huracanes alteran la alta atmósfera.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-16T05:50+00:00"
     },
     {
-     "titulo": "El Niño impulsa incendios en el trópico, con quemas extensas en el Amazonas",
-     "resumen": "El Niño favorece una cascada de incendios en el trópico, con quemas extensas en la Amazonía. Investigadores de la NASA detectan decenas de incendios antes no registrados, y los científicos advierten que lo peor podría estar por venir.",
+     "titulo": "El Niño impulsa incendios en los trópicos y la NASA detecta focos ocultos en la Amazonía",
+     "resumen": "El Niño está alimentando incendios forestales en los trópicos, con quemas extendidas en la Amazonía. Investigadores de la NASA identifican decenas de incendios antes no detectados y advierten que lo peor podría estar por venir.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261016070633.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-18T01:14+00:00"
+    },
+    {
+     "titulo": "El hielo marino antártico invierte su tendencia y alcanza su tercer mínimo invernal en 2026",
+     "resumen": "El hielo marino antártico llegó en 2026 a su tercer máximo invernal más bajo, prolongando un descenso que siguió a años de crecimiento récord. Los científicos investigan si este giro indica un cambio a largo plazo.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-16T01:15+00:00"
     }
    ]
   },
@@ -78,28 +71,21 @@
    "fuentes": [
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Reciclaje de fósforo en los océanos habría mantenido el oxígeno terrestre hace 2.300 millones de años",
+     "titulo": "Un deslizamiento masivo en Alaska generó el segundo tsunami más alto jamás registrado",
+     "resumen": "El agua y los escombros subieron 1.580 pies por una ladera, horas después de que turistas visitaran la zona. Los científicos hallaron que el desastre fue precedido por varias señales de advertencia.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-19T13:09+00:00"
+    },
+    {
+     "titulo": "El reciclaje de fósforo en los océanos habría mantenido el oxígeno terrestre hace 2.300 millones de años",
      "resumen": "Rocas antiguas indican que el reciclaje de fósforo en los océanos creó un ciclo autosostenido que ayudó a mantener altos los niveles de oxígeno, incluso durante grandes cambios del planeta.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-12T21:27+00:00"
-    },
-    {
-     "titulo": "El satélite Sentinel-3C de Europa entrega primeras mediciones prometedoras para seguir el nivel del mar",
-     "resumen": "Dos semanas después de su lanzamiento, Sentinel-3C envió imágenes de la Tierra y sus primeras mediciones muestran buenos resultados para el seguimiento del aumento del nivel del mar y del derretimiento de hielo.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261011211559.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-12T23:48+00:00"
-    },
-    {
-     "titulo": "El hielo marino del Ártico alcanza otro mínimo preocupante en 2026 y se vuelve más vulnerable",
-     "resumen": "Los registros satelitales muestran hielo marino ártico más delgado, más joven y más vulnerable al derretimiento, pese a una desaceleración reciente de las pérdidas en verano.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-15T11:32+00:00"
     }
    ]
   },
@@ -110,28 +96,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Una formación de anortosita en Madagascar recuerda a las tierras altas de la Luna",
-     "resumen": "Un astronauta a bordo de la Estación Espacial Internacional fotografió la formación, compuesta de anortosita, roca abundante en la superficie lunar. Tiene al menos 600 millones de años.",
+     "titulo": "Casi 600 sismos en California validan modelos que pronostican el riesgo sísmico del día siguiente",
+     "resumen": "Un estudio liderado por la Universidad de Bristol, publicado en Nature Communications, valida modelos de pronóstico sísmico a un día. Podría ayudar a millones de personas en países propensos a terremotos a decidir mejor.",
+     "enlace": "https://phys.org/news/2026-10-california-earthquakes-validate-day-seismic.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-15T18:40+00:00"
+    },
+    {
+     "titulo": "Astronauta fotografía en Madagascar una formación de roca similar a las tierras altas de la Luna",
+     "resumen": "La formación está compuesta de anortosita, roca abundante en la superficie lunar, y data de al menos 600 millones de años. La imagen fue tomada desde la Estación Espacial Internacional.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261008102707.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-11T15:30+00:00"
-    },
-    {
-     "titulo": "El manto terrestre liberaba oxígeno mil millones de años antes de llegar a la atmósfera",
-     "resumen": "Minerales antiguos, descritos como cápsulas del tiempo, revelan que el manto terrestre respiraba oxígeno unos mil millones de años antes de que este llegara a la atmósfera.",
-     "enlace": "https://phys.org/news/2026-10-earth-mantle-oxygen-billion-years.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-14T19:20+00:00"
-    },
-    {
-     "titulo": "Rocas de chimeneas hidrotermales pueden autoinflamarse, con riesgos para la minería submarina",
-     "resumen": "Un estudio publicado en Scientific Reports describe que estas rocas pueden entrar en combustión espontánea, lo que plantea una nueva preocupación para los proyectos de minería de sulfuros masivos.",
-     "enlace": "https://phys.org/news/2026-10-hydrothermal-vents-spontaneously-combust-posing.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-14T15:30+00:00"
     }
    ]
   },
@@ -142,16 +121,8 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
-   "noticias": [
-    {
-     "titulo": "Modelos de pronóstico del riesgo sísmico para el día siguiente son validados con casi 600 terremotos en California",
-     "resumen": "Un estudio liderado por la Universidad de Bristol, publicado en Nature Communications, valida modelos que pronostican el riesgo sísmico del día siguiente usando casi 600 terremotos registrados en California.",
-     "enlace": "https://phys.org/news/2026-10-california-earthquakes-validate-day-seismic.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-15T18:40+00:00"
-    }
-   ]
+   "actualizada": "2026-10-20",
+   "noticias": []
   },
   {
    "clave": "vulcanologia",
@@ -160,21 +131,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Un estudio revela que la erupción volcánica de hace 7.300 años en Japón tuvo efectos más complejos",
-     "resumen": "Nuevas investigaciones muestran que la gran erupción de hace 7.300 años devastó Japón, pero algunas comunidades desaparecieron o decayeron mientras otras prosperaron de forma inesperada.",
+     "titulo": "Dos fuentes de magma ocultas bajo el volcán Masaya podrían mejorar el pronóstico de erupciones",
+     "resumen": "Satélites detectaron movimientos del suelo que indican magma desplazándose a gran profundidad bajo el volcán Masaya, en Nicaragua. Los hallazgos podrían mejorar la predicción de erupciones en un volcán activo cercano a 2 millones de personas.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-19T12:35+00:00"
+    },
+    {
+     "titulo": "Una erupción volcánica de hace 7.300 años tuvo efectos más complejos en las poblaciones de Japón",
+     "resumen": "Nuevas investigaciones muestran que, mientras algunas comunidades desaparecieron o declinaron, otras prosperaron tras migrar los sobrevivientes.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-18T12:36+00:00"
     },
     {
-     "titulo": "El magma fundido podría almacenar más oxígeno del que sugiere su composición química",
-     "resumen": "Un equipo de investigación encontró que la roca fundida puede contener más oxígeno del que permitiría su composición. Según el estudio, publicado en National Science Review, ese oxígeno podría ayudar a explicar la atmósfera rica en oxígeno de la Tierra.",
+     "titulo": "El magma profundo podría almacenar más oxígeno del que permite su composición química",
+     "resumen": "Un estudio publicado en National Science Review indica que la roca fundida puede contener más oxígeno del esperado, lo que podría ayudar a explicar la atmósfera rica en oxígeno de la Tierra.",
      "enlace": "https://phys.org/news/2026-10-excess-oxygen-deep-earth-magma.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-16T17:00+00:00"
+    },
+    {
+     "titulo": "Un estudio sugiere que el núcleo terrestre habría filtrado hidrógeno durante miles de millones de años",
+     "resumen": "La investigación vincula esta filtración con las plumas del manto que ascienden y generan erupciones volcánicas en la superficie.",
+     "enlace": "https://phys.org/news/2026-10-earth-core-leaking-hydrogen-billions.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-19T17:30+00:00"
     }
    ]
   },
@@ -185,35 +170,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Científicos que descubrieron una tercera forma de magnetismo ganan un importante premio de física",
-     "resumen": "Los físicos identificaron el altermagnetismo, una forma oculta de magnetismo que desafía más de 100 años de física. Podría transformar la computación y la electrónica futuras.",
+     "titulo": "Un premio importante reconoce el hallazgo de un tercer tipo de magnetismo llamado altermagnetismo",
+     "resumen": "Físicos identificaron el altermagnetismo, una tercera forma de magnetismo que desafía más de 100 años de física establecida y podría transformar la computación y la electrónica.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-18T09:41+00:00"
     },
     {
-     "titulo": "Científicos en Viena construyen el primer reloj nuclear autoestabilizado del mundo",
-     "resumen": "El reloj usa el núcleo atómico en lugar de electrones para medir el tiempo. La tecnología podría superar con el tiempo la precisión de los relojes atómicos más exactos.",
+     "titulo": "Científicos de Viena construyen el primer reloj nuclear autoestabilizado",
+     "resumen": "El reloj usa los núcleos atómicos en lugar de los electrones, y podría superar eventualmente a los relojes atómicos más precisos.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-11T03:06+00:00"
     },
     {
-     "titulo": "Físicos crean un estado cuántico inusual llamado mar de Fermi fraccionario",
-     "resumen": "Átomos ultrafríos forman una configuración altamente excitada pero sorprendentemente ordenada. El hallazgo desafía las teorías cuánticas establecidas.",
+     "titulo": "Físicos crean un nuevo estado cuántico de la materia llamado mar de Fermi fraccionario",
+     "resumen": "Átomos ultrafríos forman una configuración muy excitada pero ordenada, lo que desafía las teorías cuánticas establecidas.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-18T13:37+00:00"
     },
     {
-     "titulo": "Un camino cuántico de un átomo de altura podría transformar los superconductores",
-     "resumen": "Escalones atómicos de un átomo de altura guían vórtices cuánticos en superconductores. Los vórtices se mueven más de 1.000 veces más fácilmente en una dirección que en la otra.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-16T04:22+00:00"
+     "titulo": "Un nuevo cálculo podría explicar el déficit de neutrinos de galio sin recurrir a nuevas partículas",
+     "resumen": "Se observó alrededor de un 20% menos de neutrinos electrónicos de lo esperado. El nuevo cálculo lo explicaría sin invocar nuevas partículas.",
+     "enlace": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-16T12:00+00:00"
+    },
+    {
+     "titulo": "Científicos de KRISS redeterminan una frecuencia clave del estroncio con 50 veces más precisión",
+     "resumen": "Es la primera medición de esta frecuencia de transición del átomo de estroncio desde 1938, realizada con un chip de rejilla fotónica.",
+     "enlace": "https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-19T17:20+00:00"
     }
    ]
   },
@@ -224,42 +216,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Un supercúmulo de galaxias distante apunta a materia oscura que interactúa consigo misma",
-     "resumen": "El cúmulo conocido como El Gordo, a siete mil millones de años luz, tiene dos regiones que colisionan con una masa combinada superior a dos mil billones de masas solares.",
-     "enlace": "https://phys.org/news/2026-10-distant-supercluster-galaxies-interacting-dark.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-16T18:00+00:00"
-    },
-    {
      "titulo": "Webb detecta una posible supernova del universo temprano apenas días después de la explosión",
-     "resumen": "El Telescopio Espacial James Webb captó un posible evento transitorio, AT 2026abck, en una galaxia formadora de estrellas con corrimiento al rojo de 5,017, sin ayuda de lente gravitacional.",
+     "resumen": "El telescopio James Webb halló el transitorio AT 2026abck en una galaxia formadora de estrellas, con corrimiento al rojo de 5,017. Fue encontrado sin ayuda de lente gravitacional.",
      "enlace": "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-13T14:50+00:00"
     },
     {
-     "titulo": "Dos agujeros negros supermasivos en Mrk 501 podrían colisionar en unos 100 años",
-     "resumen": "Astrónomos hallaron evidencia de dos agujeros negros supermasivos en espiral hacia una posible colisión en el centro de la galaxia Mrk 501. Un chorro de partículas sugiere la presencia del segundo.",
+     "titulo": "Astrónomos descubren una estrella enana blanca de color verde, la primera conocida con ese tono",
+     "resumen": "Las enanas blancas pueden brillar en rosa, morado, amarillo y cian por interacciones químicas inusuales. Una de ellas parecería verde al ojo humano.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-19T10:26+00:00"
+    },
+    {
+     "titulo": "Un supercúmulo lejano de galaxias apunta a materia oscura que interactúa consigo misma",
+     "resumen": "El cúmulo conocido como El Gordo, a 7.000 millones de años luz, tiene dos regiones colisionando con una masa combinada superior a 2 × 10^15 masas solares.",
+     "enlace": "https://phys.org/news/2026-10-distant-supercluster-galaxies-interacting-dark.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-16T18:00+00:00"
+    },
+    {
+     "titulo": "Dos agujeros negros supermasivos podrían colisionar en unos 100 años",
+     "resumen": "Hay evidencia de dos agujeros negros supermasivos en espiral hacia una posible colisión en el centro de la galaxia Mrk 501. Un chorro de partículas antes no visto indica la presencia del segundo.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-18T12:03+00:00"
     },
     {
-     "titulo": "Una nube de hidrógeno sin estrellas podría ser una de las mejores candidatas a galaxia oscura",
-     "resumen": "Con el radiotelescopio FAST de China, astrónomos hallaron una nube compacta de hidrógeno sin estrellas visibles ni galaxia asociada, con cerca de 500.000 veces la masa del Sol.",
+     "titulo": "Una nube de hidrógeno sin estrellas podría ser una galaxia oscura aislada",
+     "resumen": "El radiotelescopio FAST de China detectó una nube compacta de hidrógeno sin estrellas ni galaxia visibles. Contiene cerca de 500.000 veces la masa del Sol en hidrógeno neutro.",
      "enlace": "https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-17T13:40+00:00"
-    },
-    {
-     "titulo": "Webb detecta por primera vez nubes de agua variables fuera del Sistema Solar",
-     "resumen": "Un mundo del tamaño de Júpiter, a 7,5 años luz, presenta nubes de agua variables, según observaciones del telescopio James Webb dirigidas por Brittany Miles, de la Universidad de Arizona.",
-     "enlace": "https://phys.org/news/2026-10-discovery-variable-clouds-solar.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-09T18:20+00:00"
     }
    ]
   },
@@ -270,42 +262,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "IA identifica casi 10.000 reacciones químicas para convertir CO2 en combustibles",
-     "resumen": "Científicos usaron inteligencia artificial para identificar casi 10.000 reacciones en la transformación de dióxido de carbono en combustibles y productos químicos. Los hallazgos mejoraron notablemente las predicciones de conversión de CO2.",
+     "titulo": "La IA identifica cerca de 10.000 reacciones químicas para convertir CO2 en combustibles",
+     "resumen": "Científicos usaron inteligencia artificial para descubrir casi 10.000 reacciones implicadas en transformar dióxido de carbono en combustibles y químicos. El hallazgo mejoró notablemente las predicciones de conversión de CO2.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-14T00:01+00:00"
     },
     {
-     "titulo": "Un factor oculto decide el éxito de reacciones químicas y eleva el producto deseado de 16% a 97%",
-     "resumen": "Investigadores identificaron un factor oculto que determina si una reacción química tiene éxito. Al controlar la acidez cerca de los electrodos, aumentaron la proporción del producto deseado de 16% a 97%.",
+     "titulo": "Un factor oculto controla el éxito de reacciones químicas y eleva el producto deseado de 16% a 97%",
+     "resumen": "Investigadores identificaron un factor oculto que determina si una reacción química tiene éxito y lo usaron para subir la proporción del producto deseado de 16% a 97%. Controlar la acidez cerca de los electrodos abre una vía prometedora para fabricar químicos.",
      "enlace": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
      "fuente": "ScienceDaily",
      "fecha": "2026-10-12T06:24+00:00"
     },
     {
-     "titulo": "La luz solar convierte glicerol, subproducto del biodiésel, en hidrógeno y químicos de mayor valor",
-     "resumen": "Investigadores australianos y colaboradores internacionales demostraron un método impulsado por luz solar para transformar glicerol en hidrógeno y otros químicos. Usaron técnicas avanzadas en el Sincrotrón Australiano.",
-     "enlace": "https://phys.org/news/2026-10-sunlight-biodiesel-byproduct-life-hydrogen.html",
+     "titulo": "Nueva química cazadora-destructora captura y destruye los forever chemicals",
+     "resumen": "Una nueva química de tipo cazador-destructor captura y destruye los forever chemicals, sustancias muy duraderas presentes en productos cotidianos como sartenes antiadherentes y espumas contra incendios.",
+     "enlace": "https://phys.org/news/2026-10-hunter-killer-chemistry-captures-destroys.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-16T21:40+00:00"
+     "fecha": "2026-10-19T19:00+00:00"
     },
     {
-     "titulo": "Un compuesto de elemento superpesado revela un enlace más débil de lo esperado por efectos relativistas",
-     "resumen": "Un equipo internacional liderado por el grupo de GSI/FAIR en Darmstadt midió por primera vez la estabilidad química de un compuesto de elemento superpesado.",
+     "titulo": "Compuesto de elemento superpesado muestra un enlace más débil de lo esperado por efectos relativistas",
+     "resumen": "Un grupo internacional liderado por GSI/FAIR en Darmstadt midió por primera vez la estabilidad química de un compuesto de elemento superpesado. El enlace resultó más débil de lo esperado, atribuido a efectos relativistas.",
      "enlace": "https://phys.org/news/2026-10-superheavy-element-compound-reveals-weaker.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-14T19:40+00:00"
     },
     {
-     "titulo": "Plásticos de desecho se transforman en materiales que capturan humedad del aire",
-     "resumen": "Investigadores de la Universidad de Viena convirtieron envases plásticos, CD antiguos y piezas de LEGO en materiales que capturan cantidades importantes de humedad atmosférica.",
-     "enlace": "https://phys.org/news/2026-10-plastics-molecular-sponges-capture-air.html",
+     "titulo": "Nuevo método reemplaza átomos de carbono por nitrógeno, con potencial para mejores medicamentos",
+     "resumen": "Investigadores desarrollaron una forma de reemplazar un carbono por un nitrógeno en compuestos ya creados, mediante edición esqueletal. Este enfoque busca evitar desventajas de los métodos previos de edición esqueletal.",
+     "enlace": "https://phys.org/news/2026-10-carbon-nitrogen-atoms-medicines.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-14T22:20+00:00"
+     "fecha": "2026-10-13T19:50+00:00"
     }
    ]
   },
@@ -316,42 +308,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Recubrimientos ultrafinos reducen el uso de platino en electrolizadores para producir hidrógeno más barato.",
-     "resumen": "Los electrolizadores PEM dividen el agua en hidrógeno y oxígeno, pero sus componentes son costosos. Los recubrimientos ultrafinos buscan reducir el uso de platino y bajar el costo.",
+     "titulo": "Electrodos sin metales nobles podrían reducir los costos de producir hidrógeno verde",
+     "resumen": "Investigadores del Instituto Coreano de Investigación en Energía (KIER) desarrollaron electrodos de electrólisis del agua basados en Ni/Co que logran mayor eficiencia en la producción de hidrógeno sin usar metales nobles.",
+     "enlace": "https://techxplore.com/news/2026-10-noble-metal-electrode-slashes-green.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-19T15:40+00:00"
+    },
+    {
+     "titulo": "Recubrimientos ultradelgados podrían reducir el uso de platino en electrolizadores de hidrógeno",
+     "resumen": "Investigadores estudian recubrimientos ultradelgados para electrolizadores PEM, cuyo costo elevado se debe a componentes que requieren platino para dividir el agua en hidrógeno y oxígeno.",
      "enlace": "https://techxplore.com/news/2026-10-platinum-cheaper-hydrogen-ultrathin-electrolyzer.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-13T19:00+00:00"
     },
     {
-     "titulo": "La alta demanda de tierras raras podría dificultar la expansión de la energía eólica offshore en Europa.",
-     "resumen": "Las turbinas eólicas no queman combustible durante su operación y podrían reducir emisiones. Su construcción depende fuertemente de minas y fábricas que suministran tierras raras.",
-     "enlace": "https://techxplore.com/news/2026-10-high-rare-earth-demand-complicate.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-10T15:20+00:00"
-    },
-    {
-     "titulo": "Un líquido temporal durante la cristalización busca mejorar la eficiencia y durabilidad de celdas solares de perovskita.",
-     "resumen": "Un equipo codirigido por investigadores de la Universidad de California San Diego creó un líquido transitorio mientras el material se cristaliza. El método apunta a celdas más eficientes y duraderas.",
-     "enlace": "https://techxplore.com/news/2026-10-temporary-liquid-perovskite-solar-cells.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-09T17:20+00:00"
-    },
-    {
-     "titulo": "Una química más limpia acerca a producción las celdas solares de perovskita de baja toxicidad.",
-     "resumen": "Investigadores de la Universidad de Surrey proponen recubrir celdas solares en superficies delgadas y flexibles, a temperatura ambiente y sin los químicos tóxicos que usaba el proceso.",
+     "titulo": "Celdas solares de perovskita se acercan a una producción más limpia y de bajo costo",
+     "resumen": "Investigadores de la Universidad de Surrey proponen fabricar celdas solares de perovskita sobre superficies flexibles a temperatura ambiente y sin los químicos tóxicos que usaba el proceso anterior.",
      "enlace": "https://techxplore.com/news/2026-10-greener-chemistry-toxicity-perovskite-solar.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-15T17:00+00:00"
     },
     {
-     "titulo": "Un catalizador duradero impulsa las baterías zinc-aire, que almacenan más energía que las de ion-litio.",
-     "resumen": "Las baterías zinc-aire pueden almacenar bastante más energía que las de ion-litio, pero hasta ahora eran casi imposibles de recargar. Un equipo liderado por Jörg J. Schneider demostró un material de hierro y níquel como catalizador.",
-     "enlace": "https://techxplore.com/news/2026-10-zinc-air-batteries-gain-momentum.html",
+     "titulo": "La producción de hidrógeno con captura de carbono integrada podría alcanzar alta eficiencia",
+     "resumen": "Un estudio de la Universidad de Manchester presenta la primera evaluación a escala de planta del reformado por bucle químico, tecnología que genera hidrógeno y captura carbono en un mismo proceso.",
+     "enlace": "https://techxplore.com/news/2026-10-generation-hydrogen-production-built-carbon.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-11T16:20+00:00"
+     "fecha": "2026-10-19T21:00+00:00"
+    },
+    {
+     "titulo": "El bambú surge como fuente potencial de combustibles de transporte bajos en carbono",
+     "resumen": "Un estudio con investigadores del Worcester Polytechnic Institute encontró que la planta de crecimiento más rápido del planeta podría ofrecer una alternativa sostenible a los combustibles derivados del petróleo.",
+     "enlace": "https://techxplore.com/news/2026-10-bamboo-emerges-potential-source-carbon.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-14T14:00+00:00"
     }
    ]
   },
@@ -363,42 +355,42 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-19",
+   "actualizada": "2026-10-20",
    "noticias": [
     {
-     "titulo": "Agentes de IA desarrollan de forma espontánea un lenguaje compartido para comunicarse",
-     "resumen": "Investigadores del AI Lab de la VUB y de la Universidad de Namur muestran en un estudio a gran escala que sistemas autónomos crean un lenguaje funcional compartido sin intervención humana.",
+     "titulo": "Agentes de IA desarrollan por sí solos un lenguaje compartido para comunicar datos complejos",
+     "resumen": "Investigadores de la VUB y la UNamur muestran en un estudio a gran escala que sistemas de IA autónomos crean espontáneamente un lenguaje funcional compartido, sin intervención humana.",
      "enlace": "https://techxplore.com/news/2026-10-ai-agents-artificial-natural-language.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-15T12:40+00:00"
     },
     {
-     "titulo": "Gotas diminutas forman redes blandas para la computación inspirada en el cerebro",
-     "resumen": "Investigadores e ingenieros de Penn State se inspiran en las redes de neuronas del cerebro para construir redes blandas de gotas diminutas orientadas a la computación.",
+     "titulo": "Los modelos de lenguaje aplican un doble estándar similar al humano al evaluar el razonamiento ajeno",
+     "resumen": "Un estudio muestra que los LLM, los sistemas de IA que sustentan a ChatGPT y otros agentes conversacionales, juzgan el razonamiento de otros con un doble estándar similar al de las personas.",
+     "enlace": "https://techxplore.com/news/2026-10-llms-human-standard.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-15T14:00+00:00"
+    },
+    {
+     "titulo": "Modelos de lenguaje guardan información específica sobre espacio, tiempo y dolor en su interior",
+     "resumen": "Investigadores extrajeron de los mecanismos internos de modelos como ChatGPT información sorprendentemente específica sobre espacio, tiempo y dolor.",
+     "enlace": "https://techxplore.com/news/2026-10-ai-space-pain.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-14T16:00+00:00"
+    },
+    {
+     "titulo": "Gotas diminutas forman redes blandas que podrían servir para la computación inspirada en el cerebro",
+     "resumen": "Un equipo de Penn State construye redes blandas de gotas diminutas inspiradas en las neuronas del cerebro humano para procesar información.",
      "enlace": "https://techxplore.com/news/2026-10-tiny-droplets-soft-networks-brain.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-13T14:20+00:00"
     },
     {
-     "titulo": "Un estudio de redes neuronales explica cómo los chatbots de IA razonan de forma parecida a las personas",
-     "resumen": "Los chatbots no piensan de forma simbólica como las personas, pero, si se les pide, ofrecen consejos coherentes sobre escritura, matemáticas y otros temas.",
-     "enlace": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-09T15:40+00:00"
-    },
-    {
-     "titulo": "Un nuevo detector identifica trabajos científicos escritos con IA al examinar las ideas y no las palabras",
-     "resumen": "Pulir el texto con IA suele ser admisible si se declara. Redactar artículos o partes de ellos con IA y presentarlos como trabajo original no lo es.",
+     "titulo": "Nuevo detector identifica trabajos científicos escritos con IA al analizar las ideas y no las palabras",
+     "resumen": "Investigadores presentan un detector que reconoce artículos científicos escritos con IA y presentados como originales, examinando las ideas y no solo el texto.",
      "enlace": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
      "fuente": "Phys.org",
      "fecha": "2026-10-13T16:23+00:00"
-    },
-    {
-     "titulo": "Los modelos de lenguaje muestran un doble estándar parecido al humano al juzgar el razonamiento ajeno",
-     "resumen": "Los grandes modelos de lenguaje, que sustentan ChatGPT y otros agentes conversacionales, aplican un doble estándar parecido al humano al evaluar el razonamiento de terceros.",
-     "enlace": "https://techxplore.com/news/2026-10-llms-human-standard.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-15T14:00+00:00"
     }
    ]
   }
