@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-26",
- "generado": "2026-10-26T08:51-03:00",
+ "dia": "2026-10-27",
+ "generado": "2026-10-27T08:52-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,42 +11,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Identifican condiciones para predecir algunos eventos de El Niño y La Niña con hasta un año de anticipación",
-     "resumen": "Investigadores determinaron las condiciones que permiten anticipar con hasta doce meses algunos eventos de El Niño y La Niña, lo que da más tiempo a comunidades y tomadores de decisiones para prepararse ante extremos climáticos.",
-     "enlace": "https://phys.org/news/2026-10-scientists-key-el-nio-events.html",
+     "titulo": "El Niño ya provoca inundaciones, incendios y sequías en varias regiones del mundo",
+     "resumen": "Las inundaciones en Argentina, los incendios mortales en Perú y la sequía en la Guayana Francesa muestran los efectos globales del fenómeno. La ONU pide actuar con urgencia.",
+     "enlace": "https://phys.org/news/2026-10-el-nio-impacts-world-week-1.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-23T18:00+00:00"
+     "fecha": "2026-10-27T10:20+00:00"
     },
     {
-     "titulo": "El calentamiento climático aumenta la frecuencia e intensidad de los extremos de lluvia en el sur de África",
-     "resumen": "Un estudio publicado en Nature asocia el calentamiento global con un aumento en la frecuencia y la intensidad de las precipitaciones extremas en el sur de África.",
-     "enlace": "https://www.nature.com/articles/s41558-026-02772-0",
-     "fuente": "Nature",
-     "fecha": "2026-10-23T00:00+00:00"
-    },
-    {
-     "titulo": "Los glaciares suizos perdieron cerca del 20% de su hielo en apenas cinco años",
-     "resumen": "Los glaciares de Suiza perdieron más del 5% de su volumen de hielo solo en 2026, con récords de deshielo en algunos de los más conocidos y la desaparición completa de varios glaciares pequeños.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+     "titulo": "El hielo marino invernal del Ártico podría desaparecer mucho más rápido de lo previsto",
+     "resumen": "Un estudio compara sedimentos oceánicos de hace 6.000 años con modelos climáticos actuales y concluye que la cobertura de hielo invernal futura podría reducirse más de lo esperado.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-23T09:42+00:00"
+     "fecha": "2026-10-26T08:50+00:00"
     },
     {
-     "titulo": "La franja de lluvias de verano del este de Asia se ha desplazado hacia el norte en las últimas décadas",
-     "resumen": "Investigadores de KAIST y del APEC Climate Center hallaron que el frente de verano del este de Asia migró hacia el norte en el último medio siglo, con un desplazamiento superior a 200 km a fines del verano.",
-     "enlace": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-23T13:00+00:00"
+     "titulo": "Las olas de calor marinas en regiones vulnerables de arrecifes son predecibles a varios años",
+     "resumen": "Un estudio publicado en Nature indica que las olas de calor marinas en arrecifes de coral vulnerables pueden predecirse con habilidad en escalas de varios años.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78279-1",
+     "fuente": "Nature",
+     "fecha": "2026-10-27T00:00+00:00"
     },
     {
-     "titulo": "Estalagmitas antiguas revelan excepciones al patrón de monzones alternados entre Asia y Sudamérica",
-     "resumen": "Registros de estalagmitas de los últimos 450.000 años muestran casos en que el balance de monzones entre Asia y Sudamérica no sigue el patrón habitual de alternancia.",
-     "enlace": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-24T13:00+00:00"
+     "titulo": "La disminución de aguas subterráneas por actividad humana podría tener efectos climáticos de largo alcance",
+     "resumen": "Según el título, la extracción humana de aguas subterráneas podría tener efectos climáticos de largo alcance. La fuente no entrega más detalles.",
+     "enlace": "https://www.nature.com/articles/s41598-026-75635-5",
+     "fuente": "Nature",
+     "fecha": "2026-10-25T00:00+00:00"
     }
    ]
   },
@@ -57,14 +50,14 @@
     "Eos",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Recortes al programa satelital GOES generarían incertidumbre y riesgo, según un informe de la GAO",
-     "resumen": "Un informe de la GAO sugiere que los recortes al programa satelital generan incertidumbre y riesgo. La imagen muestra el GOES-U, el satélite más recientemente lanzado de la serie GOES, de la NOAA.",
-     "enlace": "https://eos.org/research-and-developments/cuts-to-satellite-program-add-uncertainty-and-risk-suggests-gao-report",
+     "titulo": "Un nuevo modelo de aprendizaje automático podría mejorar la predicción de perturbaciones del vórtice polar",
+     "resumen": "Las perturbaciones del vórtice polar traen temperaturas muy frías a Norteamérica. Un nuevo modelo basado en aprendizaje automático podría permitir predecirlas mejor.",
+     "enlace": "https://eos.org/research-spotlights/using-machine-learning-techniques-for-polar-vortex-predictions",
      "fuente": "Eos",
-     "fecha": "2026-10-22T18:31+00:00"
+     "fecha": "2026-10-20T13:30+00:00"
     }
    ]
   },
@@ -75,35 +68,35 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Un estudio global evalúa los sesgos al estimar los extremos de marejada de tormenta",
-     "resumen": "La investigación analiza los riesgos de sesgo en la estimación de los valores extremos de marejada de tormenta (storm surge) a escala global, con implicancias para la evaluación de amenazas costeras.",
-     "enlace": "https://www.nature.com/articles/s41598-026-77204-2",
+     "titulo": "Un estudio analiza los riesgos asociados al cambio en la circulación oceánica del Atlántico",
+     "resumen": "La publicación aborda cómo adaptarse al riesgo de cambios en la circulación atlántica. El texto disponible no incluye cifras adicionales.",
+     "enlace": "https://www.nature.com/articles/s41893-026-01961-1",
      "fuente": "Nature",
-     "fecha": "2026-10-23T00:00+00:00"
+     "fecha": "2026-10-27T00:00+00:00"
     },
     {
-     "titulo": "Un marco integra datos satelitales y de planeadores submarinos para simular la calidad del agua marina",
-     "resumen": "El marco combina conocimiento causal con datos satelitales y de planeadores submarinos (gliders) para modelar la calidad del agua marina.",
-     "enlace": "https://www.nature.com/articles/s41598-026-77002-w",
+     "titulo": "La ola de calor marina del Atlántico Norte de 2023 podría haber evolucionado hacia un evento mucho más extremo",
+     "resumen": "Un análisis indica que la ola de calor marina del Atlántico Norte de 2023 podría haber derivado en un evento considerablemente más extremo.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78863-5",
      "fuente": "Nature",
-     "fecha": "2026-10-23T00:00+00:00"
+     "fecha": "2026-10-19T00:00+00:00"
     },
     {
-     "titulo": "Corredores de dispersión mejoran la conectividad larval modelada entre áreas protegidas de aguas profundas",
-     "resumen": "El modelo muestra que los corredores de dispersión aumentan la conectividad larval cerca del fondo entre redes de áreas marinas protegidas de aguas profundas.",
-     "enlace": "https://www.nature.com/articles/s41559-026-03172-5",
+     "titulo": "La acidificación oceánica y la menor disponibilidad de silicato se asocian a la caída de la productividad del océano",
+     "resumen": "Una investigación vincula la acidificación del océano con la reducción de silicato disponible y con la disminución de la productividad oceánica.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78463-3",
      "fuente": "Nature",
-     "fecha": "2026-10-23T00:00+00:00"
+     "fecha": "2026-10-22T00:00+00:00"
     },
     {
-     "titulo": "Mejora un método Monte Carlo para lidar batimétrico que considera la estratificación de la columna de agua",
-     "resumen": "Se presenta una versión mejorada de simulación Monte Carlo semianalítica sensible a la polarización para lidar batimétrico, considerando la estratificación compleja de la columna de agua.",
-     "enlace": "https://www.nature.com/articles/s41598-026-76456-2",
+     "titulo": "La producción de primavera en la zona de hielo del mar de Barents disminuye bajo el forzamiento climático",
+     "resumen": "Una investigación reporta una disminución de la producción de primavera en la zona de hielo del mar de Barents debido al forzamiento climático.",
+     "enlace": "https://www.nature.com/articles/s41467-026-79272-4",
      "fuente": "Nature",
-     "fecha": "2026-10-24T00:00+00:00"
+     "fecha": "2026-10-26T00:00+00:00"
     }
    ]
   },
@@ -115,42 +108,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Un sismo de magnitud 7,7 en Panamá el 9 de octubre de 2026 provocó deslizamientos de tierra",
-     "resumen": "Imágenes del satélite Sentinel-2 de la ESA, tomadas el 18 de octubre de 2026, muestran deslizamientos desencadenados por el terremoto del 9 de octubre.",
-     "enlace": "https://eos.org/thelandslideblog/9-october-2026-panama-earthquake",
-     "fuente": "Eos",
-     "fecha": "2026-10-21T06:50+00:00"
+     "titulo": "El almacenamiento geológico de CO₂ subterráneo alcanzó un récord de 43,6 millones de toneladas en 2024",
+     "resumen": "Un registro completo publicado hoy indica que en 2024 se secuestraron 43,6 millones de toneladas métricas, un nuevo máximo anual. El total acumulado llega a 421,7 millones de toneladas.",
+     "enlace": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-25T12:00+00:00"
     },
     {
-     "titulo": "Una nueva escala de tiempo de polaridad geomagnética, MM26, ajusta las edades de algunos cronos",
-     "resumen": "La escala MM26 se compara con la CENOGRID de Westerhold et al. (2020). La mayoría de las diferencias de edad caen dentro de dos desviaciones estándar, pero algunos cronos resultan más jóvenes.",
-     "enlace": "https://eos.org/editor-highlights/the-geomagnetic-polarity-time-scale-revisited-once-again",
-     "fuente": "Eos",
-     "fecha": "2026-10-22T13:37+00:00"
+     "titulo": "Un nuevo estudio con lidar a escala estatal identifica zonas críticas de retroceso de acantilados en California",
+     "resumen": "Los acantilados de la costa californiana se modifican por lluvia, oleaje y otros procesos geológicos, y amenazan carreteras, vías férreas y viviendas. El estudio localiza los puntos de mayor retroceso.",
+     "enlace": "https://phys.org/news/2026-10-statewide-lidar-hot-california-coastal.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T12:00+00:00"
     },
     {
-     "titulo": "Un deslizamiento de roca de 2025 cubrió parcialmente el glaciar Kjerulf en la isla Jan Mayen",
-     "resumen": "Los bloques tardarán décadas en hundirse en el hielo. Antes del evento, el glaciar llegaba al borde del agua, como su vecino Weyprecht. Eos analiza si el cambio climático tuvo relación.",
-     "enlace": "https://eos.org/articles/a-rock-avalanche-buried-an-arctic-glacier-was-climate-change-to-blame",
-     "fuente": "Eos",
-     "fecha": "2026-10-21T13:18+00:00"
+     "titulo": "Sedimentos indican que una erupción volcánica precedió en unos 150 años a un enfriamiento antiguo",
+     "resumen": "Un equipo internacional, con científicos de la Universidad de Carolina del Sur, cuestiona que la erupción del Laacher See, en Europa occidental, desencadenara un enfriamiento en Europa central y el Ártico.",
+     "enlace": "https://phys.org/news/2026-10-sediment-core-reveals-volcanic-eruption.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T15:20+00:00"
     },
     {
-     "titulo": "Eos publica un repaso sobre la sismología en Marte a partir de la misión InSight",
-     "resumen": "El artículo revisa lo aprendido sobre la actividad sísmica del planeta rojo. El extracto no entrega cifras adicionales.",
-     "enlace": "https://eos.org/research-spotlights/insight-into-seismology-on-the-red-planet",
+     "titulo": "Un estudio evalúa si el impacto que formó la Luna fue de material blando o rígido",
+     "resumen": "Las montañas lunares se formaron sobre todo por impactos de meteoritos. Su similitud geoquímica con las terrestres sugiere que la Luna surgió de un impacto con un hipotético planeta llamado Theia.",
+     "enlace": "https://eos.org/articles/was-the-moon-forming-impact-squishy-or-crunchy",
      "fuente": "Eos",
-     "fecha": "2026-10-21T13:19+00:00"
-    },
-    {
-     "titulo": "Investigaciones de campo en lagos salinos ácidos buscan desentrañar sus procesos geológicos",
-     "resumen": "La geóloga Anicia Henne, del CSIRO de Australia, trabajó en el lago Statues en enero de 2026 junto al equipo de Kathleen Benison.",
-     "enlace": "https://eos.org/articles/the-secrets-of-acid-salt-lakes",
-     "fuente": "Eos",
-     "fecha": "2026-10-23T13:23+00:00"
+     "fecha": "2026-10-23T13:21+00:00"
     }
    ]
   },
@@ -188,21 +174,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-23",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Hallan dos fuentes de magma ocultas bajo el volcán Masaya, en Nicaragua",
-     "resumen": "Observaciones satelitales registraron movimientos del terreno que sugieren magma desplazándose a gran profundidad bajo el volcán Masaya, cercano a unas 2 millones de personas. Los hallazgos podrían mejorar los pronósticos de erupción.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-19T12:35+00:00"
-    },
-    {
-     "titulo": "La erupción de hace 7.300 años en Japón tuvo efectos más complejos sobre la población",
-     "resumen": "Nuevas investigaciones indican que la erupción volcánica de hace 7.300 años devastó poblaciones prehistóricas de forma desigual. Algunas comunidades desaparecieron o decayeron, mientras otras prosperaron tras migrar.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-18T12:36+00:00"
+     "titulo": "Un experimento reproduce vulcanismo sedimentario efusivo en condiciones similares a las de Marte",
+     "resumen": "Nature informa una reproducción experimental de vulcanismo sedimentario efusivo bajo condiciones tipo marcianas. El candidato no incluye extracto, por lo que no se detallan resultados.",
+     "enlace": "https://www.nature.com/articles/s43247-026-04155-x",
+     "fuente": "Nature",
+     "fecha": "2026-10-21T00:00+00:00"
     }
    ]
   },
@@ -214,42 +193,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Una supercorriente permite leer información cuántica de un qubit sin destruirla",
-     "resumen": "Un qubit no puede leerse de forma directa sin que su estado colapse. El trabajo describe un método que obtiene esa información mediante una supercorriente.",
-     "enlace": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
+     "titulo": "Ondas de radio generan corriente de plasma en un experimento de fusión nuclear",
+     "resumen": "Un equipo de EE. UU. liderado por Jeff Lestz, de General Atomics, demostró por primera vez la corriente de helicón en un experimento de fusión. Podría ayudar a que los reactores operen de forma continua.",
+     "enlace": "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-25T19:00+00:00"
+     "fecha": "2026-10-27T11:20+00:00"
     },
     {
-     "titulo": "Una sola pulsación de rayos X revela nanoestructuras de plasma a distintas escalas con una cámara",
-     "resumen": "La técnica registra nanoestructuras en plasmas, donde las inestabilidades y la turbulencia son un desafío clave en fusión nuclear, astrofísica y física de plasmas láser.",
-     "enlace": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
+     "titulo": "Defectos en diamante confirman una teoría de tensiones cristalinas de hace 80 años",
+     "resumen": "Investigadores de Japón, liderados por Tokuyuki Teraji del NIMS, mapearon directamente componentes del campo de tensiones alrededor de un defecto atómico en diamante.",
+     "enlace": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-24T19:00+00:00"
+     "fecha": "2026-10-26T14:30+00:00"
     },
     {
-     "titulo": "Un ciclotrón de un solo positrón podría probar una predicción clave del Modelo Estándar",
-     "resumen": "El positrón, antimateria del electrón, se comporta como un pequeño imán. El Modelo Estándar predice con precisión su momento magnético, y este experimento podría verificarlo.",
-     "enlace": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html",
+     "titulo": "Un punto cuántico adicional ayuda a equilibrar velocidad y estabilidad en qubits de espín",
+     "resumen": "Acelerar qubits de espín en semiconductores suele aumentar su sensibilidad al ruido eléctrico. Una nueva configuración con un punto cuántico extra mejora ese equilibrio.",
+     "enlace": "https://phys.org/news/2026-10-extra-quantum-dot-stability-qubits.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-24T17:20+00:00"
+     "fecha": "2026-10-26T13:40+00:00"
     },
     {
-     "titulo": "Un pequeño defecto en un cristal revela una sorpresa cuántica de gran alcance",
-     "resumen": "Un nuevo método computacional resuelve un desafío de larga data sobre defectos en diamante y carburo de silicio expuestos a la luz. Revela un mecanismo de pérdida de energía en el carburo de silicio.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+     "titulo": "Un manto de invisibilidad térmica 3D oculta objetos de cámaras infrarrojas",
+     "resumen": "El dispositivo desvía el calor alrededor de un objeto en lugar de bloquearlo, haciéndolo invisible a cámaras térmicas. Además protege al objeto de calor y frío extremos.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-23T10:22+00:00"
-    },
-    {
-     "titulo": "Se reportan vórtices polares en superredes sin plomo sobre silicio",
-     "resumen": "Un equipo del HZB informa por primera vez vórtices polares en superredes (BaTiO₃/SrTiO₃)₁₀ sobre silicio. Esto amplía los materiales y sustratos donde pueden aparecer estas texturas.",
-     "enlace": "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-25T17:00+00:00"
+     "fecha": "2026-10-26T10:24+00:00"
     }
    ]
   },
@@ -261,42 +233,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Astrónomos podrían haber detectado la primera luna fuera del Sistema Solar",
-     "resumen": "El objeto sería al menos tan masivo como Júpiter y orbitaría una enana marrón, que a su vez orbita una estrella. La evidencia aún es preliminar.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+     "titulo": "Un eclipse solar registrado hace 2.700 años revela detalles sobre la rotación terrestre y el Sol",
+     "resumen": "Al corregir un error de ocho kilómetros en la ubicación de una antigua capital china, los científicos reconstruyeron un eclipse solar total registrado hace más de 2.700 años.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-25T03:13+00:00"
+     "fecha": "2026-10-26T11:06+00:00"
     },
     {
-     "titulo": "Astrónomos hallaron tres agujeros negros gigantes activos en una misma galaxia primitiva",
-     "resumen": "La galaxia está a más de 12.500 millones de años luz. Dos de los agujeros negros están separados por solo 620 años luz y se espera que se fusionen.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+     "titulo": "Plasma impactado por láser muestra cómo las inestabilidades podrían calentar la corona solar",
+     "resumen": "La superficie del Sol está a unos 5.800 kelvin, pero los electrones de su corona alcanzan millones de grados. Un experimento con plasma sugiere cómo las inestabilidades podrían producir ese calentamiento.",
+     "enlace": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T17:00+00:00"
+    },
+    {
+     "titulo": "JWST y ALMA detectan un agujero negro supermasivo en rápido crecimiento en el universo temprano",
+     "resumen": "El objeto J1440+0019, enrojecido por polvo y con corrimiento al rojo de 6,5488, alberga un agujero negro de unos 1.100 millones de masas solares, de cuando el universo tenía menos de mil millones de años.",
+     "enlace": "https://phys.org/news/2026-10-jwst-alma-reveal-dusty-rapidly.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T13:20+00:00"
+    },
+    {
+     "titulo": "Las colisiones estelares podrían haber sido comunes en el universo joven",
+     "resumen": "En nuestra vecindad galáctica las colisiones estelares son raras. El telescopio James Webb observa épocas más antiguas del universo, donde podrían haber sido mucho más frecuentes.",
+     "enlace": "https://phys.org/news/2026-10-stellar-collisions-common-universe-young.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T15:00+00:00"
+    },
+    {
+     "titulo": "Un telescopio en globo detecta una red magnética de estructuras finas sobre el Sol",
+     "resumen": "Un telescopio transportado en globo a gran altura halló estructuras magnéticas delgadas, similares a hilos, en la atmósfera solar, aparentemente moldeadas por movimientos de torsión.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-25T12:07+00:00"
-    },
-    {
-     "titulo": "Un sondeo de cuásares respalda la predicción de que algunos agujeros negros supermasivos son expulsados",
-     "resumen": "El análisis de unos 100.000 cuásares de investigadores de la ELTE halló evidencia estadística de que algunos agujeros negros supermasivos abandonan el centro de su galaxia tras formarse.",
-     "enlace": "https://phys.org/news/2026-10-supermassive-black-holes-ejected-galactic.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-22T16:20+00:00"
-    },
-    {
-     "titulo": "El disco de la Vía Láctea habría crecido en sentido inverso, con estrellas más jóvenes en capas cada vez más delgadas",
-     "resumen": "Según el reporte, la formación del disco galáctico sigue un patrón distinto al esperado, con estrellas más jóvenes ubicadas en capas progresivamente más finas.",
-     "enlace": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-25T18:30+00:00"
-    },
-    {
-     "titulo": "Telescopios FAST y Arecibo detectan una gran reserva de hidrógeno sin luz estelar visible",
-     "resumen": "El objeto AGC 322753 contendría unas 2.000 millones de veces la masa del Sol en hidrógeno neutro, sin luz estelar detectable. Podría tratarse de una galaxia oscura.",
-     "enlace": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-26T10:55+00:00"
+     "fecha": "2026-10-24T12:23+00:00"
     }
    ]
   },
@@ -307,42 +279,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Investigadores aislan el uranocenio, forma cargada de un compuesto de uranio buscado durante más de 50 años",
-     "resumen": "Investigadores de las universidades de Manchester y Lancaster aislaron y caracterizaron el uranocenio, la forma con carga positiva del uranoceno. El trabajo fue publicado en Nature Communications.",
-     "enlace": "https://phys.org/news/2026-10-elusive-uranium-sandwich-molecule-isolated.html",
+     "titulo": "Un catalizador de bajo costo podría producir hidrógeno desde agua de mar con menor consumo de energía",
+     "resumen": "Investigadores desarrollaron un método que usa técnicas avanzadas de caracterización. Según el reporte, requiere menos energía, resiste la corrosión y podría abaratar la producción de hidrógeno.",
+     "enlace": "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-23T16:00+00:00"
+     "fecha": "2026-10-26T20:00+00:00"
     },
     {
-     "titulo": "La agrupación de polímeros cargados cambia su separación en agua y desafía supuestos antiguos",
-     "resumen": "Un estudio publicado en PNAS muestra que la agrupación de polímeros cargados altera la separación de mezclas líquidas. Según los autores, podría tener implicaciones para la salud humana, el metabolismo y enfermedades.",
-     "enlace": "https://phys.org/news/2026-10-clustering-polymers-assumptions.html",
+     "titulo": "Electrones en espera prolongan la energía de la luz retenida en dióxido de titanio azul",
+     "resumen": "Para producir hidrógeno con luz solar, la energía absorbida debe retenerse hasta la reacción química. Si un electrón regresa rápido a su posición original, resulta difícil aprovechar esa energía.",
+     "enlace": "https://phys.org/news/2026-10-electron-room-blue-titanium-dioxide.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-22T19:40+00:00"
+     "fecha": "2026-10-26T14:20+00:00"
     },
     {
-     "titulo": "Un compuesto no tóxico activado por luz abre opciones más seguras para la impresión 3D de biomateriales",
-     "resumen": "Científicos de la Universidad Tecnológica de Nanyang, Singapur, desarrollaron una nueva clase de compuestos activados por luz. Podrían usarse en impresión 3D, cosméticos y medicina.",
-     "enlace": "https://phys.org/news/2026-10-nontoxic-compound-safer-3d-advanced.html",
+     "titulo": "Una IA identificó un catalizador de hidrógeno usando solo conocimiento científico previo a 2018",
+     "resumen": "La inteligencia artificial recurrió únicamente a investigaciones anteriores a 2018 y señaló un catalizador que luego fue reportado en experimentos posteriores. El hallazgo podría acelerar la búsqueda de producción de hidrógeno más eficiente.",
+     "enlace": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-22T19:00+00:00"
+     "fecha": "2026-10-26T14:00+00:00"
     },
     {
-     "titulo": "Una revisión identifica rasgos moleculares clave para diseñar adsorbentes que eliminen PFAS del agua",
-     "resumen": "Investigadores de la Universidad de Tohoku revisan las características moleculares que podrían guiar el desarrollo de materiales más efectivos para remover PFAS del agua. El estudio fue publicado en ACS Materials Au.",
-     "enlace": "https://phys.org/news/2026-10-adsorbents-pfas.html",
+     "titulo": "Mantener conectadas las moléculas de agua reduce la corrosión de electrodos de carbono",
+     "resumen": "El carbono es barato y conductor, pero en condiciones fuertemente oxidantes sus electrodos se corroen gradualmente. El estudio muestra que mantener unidas las moléculas de agua reduce esa corrosión.",
+     "enlace": "https://phys.org/news/2026-10-molecules-carbon-electrode-corrosion.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-23T20:20+00:00"
+     "fecha": "2026-10-26T20:10+00:00"
     },
     {
-     "titulo": "Pruebas explican por qué el titanio no previene por completo la corrosión por picaduras en el acero inoxidable",
-     "resumen": "En ambientes con iones cloruro, como el agua de mar, la corrosión por picaduras puede comenzar en partículas microscópicas incrustadas en el acero. Las pruebas analizan por qué el titanio no la evita del todo.",
-     "enlace": "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html",
+     "titulo": "Un nuevo enfoque permite diseñar cepillos de polímeros que cambian la interacción de una superficie",
+     "resumen": "Los cepillos de polímeros son capas densas de cadenas que controlan interacciones con agua, iones y proteínas. Pueden reducir la fricción e impedir que materiales no deseados se adhieran.",
+     "enlace": "https://phys.org/news/2026-10-interfacial-intelligence-polymer.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-24T21:00+00:00"
+     "fecha": "2026-10-26T17:40+00:00"
     }
    ]
   },
@@ -354,35 +326,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Vehículos eléctricos alcanzan el 67% de las ventas de autos nuevos en China en septiembre",
-     "resumen": "Según Carbon Brief, los vehículos de nuevas energías (NEV) representaron por primera vez el 67% de las ventas de autos nuevos en China en septiembre, un máximo histórico.",
-     "enlace": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
-     "fuente": "Carbon Brief",
-     "fecha": "2026-10-23T15:55+00:00"
+     "titulo": "Eliminar litio extiende la vida útil de celdas solares de perovskita",
+     "resumen": "El Instituto Coreano de Investigación en Energía (KIER) desarrolló un proceso catalítico que prolonga la vida útil de las celdas solares de perovskita. Los resultados se publicaron en Advanced Science.",
+     "enlace": "https://techxplore.com/news/2026-10-lithium-perovskite-solar-cell-lifespan.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T20:40+00:00"
     },
     {
-     "titulo": "Investigadores duplican la producción de hidrógeno con un electrolizador cerámico de protones",
-     "resumen": "Un electrolizador cerámico de protones (PCEC) produce hidrógeno a partir de agua a temperaturas compatibles con procesos industriales clave. Investigadores de la Universidad de Groninga reportan el avance.",
-     "enlace": "https://techxplore.com/news/2026-10-hydrogen-production-synergy-materials.html",
+     "titulo": "Un colector de energía de grafeno alimenta un sensor de temperatura sin baterías",
+     "resumen": "Investigadores de las universidades de Arkansas y Michigan crearon un colector de energía basado en grafeno que usa radiación ambiental para operar sensores de temperatura de consumo ultrabajo. Es el segundo sensor de este equipo.",
+     "enlace": "https://techxplore.com/news/2026-10-ambient-power-battery-free-temperature.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-22T20:40+00:00"
-    },
-    {
-     "titulo": "Un desorden catiónico podría mejorar los cátodos ricos en litio para baterías de nueva generación",
-     "resumen": "Los cátodos ricos en litio pueden almacenar considerablemente más carga que los materiales usados hoy en vehículos eléctricos y electrónica. El estudio muestra que el desorden catiónico podría mejorarlos.",
-     "enlace": "https://techxplore.com/news/2026-10-cation-disorder-lithium-rich-cathodes.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-23T17:20+00:00"
-    },
-    {
-     "titulo": "Base de datos de hidrógeno relaciona la capacidad de almacenamiento con la presión de liberación",
-     "resumen": "Una base de datos curada de materiales muestra el equilibrio entre la capacidad de almacenamiento y las condiciones prácticas de operación, factor clave para el hidrógeno como energía limpia.",
-     "enlace": "https://techxplore.com/news/2026-10-curated-hydrogen-database-reveals-links.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-23T14:20+00:00"
+     "fecha": "2026-10-23T16:00+00:00"
     }
    ]
   },
@@ -394,28 +352,28 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-26",
+   "actualizada": "2026-10-27",
    "noticias": [
     {
-     "titulo": "Científicos superan un obstáculo para operar varios qubits de silicio a la vez",
-     "resumen": "Lograron operar simultáneamente múltiples qubits de silicio con una precisión cercana al 99,9%, incluso con los cinco qubits activos al mismo tiempo. El avance aborda un desafío clave para escalar las computadoras cuánticas.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+     "titulo": "Un nuevo marco de IA reduce en dos tercios el cómputo y más que triplica el éxito en tareas virtuales",
+     "resumen": "Un equipo liderado por el profesor Minhae Kwon, de la Escuela de Ingeniería Eléctrica y Electrónica, desarrolló dos tecnologías de IA que resuelven tareas complejas de largo horizonte con menor uso de cómputo.",
+     "enlace": "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-26T19:00+00:00"
+    },
+    {
+     "titulo": "Científicos filman vórtices magnéticos que podrían acercar la computación a un funcionamiento tipo cerebro",
+     "resumen": "Por primera vez se filmó cómo los skyrmiones, vórtices magnéticos diminutos, se desprenden de una red ordenada, lo que revela nuevas formas de manipularlos. Podrían ayudar a hacer realidad computadoras tipo cerebro.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-26T01:42+00:00"
+     "fecha": "2026-10-26T10:06+00:00"
     },
     {
-     "titulo": "Una IA abandonada en una isla desierta comienza a jugar e inventar juegos",
-     "resumen": "Los agentes de IA suelen actuar ante comandos específicos, como analizar datos o responder preguntas. Este experimento muestra qué hacen cuando quedan sin instrucciones.",
-     "enlace": "https://techxplore.com/news/2026-10-strand-ai-island-playing-games.html",
+     "titulo": "Los modelos de IA generativa heredan ideas de ingenieros de mediados del siglo XX sobre la irracionalidad",
+     "resumen": "Benjamin Lindquist, profesor asistente de la sección de Historia del MIT, sostiene que estos modelos derivan de ingenieros que consideraban necesaria cierta irracionalidad en una máquina que piense como un humano.",
+     "enlace": "https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-22T15:03+00:00"
-    },
-    {
-     "titulo": "Agentes de IA repiten la misma historia al escribir ficción, según Cornell",
-     "resumen": "Según una investigación de Cornell, cuando se les pide escribir ficción, los agentes de IA suelen contar relatos similares, con faros y un guardián llamado Elias.",
-     "enlace": "https://techxplore.com/news/2026-10-elias-lighthouse-keeper-ai-fiction.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-19T16:00+00:00"
+     "fecha": "2026-10-23T16:30+00:00"
     }
    ]
   }
