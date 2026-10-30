@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-29",
- "generado": "2026-10-29T14:45-03:00",
+ "dia": "2026-10-30",
+ "generado": "2026-10-30T08:51-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,35 +11,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Groenlandia pierde más hielo del que gana por trigésimo año consecutivo",
-     "resumen": "El manto de hielo de Groenlandia acumula 30 años consecutivos con pérdida neta de hielo en los últimos doce meses de medición.",
-     "enlace": "https://www.carbonbrief.org/guest-post-greenland-ice-sheet-shrinks-for-30th-year-in-a-row",
-     "fuente": "Carbon Brief",
-     "fecha": "2026-10-27T14:07+00:00"
-    },
-    {
-     "titulo": "El glaciar Thwaites podría derretirse al doble de lo previsto, incluso sin más calentamiento",
-     "resumen": "Agua oceánica cálida penetra kilómetros bajo el hielo, debilita sus bases y acelera su retroceso. Un nuevo modelo predice un aumento del nivel del mar mayor al estimado.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-28T09:22+00:00"
-    },
-    {
-     "titulo": "Un encadenamiento oceánico entre polos podría explicar las glaciaciones pasadas",
-     "resumen": "Según un nuevo estudio, la expansión de grandes mantos de hielo en el hemisferio norte enfrió aguas del Atlántico, con una conexión entre polos opuestos que ayudaría a explicar las glaciaciones.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-28T11:08+00:00"
-    },
-    {
-     "titulo": "El calentamiento de océanos antiguos se asoció con mayor exportación de carbono y productividad pesquera",
-     "resumen": "Un estudio que combina teledetección y modelos climáticos indica que, al calentarse los océanos antiguos, aumentaron la exportación de carbono y la productividad de peces.",
-     "enlace": "https://phys.org/news/2026-10-ancient-oceans-carbon-export-fish.html",
+     "titulo": "Corrientes atlánticas clave podrían colapsar este siglo y casi ningún plan climático nacional lo considera",
+     "resumen": "Funcionarios de Islandia analizaron un escenario de debilitamiento o colapso de la corriente que circula las aguas del Atlántico. Según el reporte, este riesgo falta en casi todos los planes climáticos nacionales.",
+     "enlace": "https://phys.org/news/2026-10-key-atlantic-currents-collapse-century.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T11:20+00:00"
+     "fecha": "2026-10-29T18:20+00:00"
+    },
+    {
+     "titulo": "Investigadores registraron la llegada de El Niño en la bahía de Monterey",
+     "resumen": "Datos en tiempo real recopilados por el MBARI durante más de 30 años permitieron documentar la llegada de El Niño, desde la superficie hasta las profundidades del cañón de Monterey.",
+     "enlace": "https://phys.org/news/2026-10-el-nio-monterey-bay.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-29T22:30+00:00"
+    },
+    {
+     "titulo": "La vegetación responde cada vez más a la sequedad atmosférica que a la humedad del suelo",
+     "resumen": "Un artículo de Nature indica que la vegetación está controlada crecientemente por la sequedad atmosférica más que por la humedad del suelo.",
+     "enlace": "https://www.nature.com/articles/s41561-026-02107-w",
+     "fuente": "Nature",
+     "fecha": "2026-10-28T00:00+00:00"
+    },
+    {
+     "titulo": "Un balance metabólico del plancton habría contribuido a la reducción del CO2 atmosférico durante glaciaciones",
+     "resumen": "Un artículo de Nature propone que el equilibrio metabólico del plancton contribuyó a disminuir el CO2 atmosférico en periodos glaciales.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78422-y",
+     "fuente": "Nature",
+     "fecha": "2026-10-29T00:00+00:00"
+    },
+    {
+     "titulo": "La carbonatación de minerales silicatados contribuye a captar CO2 atmosférico en arroyos alimentados por glaciares",
+     "resumen": "Un artículo de Nature indica que la carbonatación de minerales silicatados en arroyos alimentados por glaciares contribuye a reducir el CO2 atmosférico.",
+     "enlace": "https://www.nature.com/articles/s44221-026-00732-8",
+     "fuente": "Nature",
+     "fecha": "2026-10-28T00:00+00:00"
     }
    ]
   },
@@ -68,26 +75,12 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Una ola de calor marina altera el metabolismo de los arrecifes de coral del mar Rojo",
-     "resumen": "El estudio analiza cómo varía con las estaciones el efecto de una ola de calor marina sobre el metabolismo de los arrecifes de coral del mar Rojo.",
-     "enlace": "https://www.nature.com/articles/s41598-026-66842-1",
-     "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
-    },
-    {
-     "titulo": "Biomarcadores lipídicos reflejan la aclimatación microbiana y el estrés nutricional en el Atlántico",
-     "resumen": "La investigación examina la estequiometría de lípidos y biomarcadores en el océano Atlántico, con datos sobre la aclimatación microbiana y el estrés por nutrientes.",
-     "enlace": "https://www.nature.com/articles/s41467-026-79011-9",
-     "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
-    },
-    {
-     "titulo": "Nuevas estimaciones globales actualizan el carbono enterrado en sedimentos de praderas marinas",
-     "resumen": "Un estudio presenta estimaciones globales actualizadas del carbono enterrado en los sedimentos de las praderas marinas de pastos.",
-     "enlace": "https://www.nature.com/articles/s41467-026-79150-z",
+     "titulo": "La pirita se forma en sedimentos marinos mediante polisulfuros y sulfuros de hierro metaestables",
+     "resumen": "Un estudio de Nature describe las vías de formación de pirita en sedimentos marinos, que pasan por polisulfuros y sulfuros de hierro metaestables.",
+     "enlace": "https://www.nature.com/articles/s43247-026-04161-z",
      "fuente": "Nature",
      "fecha": "2026-10-28T00:00+00:00"
     }
@@ -101,28 +94,14 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Científicos descubren un sistema volcánico de unos 100 millones de años oculto en Irán",
-     "resumen": "Investigadores identificaron un antiguo sistema volcánico en Irán, de unos 100 millones de años. El hallazgo aporta datos sobre la desaparición de un océano antiguo y las fuerzas geológicas que reconfiguraron la región.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-28T12:00+00:00"
-    },
-    {
-     "titulo": "Hielo de unos 128.000 años en el Tíbet podría reescribir la historia climática",
-     "resumen": "Hielo hallado en lo alto del Tíbet podría tener más de 128.000 años. Conserva un registro del clima terrestre que se creía perdido y ofrece una mirada a la última edad de hielo.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-29T08:10+00:00"
-    },
-    {
-     "titulo": "Partes del permafrost del Altiplano Tibetano están ganando hielo pese al calentamiento",
-     "resumen": "La región se calienta cerca de dos veces más rápido que el promedio global. Un nuevo estudio halló que más de un tercio de su permafrost, principalmente en la meseta central, ha ganado hielo.",
-     "enlace": "https://phys.org/news/2026-10-tibetan-plateau-frozen-ground-gaining.html",
+     "titulo": "Fuerzas tectónicas lejanas habrían acelerado el rifting del golfo de California",
+     "resumen": "Hace unos 12 millones de años, Baja California se separó de México y formó el golfo de California. Nuevas investigaciones sugieren que fuerzas tectónicas al otro lado del Pacífico aceleraron mucho ese proceso.",
+     "enlace": "https://phys.org/news/2026-10-faraway-tectonic-gulf-california-rifting.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T13:20+00:00"
+     "fecha": "2026-10-29T23:10+00:00"
     }
    ]
   },
@@ -179,42 +158,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Científicos superan un límite de la física láser y generan rayos X de mayor energía",
-     "resumen": "Un equipo produjo rayos X con energías muy superiores a las predichas por la teoría convencional. El hallazgo muestra que dos electrones que actúan juntos pueden superar un límite aceptado hasta ahora.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-29T03:39+00:00"
-    },
-    {
-     "titulo": "Matemáticos plantean que las ecuaciones de Einstein podrían explicar el universo sin energía oscura",
-     "resumen": "Los autores afirman haber hallado una falla fundamental en el modelo estándar del universo, lo que cuestionaría la necesidad de energía oscura. Según sus cálculos, el marco matemático de la expansión cósmica es inestable.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-29T12:07+00:00"
-    },
-    {
-     "titulo": "Investigadores controlan con ondas de radio el espín nuclear de un único átomo",
-     "resumen": "Científicos de la Universidad Tecnológica de Delft lograron manipular el magnetismo del núcleo de un átomo con ondas de radio. Hasta ahora se creía que este espín nuclear no podía manipularse directamente.",
-     "enlace": "https://phys.org/news/2026-10-magnetic-core-atom.html",
+     "titulo": "Un estudio sugiere que los campos gravitacionales podrían romperse y reconectarse según las ecuaciones de Einstein",
+     "resumen": "Luca Comisso, de la Universidad de Columbia, plantea que las ecuaciones de Einstein admiten que los campos gravitacionales se rompan y reconecten, una interpretación nueva del modelo de gravedad.",
+     "enlace": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T14:20+00:00"
+     "fecha": "2026-10-28T15:00+00:00"
     },
     {
-     "titulo": "Método teórico usa luz para localizar anyones, posibles bloques de computación cuántica",
-     "resumen": "Físicos teóricos de la Universidad Emory propusieron detectar las huellas espectrales de los anyones, cuasipartículas que surgen del comportamiento colectivo de muchos electrones, usando luz. El trabajo fue publicado en Physical Review Letters.",
-     "enlace": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
+     "titulo": "El vacío cuántico perturba átomos y podría reducir agujeros negros, según un análisis de la teoría cuántica",
+     "resumen": "Según la teoría cuántica, el vacío no está realmente vacío. El artículo describe sus efectos sobre átomos, su posible papel en la reducción de agujeros negros y en la formación de galaxias.",
+     "enlace": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T14:40+00:00"
+     "fecha": "2026-10-29T21:30+00:00"
     },
     {
-     "titulo": "Una cámara electrónica de cámara lenta revela saltos cuánticos inducidos por luz en grafeno",
-     "resumen": "Físicos de Regensburg, Marburgo y Jülich observaron cómo campos eléctricos intensos impulsan electrones en grafeno, que saltan a través de brechas de energía de forma paradójica. Lo hicieron con una técnica nueva.",
-     "enlace": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
+     "titulo": "La luz terahertz distingue dos grupos de partículas atrapadas en vórtices de un superconductor",
+     "resumen": "Científicos de Rutgers y Estonia usaron luz terahertz para observar vórtices magnéticos dentro de un superconductor. Los datos podrían ayudar a desarrollar materiales más eficientes para conducir electricidad.",
+     "enlace": "https://phys.org/news/2026-10-terahertz-distinguishes-groups-particles-superconducting.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T16:00+00:00"
+     "fecha": "2026-10-29T21:20+00:00"
+    },
+    {
+     "titulo": "Señales eléctricas revelan por primera vez información magnética oculta en altermagnetos",
+     "resumen": "Investigadores demostraron experimentalmente que un altermagneto puede generar una corriente de espín que transporta información magnética. El resultado coincide con un modelo teórico de transporte electrónico del grupo CFM.",
+     "enlace": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-29T19:40+00:00"
+    },
+    {
+     "titulo": "Un láser azul a escala de chip podría habilitar comunicación submarina y detección ambiental",
+     "resumen": "Investigadores de EPFL desarrollaron un láser azul en chip que combina emisión estable con control rápido de frecuencia. Sus aplicaciones incluyen comunicación submarina, sensado ambiental y tecnologías cuánticas.",
+     "enlace": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-29T18:40+00:00"
     }
    ]
   },
@@ -226,42 +205,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "La magnetosfera de Júpiter es más compleja que la de la Tierra, según la misión Juno",
-     "resumen": "La nave Juno de la NASA identificó un sistema de ondas de plasma potentes y múltiples regiones de choque con las que Júpiter se protege del viento solar. Los hallazgos muestran diferencias importantes con la Tierra.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-29T12:26+00:00"
+     "titulo": "Un destello gamma modesto seguido de un resplandor intenso revela un chorro estelar visto desde un costado",
+     "resumen": "Astrónomos registraron un estallido cósmico con un destello de rayos gamma discreto, seguido de uno de los resplandores más brillantes de los últimos 20 años. La diferencia se atribuye a la perspectiva del observador.",
+     "enlace": "https://phys.org/news/2026-10-modest-gamma-ray-dazzling-afterglow.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-29T13:40+00:00"
     },
     {
-     "titulo": "Científicos cartografían en 3D por primera vez el campo magnético externo del Sol",
-     "resumen": "Un equipo produjo las primeras estimaciones globales tridimensionales del campo magnético solar, incluida el área más allá del borde visible del Sol. Es un paso hacia modelos más precisos de la actividad solar.",
-     "enlace": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
+     "titulo": "La NASA detalla la arquitectura del Habitable Worlds Observatory, misión para estudiar exoplanetas",
+     "resumen": "El equipo de ingeniería de sistemas de la NASA describe la arquitectura de misión del Habitable Worlds Observatory. Su objetivo es encontrar un mundo similar a la Tierra más allá del sistema solar.",
+     "enlace": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T20:10+00:00"
+     "fecha": "2026-10-28T15:40+00:00"
     },
     {
-     "titulo": "El Observatorio Rubin revela dos compañeras ocultas de la Vía Láctea",
-     "resumen": "Datos preliminares del Observatorio Vera C. Rubin, en Chile, apuntan a una serie de descubrimientos que podría completar el censo de las galaxias vecinas de la Vía Láctea, incluidas las más tenues.",
-     "enlace": "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html",
+     "titulo": "El fondo cósmico de microondas aporta evidencia de gas en movimiento dentro de cúmulos de galaxias",
+     "resumen": "El fondo cósmico de microondas es un brillo tenue de unos 380.000 años después del Big Bang. Medir sus fluctuaciones permite estudiar la edad y composición del universo, y en este caso revela flujos de gas en cúmulos de galaxias.",
+     "enlace": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T16:40+00:00"
+     "fecha": "2026-10-29T16:10+00:00"
     },
     {
-     "titulo": "La simulación Lumina recrea el universo temprano a una escala récord",
-     "resumen": "Investigadores del Centro para la Astrofísica Harvard-Smithsonian desarrollaron Lumina, una simulación para interpretar las primeras etapas del universo que observan el JWST y el telescopio Nancy Roman.",
-     "enlace": "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html",
+     "titulo": "La historia de las estrellas podría cambiar las estimaciones de sus campos magnéticos internos",
+     "resumen": "Los campos magnéticos estelares, como el del Sol, se entienden mal y no se incluyen de forma fiable en los modelos de evolución estelar. Un estudio del Instituto de Ciencia y Tecnología de Austria propone mejorar esas estimaciones.",
+     "enlace": "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-26T00:10+00:00"
+     "fecha": "2026-10-29T15:20+00:00"
     },
     {
-     "titulo": "Una estructura llamada Cola de Gato revela una colisión cósmica a 63 años luz de la Tierra",
-     "resumen": "En la constelación de Pictor, una estructura oscura y extensa, apodada Cola de Gato, intrigó a los astrónomos durante dos años. Se extiende a través de un vacío espacial.",
-     "enlace": "https://phys.org/news/2026-10-enormous-cat-tail-cosmic-collision.html",
+     "titulo": "Los telescopios Hubble y James Webb captan la Nebulosa Cabeza de Gato, en la región de Carina",
+     "resumen": "Los telescopios Hubble y James Webb de la NASA captaron una escena de formación estelar dentro de la Nebulosa de Carina, a unos 7.500 años luz de la Tierra.",
+     "enlace": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T15:40+00:00"
+     "fecha": "2026-10-29T20:20+00:00"
     }
    ]
   },
@@ -272,42 +251,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Químicos aíslan por primera vez moléculas con enlaces triples boro-oxígeno tras 60 años de búsqueda",
-     "resumen": "Un equipo de la Universidad de Würzburg, con apoyo computacional de Tezpur University, publicó en Nature Chemistry un método para aislar estas moléculas esquivas.",
-     "enlace": "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html",
+     "titulo": "Reciclaje químico convierte residuos de silicona en bloques de construcción reutilizables con rendimiento de 99%",
+     "resumen": "Investigadores del Instituto de Química desarrollaron un método para reciclar silicona y recuperar bloques de construcción reutilizables, con un rendimiento de hasta 99%.",
+     "enlace": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T14:00+00:00"
+     "fecha": "2026-10-29T22:10+00:00"
     },
     {
-     "titulo": "Un nuevo catalizador crea vías de protones para mejorar la síntesis verde de amoníaco",
-     "resumen": "El proceso Haber-Bosch consume cerca de 1% de la energía global. El catalizador busca resolver un obstáculo de larga data en la síntesis verde de amoníaco.",
-     "enlace": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html",
+     "titulo": "Microplásticos envejecidos en laboratorio permiten estudiar su interacción con otros contaminantes",
+     "resumen": "Un estudio publicado analiza cómo los microplásticos envejecen en el ambiente y si se adhieren a otros contaminantes durante ese proceso. Los microplásticos miden menos de 5 milímetros.",
+     "enlace": "https://phys.org/news/2026-10-lab-aged-microplastics-enable-interactions.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T17:00+00:00"
+     "fecha": "2026-10-30T02:20+00:00"
     },
     {
-     "titulo": "Rayos X revelan cómo las moléculas vecinas modifican el movimiento de un radical químico",
-     "resumen": "Investigadores hallaron que la posición y el alcance de los radicales en las reacciones químicas cambian según las moléculas que los rodean.",
-     "enlace": "https://phys.org/news/2026-10-radical-paths-ray-snapshots-reveal.html",
+     "titulo": "Enlaces de moléculas con platino responden a rasgos de la superficie situados hasta 10 nanómetros de distancia",
+     "resumen": "Los procesos que sostienen la producción de fertilizantes dependen de moléculas que se unen a superficies metálicas. Un estudio muestra que estos enlaces responden a rasgos a hasta 10 nanómetros.",
+     "enlace": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T21:20+00:00"
+     "fecha": "2026-10-29T18:00+00:00"
     },
     {
-     "titulo": "Levadura combinada con electricidad convierte CO₂ en un químico usado en plásticos biodegradables",
-     "resumen": "Investigadores del centro UFZ, junto a la Universidad BOKU de Viena, demostraron la conversión de CO₂ atmosférico en un producto químico útil.",
-     "enlace": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+     "titulo": "Nuevos cálculos revelan rutas ocultas que permiten a las reacciones químicas producir distintos productos",
+     "resumen": "La química cuántica convencional suele seguir una sola ruta de reacción a través del estado de transición. Los nuevos cálculos muestran rutas ocultas que explican productos distintos.",
+     "enlace": "https://phys.org/news/2026-10-reveal-hidden-pathways-chemical-reactions.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T17:20+00:00"
+     "fecha": "2026-10-29T23:00+00:00"
     },
     {
-     "titulo": "El magnetismo atómico explica por qué el hierro, y no el cromo, produce amoníaco con luz solar",
-     "resumen": "Investigadores de la Universidad de Viena y TU Wien estudiaron catalizadores que usan luz solar. Tres átomos de hierro en triángulos son clave en el proceso.",
-     "enlace": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html",
+     "titulo": "Medición de múltiples reacciones en un solo electrodo con sensibilidad extraordinaria",
+     "resumen": "Una reacción en un electrodo revela la naturaleza química y la cantidad de analitos involucrados. Tras más de una década de intentos, se logró distinguir muchas reacciones en el mismo electrodo.",
+     "enlace": "https://phys.org/news/2026-10-multiple-reactions-electrode-extraordinary-sensitivity.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T23:00+00:00"
+     "fecha": "2026-10-29T22:40+00:00"
     }
    ]
   },
@@ -319,35 +298,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Semiconductor identificado por Oxford podría superar una limitación clave de los paneles solares",
-     "resumen": "Un estudio liderado por la Universidad de Oxford, publicado en Nature, describe un nuevo mecanismo en un semiconductor que podría permitir paneles solares más eficientes y de mayor potencia.",
-     "enlace": "https://techxplore.com/news/2026-10-semiconductors-sidestep-key-solar-energy.html",
+     "titulo": "China exporta tecnología limpia récord y reduce las emisiones globales, según informe",
+     "resumen": "China exporta cantidades récord de tecnología y equipos de energía limpia, impulsada por la crisis energética ligada a la guerra con Irán, que aumenta la demanda de renovables. Un informe publicado el jueves prevé una reducción de emisiones globales.",
+     "enlace": "https://techxplore.com/news/2026-10-china-exports-tech-big-dent.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T16:00+00:00"
+     "fecha": "2026-10-29T17:32+00:00"
     },
     {
-     "titulo": "Exportaciones chinas de tecnología limpia en 2026 evitarían tantas emisiones de CO2 como Brasil en un año",
-     "resumen": "Según Carbon Brief, las exportaciones chinas de paneles solares, baterías y vehículos eléctricos en 2026 van camino a reducir emisiones de CO2 en una cantidad equivalente a la que Brasil emite en un año.",
-     "enlace": "https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year",
-     "fuente": "Carbon Brief",
-     "fecha": "2026-10-29T07:51+00:00"
-    },
-    {
-     "titulo": "Catalizador de rutenio iguala al platino en producción de hidrógeno usando mucho menos metal precioso",
-     "resumen": "Un equipo coreano desarrolló un catalizador que agrupa tres o cuatro átomos de rutenio y logra un rendimiento comparable al platino en la producción de hidrógeno, con menos metal precioso.",
-     "enlace": "https://techxplore.com/news/2026-10-ruthenium-catalyst-platinum-hydrogen-production.html",
+     "titulo": "Investigadores fijan metas de desempeño para baterías de aviones solares de próxima generación",
+     "resumen": "Investigadores establecen metas de desempeño para baterías de aviones solares de gran altitud, que avanzan desde prototipos hacia posibles aplicaciones comerciales en monitoreo climático y de incendios.",
+     "enlace": "https://techxplore.com/news/2026-10-generation-solar-aircraft-batteries.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T17:20+00:00"
-    },
-    {
-     "titulo": "Mapeo de energía revela un límite que podría guiar celdas solares orgánicas más eficientes",
-     "resumen": "Investigadores usaron un mapeo de energía para identificar un límite en celdas solares orgánicas, de materiales semiconductores a base de carbono, con el objetivo de acercarlas al límite teórico de Shockley–Queisser.",
-     "enlace": "https://techxplore.com/news/2026-10-energy-reveals-boundary-efficient-solar.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-28T16:20+00:00"
+     "fecha": "2026-10-28T20:00+00:00"
     }
    ]
   },
@@ -359,14 +324,14 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-10-30",
    "noticias": [
     {
-     "titulo": "Un nuevo método mejora la edición de imágenes generadas por IA, píxel a píxel",
-     "resumen": "Los generadores de texto a imagen suelen alterar un detalle no relacionado cuando se les pide corregir una pequeña parte de una imagen casi perfecta. El trabajo propone mejorar esa edición píxel a píxel.",
-     "enlace": "https://techxplore.com/news/2026-10-ai-generated-images-pixel.html",
+     "titulo": "Cuatro agentes de inteligencia artificial completan Minecraft sin intervención humana",
+     "resumen": "Cuatro agentes de inteligencia artificial jugaron Minecraft sin intervención humana y lograron vencer al dragón del juego, en un mundo virtual de bloques 3D donde deben explorar, recolectar recursos y fabricar objetos.",
+     "enlace": "https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T17:20+00:00"
+     "fecha": "2026-10-20T15:15+00:00"
     }
    ]
   }
