@@ -1,6 +1,6 @@
 {
- "dia": "2026-10-30",
- "generado": "2026-10-30T08:51-03:00",
+ "dia": "2026-11-02",
+ "generado": "2026-11-02T08:48-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,42 +11,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Corrientes atlánticas clave podrían colapsar este siglo y casi ningún plan climático nacional lo considera",
-     "resumen": "Funcionarios de Islandia analizaron un escenario de debilitamiento o colapso de la corriente que circula las aguas del Atlántico. Según el reporte, este riesgo falta en casi todos los planes climáticos nacionales.",
-     "enlace": "https://phys.org/news/2026-10-key-atlantic-currents-collapse-century.html",
+     "titulo": "Erupciones volcánicas mayores alteraron de forma episódica la continuidad del calentamiento polar",
+     "resumen": "Según un estudio publicado en Nature, el forzamiento por aerosoles de grandes erupciones volcánicas interrumpió en distintos periodos el calentamiento de las regiones polares.",
+     "enlace": "https://www.nature.com/articles/s44407-026-00111-3",
+     "fuente": "Nature",
+     "fecha": "2026-11-01T00:00+00:00"
+    },
+    {
+     "titulo": "Aguas más cálidas y cambios en la presión sugieren que el clima mediterráneo se está tropicalizando",
+     "resumen": "Aguas más cálidas y cambios en los sistemas de presión son señales de tropicalización del Mediterráneo. Ninguna zona de la península ibérica ni de las Baleares es hoy tropical.",
+     "enlace": "https://phys.org/news/2026-10-warmer-seas-shifting-pressure-mediterranean.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T18:20+00:00"
+     "fecha": "2026-11-01T19:00+00:00"
     },
     {
-     "titulo": "Investigadores registraron la llegada de El Niño en la bahía de Monterey",
-     "resumen": "Datos en tiempo real recopilados por el MBARI durante más de 30 años permitieron documentar la llegada de El Niño, desde la superficie hasta las profundidades del cañón de Monterey.",
-     "enlace": "https://phys.org/news/2026-10-el-nio-monterey-bay.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T22:30+00:00"
-    },
-    {
-     "titulo": "La vegetación responde cada vez más a la sequedad atmosférica que a la humedad del suelo",
-     "resumen": "Un artículo de Nature indica que la vegetación está controlada crecientemente por la sequedad atmosférica más que por la humedad del suelo.",
-     "enlace": "https://www.nature.com/articles/s41561-026-02107-w",
+     "titulo": "Temperaturas extremas de 40 °C dejan de ser improbables en los países nórdicos",
+     "resumen": "Un estudio publicado en Nature indica que los extremos de calor de 40 °C ya no se consideran implausibles en los países nórdicos.",
+     "enlace": "https://www.nature.com/articles/s44304-026-00290-9",
      "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
+     "fecha": "2026-10-31T00:00+00:00"
     },
     {
-     "titulo": "Un balance metabólico del plancton habría contribuido a la reducción del CO2 atmosférico durante glaciaciones",
-     "resumen": "Un artículo de Nature propone que el equilibrio metabólico del plancton contribuyó a disminuir el CO2 atmosférico en periodos glaciales.",
-     "enlace": "https://www.nature.com/articles/s41467-026-78422-y",
+     "titulo": "Sistemas calibrados con IA buscan predecir los extremos de lluvia en África Oriental",
+     "resumen": "Un estudio publicado en Nature evalúa sistemas de posprocesamiento calibrados con inteligencia artificial para predecir los extremos de precipitación en África Oriental.",
+     "enlace": "https://www.nature.com/articles/s44304-026-00283-8",
      "fuente": "Nature",
-     "fecha": "2026-10-29T00:00+00:00"
-    },
-    {
-     "titulo": "La carbonatación de minerales silicatados contribuye a captar CO2 atmosférico en arroyos alimentados por glaciares",
-     "resumen": "Un artículo de Nature indica que la carbonatación de minerales silicatados en arroyos alimentados por glaciares contribuye a reducir el CO2 atmosférico.",
-     "enlace": "https://www.nature.com/articles/s44221-026-00732-8",
-     "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
+     "fecha": "2026-11-02T00:00+00:00"
     }
    ]
   },
@@ -57,14 +50,14 @@
     "Eos",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-27",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Un nuevo modelo de aprendizaje automático podría mejorar la predicción de perturbaciones del vórtice polar",
-     "resumen": "Las perturbaciones del vórtice polar traen temperaturas muy frías a Norteamérica. Un nuevo modelo basado en aprendizaje automático podría permitir predecirlas mejor.",
-     "enlace": "https://eos.org/research-spotlights/using-machine-learning-techniques-for-polar-vortex-predictions",
-     "fuente": "Eos",
-     "fecha": "2026-10-20T13:30+00:00"
+     "titulo": "El calentamiento global se acelera más que nunca desde alrededor de 2015",
+     "resumen": "Un nuevo estudio detecta una aceleración de las temperaturas globales desde cerca de 2015, con una tasa de unos 0,35 °C por década, casi el doble del ritmo promedio entre 1970 y 2015.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-30T03:50+00:00"
     }
    ]
   },
@@ -75,14 +68,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "La pirita se forma en sedimentos marinos mediante polisulfuros y sulfuros de hierro metaestables",
-     "resumen": "Un estudio de Nature describe las vías de formación de pirita en sedimentos marinos, que pasan por polisulfuros y sulfuros de hierro metaestables.",
-     "enlace": "https://www.nature.com/articles/s43247-026-04161-z",
+     "titulo": "El momento del polvo atmosférico vincula la dinámica del aire con el aporte de nutrientes al océano",
+     "resumen": "Un estudio propone el momento del polvo como métrica para relacionar la dinámica atmosférica con la entrega de nutrientes al océano. Fuente: Nature.",
+     "enlace": "https://www.nature.com/articles/s44304-026-00287-4",
      "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
+     "fecha": "2026-11-02T00:00+00:00"
     }
    ]
   },
@@ -94,14 +87,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Fuerzas tectónicas lejanas habrían acelerado el rifting del golfo de California",
-     "resumen": "Hace unos 12 millones de años, Baja California se separó de México y formó el golfo de California. Nuevas investigaciones sugieren que fuerzas tectónicas al otro lado del Pacífico aceleraron mucho ese proceso.",
-     "enlace": "https://phys.org/news/2026-10-faraway-tectonic-gulf-california-rifting.html",
+     "titulo": "La roca blanda de montaña erosiona tres veces más rápido que la dura, según un estudio",
+     "resumen": "Un equipo liderado por la Universidad de Massachusetts Amherst halló que la roca más débil erosiona tres veces más rápido que la más dura, incluso en laderas suaves, y es un factor principal de la erosión montañosa.",
+     "enlace": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T23:10+00:00"
+     "fecha": "2026-10-30T20:40+00:00"
+    },
+    {
+     "titulo": "El transporte de sedimentos en ríos de Estados Unidos se vuelve más irregular",
+     "resumen": "Una investigación analizó la tasa de transporte de sedimentos en 175 ríos de Estados Unidos. Las crecidas repentinas de verano aportan grandes cantidades de sedimento al río Colorado.",
+     "enlace": "https://eos.org/articles/u-s-river-sediment-transport-is-becoming-burstier",
+     "fuente": "Eos",
+     "fecha": "2026-10-30T13:02+00:00"
     }
    ]
   },
@@ -158,42 +158,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Un estudio sugiere que los campos gravitacionales podrían romperse y reconectarse según las ecuaciones de Einstein",
-     "resumen": "Luca Comisso, de la Universidad de Columbia, plantea que las ecuaciones de Einstein admiten que los campos gravitacionales se rompan y reconecten, una interpretación nueva del modelo de gravedad.",
-     "enlace": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
+     "titulo": "Un equipo confirma experimentalmente el altermagnetismo, un tercer tipo de magnetismo en materiales sin influencia externa",
+     "resumen": "Un equipo liderado por SLAC, del Departamento de Energía de EE. UU., publicó en Science pruebas experimentales del altermagnetismo, un giro geométrico que confirma este tipo de magnetismo.",
+     "enlace": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T15:00+00:00"
+     "fecha": "2026-10-30T12:20+00:00"
     },
     {
-     "titulo": "El vacío cuántico perturba átomos y podría reducir agujeros negros, según un análisis de la teoría cuántica",
-     "resumen": "Según la teoría cuántica, el vacío no está realmente vacío. El artículo describe sus efectos sobre átomos, su posible papel en la reducción de agujeros negros y en la formación de galaxias.",
-     "enlace": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T21:30+00:00"
+     "titulo": "Científicos recrean materia primordial del Big Bang al colisionar núcleos de oxígeno",
+     "resumen": "Las colisiones de núcleos de oxígeno a casi la velocidad de la luz formaron esta sustancia exótica en colisiones de menor energía que las demostradas antes, lo que desafía modelos previos.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-31T02:09+00:00"
     },
     {
-     "titulo": "La luz terahertz distingue dos grupos de partículas atrapadas en vórtices de un superconductor",
-     "resumen": "Científicos de Rutgers y Estonia usaron luz terahertz para observar vórtices magnéticos dentro de un superconductor. Los datos podrían ayudar a desarrollar materiales más eficientes para conducir electricidad.",
-     "enlace": "https://phys.org/news/2026-10-terahertz-distinguishes-groups-particles-superconducting.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T21:20+00:00"
+     "titulo": "Científicos proponen que un neutrino olvidado podría explicar por qué la materia sobrevivió al Big Bang",
+     "resumen": "Según la propuesta, este neutrino, pasado por alto durante décadas, habría reconfigurado el universo temprano y podría dejar señales de ondas gravitacionales detectables.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-01T04:33+00:00"
     },
     {
-     "titulo": "Señales eléctricas revelan por primera vez información magnética oculta en altermagnetos",
-     "resumen": "Investigadores demostraron experimentalmente que un altermagneto puede generar una corriente de espín que transporta información magnética. El resultado coincide con un modelo teórico de transporte electrónico del grupo CFM.",
-     "enlace": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
+     "titulo": "Átomos ultrafríos simulan la producción de pares materia-antimateria, un proceso difícil de observar",
+     "resumen": "Según la electrodinámica cuántica, un campo eléctrico suficientemente intenso puede convertir parte de su energía en pares de partículas y sus antipartículas.",
+     "enlace": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T19:40+00:00"
+     "fecha": "2026-10-31T17:00+00:00"
     },
     {
-     "titulo": "Un láser azul a escala de chip podría habilitar comunicación submarina y detección ambiental",
-     "resumen": "Investigadores de EPFL desarrollaron un láser azul en chip que combina emisión estable con control rápido de frecuencia. Sus aplicaciones incluyen comunicación submarina, sensado ambiental y tecnologías cuánticas.",
-     "enlace": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
+     "titulo": "Investigadores crean un anti-spin ice que invierte la regla del hielo de los sistemas convencionales",
+     "resumen": "Publicado en Nature Communications, el estudio reporta un sistema que hace lo opuesto a los spin ice convencionales al romper la regla del hielo que los gobierna, usando partículas atractivas.",
+     "enlace": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T18:40+00:00"
+     "fecha": "2026-11-01T11:40+00:00"
     }
    ]
   },
@@ -205,42 +205,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Un destello gamma modesto seguido de un resplandor intenso revela un chorro estelar visto desde un costado",
-     "resumen": "Astrónomos registraron un estallido cósmico con un destello de rayos gamma discreto, seguido de uno de los resplandores más brillantes de los últimos 20 años. La diferencia se atribuye a la perspectiva del observador.",
-     "enlace": "https://phys.org/news/2026-10-modest-gamma-ray-dazzling-afterglow.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T13:40+00:00"
+     "titulo": "Observaciones del Hubble desafían la explicación dominante del origen del universo temprano",
+     "resumen": "Astrónomos con el Telescopio Espacial Hubble cuestionan cómo el universo temprano salió de una densa niebla de hidrógeno hace unos 13.000 millones de años. Se creía que vientos de estrellas en explosión ayudaron a dispersarla.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-30T10:50+00:00"
     },
     {
-     "titulo": "La NASA detalla la arquitectura del Habitable Worlds Observatory, misión para estudiar exoplanetas",
-     "resumen": "El equipo de ingeniería de sistemas de la NASA describe la arquitectura de misión del Habitable Worlds Observatory. Su objetivo es encontrar un mundo similar a la Tierra más allá del sistema solar.",
-     "enlace": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+     "titulo": "JWST observa una galaxia lejana que podría dejar escapar gran parte de su radiación ionizante",
+     "resumen": "Con el Telescopio Espacial James Webb, astrónomos hallaron indicios de que la galaxia EBG-1, muy azul y amplificada por lente gravitacional, deja escapar casi toda su radiación ionizante. Su corrimiento al rojo es 9,244.",
+     "enlace": "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T15:40+00:00"
+     "fecha": "2026-10-30T13:40+00:00"
     },
     {
-     "titulo": "El fondo cósmico de microondas aporta evidencia de gas en movimiento dentro de cúmulos de galaxias",
-     "resumen": "El fondo cósmico de microondas es un brillo tenue de unos 380.000 años después del Big Bang. Medir sus fluctuaciones permite estudiar la edad y composición del universo, y en este caso revela flujos de gas en cúmulos de galaxias.",
-     "enlace": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
+     "titulo": "Un cúmulo estelar oculto tras polvo de la Vía Láctea tendría cerca de 13.400 millones de años",
+     "resumen": "Astrónomos determinaron que VVV CL001, un cúmulo globular pobre en metales cerca del centro de la Vía Láctea, tiene unos 13.400 millones de años. Está detrás de densas nubes de polvo interestelar.",
+     "enlace": "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T16:10+00:00"
+     "fecha": "2026-11-02T11:40+00:00"
     },
     {
-     "titulo": "La historia de las estrellas podría cambiar las estimaciones de sus campos magnéticos internos",
-     "resumen": "Los campos magnéticos estelares, como el del Sol, se entienden mal y no se incluyen de forma fiable en los modelos de evolución estelar. Un estudio del Instituto de Ciencia y Tecnología de Austria propone mejorar esas estimaciones.",
-     "enlace": "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T15:20+00:00"
+     "titulo": "Actividad estelar explica un misterio de 170 años en un sistema binario a 16 años luz",
+     "resumen": "Astrónomos resolvieron un misterio planetario de 170 años en un sistema de dos estrellas: el bamboleo se debe a actividad estelar, no a un planeta gigante. Quedan descartados mundos del tamaño de Júpiter en regiones clave.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-30T03:17+00:00"
     },
     {
-     "titulo": "Los telescopios Hubble y James Webb captan la Nebulosa Cabeza de Gato, en la región de Carina",
-     "resumen": "Los telescopios Hubble y James Webb de la NASA captaron una escena de formación estelar dentro de la Nebulosa de Carina, a unos 7.500 años luz de la Tierra.",
-     "enlace": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
+     "titulo": "El metano del cometa interestelar 3I/ATLAS tiene un alto contenido de hidrógeno pesado",
+     "resumen": "El cometa interestelar 3I/ATLAS presenta un metano inusualmente rico en deuterio, o hidrógeno pesado. Su composición sugiere que sus ingredientes congelados se formaron en un entorno muy frío.",
+     "enlace": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T20:20+00:00"
+     "fecha": "2026-11-01T15:20+00:00"
     }
    ]
   },
@@ -251,42 +251,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Reciclaje químico convierte residuos de silicona en bloques de construcción reutilizables con rendimiento de 99%",
-     "resumen": "Investigadores del Instituto de Química desarrollaron un método para reciclar silicona y recuperar bloques de construcción reutilizables, con un rendimiento de hasta 99%.",
-     "enlace": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html",
+     "titulo": "Una nueva reacción química amplía las opciones para construir bibliotecas codificadas con ADN",
+     "resumen": "Las bibliotecas codificadas con ADN permiten examinar grandes colecciones de compuestos para hallar fármacos. La nueva reacción aumenta las formas de construirlas.",
+     "enlace": "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T22:10+00:00"
+     "fecha": "2026-10-30T19:20+00:00"
     },
     {
-     "titulo": "Microplásticos envejecidos en laboratorio permiten estudiar su interacción con otros contaminantes",
-     "resumen": "Un estudio publicado analiza cómo los microplásticos envejecen en el ambiente y si se adhieren a otros contaminantes durante ese proceso. Los microplásticos miden menos de 5 milímetros.",
-     "enlace": "https://phys.org/news/2026-10-lab-aged-microplastics-enable-interactions.html",
+     "titulo": "Un equipo de químicos desarrolla una herramienta de IA para diseñar enzimas útiles",
+     "resumen": "El profesor de química Zhongyue (John) Yang y su equipo crearon una herramienta de inteligencia artificial orientada al diseño de enzimas.",
+     "enlace": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-30T02:20+00:00"
+     "fecha": "2026-10-31T19:00+00:00"
     },
     {
-     "titulo": "Enlaces de moléculas con platino responden a rasgos de la superficie situados hasta 10 nanómetros de distancia",
-     "resumen": "Los procesos que sostienen la producción de fertilizantes dependen de moléculas que se unen a superficies metálicas. Un estudio muestra que estos enlaces responden a rasgos a hasta 10 nanómetros.",
-     "enlace": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html",
+     "titulo": "Un destello de 10 milisegundos podría ayudar a fabricar sensores de gas más sensibles",
+     "resumen": "Investigadores usaron pulsos de luz de 10 milisegundos para crear láminas de disulfuro de molibdeno con átomos metálicos aislados. Agregar platino mejoró la respuesta al dióxido de nitrógeno a temperatura ambiente.",
+     "enlace": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T18:00+00:00"
+     "fecha": "2026-10-30T15:20+00:00"
     },
     {
-     "titulo": "Nuevos cálculos revelan rutas ocultas que permiten a las reacciones químicas producir distintos productos",
-     "resumen": "La química cuántica convencional suele seguir una sola ruta de reacción a través del estado de transición. Los nuevos cálculos muestran rutas ocultas que explican productos distintos.",
-     "enlace": "https://phys.org/news/2026-10-reveal-hidden-pathways-chemical-reactions.html",
+     "titulo": "Un equipo diseña una jaula molecular capaz de atrapar moléculas planas con forma compatible",
+     "resumen": "Investigadores sintetizaron una jaula molecular con cavidad interna, uniendo dos moléculas curvas π-conjugadas cara a cara en tres puntos.",
+     "enlace": "https://phys.org/news/2026-10-molecular-armor-planar-molecules.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T23:00+00:00"
-    },
-    {
-     "titulo": "Medición de múltiples reacciones en un solo electrodo con sensibilidad extraordinaria",
-     "resumen": "Una reacción en un electrodo revela la naturaleza química y la cantidad de analitos involucrados. Tras más de una década de intentos, se logró distinguir muchas reacciones en el mismo electrodo.",
-     "enlace": "https://phys.org/news/2026-10-multiple-reactions-electrode-extraordinary-sensitivity.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T22:40+00:00"
+     "fecha": "2026-10-31T12:00+00:00"
     }
    ]
   },
@@ -298,21 +291,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "China exporta tecnología limpia récord y reduce las emisiones globales, según informe",
-     "resumen": "China exporta cantidades récord de tecnología y equipos de energía limpia, impulsada por la crisis energética ligada a la guerra con Irán, que aumenta la demanda de renovables. Un informe publicado el jueves prevé una reducción de emisiones globales.",
-     "enlace": "https://techxplore.com/news/2026-10-china-exports-tech-big-dent.html",
+     "titulo": "Laos cuenta con 133 turbinas eólicas de fabricación china que abastecen el crecimiento de Vietnam",
+     "resumen": "Las turbinas, ubicadas en el sur de Laos, forman parte de una tendencia regional a diversificar las fuentes de energía.",
+     "enlace": "https://techxplore.com/news/2026-11-laos-renewables.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-29T17:32+00:00"
+     "fecha": "2026-11-01T19:30+00:00"
     },
     {
-     "titulo": "Investigadores fijan metas de desempeño para baterías de aviones solares de próxima generación",
-     "resumen": "Investigadores establecen metas de desempeño para baterías de aviones solares de gran altitud, que avanzan desde prototipos hacia posibles aplicaciones comerciales en monitoreo climático y de incendios.",
-     "enlace": "https://techxplore.com/news/2026-10-generation-solar-aircraft-batteries.html",
+     "titulo": "Nuevo método de fabricación de electrodos mejora la producción de hidrógeno con luz solar",
+     "resumen": "Un equipo de DGIST y Kookmin University desarrolló un fotoelectrodo de alta eficiencia para producir hidrógeno con energía solar, mediante una vía de fabricación más limpia.",
+     "enlace": "https://techxplore.com/news/2026-10-electrode-method-cleaner-route-sunlight.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-28T20:00+00:00"
+     "fecha": "2026-10-30T19:00+00:00"
+    },
+    {
+     "titulo": "Nuevo electrolito permite que las baterías de flujo de estaño usen toda su capacidad de carga",
+     "resumen": "Investigadores en China mostraron que cambiar el líquido de baterías ácidas de estaño permite usar una reacción de cuatro electrones, en vez de los dos habituales.",
+     "enlace": "https://techxplore.com/news/2026-10-electrolyte-redesign-tin-full-capacity.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-31T17:10+00:00"
     }
    ]
   },
@@ -324,14 +324,14 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-30",
+   "actualizada": "2026-11-02",
    "noticias": [
     {
-     "titulo": "Cuatro agentes de inteligencia artificial completan Minecraft sin intervención humana",
-     "resumen": "Cuatro agentes de inteligencia artificial jugaron Minecraft sin intervención humana y lograron vencer al dragón del juego, en un mundo virtual de bloques 3D donde deben explorar, recolectar recursos y fabricar objetos.",
-     "enlace": "https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-20T15:15+00:00"
+     "titulo": "Agentes de IA podrían desarrollar su propio lenguaje sin que un humano les enseñe",
+     "resumen": "Dos robots podrían aprender a comunicarse entre sí sin que ningún humano les enseñe un idioma.",
+     "enlace": "https://robotitus.com/agente-de-ia-desarrolla-su-propio-lenguaje/",
+     "fuente": "Robotitus",
+     "fecha": "2026-10-31T21:39+00:00"
     }
    ]
   }
