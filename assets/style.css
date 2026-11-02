@@ -8,6 +8,8 @@
   --rule-a: #00295B; --rule-b: #001B3D;
   --ok-bg: #DDF0E4; --ok-ink: #14532D; --new-bg: #E8F1F9; --new-ink: #00295B;
   --err-bg: #FBEAEA; --err-ink: #8F2B2B;
+  --sec-light: rgba(255, 255, 255, .78); --sec-mist: rgba(232, 241, 249, .9); --sec-sky: linear-gradient(180deg, #BFD9EE 0%, #DCEAF6 100%);
+  --wx-sol: #F2A900; --wx-nube: #FFFFFF; --wx-gris: #9DB2C7; --wx-agua: #2F7FC1; --wx-luna: #E8D9A0; --wx-line: #BBD0E4;
   --shadow: 0 1px 2px rgba(0, 27, 61, .06), 0 10px 28px rgba(0, 27, 61, .08);
   --shadow-lift: 0 2px 4px rgba(0, 27, 61, .08), 0 18px 40px rgba(0, 27, 61, .14);
   --f-head: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
@@ -24,6 +26,8 @@
     --rule-a: #4E94C3; --rule-b: #1D3557;
     --ok-bg: #12362A; --ok-ink: #8EE0B0; --new-bg: #13294A; --new-ink: #CFE0EF;
     --err-bg: #3A1A1A; --err-ink: #F2B8B8;
+    --sec-light: rgba(15, 32, 56, .72); --sec-mist: rgba(19, 41, 74, .85); --sec-sky: linear-gradient(180deg, #14325A 0%, #0F2646 100%);
+    --wx-nube: #D6E2EE; --wx-gris: #7C93AD; --wx-agua: #6FB2E6; --wx-line: #28466E;
     --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 10px 28px rgba(0, 0, 0, .35);
     --shadow-lift: 0 2px 4px rgba(0, 0, 0, .45), 0 18px 40px rgba(0, 0, 0, .45);
   }
@@ -130,6 +134,72 @@ h2 { margin: 0 0 12px; font: 700 clamp(25px, 3.4vw, 36px) / 1.15 var(--f-head); 
 .sec-head .more { margin: 0 0 24px; }
 .muted { color: var(--muted); }
 .fine { margin-top: 18px; font-size: 14px; color: var(--muted); max-width: 66ch; }
+
+/* Fondos alternados de las secciones (dejan ver la red de puntos) */
+.sec-light { background: var(--sec-light); }
+.sec-mist { background: var(--sec-mist); }
+.sec-sky { background: url("img/nubes.svg") center / cover no-repeat, var(--sec-sky); }
+.sec-topo { background: url("img/topo-claro.svg") center / cover no-repeat, var(--sec-light); }
+.sec-mapa { background: url("img/mapa-sudamerica.svg") center / cover no-repeat, var(--sec-light); }
+.sec-sky { padding-block: 52px; }
+/* Las secciones claras y celeste se mantienen claras también con el esquema oscuro del navegador */
+.sec-light, .sec-sky {
+  color-scheme: light; color: var(--ink);
+  --card: #FFFFFF; --ink: #20242A; --muted: #4B586A; --line: #D6E2EE; --mist: #E8F1F9;
+  --heading: #00295B; --link: #004090;
+  --btn-bg: #00295B; --btn-ink: #FFFFFF;
+  --chip-ink: #00295B; --chip-on-bg: #00295B; --chip-on-ink: #FFFFFF;
+  --rule-a: #00295B; --rule-b: #001B3D;
+  --sec-light: rgba(247, 250, 253, .95); --sec-sky: linear-gradient(180deg, #BFD9EE 0%, #DCEAF6 100%);
+  --wx-nube: #FFFFFF; --wx-gris: #9DB2C7; --wx-agua: #2F7FC1; --wx-line: #BBD0E4;
+  --shadow: 0 1px 2px rgba(0, 27, 61, .06), 0 10px 28px rgba(0, 27, 61, .08);
+  --shadow-lift: 0 2px 4px rgba(0, 27, 61, .08), 0 18px 40px rgba(0, 27, 61, .14);
+}
+.sec + .sec-sky, .sec-sky + .band { border-top: 0; }
+.tags-lg { margin: 18px 0 0; }
+.tags-lg li { padding: 6px 14px; font-size: 14px; background: var(--card); }
+
+/* Pronóstico por hora */
+.wx-resumen { margin: 0 0 18px; font: 600 16px var(--f-head); color: var(--heading); }
+.wx { background: var(--card); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+.wx-scroll { overflow-x: auto; padding: 14px 6px 12px; }
+.wx-inner { width: max-content; }
+.wx-tabla { display: grid; }
+.wx-c { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; min-height: 34px; padding: 3px 0; font: 600 14px var(--f-head); color: var(--ink); text-align: center; border-bottom: 1px solid var(--line); }
+.wx-c.is-now { background: var(--mist); }
+.wx-hora-c { font: 600 13px var(--f-mono); color: var(--muted); }
+.wx-cielo { min-height: 52px; }
+.wx-temp { font-size: 17px; color: var(--heading); }
+.wx-dir img { width: 28px; height: 28px; display: block; }
+.wx-viento { font-size: 14px; font-weight: 700; color: var(--heading); }
+.wx-viento small { font-size: 11px; font-weight: 600; color: var(--muted); }
+.wx-ico { width: 36px; height: 36px; display: block; }
+.wx-sr { position: absolute; left: -9999px; }
+/* La fila de lluvia lleva los mm y las barras por hora en la misma banda */
+.wx-lluvia { grid-column: 1 / -1; padding: 0; min-height: 0; }
+.wx-graf { display: block; }
+.wx-malla { stroke: var(--wx-line); stroke-width: 1; stroke-dasharray: 3 4; }
+.wx-base { stroke: var(--wx-line); stroke-width: 1.2; }
+.wx-mmv { fill: var(--wx-agua); font: 600 13px var(--f-head); text-anchor: middle; }
+.wx-eje { fill: var(--muted); font: 600 11px var(--f-mono); }
+.wx-ahora { fill: var(--mist); }
+.wx-barra { fill: var(--wx-agua); opacity: .35; }
+.wx-linea { fill: none; stroke: var(--wx-agua); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round; }
+
+/* Texto sobre bandas azules */
+.band .features { margin-top: 40px; }
+.band .feature .n { border-color: #8FC3E6; color: #FFFFFF; }
+.band .feature h3 { color: #FFFFFF; }
+.band .feature p { color: #B9CFE3; max-width: none; }
+
+/* Publicaciones del equipo */
+.pubs { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin: 28px 0 0; padding: 0; list-style: none; }
+.pub { display: flex; flex-direction: column; gap: 8px; padding: 20px 22px; background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--sky); border-radius: 12px; box-shadow: var(--shadow); }
+.pub .tipo { font: 600 11.5px var(--f-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--link); }
+.pub h3 { margin: 0; font: 700 17px / 1.35 var(--f-head); color: var(--heading); }
+.pub p { margin: 0; font-size: 15px; color: var(--muted); }
+.pub a { margin-top: auto; padding-top: 4px; font: 600 14px var(--f-head); text-decoration: none; }
+.pub a:hover { text-decoration: underline; }
 
 /* Qué hacemos: cuatro capacidades con ícono */
 .caps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; margin-top: 34px; }
