@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-03",
- "generado": "2026-11-03T08:21-03:00",
+ "dia": "2026-11-04",
+ "generado": "2026-11-04T08:54-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,35 +11,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Dos informes de la ONU advierten daños irreversibles en los hielos terrestres por el cambio climático",
-     "resumen": "Dos informes de la ONU alertan que superar 1,5 °C de calentamiento global tendrá consecuencias irreversibles para glaciares, hielo marino y regiones congeladas, y piden acción urgente.",
-     "enlace": "https://phys.org/news/2026-11-large-scale-earth-ice-climate.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-02T18:54+00:00"
+     "titulo": "2026 podría igualar a 2024 como el año más cálido registrado",
+     "resumen": "Con tres cuartos del año transcurrido, es prácticamente seguro que 2026 será el año más cálido o el segundo más cálido de la serie histórica. Carbon Brief.",
+     "enlace": "https://www.carbonbrief.org/state-of-the-climate-2026-likely-to-tie-with-2024-as-the-warmest-year-on-record",
+     "fuente": "Carbon Brief",
+     "fecha": "2026-11-03T13:48+00:00"
     },
     {
-     "titulo": "Un estudio nacional identifica los estados de EE. UU. con las tendencias de calentamiento más marcadas desde 1980",
-     "resumen": "El calentamiento global ronda los 1,63 °C sobre niveles preindustriales, pero las temperaturas locales no aumentan de manera uniforme. El estudio ubica los estados con mayores alzas desde 1980.",
-     "enlace": "https://phys.org/news/2026-11-national-states-steepest-trends.html",
+     "titulo": "El 'cold blob' del Atlántico Norte podría tener matices climáticos relevantes",
+     "resumen": "Se ha vinculado la intensidad de una gran corriente oceánica con las temperaturas de la zona fría al sur y sureste de Groenlandia, que se enfrió hasta 1,8 grados Fahrenheit. Phys.org.",
+     "enlace": "https://phys.org/news/2026-11-north-atlantic-cold-blob-climate.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T14:20+00:00"
-    },
-    {
-     "titulo": "El cambio climático está haciendo más cálidos los trópicos",
-     "resumen": "Un estudio detecta cambios significativos en lluvias y eventos extremos de temperatura en bosques tropicales del Caribe que se consideraban a salvo, con registros de largo plazo en La Selva.",
-     "enlace": "https://phys.org/news/2026-11-climate-tropics-hotter.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-03T02:00+00:00"
-    },
-    {
-     "titulo": "Un estudio revela efectos climáticos poco conocidos de la reforestación global, más allá de la absorción de CO₂",
-     "resumen": "Investigadores de Simon Fraser University analizan cómo los esfuerzos globales de forestación afectan el sistema climático más allá de la remoción de CO₂.",
-     "enlace": "https://phys.org/news/2026-11-lesser-climate-impacts-global-reforestation.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-03T02:40+00:00"
+     "fecha": "2026-11-04T00:40+00:00"
     }
    ]
   },
@@ -50,14 +36,14 @@
     "Eos",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-02",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "El calentamiento global se acelera más que nunca desde alrededor de 2015",
-     "resumen": "Un nuevo estudio detecta una aceleración de las temperaturas globales desde cerca de 2015, con una tasa de unos 0,35 °C por década, casi el doble del ritmo promedio entre 1970 y 2015.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
+     "titulo": "Imágenes satelitales de la NASA muestran una formación con forma de cráneo en el hielo antártico",
+     "resumen": "Satélites de la NASA captaron una formación con forma de cráneo en una isla remota de la Antártida. Inviernos inusualmente cálidos dejaron al descubierto grandes zonas de hielo oscuro, lo que podría acelerar el derretimiento futuro de glaciares.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-30T03:50+00:00"
+     "fecha": "2026-11-02T09:50+00:00"
     }
    ]
   },
@@ -68,35 +54,35 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Boyas inteligentes de pesca de atún reutilizadas aportan datos en tiempo real para la observación oceánica",
-     "resumen": "Boyas de pesca de atún con tecnología inteligente, reutilizadas, entregan información en tiempo real para la conservación marina y la observación del océano.",
-     "enlace": "https://www.nature.com/articles/s41598-026-72665-x",
+     "titulo": "Un estudio de Nature analiza cómo adaptarse al riesgo de cambios en la circulación del Atlántico",
+     "resumen": "Según el título del artículo de Nature, el trabajo trata la adaptación al riesgo asociado a cambios en la circulación oceánica del Atlántico. El extracto no entrega cifras adicionales.",
+     "enlace": "https://www.nature.com/articles/s41893-026-01961-1",
      "fuente": "Nature",
-     "fecha": "2026-11-03T00:00+00:00"
+     "fecha": "2026-10-27T00:00+00:00"
     },
     {
-     "titulo": "Materia orgánica aportada por terremotos favorece la formación de carbonatos autigénicos en fosas hadales",
-     "resumen": "Un estudio en fosas hadales indica que el influjo de materia orgánica tras terremotos aumenta la formación de carbonatos autigénicos en el fondo marino.",
-     "enlace": "https://www.nature.com/articles/s41467-026-79086-4",
+     "titulo": "Las olas de calor marinas en arrecifes de coral vulnerables son predecibles en escalas de varios años",
+     "resumen": "Un estudio de Nature indica que las olas de calor marinas en regiones vulnerables de arrecifes de coral pueden predecirse con habilidad en escalas plurianuales.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78279-1",
      "fuente": "Nature",
-     "fecha": "2026-11-03T00:00+00:00"
+     "fecha": "2026-10-27T00:00+00:00"
     },
     {
-     "titulo": "Los controles sedimentarios influyen en los isótopos de azufre de la pirita en ambientes euxínicos",
-     "resumen": "Investigación sobre cómo las condiciones sedimentarias regulan la composición isotópica de la pirita en ambientes euxínicos, anóxicos y sulfurosos.",
-     "enlace": "https://www.nature.com/articles/s43247-026-04178-4",
-     "fuente": "Nature",
-     "fecha": "2026-11-02T00:00+00:00"
-    },
-    {
-     "titulo": "Flujos de polvo de los monzones occidental y asiático se distinguen en el Pacífico tropical desde el Plioceno",
-     "resumen": "Estudio que diferencia el polvo transportado por los monzones occidental y asiático hacia el Pacífico tropical desde el Plioceno tardío.",
-     "enlace": "https://www.nature.com/articles/s43247-026-04172-w",
+     "titulo": "La producción primaveral del mar de Barents en la zona de hielo declina bajo el forzamiento climático",
+     "resumen": "Un estudio de Nature reporta una disminución de la producción de primavera en la zona de hielo del mar de Barents, asociada al forzamiento climático.",
+     "enlace": "https://www.nature.com/articles/s41467-026-79272-4",
      "fuente": "Nature",
      "fecha": "2026-10-26T00:00+00:00"
+    },
+    {
+     "titulo": "El hielo marino del Ártico en invierno podría desaparecer mucho más rápido de lo previsto",
+     "resumen": "Investigadores citados por ScienceDaily compararon sedimentos oceánicos de hace 6.000 años con modelos climáticos actuales y concluyeron que la pérdida de hielo invernal podría ser mayor a la esperada.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-10-26T08:50+00:00"
     }
    ]
   },
@@ -108,14 +94,14 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Las erupciones volcánicas tropicales son un factor importante en la regulación térmica de la Tierra",
-     "resumen": "Una investigación difundida por Phys.org señala que las erupciones volcánicas en la zona tropical tienen efectos de alcance global sobre el clima, más allá de los impactos locales sobre el medio ambiente y las comunidades cercanas.",
-     "enlace": "https://phys.org/news/2026-11-volcanic-eruptions-tropics-major-factor.html",
+     "titulo": "Un mapa de alta resolución permite estudiar los reservorios de magma del volcán Kīlauea",
+     "resumen": "El Kīlauea, uno de los volcanes más activos de la Tierra, entró en erupción casi de forma continua entre 1983 y 2018. Desde fines de 2024 inició una nueva serie de erupciones que continúa a finales de 2026.",
+     "enlace": "https://phys.org/news/2026-11-klauea-magma-reservoirs-high-resolution.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T17:40+00:00"
+     "fecha": "2026-11-03T19:20+00:00"
     }
    ]
   },
@@ -127,14 +113,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Grandes terremotos intraplaca en una placa oceánica extinta revelan la reactivación de una zona de fractura",
-     "resumen": "Nature reporta grandes sismos intraplaca ocurridos en una placa oceánica extinta, asociados a la reactivación de una zona de fractura. La información disponible no incluye más datos.",
-     "enlace": "https://www.nature.com/articles/s43247-026-04197-1",
+     "titulo": "Evidencia sísmica revela desgarros dobles de la placa en la transición subducción-colisión neotetisiana",
+     "resumen": "Un estudio publicado en Nature aporta evidencia sísmica de desgarros dobles de la placa en la transición entre subducción y colisión neotetisiana.",
+     "enlace": "https://www.nature.com/articles/s41561-026-02129-4",
      "fuente": "Nature",
-     "fecha": "2026-10-30T00:00+00:00"
+     "fecha": "2026-11-04T00:00+00:00"
     }
    ]
   },
@@ -146,14 +132,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-10-29",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Magma profundo de la Tierra podría almacenar oxígeno adicional y aportar a la atmósfera",
-     "resumen": "Un estudio indica que el magma en el interior terrestre puede retener cantidades sorprendentes de oxígeno extra. Las erupciones volcánicas antiguas podrían haber contribuido a transformar la atmósfera.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-29T01:13+00:00"
+     "titulo": "Un nuevo trabajo mapea los reservorios de magma del Kīlauea, en Hawái",
+     "resumen": "Eos informa sobre el mapeo de los reservorios de magma del Kīlauea. La imagen asociada muestra una fuente de lava en el cráter Halemaʻumaʻu el 17 de octubre de 2026.",
+     "enlace": "https://eos.org/research-spotlights/mapping-kilaueas-magma-reservoirs",
+     "fuente": "Eos",
+     "fecha": "2026-11-03T13:43+00:00"
     }
    ]
   },
@@ -165,42 +151,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "El LHC del CERN encuentra nueva evidencia de plasma quark-gluón en colisiones atómicas pequeñas",
-     "resumen": "Científicos del LHC hallaron indicios de que colisiones atómicas relativamente pequeñas pueden recrear el estado de la materia que llenó el universo poco después del Big Bang.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-03T02:39+00:00"
-    },
-    {
-     "titulo": "Científicos identifican una posible grieta en las leyes que impiden que los agujeros negros se dividan",
-     "resumen": "El hallazgo sugiere que los agujeros negros de rotación extremadamente rápida podrían dividirse en dos, lo que abriría un fenómeno nuevo en astrofísica.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-03T01:27+00:00"
-    },
-    {
-     "titulo": "IceCube detecta neutrinos cósmicos con una energía 10 000 millones de veces mayor que la de los solares",
-     "resumen": "El observatorio enterrado en el hielo antártico registra neutrinos muy energéticos llegados desde fuentes cósmicas distantes, partículas que podrían aportar información de gran valor.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-02T13:42+00:00"
-    },
-    {
-     "titulo": "Un experimento respalda la base teórica de una computación cuántica potencialmente más resistente a errores",
-     "resumen": "La computación cuántica topológica almacena información en estados cuánticos especiales que se espera sean más resistentes a perturbaciones locales.",
-     "enlace": "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html",
+     "titulo": "Físicos del LHCb observan una desintegración extremadamente rara de partículas beauty",
+     "resumen": "Se espera que la desintegración ocurra solo una vez cada 10 mil millones de partículas beauty. El hallazgo, del experimento LHCb del CERN, es fruto de una búsqueda de más de 40 años.",
+     "enlace": "https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T18:30+00:00"
+     "fecha": "2026-11-03T15:40+00:00"
     },
     {
-     "titulo": "UTe₂ muestra dos tipos de superconductividad bajo presión extrema",
-     "resumen": "El material podría ayudar a hallar un superconductor topológico, clave para avances en computación cuántica, al combinar dos variedades distintas de superconductividad.",
-     "enlace": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
+     "titulo": "Investigadores observan un estado supersólido de la materia a temperatura ambiente",
+     "resumen": "Investigadores de la Universidad de Varsovia, IBM Research Zurich y el CNRS observaron un nuevo estado cuántico de la materia en un sistema de híbridos de luz y materia.",
+     "enlace": "https://phys.org/news/2026-11-hybrids-supersolid-quantum-state-room.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-30T19:00+00:00"
+     "fecha": "2026-11-03T22:20+00:00"
+    },
+    {
+     "titulo": "Un experimento en el fondo del Mediterráneo pone a prueba las leyes de Einstein",
+     "resumen": "La invariancia de Lorentz sostiene que las leyes físicas son iguales en todo el universo. Algunas teorías que buscan unir gravedad y mecánica cuántica sugieren que podría no cumplirse siempre.",
+     "enlace": "https://phys.org/news/2026-11-einstein-laws-bottom-mediterranean-sea.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-04T05:00+00:00"
+    },
+    {
+     "titulo": "Un láser permite dibujar propiedades superconductoras a escala nanométrica",
+     "resumen": "Investigadores del ICMAB-CSIC, el Politecnico di Milano y la Universidad de Lieja adaptaron una técnica de escritura láser directa para programar localmente el comportamiento de un superconductor.",
+     "enlace": "https://phys.org/news/2026-11-laser-superconductivity-nanoscale.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-03T21:40+00:00"
+    },
+    {
+     "titulo": "Cuatro cables superconductores unen dos procesadores cuánticos en una sola máquina",
+     "resumen": "Procesadores cuánticos separados se enlazan para trabajar como una sola máquina más grande, en un diseño modular que busca escalar las computadoras cuánticas.",
+     "enlace": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-10-31T16:00+00:00"
     }
    ]
   },
@@ -212,28 +198,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Hubble y Webb estudian 27 objetos lejanos más allá de Neptuno que conservan pistas del origen solar",
-     "resumen": "Los objetos, bloques de construcción de planetas, han permanecido casi sin cambios durante miles de millones de años, según datos de los telescopios Hubble y James Webb.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+     "titulo": "Datos del JWST podrían revelar dónde se formaron las semillas de agujeros negros supermasivos",
+     "resumen": "Según el marco de fusiones jerárquicas de agujeros negros, las semillas pesadas explicarían cómo algunos agujeros negros supermasivos alcanzaron masas enormes. El JWST podría haber identificado su lugar de formación.",
+     "enlace": "https://phys.org/news/2026-11-jwst-heavy-black-hole-seeds.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-03T15:20+00:00"
+    },
+    {
+     "titulo": "Una estrella oculta atraviesa la atmósfera de Betelgeuse, según nuevas observaciones de radio",
+     "resumen": "Astrónomos identificaron a Siwarha, una estrella compañera oculta, como posible causa de las perturbaciones en Betelgeuse. Las observaciones de radio sugieren que la estrella menor atraviesa la enorme atmósfera de la supergigante.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-02T03:07+00:00"
+     "fecha": "2026-11-04T02:52+00:00"
     },
     {
-     "titulo": "Investigadores de la Queen's University Belfast encuentran asteroides troyanos de Neptuno",
-     "resumen": "Un equipo internacional liderado por la universidad detectó una población de asteroides que comparten la órbita de Neptuno, un hallazgo que los astrónomos buscaban desde hace décadas.",
-     "enlace": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
+     "titulo": "El JWST confirma la galaxia Leviathan, con estrellas dispersas en el universo temprano",
+     "resumen": "Leviathan, una galaxia masiva y rica en polvo, fue observada cuando el universo tenía unos 1.500 millones de años. Sus estrellas están distribuidas de forma extendida, lo que cuestiona la idea de que las gigantes polvorientas se vuelven galaxias compactas.",
+     "enlace": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-03T01:00+00:00"
+     "fecha": "2026-11-03T12:40+00:00"
     },
     {
-     "titulo": "Una rastro de gas molecular apunta a chorros de un microcuásar como origen de rayos gamma",
-     "resumen": "Astrónomos hallaron un rastro de gas molecular frío que sugiere chorros emitidos por un microcuásar, uno de los pocos conocidos en nuestra galaxia, asociado a un sistema binario de rayos gamma.",
-     "enlace": "https://phys.org/news/2026-10-gamma-ray-powerhouse-gun-gas.html",
+     "titulo": "Un objeto que parecía una galaxia primitiva resultó ser una enana marrón fría",
+     "resumen": "El JWST detectó un objeto rojo y tenue que inicialmente parecía una de las primeras galaxias. Imágenes tomadas con unos 3,5 años de diferencia mostraron que se había desplazado, lo que revela que se trata de una enana marrón fría llamada Capotauro.",
+     "enlace": "https://phys.org/news/2026-11-tiny-shift-exposes-cold-brown.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-30T17:20+00:00"
+     "fecha": "2026-11-03T13:40+00:00"
+    },
+    {
+     "titulo": "Las galaxias enanas contienen mucho menos oxígeno del que sus estrellas producen",
+     "resumen": "Un estudio con datos del Hubble analizó 37 galaxias enanas y halló que contienen bastante menos oxígeno del estimado para la cantidad que sus estrellas habrían producido.",
+     "enlace": "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-02T20:00+00:00"
     }
    ]
   },
@@ -244,42 +244,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Aniones de dinitrógeno molecular abren camino a la síntesis de amoníaco a baja temperatura",
-     "resumen": "El amoníaco se perfila como portador de hidrógeno sin carbono, pero su síntesis aún depende de altas temperaturas. Un estudio reporta aniones de dinitrógeno molecular como vía hacia una producción a baja temperatura.",
-     "enlace": "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html",
+     "titulo": "Recubrimientos naturales inspirados en plantas podrían superar a los PFAS",
+     "resumen": "Los PFAS, llamados sustancias químicas eternas por su impacto en el medio ambiente y en el cuerpo humano, son clave en envases, protección contra incendios e impermeabilizantes.",
+     "enlace": "https://phys.org/news/2026-11-natural-coatings-chemicals.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T21:20+00:00"
+     "fecha": "2026-11-03T21:20+00:00"
     },
     {
-     "titulo": "Nuevo método para aprovechar mejor el rutenio en catalizadores de átomo único",
-     "resumen": "El rutenio acelera reacciones químicas industriales y reduce la energía necesaria, pero su escasez y alto costo motivan buscar formas de usarlo con más eficiencia.",
-     "enlace": "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html",
+     "titulo": "Aumentar la potencia eléctrica no siempre mejora la eficiencia en la producción de metanol",
+     "resumen": "Un nuevo estudio identifica un cuello de botella en reacciones químicas impulsadas por electricidad, un hallazgo que acerca a una fabricación química sostenible.",
+     "enlace": "https://phys.org/news/2026-11-power-payoff-reveals-bottleneck-cleaner.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T20:40+00:00"
+     "fecha": "2026-11-03T21:00+00:00"
     },
     {
-     "titulo": "Una receta simple facilita la imagen por espectrometría de masas de tejidos",
-     "resumen": "La espectrometría de masas permite identificar compuestos moleculares en muestras de tejido humano, útil para buscar marcadores de cáncer, estudiar el cerebro y rastrear fármacos en el cuerpo.",
-     "enlace": "https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html",
+     "titulo": "Un catalizador de iridio activa un fármaco de quimioterapia directamente en las células cancerosas",
+     "resumen": "Investigadores liderados por el Dr. Thomas Ward usan un catalizador de iridio para activar la quimioterapia en las células tumorales, buscando reducir efectos como la caída del cabello o las náuseas.",
+     "enlace": "https://phys.org/news/2026-11-iridium-catalyst-chemotherapy-drug-cancer.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-27T22:40+00:00"
+     "fecha": "2026-11-03T18:20+00:00"
     },
     {
-     "titulo": "Químicos crean tatuajes que desaparecen y reaparecen según la ocasión",
-     "resumen": "Investigadores desarrollaron tatuajes que pueden hacerse invisibles y revelarse de nuevo. El artículo explica la ciencia química detrás de su funcionamiento.",
-     "enlace": "https://phys.org/news/2026-10-chemists-tattoos-science.html",
+     "titulo": "Una estructura atómica asimétrica mejora el rendimiento de las baterías de sodio–azufre",
+     "resumen": "Investigadores chinos cambiaron la estructura atómica de un catalizador para mejorar el rendimiento de las baterías de sodio–azufre, según el equipo de Wang Hui y Zheng Fangcai.",
+     "enlace": "https://phys.org/news/2026-11-asymmetric-atomic-sodiumsulfur-battery.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-30T21:00+00:00"
+     "fecha": "2026-11-03T23:40+00:00"
     },
     {
-     "titulo": "Enzimas incorporadas aceleran la degradación de plásticos compostables en el mar profundo",
-     "resumen": "Pequeñas enzimas embebidas en ciertos plásticos compostables los degradan desde dentro con mayor rapidez, desde aguas costeras someras hasta el fondo marino profundo.",
-     "enlace": "https://phys.org/news/2026-10-embedded-enzymes-plastics-faster-deep.html",
+     "titulo": "Revestimientos de nidos de abejas podrían inspirar plásticos que se degradan en el suelo",
+     "resumen": "Cada año se producen cientos de millones de toneladas de plásticos que duran décadas o siglos, y científicos buscan alternativas que se degraden en el suelo.",
+     "enlace": "https://phys.org/news/2026-11-bee-linings-plastics-soil.html",
      "fuente": "Phys.org",
-     "fecha": "2026-10-27T18:30+00:00"
+     "fecha": "2026-11-03T18:30+00:00"
     }
    ]
   },
@@ -291,42 +291,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Un robot con IA y obtención rápida de imágenes mejora la fabricación de celdas solares de perovskita",
-     "resumen": "Un sistema robotizado combina inteligencia artificial e imágenes rápidas para controlar la formación de la capa de perovskita, cuya calidad se ve afectada por cambios de temperatura y humedad.",
-     "enlace": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+     "titulo": "Polvo de hierro podría almacenar energía eólica y solar para el invierno en antiguas centrales de carbón",
+     "resumen": "Un estudio propone usar polvo de hierro para guardar energía eólica y solar y entregarla en invierno desde centrales de carbón retiradas. Europa necesita plantas que den energía bajo demanda sin emisiones.",
+     "enlace": "https://techxplore.com/news/2026-11-iron-powder-solar-power-winter.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T14:40+00:00"
+     "fecha": "2026-11-03T14:40+00:00"
     },
     {
-     "titulo": "Un recubrimiento que alinea moléculas en vertical busca aumentar la eficiencia de celdas solares orgánicas",
-     "resumen": "Investigadores aplicaron un nuevo enfoque de recubrimiento que orienta las moléculas hacia arriba para mejorar la eficiencia de las celdas solares orgánicas, alternativas al silicio.",
-     "enlace": "https://techxplore.com/news/2026-10-coating-approach-aligns-molecules-upright.html",
+     "titulo": "Exportar hidrógeno verde del norte de África a Europa podría dañar el suministro de agua y la vida marina",
+     "resumen": "Un estudio advierte que las exportaciones de hidrógeno verde desde el norte de África a Europa podrían afectar el suministro de agua y la vida marina. El hidrógeno verde se produce con energía renovable.",
+     "enlace": "https://techxplore.com/news/2026-11-north-africa-green-hydrogen-exports.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T12:00+00:00"
-    },
-    {
-     "titulo": "Nuevos procesos de reciclaje de imanes podrían reducir la dependencia europea de materias primas importadas",
-     "resumen": "Los imanes de neodimio se usan en vehículos eléctricos, turbinas eólicas y productos electrónicos, y su demanda mundial está creciendo. Los nuevos procesos de reciclaje buscan reducir importaciones.",
-     "enlace": "https://techxplore.com/news/2026-11-magnet-recycling-europe-reliance-imported.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-03T02:00+00:00"
-    },
-    {
-     "titulo": "Un estudio observa los materiales de baterías de sodio a escala atómica",
-     "resumen": "Comprender los componentes de las baterías a nivel atómico ayuda a diseñar almacenamiento de carga más rápida y duradero. Los microscopios electrónicos necesarios también alteran los materiales.",
-     "enlace": "https://techxplore.com/news/2026-11-exploring-sodium-batteries-atom.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-02T21:40+00:00"
-    },
-    {
-     "titulo": "Investigadores desarrollan un electrolito no inflamable y más durable para baterías de metal de sodio",
-     "resumen": "Las baterías de metal de sodio son una alternativa de bajo costo a las de ion litio por la abundancia del sodio. El nuevo electrolito busca evitar la inflamabilidad y ganar durabilidad.",
-     "enlace": "https://techxplore.com/news/2026-10-nonflammable-durable-electrolyte-sodium-metal.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-30T14:00+00:00"
+     "fecha": "2026-11-03T15:20+00:00"
     }
    ]
   },
@@ -338,14 +317,14 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-03",
+   "actualizada": "2026-11-04",
    "noticias": [
     {
-     "titulo": "Una selección dirigida de datos podría triplicar la velocidad de ajuste fino de IA",
-     "resumen": "Investigadores del KAIST crearon una tecnología que selecciona los datos de entrenamiento más útiles y los reparte entre varias GPU. El ajuste que tomaba 10 horas podría durar tres.",
-     "enlace": "https://techxplore.com/news/2026-11-roughly-triple-ai-fine-tuning.html",
+     "titulo": "Biocomputador basado en bacterias explora varias soluciones a la vez con muy poca memoria",
+     "resumen": "Un equipo liderado por McGill creó un biocomputador de bacterias que resuelve problemas complejos con una fracción de la memoria de los equipos convencionales. Podría usarse en cifrado, biología molecular e IA.",
+     "enlace": "https://techxplore.com/news/2026-11-biocomputer-explore-multiple-solutions-bacteria.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-02T20:40+00:00"
+     "fecha": "2026-11-03T16:20+00:00"
     }
    ]
   }
