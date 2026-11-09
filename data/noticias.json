@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-06",
- "generado": "2026-11-06T08:50-03:00",
+ "dia": "2026-11-09",
+ "generado": "2026-11-09T08:42-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,35 +11,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Un súper El Niño en rápido desarrollo alcanzaría su punto máximo en diciembre",
-     "resumen": "Se prevé que el fenómeno El Niño alcance su punto máximo a fines de 2026 y empuje al alza las temperaturas medias globales.",
-     "enlace": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
-     "fuente": "Carbon Brief",
-     "fecha": "2026-11-06T09:12+00:00"
-    },
-    {
-     "titulo": "Un estudio satelital halla poca evidencia de que los centros de datos calienten el suelo",
-     "resumen": "Publicado en Environmental Research Letters, el estudio contrasta con un trabajo previo que estimaba un calentamiento medio de unos 2 °C en el terreno circundante.",
-     "enlace": "https://phys.org/news/2026-11-satellite-analysis-evidence-centers-widespread.html",
+     "titulo": "El 2026 sería el segundo año más cálido registrado, según el monitor climático de la UE",
+     "resumen": "El monitor climático de la UE indica que un El Niño excepcionalmente fuerte intensifica el calentamiento global de origen humano y pone al 2026 en camino de ser el segundo año más cálido.",
+     "enlace": "https://phys.org/news/2026-11-hottest-year-eu.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-04T17:40+00:00"
+     "fecha": "2026-11-06T13:00+00:00"
     },
     {
-     "titulo": "Ríos de ondas de Rossby conectan la actividad de ondas remotas con el monzón de verano de Asia Oriental",
-     "resumen": "Un estudio describe cómo estas vías atmosféricas vinculan ondas lejanas con el monzón de verano del este de Asia.",
-     "enlace": "https://www.nature.com/articles/s41612-026-01580-9",
+     "titulo": "Las olas de calor extremo se vuelven un 10% más intensas por una interacción entre suelo y atmósfera",
+     "resumen": "Un estudio publicado en Science Advances encontró que, a altas temperaturas, la humedad del suelo, la presión atmosférica y la temperatura se refuerzan entre sí y amplifican el calor.",
+     "enlace": "https://phys.org/news/2026-11-mega-interaction-soil-moisture-atmospheric.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-06T19:00+00:00"
+    },
+    {
+     "titulo": "Los futuros eventos de calor superarán en intensidad a las olas de calor extremas recientes",
+     "resumen": "Un estudio de la Universidad Libre de Berlín, publicado en Nature Communications, concluye que las olas de calor de los últimos años serían solo un anticipo de lo que vendrá.",
+     "enlace": "https://phys.org/news/2026-11-future-events-outdo-extreme.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-06T21:00+00:00"
+    },
+    {
+     "titulo": "El vórtice polar se debilita semanas antes que en cualquier registro previo",
+     "resumen": "Meteorólogos observan una interrupción temprana sin precedentes del vórtice polar, lo que eleva el riesgo de olas de frío en el Hemisferio Norte, aunque persiste una incertidumbre significativa.",
+     "enlace": "https://phys.org/news/2026-11-polar-vortex-faltering-weeks-earlier.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-07T11:20+00:00"
+    },
+    {
+     "titulo": "La COP31 se inicia cuando el planeta se acerca a superar el objetivo climático de 1,5 °C",
+     "resumen": "La cumbre climática COP31 comienza mientras el planeta enfrenta un rebasamiento inminente del objetivo de calentamiento de 1,5 °C.",
+     "enlace": "https://www.nature.com/articles/d41586-026-03631-w",
      "fuente": "Nature",
-     "fecha": "2026-11-05T00:00+00:00"
-    },
-    {
-     "titulo": "Las emisiones trimestrales de CO2 de China cayeron 3,1% en el tercer trimestre de 2026",
-     "resumen": "Es la mayor caída desde la pandemia de Covid, mientras la crisis de Ormuz seguía en curso.",
-     "enlace": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-     "fuente": "Carbon Brief",
-     "fecha": "2026-11-06T00:01+00:00"
+     "fecha": "2026-11-09T00:00+00:00"
     }
    ]
   },
@@ -68,42 +75,42 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "El glaciar Thwaites de la Antártida podría derretirse el doble de lo previsto por el calor del océano",
-     "resumen": "El agua oceánica cálida penetra kilómetros bajo el hielo del glaciar Thwaites, debilitando sus bases y acelerando su retroceso. Un nuevo modelo predice un derretimiento mayor al estimado, incluso sin calentamiento global adicional.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
+     "titulo": "La viscosidad de la nieve marina permite transportar hasta seis veces más carbono al océano profundo",
+     "resumen": "Investigadores hallaron que la adhesividad de la nieve marina determina cuánto carbono llega al océano profundo. Las partículas más pegajosas resisten la degradación bacteriana y transportan más de seis veces más carbono.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-10-28T09:22+00:00"
+     "fecha": "2026-11-09T01:14+00:00"
     },
     {
-     "titulo": "La disminución del hielo marino invierte las tendencias del Agua Intermedia Antártica",
-     "resumen": "Según un artículo de Nature, la reducción del hielo marino antártico provocó un cambio de tendencia en el Agua Intermedia Antártica.",
-     "enlace": "https://www.nature.com/articles/s41558-026-02758-y",
+     "titulo": "El océano que se acidifica hace un uso más austero del fósforo, según un estudio",
+     "resumen": "El artículo examina cómo la acidificación oceánica modifica el uso del fósforo en los ecosistemas marinos. El extracto disponible no incluye cifras adicionales.",
+     "enlace": "https://www.nature.com/articles/s41561-026-02133-8",
      "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
+     "fecha": "2026-11-05T00:00+00:00"
     },
     {
-     "titulo": "Una cadena de reacciones en los océanos podría explicar el inicio de las edades de hielo",
-     "resumen": "Investigadores identificaron una conexión entre los polos: la expansión de capas de hielo en el Hemisferio Norte habría enfriado las aguas del Atlántico, lo que pudo contribuir a episodios glaciales pasados.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-10-28T11:08+00:00"
+     "titulo": "El color del océano está cambiando cerca de la Gran Mancha de Basura del Pacífico",
+     "resumen": "El artículo reporta cambios en el color del agua cercana a la Gran Mancha de Basura del Pacífico. El extracto disponible no incluye datos cuantitativos.",
+     "enlace": "https://www.nature.com/articles/s43247-026-04071-0",
+     "fuente": "Nature",
+     "fecha": "2026-11-05T00:00+00:00"
     },
     {
-     "titulo": "Alto CO2 atmosférico del Eoceno temprano se vincula con menor eficiencia de la bomba biológica austral",
-     "resumen": "Un estudio de Nature relaciona las concentraciones elevadas de CO2 atmosférico del Eoceno temprano con una menor eficiencia de la bomba biológica en el Océano Austral.",
-     "enlace": "https://www.nature.com/articles/s41561-026-02142-7",
+     "titulo": "Un sensor flexible integrado mide temperatura y profundidad en el océano profundo con compensación neuronal",
+     "resumen": "Se describe un sensor flexible y totalmente integrado para medir temperatura y profundidad en el océano profundo, con corrección mediante una red neuronal.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78009-7",
+     "fuente": "Nature",
+     "fecha": "2026-11-07T00:00+00:00"
+    },
+    {
+     "titulo": "Nueva inicialización mejora el rastreo de AUV con perfil isogradiente de velocidad del sonido",
+     "resumen": "El trabajo propone una inicialización por mínimos cuadrados iterativos, consistente con el modelo, para el filtro UKF en el rastreo de AUV. Se aplica a un perfil isogradiente de velocidad del sonido.",
+     "enlace": "https://www.nature.com/articles/s41598-026-78191-0",
      "fuente": "Nature",
      "fecha": "2026-11-06T00:00+00:00"
-    },
-    {
-     "titulo": "La alta alcalinidad atenúa los efectos del océano rico en CO2 sobre la calcificación de foraminíferos",
-     "resumen": "Según Nature, una alta alcalinidad mitiga los impactos negativos del océano con alto CO2 sobre la cantidad y calidad de la calcificación de foraminíferos.",
-     "enlace": "https://www.nature.com/articles/s41598-026-74230-y",
-     "fuente": "Nature",
-     "fecha": "2026-10-28T00:00+00:00"
     }
    ]
   },
@@ -115,35 +122,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Terrazas elevadas sugieren un levantamiento más rápido de lo esperado en el sur de Italia",
-     "resumen": "La geóloga Becky Dorsey estudia la zona de rift Siculo-Calabria, un cinturón de fallas de más de 160 kilómetros. Los nuevos datos podrían mejorar la evaluación del peligro sísmico en la región.",
-     "enlace": "https://phys.org/news/2026-11-high-elevation-terraces-faster-uplift.html",
+     "titulo": "Análisis de radiocarbono revela posibles huellas de terremotos ocultos frente a la costa de Japón",
+     "resumen": "Investigadores de la Universidad de Tokio usaron un nuevo tipo de análisis de radiocarbono en un testigo de sedimentos del mar de Kumano. Hallaron múltiples trazas de terremotos desconocidos en la fosa de Nankai.",
+     "enlace": "https://phys.org/news/2026-11-radiocarbon-analysis-uncovers-hidden-earthquakes.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T10:00+00:00"
+     "fecha": "2026-11-09T01:00+00:00"
     },
     {
-     "titulo": "Un conjunto de deslizamientos de tierra en la región de Tanintharyi, en Myanmar, fue causado por lluvias",
-     "resumen": "Imágenes de Planet Labs muestran deslizamientos desencadenados por una tormenta de lluvia ocurrida entre el 25 y el 26 de septiembre de 2026 en Myanmar.",
-     "enlace": "https://eos.org/thelandslideblog/the-25-26-september-2026-cluster-of-landslides-in-tanintharyi-region-myanmar",
-     "fuente": "Eos",
-     "fecha": "2026-11-06T07:59+00:00"
-    },
-    {
-     "titulo": "Las variaciones de temperatura están derritiendo el hielo de las cuevas del Monumento Nacional Lava Beds",
-     "resumen": "Muchas cuevas de este monumento en California son tubos de lava, y algunas contienen formaciones de hielo que se están derritiendo por los cambios de temperatura.",
-     "enlace": "https://eos.org/articles/temperature-swings-are-melting-the-ice-in-lava-beds-national-monuments-caves",
-     "fuente": "Eos",
-     "fecha": "2026-11-05T13:42+00:00"
-    },
-    {
-     "titulo": "Los cambios climáticos abruptos de la era glacial fueron más lentos de lo que se creía",
-     "resumen": "Registros de espeleotemas de China e India, junto con modelos climáticos, indican que la recuperación de la circulación oceánica glacial tomó siglos y no décadas.",
-     "enlace": "https://phys.org/news/2026-11-ice-age-abrupt-climate-shifts.html",
+     "titulo": "Cristales diminutos podrían indicar la capacidad de un volcán para entrar en erupción",
+     "resumen": "Investigadores de la Universidad de Queensland muestran que los pequeños cristales son una ventana a la actividad interna de los volcanes. Podrían ayudar a estimar cuándo entrarán en erupción.",
+     "enlace": "https://phys.org/news/2026-11-crystals-hint-volcano-ability-erupt.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T19:00+00:00"
+     "fecha": "2026-11-09T10:00+00:00"
+    },
+    {
+     "titulo": "Las lluvias intensas pueden más que duplicar la velocidad de los glaciares en Alaska",
+     "resumen": "Los glaciares a veces pasan de un desplazamiento lento a un avance súbito, mucho más rápido. Las lluvias intensas pueden más que duplicar su velocidad en Alaska.",
+     "enlace": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-07T15:40+00:00"
     }
    ]
   },
@@ -155,14 +155,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-05",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Imágenes Sentinel muestran el origen del deslizamiento y flujo de escombros del 11 de octubre de 2026 en Nepal",
-     "resumen": "Imágenes Sentinel-2 de la ESA registran el área afectada por el deslizamiento del 11 de octubre de 2026 en el río Budhi Gandaki, Nepal. El hallazgo corresponde a un evento de remoción en masa, no a sismología.",
-     "enlace": "https://eos.org/thelandslideblog/budhi-gandaki-2",
+     "titulo": "Rocas de la isla Goodenough revelan las condiciones térmicas de una zona de subducción",
+     "resumen": "Muestras de rocas recolectadas en la isla Goodenough, Papúa Nueva Guinea, permiten estimar las condiciones físicas de las zonas de subducción.",
+     "enlace": "https://eos.org/articles/deep-diving-rocks-reveal-a-subduction-zones-thermal-secrets",
      "fuente": "Eos",
-     "fecha": "2026-11-05T08:19+00:00"
+     "fecha": "2026-11-06T14:11+00:00"
     }
    ]
   },
@@ -174,14 +174,21 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-04",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Un nuevo trabajo mapea los reservorios de magma del Kīlauea, en Hawái",
-     "resumen": "Eos informa sobre el mapeo de los reservorios de magma del Kīlauea. La imagen asociada muestra una fuente de lava en el cráter Halemaʻumaʻu el 17 de octubre de 2026.",
-     "enlace": "https://eos.org/research-spotlights/mapping-kilaueas-magma-reservoirs",
+     "titulo": "Los cristales registran qué magma entró en erupción y cuál quedó atrapado en arcos volcánicos",
+     "resumen": "Un artículo de Nature analiza los registros cristalinos para distinguir el magma que erupcionó del que quedó atrapado en arcos volcánicos. El extracto disponible no entrega datos adicionales.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78932-9",
+     "fuente": "Nature",
+     "fecha": "2026-11-09T00:00+00:00"
+    },
+    {
+     "titulo": "Dataciones de alta precisión aclaran la historia geológica de North Cascades, en Washington",
+     "resumen": "Eos informa que dataciones de rocas de alta precisión ayudan a precisar la compleja historia geológica de North Cascades y a explorar qué desencadenó un antiguo aumento de magma.",
+     "enlace": "https://eos.org/research-spotlights/what-triggered-an-ancient-magma-surge-in-the-north-cascades",
      "fuente": "Eos",
-     "fecha": "2026-11-03T13:43+00:00"
+     "fecha": "2026-11-06T14:10+00:00"
     }
    ]
   },
@@ -193,42 +200,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Físicos del CERN reportan evidencia de una desintegración ultrarrara de un mesón B",
-     "resumen": "Se detectó evidencia de la desintegración B⁰→μ⁺μ⁻, en la que un mesón se desintegra en un par muón-antimuón. El proceso se buscaba desde hace unos 40 años.",
-     "enlace": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T17:30+00:00"
+     "titulo": "Las ecuaciones de Einstein revelan un proceso en el que la gravedad podría romperse y reconectarse",
+     "resumen": "Investigadores de la Universidad de Columbia y la Universidad Adolfo Ibáñez identificaron un proceso teórico oculto en las ecuaciones de Einstein que podría liberar energía.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-08T22:14+00:00"
     },
     {
-     "titulo": "Un estudio precisa la estructura del plasma de quarks y gluones, el primer fluido del universo",
-     "resumen": "Este plasma, de billones de grados, existió durante pocos microsegundos tras el Big Bang. Sus partículas se movían a casi la velocidad de la luz antes de agruparse en materia ordinaria.",
-     "enlace": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html",
+     "titulo": "El apareamiento de electrones no basta para lograr superconductividad a temperatura ambiente",
+     "resumen": "Investigadores de Utrecht, Leiden y Múnich identificaron uno de los requisitos clave para alcanzar superconductividad a temperatura ambiente.",
+     "enlace": "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T23:10+00:00"
+     "fecha": "2026-11-06T13:54+00:00"
     },
     {
-     "titulo": "Logran controlar con corriente eléctrica un estado cuántico no convencional en un imán por primera vez",
-     "resumen": "Investigadores de la Universidad de Tohoku y de la Agencia de Energía Atómica de Japón (JAEA) controlaron el estado Hall no lineal cuántico-geométrico. Es el primer logro de este tipo en un imán.",
-     "enlace": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T21:40+00:00"
+     "titulo": "Un límite cuántico oculto impide rastrear electrones con precisión ilimitada en espacio y tiempo",
+     "resumen": "El hallazgo podría permitir manipular reacciones químicas y desarrollar electrónica cientos de miles de veces más rápida.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-07T23:34+00:00"
     },
     {
-     "titulo": "Un acelerador láser-plasma podría generar rayos X brillantes para obtener imágenes biológicas",
-     "resumen": "Simulaciones muestran que rayos X de 2,3 a 4,4 nanómetros, en la llamada ventana del agua, sirven para examinar muestras biológicas en su entorno acuoso natural. Hasta ahora su generación era técnicamente difícil.",
-     "enlace": "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-06T00:00+00:00"
+     "titulo": "Científicos logran destellos de rayos X de récord de potencia concentrados en un punto muy pequeño",
+     "resumen": "Los destellos duran solo 300 attosegundos y podrían permitir observar electrones en acción y controlar procesos ultrarrápidos que impulsan la química.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-08T03:46+00:00"
     },
     {
-     "titulo": "Un físico desarrolla un detector capaz de contar fotones, componente clave para la computación cuántica",
-     "resumen": "Erik Baalbergen trabaja en detectores de luz que determinan con precisión cuántos fotones llegan a un mismo punto al mismo tiempo. Son un bloque básico para la computación cuántica óptica.",
-     "enlace": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
+     "titulo": "Un experimento óptico demuestra el efecto Mpemba fuerte en un solo qubit",
+     "resumen": "Un sistema perturbado suele regresar al equilibrio térmico intercambiando calor con su entorno; este experimento demuestra el efecto en un qubit.",
+     "enlace": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T21:20+00:00"
+     "fecha": "2026-11-09T11:40+00:00"
     }
    ]
   },
@@ -240,42 +247,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Estrellas enanas blancas podrían superar el límite de masa clásico gracias a campos magnéticos",
-     "resumen": "Simulaciones por computador indican que campos magnéticos intensos permitirían que enanas blancas alcancen 2,4 veces la masa del Sol, superando un límite famoso de la física.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+     "titulo": "JWST identifica 104 eventos estelares magnificados en la galaxia del Dragón",
+     "resumen": "Un equipo de astrónomos usó el telescopio espacial James Webb para detectar 104 eventos estelares magnificados en esta galaxia, situada a unos 6.500 millones de años luz. La cifra duplica el registro previo de 44.",
+     "enlace": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-08T19:20+00:00"
+    },
+    {
+     "titulo": "El Observatorio Rubin descubre dos compañeras ocultas de la Vía Láctea",
+     "resumen": "Con observaciones preliminares que cubren solo el 7% del cielo nocturno, el observatorio halló una galaxia muy tenue a 355.000 años luz y un cúmulo estelar oculto. Podrían existir cientos más.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-06T03:11+00:00"
+     "fecha": "2026-11-07T09:12+00:00"
     },
     {
-     "titulo": "Astrónomos obtienen la imagen de radio de baja frecuencia más nítida y profunda del cielo",
-     "resumen": "Con el Low Frequency Array (LOFAR), un equipo liderado por la Universidad de Leiden logró la imagen de radio de baja frecuencia más nítida y sensible, con casi 63.000 fuentes de radio.",
-     "enlace": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-06T00:40+00:00"
-    },
-    {
-     "titulo": "Los llamados pequeños puntos rojos captados por Webb podrían revelar los primeros agujeros negros",
-     "resumen": "Investigadores de Johns Hopkins buscan en el universo los primeros agujeros negros y se concentran en los pequeños puntos rojos observados por el Webb Space Telescope.",
-     "enlace": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T14:20+00:00"
-    },
-    {
-     "titulo": "Los satélites emiten ruido que interfiere con telescopios y GPS, y existen formas de corregirlo",
-     "resumen": "Hace menos de una década había unos 2.000 satélites operativos en órbita terrestre; hoy hay más de 15.000 y se planean millones más, con ruido que afecta telescopios y GPS.",
-     "enlace": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-04T17:20+00:00"
-    },
-    {
-     "titulo": "La Voyager 1 se acerca a alcanzar la distancia de un día luz desde la Tierra",
-     "resumen": "La sonda, lanzada hace casi 50 años, se aproxima a este hito mientras los ingenieros enfrentan poca energía disponible y problemas técnicos aún no explicados.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
+     "titulo": "Un doble anillo alrededor de una estrella muerta anticipa el futuro del Sistema Solar",
+     "resumen": "Astrónomos hallaron dos anillos de restos planetarios separados por una brecha que, según los investigadores, mantienen cuerpos planetarios sobrevivientes. Podría ser una vista previa del destino del Sol.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-03T08:11+00:00"
+     "fecha": "2026-11-06T22:12+00:00"
+    },
+    {
+     "titulo": "Agujeros negros primordiales de gran tamaño quedan descartados como fuente de materia oscura",
+     "resumen": "Los agujeros negros primordiales, que se habrían formado en el universo temprano a partir de concentraciones densas de materia, quedan descartados como fuente de materia oscura en su versión de gran masa.",
+     "enlace": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-08T14:40+00:00"
+    },
+    {
+     "titulo": "El telescopio espacial Swift reingresa a la atmósfera terrestre tras casi 22 años en órbita",
+     "resumen": "El Observatorio Swift de la NASA, diseñado originalmente para durar dos años, reingresó sobre Indonesia. Transformó la comprensión de los agujeros negros y de otras explosiones cósmicas.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-06T07:12+00:00"
     }
    ]
   },
@@ -286,42 +293,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Bolsas y botellas de plástico se convierten en adhesivos industriales mediante un nuevo método de reciclaje",
-     "resumen": "Se producen unas 450 millones de toneladas métricas de plásticos al año y gran parte se usa una sola vez. Un nuevo método transforma poliolefinas, como el polietileno y el polipropileno, en adhesivos de uso industrial.",
-     "enlace": "https://phys.org/news/2026-11-plastic-bags-bottles-industrial-strength.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T22:20+00:00"
-    },
-    {
-     "titulo": "La IA identifica 92 posibles sustitutos del azúcar entre más de 50 millones de compuestos químicos",
-     "resumen": "Investigadores de la Universidad Hebrea de Jerusalén desarrollaron un marco computacional que analizó más de 50 millones de compuestos químicos. El estudio identificó 92 candidatos prometedores para futuros sustitutos del azúcar.",
-     "enlace": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T17:40+00:00"
-    },
-    {
-     "titulo": "Un co-huésped de fenantreno permite determinar estructuras 3D de pequeñas moléculas poco polares",
-     "resumen": "Al añadir fenantreno como co-huésped, el método de esponja cristalina de segunda generación obtuvo estructuras por rayos X de 24 de 30 moléculas C15, principalmente sesquiterpenoides. Sin ese aditivo, ninguna de las 30 formó cristales con huésped.",
-     "enlace": "https://phys.org/news/2026-11-phenanthrene-guest-crystalline-sponges-reveal.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T13:20+00:00"
-    },
-    {
-     "titulo": "Una molécula especial reprograma la estructura interna del vidrio para crear materiales nuevos",
-     "resumen": "Científicos descubrieron una molécula que reorganiza los enlaces químicos del vidrio y reduce su temperatura de fusión. Este avance podría permitir nuevos materiales vítreos con propiedades magnéticas y ópticas controladas.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
+     "titulo": "Científicos logran aislar moléculas de boro-oxígeno que se consideraban demasiado inestables",
+     "resumen": "Tras más de 60 años de intentos fallidos, los investigadores finalmente obtuvieron ejemplos estables de estas moléculas, usando reacciones químicas relativamente simples.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-05T13:36+00:00"
+     "fecha": "2026-11-06T21:28+00:00"
     },
     {
-     "titulo": "Hebras de ADN pareadas reconocen la forma de moléculas pequeñas, no solo la secuencia",
-     "resumen": "Un nuevo método de detección de moléculas pequeñas usa hebras de ADN pareadas que reconocen la forma. La técnica se basa en ensayos sándwich, la misma tecnología de las pruebas de flujo lateral como la prueba de COVID en casa.",
-     "enlace": "https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html",
+     "titulo": "Nuevo método reaprovecha polietileno como materia prima para nailon apta para producción masiva",
+     "resumen": "Químicos del LIKAT, en Rostock, desarrollaron un método para obtener materia prima de nailon a partir de polietileno, con el potencial de reemplazar el petróleo como fuente.",
+     "enlace": "https://phys.org/news/2026-11-method-upcycling-polyethylene-suitable-mass.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T23:40+00:00"
+     "fecha": "2026-11-06T16:20+00:00"
+    },
+    {
+     "titulo": "Método con luz recupera compuestos químicos descartados en el desarrollo de fármacos",
+     "resumen": "Miles de compuestos químicos producidos durante el desarrollo de fármacos nunca llegan a ser medicamentos. Un equipo con una investigadora de Florida State University halló una forma de reactivar algunos de ellos.",
+     "enlace": "https://phys.org/news/2026-11-powered-method-resurrects-dead-compounds.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-06T20:40+00:00"
+    },
+    {
+     "titulo": "Crecimiento de cristales asistido por líquido reduce defectos en perovskitas para celdas solares y LED",
+     "resumen": "Investigadores de SKKU, en colaboración con KRICT y la Universidad de California en San Diego, lograron reducir defectos en perovskitas para celdas solares y LED más eficientes.",
+     "enlace": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-08T22:00+00:00"
+    },
+    {
+     "titulo": "Un marco impulsado por IA busca nuevos electrolitos sólidos para baterías más seguras y duraderas",
+     "resumen": "Un material puede verse ideal en laboratorio y fallar en una batería real. El marco desarrollado apunta a descubrir electrolitos sólidos con mejor desempeño en condiciones reales.",
+     "enlace": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-06T18:40+00:00"
     }
    ]
   },
@@ -333,21 +340,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Nuevo instrumento en el acelerador Sirius permite observar celdas solares en funcionamiento",
-     "resumen": "Investigadores del CNPEM, en Campinas (São Paulo), desarrollaron un instrumento para el acelerador Sirius que observa el interior de celdas solares a escala nanométrica mientras operan.",
-     "enlace": "https://techxplore.com/news/2026-11-instrument-brazil-sirius-enables-solar.html",
+     "titulo": "Las energías renovables crecerán en más países impulsadas por la seguridad energética",
+     "resumen": "Las renovables, que ya se expanden a ritmo récord, crecerán en un grupo más amplio de países en los próximos años. Los gobiernos buscan reducir su dependencia de combustibles importados.",
+     "enlace": "https://techxplore.com/news/2026-11-energy-spur-faster-renewables-growth.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T21:00+00:00"
+     "fecha": "2026-11-06T23:40+00:00"
     },
     {
-     "titulo": "Modelo muestra que las fábricas pueden aprovechar baterías de autos inactivos junto con energía solar",
-     "resumen": "Investigadores de Skoltech crearon un marco de optimización para comparar estrategias de uso de energía solar in situ y de vehículos eléctricos de empleados que reduzcan costos de electricidad. Un caso de estudio en Moscú mostró beneficios.",
-     "enlace": "https://techxplore.com/news/2026-11-factories-employees-profit-idle-car.html",
+     "titulo": "Científicos dan una segunda vida a las palas de aerogeneradores difíciles de reciclar",
+     "resumen": "Las palas de turbinas eólicas están diseñadas para resistir condiciones extremas, lo que dificulta su reciclaje al final de su vida útil. Un nuevo estudio aborda ese problema.",
+     "enlace": "https://techxplore.com/news/2026-11-scientists-hard-recycle-turbine-blades.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T12:20+00:00"
+     "fecha": "2026-11-06T16:00+00:00"
     }
    ]
   },
@@ -359,42 +366,14 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-09",
    "noticias": [
     {
-     "titulo": "Una IA aprende a predecir el mundo sin haberlo observado directamente",
-     "resumen": "Según un estudio con investigadores de la Universidad de Tel Aviv, los sistemas de IA suelen aprender de grandes volúmenes de datos del mundo real. El trabajo explora un enfoque distinto para esa tarea.",
-     "enlace": "https://techxplore.com/news/2026-11-ai-world.html",
+     "titulo": "Un equipo logra aplicar transformadas de Fourier a gran escala en computación analógica en memoria",
+     "resumen": "Investigadores desarrollaron un método para realizar transformadas de Fourier a gran escala con computación analógica en memoria. Estas transformadas identifican las frecuencias que componen una señal.",
+     "enlace": "https://techxplore.com/news/2026-11-team-large-scale-fourier-analog.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-05T16:40+00:00"
-    },
-    {
-     "titulo": "Un nuevo marco neuronal podría hacer que los LLM sean más empáticos",
-     "resumen": "Investigadores proponen un marco neuronal para que los grandes modelos de lenguaje respondan con más empatía cuando detectan angustia emocional en el usuario.",
-     "enlace": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-27T14:40+00:00"
-    },
-    {
-     "titulo": "Nuevas herramientas reducen el tráfico de datos de la IA y los tiempos de respuesta",
-     "resumen": "Investigadores desarrollaron tecnologías que transmiten solo los datos necesarios para el análisis de IA. También acortan la espera al volver a una aplicación de IA en un smartphone.",
-     "enlace": "https://techxplore.com/news/2026-11-communication-memory-tools-ai-traffic.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-05T17:00+00:00"
-    },
-    {
-     "titulo": "Un nuevo enfoque busca corregir imágenes generadas por IA sin alterar otros detalles",
-     "resumen": "Los generadores de imágenes con IA suelen dañar partes no relacionadas cuando se corrige un detalle pequeño. Una nueva investigación aborda ese problema.",
-     "enlace": "https://techxplore.com/news/2026-10-ai-generated-images-pixel.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-10-29T17:20+00:00"
-    },
-    {
-     "titulo": "Una supercorriente diminuta podría leer información cuántica sin destruirla",
-     "resumen": "Investigadores propusieron una técnica que detecta una señal eléctrica generada por el propio qubit. En simulaciones alcanzó una precisión de hasta 99,85%.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-05T03:47+00:00"
+     "fecha": "2026-11-08T16:00+00:00"
     }
    ]
   }
