@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-09",
- "generado": "2026-11-09T08:47-03:00",
+ "dia": "2026-11-10",
+ "generado": "2026-11-10T07:02-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,42 +11,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "El 2026 sería el segundo año más cálido registrado, según el monitor climático de la UE",
-     "resumen": "El monitor climático de la UE indica que un El Niño excepcionalmente fuerte intensifica el calentamiento global de origen humano y pone al 2026 en camino de ser el segundo año más cálido.",
-     "enlace": "https://phys.org/news/2026-11-hottest-year-eu.html",
+     "titulo": "Algunas regiones ya habrían experimentado el calentamiento de 1,5 °C antes de alcanzar el promedio global",
+     "resumen": "Según un estudio publicado en Nature Climate Change, las regiones ya habrían vivido entre el 90 % y el 94 % del calentamiento esperado con 1,5 °C de alza global, y entre el 65 % y el 76 % del esperado con 2 °C.",
+     "enlace": "https://phys.org/news/2026-11-regions-15c-warmer-world.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T13:00+00:00"
+     "fecha": "2026-11-09T22:50+00:00"
     },
     {
-     "titulo": "Las olas de calor extremo se vuelven un 10% más intensas por una interacción entre suelo y atmósfera",
-     "resumen": "Un estudio publicado en Science Advances encontró que, a altas temperaturas, la humedad del suelo, la presión atmosférica y la temperatura se refuerzan entre sí y amplifican el calor.",
-     "enlace": "https://phys.org/news/2026-11-mega-interaction-soil-moisture-atmospheric.html",
+     "titulo": "La OMM estima que 2026 será uno de los cuatro años más cálidos registrados",
+     "resumen": "El informe de la Organización Meteorológica Mundial indica que 2026 continúa la racha de temperaturas excepcionales y que un fuerte El Niño podría intensificar el calor y los eventos extremos hasta 2027.",
+     "enlace": "https://phys.org/news/2026-11-hottest-years.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T19:00+00:00"
+     "fecha": "2026-11-09T18:00+00:00"
     },
     {
-     "titulo": "Los futuros eventos de calor superarán en intensidad a las olas de calor extremas recientes",
-     "resumen": "Un estudio de la Universidad Libre de Berlín, publicado en Nature Communications, concluye que las olas de calor de los últimos años serían solo un anticipo de lo que vendrá.",
-     "enlace": "https://phys.org/news/2026-11-future-events-outdo-extreme.html",
+     "titulo": "El océano Austral habría contribuido al clima más cálido de los últimos 65 millones de años",
+     "resumen": "Hace unos 50 millones de años, las temperaturas globales superaban en más de 10 °C a las actuales, con concentraciones de CO₂ cercanas a 1.600 ppm. Un nuevo estudio analiza el papel del océano Austral en ese episodio.",
+     "enlace": "https://phys.org/news/2026-11-southern-ocean-fuel-earth-warmest.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T21:00+00:00"
+     "fecha": "2026-11-09T19:20+00:00"
     },
     {
-     "titulo": "El vórtice polar se debilita semanas antes que en cualquier registro previo",
-     "resumen": "Meteorólogos observan una interrupción temprana sin precedentes del vórtice polar, lo que eleva el riesgo de olas de frío en el Hemisferio Norte, aunque persiste una incertidumbre significativa.",
-     "enlace": "https://phys.org/news/2026-11-polar-vortex-faltering-weeks-earlier.html",
+     "titulo": "El cambio climático podría intensificar las inundaciones urbanas aunque disminuyan las lluvias",
+     "resumen": "Un nuevo estudio señala que, aunque las precipitaciones se reduzcan, las ciudades podrían enfrentar inundaciones cada vez más severas a causa del cambio climático.",
+     "enlace": "https://phys.org/news/2026-11-intense-storms-climate-extreme-urban.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-07T11:20+00:00"
-    },
-    {
-     "titulo": "La COP31 se inicia cuando el planeta se acerca a superar el objetivo climático de 1,5 °C",
-     "resumen": "La cumbre climática COP31 comienza mientras el planeta enfrenta un rebasamiento inminente del objetivo de calentamiento de 1,5 °C.",
-     "enlace": "https://www.nature.com/articles/d41586-026-03631-w",
-     "fuente": "Nature",
-     "fecha": "2026-11-09T00:00+00:00"
+     "fecha": "2026-11-09T17:40+00:00"
     }
    ]
   },
@@ -57,14 +50,14 @@
     "Eos",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-06",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "Partículas finas mejoran los pronósticos del tiempo y de la calidad del aire",
-     "resumen": "Una imagen del satélite MODIS de la NASA, tomada en octubre de 2024, muestra una capa densa de aerosoles sobre el este de China, originados principalmente en vehículos e industria.",
-     "enlace": "https://eos.org/research-spotlights/scientists-zero-in-on-tiny-particles-to-improve-weather-and-air-quality-forecasts-chinese",
+     "titulo": "Numerosas regiones del planeta ya superaron los 1,5 °C de calentamiento y algunas los 2 °C",
+     "resumen": "Un nuevo estudio confirma que las latitudes más septentrionales se calientan más rápido. El calentamiento ya ha reducido las manadas de caribú en varias poblaciones árticas.",
+     "enlace": "https://eos.org/research-and-developments/many-regions-have-warmed-beyond-1-5c-and-some-beyond-2c-new-study-finds",
      "fuente": "Eos",
-     "fecha": "2026-11-05T13:42+00:00"
+     "fecha": "2026-11-09T16:01+00:00"
     }
    ]
   },
@@ -75,42 +68,28 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "La viscosidad de la nieve marina permite transportar hasta seis veces más carbono al océano profundo",
-     "resumen": "Investigadores hallaron que la adhesividad de la nieve marina determina cuánto carbono llega al océano profundo. Las partículas más pegajosas resisten la degradación bacteriana y transportan más de seis veces más carbono.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-09T01:14+00:00"
+     "titulo": "La pérdida de bosque amazónico altera la circulación del Atlántico tropical por menor aporte de agua dulce",
+     "resumen": "Un estudio proyecta que la pérdida de bosque amazónico reduciría el aporte de agua dulce y modificaría la circulación y el intercambio de calor en la superficie del Atlántico tropical.",
+     "enlace": "https://www.nature.com/articles/s41598-026-79941-w",
+     "fuente": "Nature",
+     "fecha": "2026-11-09T00:00+00:00"
     },
     {
-     "titulo": "El océano que se acidifica hace un uso más austero del fósforo, según un estudio",
-     "resumen": "El artículo examina cómo la acidificación oceánica modifica el uso del fósforo en los ecosistemas marinos. El extracto disponible no incluye cifras adicionales.",
-     "enlace": "https://www.nature.com/articles/s41561-026-02133-8",
+     "titulo": "El momento del polvo atmosférico se propone como métrica para medir el aporte de nutrientes al océano",
+     "resumen": "El trabajo vincula la dinámica atmosférica con la entrega de nutrientes al océano mediante el momento del polvo como indicador.",
+     "enlace": "https://www.nature.com/articles/s44304-026-00287-4",
      "fuente": "Nature",
-     "fecha": "2026-11-05T00:00+00:00"
+     "fecha": "2026-11-02T00:00+00:00"
     },
     {
-     "titulo": "El color del océano está cambiando cerca de la Gran Mancha de Basura del Pacífico",
-     "resumen": "El artículo reporta cambios en el color del agua cercana a la Gran Mancha de Basura del Pacífico. El extracto disponible no incluye datos cuantitativos.",
-     "enlace": "https://www.nature.com/articles/s43247-026-04071-0",
+     "titulo": "La retroalimentación hielo-océano-albedo impulsa el reciente descenso estival del hielo marino antártico",
+     "resumen": "Un estudio identifica este mecanismo como factor clave del retroceso reciente del hielo marino antártico durante el verano.",
+     "enlace": "https://www.nature.com/articles/s41598-026-70282-2",
      "fuente": "Nature",
-     "fecha": "2026-11-05T00:00+00:00"
-    },
-    {
-     "titulo": "Un sensor flexible integrado mide temperatura y profundidad en el océano profundo con compensación neuronal",
-     "resumen": "Se describe un sensor flexible y totalmente integrado para medir temperatura y profundidad en el océano profundo, con corrección mediante una red neuronal.",
-     "enlace": "https://www.nature.com/articles/s41467-026-78009-7",
-     "fuente": "Nature",
-     "fecha": "2026-11-07T00:00+00:00"
-    },
-    {
-     "titulo": "Nueva inicialización mejora el rastreo de AUV con perfil isogradiente de velocidad del sonido",
-     "resumen": "El trabajo propone una inicialización por mínimos cuadrados iterativos, consistente con el modelo, para el filtro UKF en el rastreo de AUV. Se aplica a un perfil isogradiente de velocidad del sonido.",
-     "enlace": "https://www.nature.com/articles/s41598-026-78191-0",
-     "fuente": "Nature",
-     "fecha": "2026-11-06T00:00+00:00"
+     "fecha": "2026-11-10T00:00+00:00"
     }
    ]
   },
@@ -122,28 +101,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "Análisis de radiocarbono revela posibles huellas de terremotos ocultos frente a la costa de Japón",
-     "resumen": "Investigadores de la Universidad de Tokio usaron un nuevo tipo de análisis de radiocarbono en un testigo de sedimentos del mar de Kumano. Hallaron múltiples trazas de terremotos desconocidos en la fosa de Nankai.",
-     "enlace": "https://phys.org/news/2026-11-radiocarbon-analysis-uncovers-hidden-earthquakes.html",
+     "titulo": "Imágenes sísmicas revelan dos desgarros de placa en la zona de transición Zagros–Makran",
+     "resumen": "Un equipo internacional usó imágenes sísmicas para identificar dos desgarros de placa bajo la zona Zagros–Makran, en el sureste de Irán, cerca del Estrecho de Ormuz. Los desgarros se habrían formado por mecanismos geodinámicos distintos.",
+     "enlace": "https://phys.org/news/2026-11-seismic-imaging-reveals-slab-subductioncollision.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-09T01:00+00:00"
+     "fecha": "2026-11-09T16:20+00:00"
     },
     {
-     "titulo": "Cristales diminutos podrían indicar la capacidad de un volcán para entrar en erupción",
-     "resumen": "Investigadores de la Universidad de Queensland muestran que los pequeños cristales son una ventana a la actividad interna de los volcanes. Podrían ayudar a estimar cuándo entrarán en erupción.",
-     "enlace": "https://phys.org/news/2026-11-crystals-hint-volcano-ability-erupt.html",
+     "titulo": "Una cronología de alta precisión aclara un antiguo pulso de magma en las Cascadas del Norte",
+     "resumen": "Los arcos continentales pueden sufrir episodios de aumento de magma, con tasas de hasta 20 veces superiores. Un nuevo estudio con cronología de alta precisión examina uno de esos episodios en las Cascadas del Norte.",
+     "enlace": "https://phys.org/news/2026-11-high-precision-timeline-ancient-magma.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-09T10:00+00:00"
+     "fecha": "2026-11-06T19:40+00:00"
     },
     {
-     "titulo": "Las lluvias intensas pueden más que duplicar la velocidad de los glaciares en Alaska",
-     "resumen": "Los glaciares a veces pasan de un desplazamiento lento a un avance súbito, mucho más rápido. Las lluvias intensas pueden más que duplicar su velocidad en Alaska.",
-     "enlace": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
+     "titulo": "Los depósitos de estaño se forman a partir de rocas fuente y no por enfriamiento",
+     "resumen": "Un estudio de la Universidad de St Andrews identificó los principales factores de la mineralización de estaño. Sus hallazgos tienen implicaciones para descubrir depósitos clave para la transición energética.",
+     "enlace": "https://phys.org/news/2026-11-tin-deposits-source-cooling.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-07T15:40+00:00"
+     "fecha": "2026-11-09T23:20+00:00"
+    },
+    {
+     "titulo": "Investigadores reconstruyen la historia geológica de la frontera entre Irán y Afganistán",
+     "resumen": "Investigadores de la Universidad de Asia Central y de la Universidad de Utrecht reconstruyeron la historia de esta región, considerada inhóspita y rica en materias primas.",
+     "enlace": "https://phys.org/news/2026-11-east-west-geological-crossroads-iran.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-09T19:10+00:00"
     }
    ]
   },
@@ -174,21 +160,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "Los cristales registran qué magma entró en erupción y cuál quedó atrapado en arcos volcánicos",
-     "resumen": "Un artículo de Nature analiza los registros cristalinos para distinguir el magma que erupcionó del que quedó atrapado en arcos volcánicos. El extracto disponible no entrega datos adicionales.",
-     "enlace": "https://www.nature.com/articles/s41467-026-78932-9",
-     "fuente": "Nature",
-     "fecha": "2026-11-09T00:00+00:00"
-    },
-    {
-     "titulo": "Dataciones de alta precisión aclaran la historia geológica de North Cascades, en Washington",
-     "resumen": "Eos informa que dataciones de rocas de alta precisión ayudan a precisar la compleja historia geológica de North Cascades y a explorar qué desencadenó un antiguo aumento de magma.",
-     "enlace": "https://eos.org/research-spotlights/what-triggered-an-ancient-magma-surge-in-the-north-cascades",
+     "titulo": "Impactos a alta presión producen zircón con reidita en zonas de forma de alta presión",
+     "resumen": "Un grano de zircón sometido a 40 gigapascales, presión equivalente a la del manto inferior terrestre, convierte parcialmente zonas de su estructura en reidita, forma de alta presión. El análisis se hizo mediante difracción de electrones retrodispersados.",
+     "enlace": "https://eos.org/research-spotlights/one-shock-many-responses-in-zircon-and-other-grains",
      "fuente": "Eos",
-     "fecha": "2026-11-06T14:10+00:00"
+     "fecha": "2026-11-09T14:23+00:00"
     }
    ]
   },
@@ -200,42 +179,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "Las ecuaciones de Einstein revelan un proceso en el que la gravedad podría romperse y reconectarse",
-     "resumen": "Investigadores de la Universidad de Columbia y la Universidad Adolfo Ibáñez identificaron un proceso teórico oculto en las ecuaciones de Einstein que podría liberar energía.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+     "titulo": "CERN obtiene evidencia de una desintegración de partícula que ocurre una vez cada diez mil millones",
+     "resumen": "Tras más de 40 años de búsqueda, científicos del CERN hallaron evidencia de una desintegración tan rara que ocurre aproximadamente una vez cada 10 mil millones de desintegraciones. El hallazgo podría ayudar a descubrir partículas y fuerzas ocultas.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-08T22:14+00:00"
+     "fecha": "2026-11-10T00:42+00:00"
     },
     {
-     "titulo": "El apareamiento de electrones no basta para lograr superconductividad a temperatura ambiente",
-     "resumen": "Investigadores de Utrecht, Leiden y Múnich identificaron uno de los requisitos clave para alcanzar superconductividad a temperatura ambiente.",
-     "enlace": "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html",
+     "titulo": "Un estado cuántico hace que la luz se comporte a la vez como sólido y como líquido a temperatura ambiente",
+     "resumen": "Científicos observaron un estado cuántico que combina la estructura de un cristal con un flujo sin fricción propio de un líquido, a temperatura ambiente. El avance podría ayudar a superar limitaciones de experimentos cuánticos exóticos.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-09T11:19+00:00"
+    },
+    {
+     "titulo": "Científicos logran una temperatura récord a bordo de la estación espacial china Tiangong",
+     "resumen": "Investigadores de China alcanzaron un nuevo récord de baja temperatura en la estación Tiangong. El resultado abre el camino a nuevos experimentos de física sobre estados de la materia.",
+     "enlace": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T13:54+00:00"
+     "fecha": "2026-11-06T17:00+00:00"
     },
     {
-     "titulo": "Un límite cuántico oculto impide rastrear electrones con precisión ilimitada en espacio y tiempo",
-     "resumen": "El hallazgo podría permitir manipular reacciones químicas y desarrollar electrónica cientos de miles de veces más rápida.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-07T23:34+00:00"
-    },
-    {
-     "titulo": "Científicos logran destellos de rayos X de récord de potencia concentrados en un punto muy pequeño",
-     "resumen": "Los destellos duran solo 300 attosegundos y podrían permitir observar electrones en acción y controlar procesos ultrarrápidos que impulsan la química.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-08T03:46+00:00"
-    },
-    {
-     "titulo": "Un experimento óptico demuestra el efecto Mpemba fuerte en un solo qubit",
-     "resumen": "Un sistema perturbado suele regresar al equilibrio térmico intercambiando calor con su entorno; este experimento demuestra el efecto en un qubit.",
-     "enlace": "https://phys.org/news/2026-11-optical-strong-mpemba-effect-qubit.html",
+     "titulo": "Un imán levitado y giratorio, el más rápido construido hasta ahora, podría ayudar a buscar materia oscura",
+     "resumen": "Los imanes levitados evitan la fricción por contacto y permiten detectar fuerzas y campos magnéticos muy débiles. El nuevo diseño alcanza la mayor velocidad de giro registrada y podría usarse en la búsqueda de materia oscura.",
+     "enlace": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-09T11:40+00:00"
+     "fecha": "2026-11-09T17:30+00:00"
+    },
+    {
+     "titulo": "La interferencia cuántica mantiene unidos a dos átomos aunque tengan energía suficiente para separarse",
+     "resumen": "Investigadores de RPTU observaron experimentalmente un estado cuántico inusual en el que dos átomos permanecen ligados pese a tener energía suficiente para romperse.",
+     "enlace": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-09T18:00+00:00"
     }
    ]
   },
@@ -247,42 +226,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "JWST identifica 104 eventos estelares magnificados en la galaxia del Dragón",
-     "resumen": "Un equipo de astrónomos usó el telescopio espacial James Webb para detectar 104 eventos estelares magnificados en esta galaxia, situada a unos 6.500 millones de años luz. La cifra duplica el registro previo de 44.",
-     "enlace": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+     "titulo": "Teoría de un universo de 26,7 mil millones de años sin materia oscura ni energía oscura supera pruebas clave",
+     "resumen": "Un estudio de la Universidad de Ottawa indica que este modelo cosmológico ha superado varias pruebas importantes de cosmología. No requiere materia oscura ni energía oscura.",
+     "enlace": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-08T19:20+00:00"
+     "fecha": "2026-11-07T14:00+00:00"
     },
     {
-     "titulo": "El Observatorio Rubin descubre dos compañeras ocultas de la Vía Láctea",
-     "resumen": "Con observaciones preliminares que cubren solo el 7% del cielo nocturno, el observatorio halló una galaxia muy tenue a 355.000 años luz y un cúmulo estelar oculto. Podrían existir cientos más.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-07T09:12+00:00"
-    },
-    {
-     "titulo": "Un doble anillo alrededor de una estrella muerta anticipa el futuro del Sistema Solar",
-     "resumen": "Astrónomos hallaron dos anillos de restos planetarios separados por una brecha que, según los investigadores, mantienen cuerpos planetarios sobrevivientes. Podría ser una vista previa del destino del Sol.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-06T22:12+00:00"
-    },
-    {
-     "titulo": "Agujeros negros primordiales de gran tamaño quedan descartados como fuente de materia oscura",
-     "resumen": "Los agujeros negros primordiales, que se habrían formado en el universo temprano a partir de concentraciones densas de materia, quedan descartados como fuente de materia oscura en su versión de gran masa.",
-     "enlace": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+     "titulo": "El ELT podrá estudiar galaxias ultradifusas y los misterios de su materia oscura",
+     "resumen": "El Telescopio Extremadamente Grande (ELT) tiene su primera luz programada para marzo de 2029. Uno de sus objetivos científicos es estudiar aspectos fundamentales del universo, incluidas las galaxias ultradifusas.",
+     "enlace": "https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-08T14:40+00:00"
+     "fecha": "2026-11-09T23:00+00:00"
     },
     {
-     "titulo": "El telescopio espacial Swift reingresa a la atmósfera terrestre tras casi 22 años en órbita",
-     "resumen": "El Observatorio Swift de la NASA, diseñado originalmente para durar dos años, reingresó sobre Indonesia. Transformó la comprensión de los agujeros negros y de otras explosiones cósmicas.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-06T07:12+00:00"
+     "titulo": "Nuevo análisis de los patrones del fondo cósmico de microondas busca entender mejor el universo temprano",
+     "resumen": "Investigadores estudian los patrones del fondo cósmico de microondas para comprender las condiciones del universo primitivo.",
+     "enlace": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-07T00:20+00:00"
+    },
+    {
+     "titulo": "La galaxia Misty Moons ofrece una mirada a la formación temprana de estrellas",
+     "resumen": "Mediante el efecto de lente gravitacional de un cúmulo masivo de galaxias, la galaxia Misty Moons permite observar la formación estelar en el universo temprano.",
+     "enlace": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-06T12:40+00:00"
+    },
+    {
+     "titulo": "Chandra identifica la probable fuente de las erupciones repetidas de una estrella gigante",
+     "resumen": "Con el Observatorio de rayos X Chandra de la NASA, astrónomos descubrieron qué provoca las erupciones repetidas de una estrella gigante inestable.",
+     "enlace": "https://phys.org/news/2026-11-supernova-impostor-chandra-source-giant.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-09T21:40+00:00"
     }
    ]
   },
@@ -293,40 +272,33 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-10",
    "noticias": [
     {
-     "titulo": "Científicos logran aislar moléculas de boro-oxígeno que se consideraban demasiado inestables",
-     "resumen": "Tras más de 60 años de intentos fallidos, los investigadores finalmente obtuvieron ejemplos estables de estas moléculas, usando reacciones químicas relativamente simples.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-06T21:28+00:00"
-    },
-    {
-     "titulo": "Nuevo método reaprovecha polietileno como materia prima para nailon apta para producción masiva",
-     "resumen": "Químicos del LIKAT, en Rostock, desarrollaron un método para obtener materia prima de nailon a partir de polietileno, con el potencial de reemplazar el petróleo como fuente.",
-     "enlace": "https://phys.org/news/2026-11-method-upcycling-polyethylene-suitable-mass.html",
+     "titulo": "Investigadores formulan microemulsiones sin surfactantes tradicionales, que suelen ser tóxicos y difíciles de separar",
+     "resumen": "Un equipo internacional liderado por la Universidad de Sídney logró formular microemulsiones sin surfactantes tradicionales. El hallazgo tiene implicaciones para aplicaciones farmacéuticas y alimentarias.",
+     "enlace": "https://phys.org/news/2026-11-alternative-approach-reliance-potentially-toxic.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T16:20+00:00"
+     "fecha": "2026-11-09T21:50+00:00"
     },
     {
-     "titulo": "Método con luz recupera compuestos químicos descartados en el desarrollo de fármacos",
-     "resumen": "Miles de compuestos químicos producidos durante el desarrollo de fármacos nunca llegan a ser medicamentos. Un equipo con una investigadora de Florida State University halló una forma de reactivar algunos de ellos.",
-     "enlace": "https://phys.org/news/2026-11-powered-method-resurrects-dead-compounds.html",
+     "titulo": "El modelo CheMeleon predice propiedades moleculares a partir de datos escasos",
+     "resumen": "El modelo CheMeleon predice propiedades moleculares con pocos datos, lo que apoya el descubrimiento de nuevas moléculas para farmacia, electrónica y energía. Hasta ahora ese proceso depende en gran parte de ensayo y error.",
+     "enlace": "https://phys.org/news/2026-11-chemeleon-molecular-properties-scant.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-06T20:40+00:00"
+     "fecha": "2026-11-09T21:00+00:00"
     },
     {
-     "titulo": "Crecimiento de cristales asistido por líquido reduce defectos en perovskitas para celdas solares y LED",
-     "resumen": "Investigadores de SKKU, en colaboración con KRICT y la Universidad de California en San Diego, lograron reducir defectos en perovskitas para celdas solares y LED más eficientes.",
-     "enlace": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+     "titulo": "SynFit guía la ingeniería de enzimas al equilibrar varias propiedades útiles a la vez",
+     "resumen": "SynFit es un método para diseñar enzimas que combina varias características útiles de forma simultánea. Las enzimas naturales no pueden realizar todas las reacciones que los investigadores necesitan.",
+     "enlace": "https://phys.org/news/2026-11-synfit-enzyme-traits.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-08T22:00+00:00"
+     "fecha": "2026-11-06T18:00+00:00"
     },
     {
-     "titulo": "Un marco impulsado por IA busca nuevos electrolitos sólidos para baterías más seguras y duraderas",
-     "resumen": "Un material puede verse ideal en laboratorio y fallar en una batería real. El marco desarrollado apunta a descubrir electrolitos sólidos con mejor desempeño en condiciones reales.",
-     "enlace": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
+     "titulo": "Una película de empaque cambia de color y brilla bajo luz UV cuando la carne pierde frescura",
+     "resumen": "Investigadores de la Universidad de Kyushu desarrollaron una película de empaque inteligente que cambia de color y emite brillo bajo luz ultravioleta. Indica los cambios químicos asociados al deterioro de la carne.",
+     "enlace": "https://phys.org/news/2026-11-smart-packaging-uv-meat-freshness.html",
      "fuente": "Phys.org",
      "fecha": "2026-11-06T18:40+00:00"
     }
