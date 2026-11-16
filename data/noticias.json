@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-13",
- "generado": "2026-11-13T07:02-03:00",
+ "dia": "2026-11-16",
+ "generado": "2026-11-16T08:49-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,42 +11,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Asimetrías orbitales de la Tierra comparten ritmos recurrentes con El Niño, según un estudio",
-     "resumen": "Un estudio identifica ritmos recurrentes en las asimetrías orbitales terrestres que coinciden con El Niño, fenómeno de calentamiento de aguas superficiales del Pacífico tropical que reorganiza la circulación atmosférica mundial.",
-     "enlace": "https://phys.org/news/2026-11-earth-orbital-asymmetries-recurring-rhythms.html",
+     "titulo": "La criosfera se degrada más allá de los límites planetarios seguros, según un estudio en Science",
+     "resumen": "Un estudio publicado en Science, presentado en COP31, concluye que el cambio climático de origen humano degrada la criosfera: capas de hielo, glaciares, hielo marino, permafrost y cobertura de nieve. Esto pone en riesgo las condiciones para la sociedad humana.",
+     "enlace": "https://phys.org/news/2026-11-cryosphere-decline-safe-planetary-limits.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-13T00:20+00:00"
+     "fecha": "2026-11-13T16:40+00:00"
     },
     {
-     "titulo": "Modelos climáticos con IA usan escenarios de emisiones poco realistas para prepararse a futuros desconocidos",
-     "resumen": "Investigadores del MIT desarrollaron una técnica que agiliza la producción de proyecciones climáticas rápidas y confiables, apoyándose en escenarios de emisiones poco realistas.",
-     "enlace": "https://phys.org/news/2026-11-unrealistic-emissions-scenarios-ai-climate.html",
+     "titulo": "El océano absorbe cada vez más carbono fósil mientras la captura terrestre se estanca",
+     "resumen": "Según un estudio liderado por Scripps Institution of Oceanography de UC San Diego, el océano absorbe a un ritmo creciente el CO₂ de emisiones fósiles desde 1990. La captura neta de bosques, suelos y otros ecosistemas terrestres no ha aumentado.",
+     "enlace": "https://phys.org/news/2026-11-ocean-absorbs-fossil-fuel-carbon.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T21:40+00:00"
+     "fecha": "2026-11-13T18:40+00:00"
     },
     {
-     "titulo": "La lluvia podría aumentar la absorción de carbono del océano más de lo estimado hasta ahora",
-     "resumen": "Los presupuestos globales de carbono podrían subestimar en un 5% a 15% la absorción oceánica, porque no consideran por completo el efecto de la lluvia sobre la superficie del mar.",
-     "enlace": "https://phys.org/news/2026-11-ocean-carbon-uptake-thought.html",
+     "titulo": "Las temperaturas podrían seguir subiendo tras detener las emisiones, según el Met Office",
+     "resumen": "Un estudio liderado por el Met Office Hadley Centre examina la respuesta climática tras cesar las emisiones de CO₂, conocida como compromiso de emisiones cero (ZEC). Se suele asumir que este cambio es cercano a cero.",
+     "enlace": "https://phys.org/news/2026-11-climate-response-previous-difference.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T16:20+00:00"
+     "fecha": "2026-11-15T15:30+00:00"
     },
     {
-     "titulo": "Registros climáticos antiguos muestran que el monzón del Asia oriental cambió abruptamente hacia frío y sequía",
-     "resumen": "Investigadores de la Universidad de Utrecht, junto a colegas de China y Bélgica, analizan registros de los últimos 250.000 años para estudiar cómo el cambio climático afecta al monzón del Asia oriental.",
-     "enlace": "https://phys.org/news/2026-11-ancient-climate-reveal-east-asian.html",
+     "titulo": "El Niño explica en gran medida los incendios forestales de Indonesia este año",
+     "resumen": "Investigadores atribuyen en gran parte los incendios que consumieron amplias zonas de Indonesia a un fuerte El Niño. Según los mismos científicos, el cambio climático y décadas de destrucción del paisaje natural también contribuyeron.",
+     "enlace": "https://phys.org/news/2026-11-el-nio-blame-indonesian-wildfires.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T23:20+00:00"
-    },
-    {
-     "titulo": "Las emisiones de CO2 fósil caerían en 2026 por la menor demanda de petróleo asociada al conflicto con Irán",
-     "resumen": "Se proyecta que las emisiones de CO2 de combustibles fósiles y cemento bajen cerca de un 0,4% en 2026, hasta 38,2 mil millones de unidades.",
-     "enlace": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
-     "fuente": "Carbon Brief",
-     "fecha": "2026-11-10T01:01+00:00"
+     "fecha": "2026-11-13T10:10+00:00"
     }
    ]
   },
@@ -57,14 +50,14 @@
     "Eos",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-12",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "El agujero de ozono antártico alcanzó en 2026 el séptimo tamaño más grande registrado",
-     "resumen": "El agujero de ozono antártico llegó al séptimo tamaño más grande registrado en 2026 por condiciones meteorológicas inusuales. Científicos indican que las restricciones internacionales a químicos destructores del ozono evitaron un daño mayor.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+     "titulo": "La NASA advierte que El Niño de 2026 podría superar en intensidad al evento de 1997-98",
+     "resumen": "Científicos de la NASA advierten que El Niño de 2026, en rápida intensificación, podría superar al histórico evento de 1997-98. Datos satelitales muestran similitudes y posibilidad de lluvias intensas e inundaciones.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-11T12:32+00:00"
+     "fecha": "2026-11-15T13:53+00:00"
     }
    ]
   },
@@ -75,35 +68,35 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-12",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Las tormentas de polvo modifican el flujo de calor superficial y la temperatura del mar en el Mar Rojo",
-     "resumen": "Un estudio analiza cómo las tormentas de polvo afectan el flujo de calor en la superficie y la temperatura superficial del mar en el Mar Rojo.",
-     "enlace": "https://www.nature.com/articles/s41598-026-79287-3",
+     "titulo": "Las olas de calor marino subsuperficiales presentan una estructura vertical que evoluciona a gran escala",
+     "resumen": "Nature publica un análisis de la estructura vertical y la evolución de olas de calor marinas subsuperficiales a gran escala.",
+     "enlace": "https://www.nature.com/articles/s41612-026-01592-5",
      "fuente": "Nature",
-     "fecha": "2026-11-11T00:00+00:00"
+     "fecha": "2026-11-14T00:00+00:00"
     },
     {
-     "titulo": "Los microplásticos cambian el color del mar cerca de la Gran Mancha de Basura del Pacífico",
-     "resumen": "Según el título, la presencia de microplásticos altera el color del agua en las cercanías de la Gran Mancha de Basura del Pacífico.",
-     "enlace": "https://www.nature.com/articles/d41586-026-03637-4",
+     "titulo": "Eventos ambientales compuestos en aguas costeras de Washington se analizan con proyecciones regionales",
+     "resumen": "Un estudio de Nature examina eventos ambientales compuestos en las aguas costeras de Washington, usando proyecciones climáticas regionalizadas de alta resolución.",
+     "enlace": "https://www.nature.com/articles/s41598-026-77581-8",
      "fuente": "Nature",
-     "fecha": "2026-11-11T00:00+00:00"
+     "fecha": "2026-11-13T00:00+00:00"
     },
     {
-     "titulo": "Los nódulos polimetálicos ofrecen un hábitat distinto para la meiofauna del fondo abisal",
-     "resumen": "Una investigación describe los nódulos polimetálicos del fondo abisal como un hábitat diferenciado para la meiofauna.",
-     "enlace": "https://www.nature.com/articles/s41598-026-76737-w",
+     "titulo": "Aprendizaje profundo identifica teleconexiones de la temperatura del mar que influyen en el Atlántico Norte",
+     "resumen": "Un estudio de Nature usa aprendizaje profundo para identificar teleconexiones de la temperatura superficial del mar que impulsan el clima de inicios de invierno en el Atlántico Norte.",
+     "enlace": "https://www.nature.com/articles/s41598-026-78245-3",
      "fuente": "Nature",
-     "fecha": "2026-11-11T00:00+00:00"
+     "fecha": "2026-11-14T00:00+00:00"
     },
     {
-     "titulo": "Los fiordos de la península antártica occidental muestran patrones ecológicos contrastantes tras la deglaciación",
-     "resumen": "Un estudio compara comunidades bentónicas de sedimento blando en fiordos de la península antártica occidental que se están desglaciando.",
-     "enlace": "https://www.nature.com/articles/s43247-026-04216-1",
+     "titulo": "El aumento del nivel del mar agrava la vulnerabilidad costera en África Occidental y Central",
+     "resumen": "Un estudio de Nature atribuye al cambio climático la amplificación de la vulnerabilidad costera por aumento del nivel del mar en África Occidental y Central.",
+     "enlace": "https://www.nature.com/articles/s44458-026-00194-9",
      "fuente": "Nature",
-     "fecha": "2026-11-12T00:00+00:00"
+     "fecha": "2026-11-16T00:00+00:00"
     }
    ]
   },
@@ -115,14 +108,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Dos zonas calientes cerca del núcleo terrestre podrían alimentar volcanes bajo los océanos",
-     "resumen": "Un estudio plantea que dos zonas de alta temperatura cercanas al núcleo de la Tierra podrían alimentar volcanes submarinos. Gran parte del lecho oceánico sigue poco explorada.",
-     "enlace": "https://phys.org/news/2026-11-hot-zones-earth-core-fuel.html",
+     "titulo": "Rocas de 3.950 millones de años halladas en el norte de China aportan datos sobre la Tierra temprana",
+     "resumen": "Las rocas, de unos 3.950 millones de años, están entre las más antiguas conocidas. Son raras porque la Tierra tiene alrededor de 4.500 millones de años.",
+     "enlace": "https://phys.org/news/2026-11-oldest-earth-early-history.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T20:00+00:00"
+     "fecha": "2026-11-14T17:00+00:00"
+    },
+    {
+     "titulo": "Cristales sugieren que la Tierra temprana actuó como una esponja de oxígeno",
+     "resumen": "Los cristales analizados indican que la Tierra primitiva absorbió oxígeno. Se cree que las cianobacterias fueron los primeros organismos en producirlo.",
+     "enlace": "https://eos.org/articles/crystals-indicate-early-earth-was-a-sponge-for-oxygen",
+     "fuente": "Eos",
+     "fecha": "2026-11-13T14:29+00:00"
+    },
+    {
+     "titulo": "Rocas antiguas del Mar de Mármara revelan un viaje desde el interior profundo de la Tierra",
+     "resumen": "Granitos expuestos en las costas sur y en islas del Mar de Mármara, en Türkiye, se originaron como material fundido en la corteza profunda.",
+     "enlace": "https://phys.org/news/2026-11-ancient-reveal-journey-deep-earth.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-13T19:00+00:00"
+    },
+    {
+     "titulo": "Observación directa de un deslizamiento submarino revela procesos del fondo marino",
+     "resumen": "Investigadores de la Universidad de Newcastle y colaboradores internacionales documentaron directamente un deslizamiento submarino. Estos eventos son difíciles de estudiar por su carácter impredecible.",
+     "enlace": "https://phys.org/news/2026-11-submarine-landslide-reveals-seafloor.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-13T16:00+00:00"
     }
    ]
   },
@@ -134,14 +148,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-09",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Rocas de la isla Goodenough revelan las condiciones térmicas de una zona de subducción",
-     "resumen": "Muestras de rocas recolectadas en la isla Goodenough, Papúa Nueva Guinea, permiten estimar las condiciones físicas de las zonas de subducción.",
-     "enlace": "https://eos.org/articles/deep-diving-rocks-reveal-a-subduction-zones-thermal-secrets",
-     "fuente": "Eos",
-     "fecha": "2026-11-06T14:11+00:00"
+     "titulo": "Nature analiza condiciones geofísicas que favorecen deslizamientos precursores de grandes terremotos",
+     "resumen": "Una publicación en Nature estudia las condiciones geofísicas que favorecen el deslizamiento precursor antes de terremotos mayores. El extracto disponible no incluye datos adicionales.",
+     "enlace": "https://www.nature.com/articles/s41467-026-79533-2",
+     "fuente": "Nature",
+     "fecha": "2026-11-14T00:00+00:00"
     }
    ]
   },
@@ -153,14 +167,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Experimentos mejoran la comprensión de los tsunamis volcánicos",
-     "resumen": "Un artículo de Eos describe experimentos que amplían el conocimiento sobre los tsunamis de origen volcánico. Como ejemplo, una corriente piroclástica entró al mar a lo largo de la Sciara del Fuoco, en Stromboli, Italia, el 3 de julio de 2019.",
-     "enlace": "https://eos.org/research-spotlights/the-experiments-improving-our-understanding-of-volcanic-tsunamis",
-     "fuente": "Eos",
-     "fecha": "2026-11-12T13:42+00:00"
+     "titulo": "Magma sobrecalentado podría explicar las fuentes de lava espectaculares de algunos volcanes",
+     "resumen": "Experimentos revelaron que el magma sobrecalentado retrasa la formación de cristales, un efecto que podría ayudar a explicar por qué algunos volcanes emiten fuentes de lava y otros no.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-13T11:56+00:00"
     }
    ]
   },
@@ -172,42 +186,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "La asimetría entre materia y antimateria aún no muestra evidencia de física nueva",
-     "resumen": "Las diferencias conocidas entre materia y antimateria no explican la escala del desequilibrio observado en el universo, aunque tampoco hay evidencia de nueva física en un estudio reciente.",
-     "enlace": "https://phys.org/news/2026-11-matterantimatter-asymmetry-evidence-physics.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-12T23:00+00:00"
+     "titulo": "La energía oscura podría haber cambiado de negativa a positiva hace unos 9.500 millones de años",
+     "resumen": "Un estudio que explora una rama poco revisada de una teoría alternativa de la gravedad sugiere que la energía oscura habría invertido su signo hace unos 9.500 millones de años.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-13T11:08+00:00"
     },
     {
-     "titulo": "El dopaje con zinc preserva la superconductividad de dos brechas en el FeSe",
-     "resumen": "Investigadores de la Instalación de Campos Magnéticos Intensos Estacionarios hallaron que el zinc altera inesperadamente las propiedades superconductoras del FeSe, manteniendo su estado de dos brechas.",
-     "enlace": "https://phys.org/news/2026-11-zn-doping-reveals-robust-gap.html",
+     "titulo": "Experimentos revelan que un plasma inestable se calienta con las ondas que él mismo genera",
+     "resumen": "Los experimentos muestran que un plasma inestable transfiere energía a sí mismo mediante ondas que genera. La fusión exige confinar plasma a alta temperatura con campos magnéticos.",
+     "enlace": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T19:30+00:00"
+     "fecha": "2026-11-13T23:20+00:00"
     },
     {
-     "titulo": "Un avance en computación cuántica usa fotones como qubits para acelerar los cálculos",
-     "resumen": "Las computadoras cuánticas construidas con fotones como unidades básicas podrían ser más rápidas y eficientes en energía que las supercomputadoras, según una investigación reciente.",
-     "enlace": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-13T03:40+00:00"
+     "titulo": "Investigadores de Brown University superan un obstáculo clave para chips de IA de bajo consumo",
+     "resumen": "Eliminan el problema de la capa muerta, que hacía dejar de funcionar a materiales magnéticos prometedores, y abren la vía a chips de IA con un consumo energético mucho menor.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-13T01:40+00:00"
     },
     {
-     "titulo": "Nuevo algoritmo mejora la lectura de fase para detectar ondas gravitacionales desde el espacio",
-     "resumen": "Un grupo del Instituto de Óptica de Changchun de la Academia China de Ciencias propuso un algoritmo analítico de lectura de fase para interferometría de modulación de frecuencia profunda, publicado en Optics Communications.",
-     "enlace": "https://phys.org/news/2026-11-algorithm-phase-readout-space-based.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-11T13:20+00:00"
+     "titulo": "Físicos logran controlar con ondas de radio el espín magnético del núcleo de un solo átomo",
+     "resumen": "El hallazgo contradice supuestos previos sobre el comportamiento atómico y podría facilitar memorias cuánticas más confiables, aunque los investigadores aún trabajan en ello.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-16T02:56+00:00"
     },
     {
-     "titulo": "El grafeno de ángulo mágico permite ajustar su resistencia mediante deformación",
-     "resumen": "Investigadores apilan dos láminas de carbono de un átomo de espesor y rotan una sobre la otra; el estudio muestra que la resistencia puede modificarse aplicando tensión al material.",
-     "enlace": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
+     "titulo": "Observan remolinos cuánticos entrelazados que se desenredan en un gas ultrafrío",
+     "resumen": "Al enfriar un gas de átomos cerca del cero absoluto, estos forman un condensado de Bose-Einstein, un fluido en que todos comparten un mismo estado cuántico. El estudio observa cómo se ordena el gas.",
+     "enlace": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T19:00+00:00"
+     "fecha": "2026-11-15T16:40+00:00"
     }
    ]
   },
@@ -219,42 +233,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "El telescopio Euclid publica su primer gran lote de datos con el mapa 3D más extenso hasta hoy",
-     "resumen": "El Consorcio Euclid y la ESA liberaron datos que capturan luz de más de mil millones de objetos en un área equivalente a 9.500 lunas llenas.",
-     "enlace": "https://phys.org/news/2026-11-euclid-3d-universe-date.html",
+     "titulo": "Euclid revela unas 15.000 posibles lentes gravitacionales, la mayor colección conocida de estas herramientas",
+     "resumen": "Investigadores de la UBC ayudaron a identificar 15.000 nuevas posibles lentes gravitacionales fuertes, herramientas que permiten estudiar la materia oscura.",
+     "enlace": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T15:30+00:00"
+     "fecha": "2026-11-15T20:00+00:00"
     },
     {
-     "titulo": "Un observable interferométrico independiente confirma la sombra del agujero negro M87*",
-     "resumen": "Una nueva medición interferométrica independiente respalda la sombra observada en M87*, la primera imagen icónica de un agujero negro. El estudio fue publicado en Nature.",
-     "enlace": "https://www.nature.com/articles/s41586-026-11241-9",
-     "fuente": "Nature",
-     "fecha": "2026-11-11T00:00+00:00"
+     "titulo": "Euclid descubre 31 cuásares antiguos, dos de ellos récord de brillo",
+     "resumen": "El telescopio espacial Euclid de la ESA halló 31 cuásares antiguos, entre ellos dos objetos que brillaban como un billón de Soles cuando el Universo tenía 670 millones de años.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-15T01:52+00:00"
     },
     {
-     "titulo": "Catorce años de datos de Fermi revelan cerca de 450 fuentes en un rango de energía poco explorado",
-     "resumen": "Investigadores analizaron 14 años de observaciones del telescopio Fermi y encontraron alrededor de 450 fuentes de rayos gamma en un rango de energía poco explorado.",
-     "enlace": "https://phys.org/news/2026-11-view-gamma-ray-gap-years.html",
+     "titulo": "Un nuevo estudio ofrece un resultado independiente sobre la imagen del agujero negro de M87",
+     "resumen": "La primera imagen de un agujero negro, revelada por la colaboración EHT el 10 de abril de 2019 en la galaxia M87, a unos 55 millones de años luz, es contrastada por un análisis independiente.",
+     "enlace": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T17:40+00:00"
+     "fecha": "2026-11-15T01:30+00:00"
     },
     {
-     "titulo": "Un sistema estelar raro emite señales de radio cada 8 minutos",
-     "resumen": "Científicos del nodo Curtin del ICRAR vincularon los pulsos de radio con una estrella muerta que gira cada ocho minutos y una estrella similar al Sol.",
-     "enlace": "https://phys.org/news/2026-11-rare-star-emits-radio-minutes.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-12T18:20+00:00"
-    },
-    {
-     "titulo": "Un supuesto agujero negro resulta ser una estrella que gira rápidamente",
-     "resumen": "Un par de estrellas en el cúmulo NGC 1850 de la Gran Nube de Magallanes se creía que contenía un agujero negro, pero se trata de una estrella de rápida rotación.",
-     "enlace": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-12T17:30+00:00"
+     "titulo": "Astrónomos detectan una estrella muerta que gira cada 8 minutos y emite pulsos de radio",
+     "resumen": "El par estelar, a más de 5.000 años luz, orbita una estrella similar al Sol. La estrella muerta produce pulsos de radio misteriosos y su compañera presenta tormentas magnéticas masivas.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-15T13:04+00:00"
     }
    ]
   },
@@ -265,42 +272,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Regeneración de catalizadores permite producir hidrógeno a partir de amoníaco de forma más durable",
-     "resumen": "Investigadores de la Universidad Nacional de Singapur desarrollaron una estrategia de regeneración de catalizadores que aborda la pérdida de efectividad con el tiempo y podría hacer la producción de hidrógeno más eficiente y confiable.",
-     "enlace": "https://phys.org/news/2026-11-catalyst-regeneration-enables-durable-hydrogen.html",
+     "titulo": "Cromo estabiliza el rutenio en la electrólisis del agua mediante interacciones químicas entre ambos metales",
+     "resumen": "Investigadores del ICFO describen interacciones químicas entre cromo y rutenio que mantienen estable al rutenio durante la electrólisis del agua.",
+     "enlace": "https://phys.org/news/2026-11-couple-chromium-ruthenium-grounded-electrolysis.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T22:10+00:00"
+     "fecha": "2026-11-13T20:40+00:00"
     },
     {
-     "titulo": "Una tela molecular reutilizable podría reducir la energía necesaria para separar químicos industriales",
-     "resumen": "Un equipo de la Universidad de Texas en Austin y la Universidad de Zhejiang trabaja en separar un químico tóxico presente en procesos industriales vinculados al nailon, pinturas, espumas y detergentes.",
-     "enlace": "https://phys.org/news/2026-11-reusable-molecular-fabric-energy-industrial.html",
+     "titulo": "Clústeres de rodio equilibran actividad y selectividad en la deshidrogenación de butano",
+     "resumen": "Investigadores del IMR de la Academia China de Ciencias muestran cómo la geometría y las propiedades electrónicas de sitios activos de rodio subnanométricos determinan la actividad y la selectividad a buteno.",
+     "enlace": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T21:20+00:00"
+     "fecha": "2026-11-13T17:20+00:00"
     },
     {
-     "titulo": "Investigadores buscan que microbios fabriquen químicos tóxicos para reemplazar la manufactura basada en petróleo",
-     "resumen": "El proyecto Sustainable Commodity Chemicals through Enzyme Engineering and Design aborda el problema de que el químico deseado es tóxico para el microbio que lo produce, un límite para reemplazar la manufactura basada en petróleo.",
-     "enlace": "https://phys.org/news/2026-11-brewery-chemical-industry.html",
+     "titulo": "Un sensor molecular hace más visibles las trazas invisibles de mercurio",
+     "resumen": "El mercurio contaminante es invisible a simple vista, y el nuevo sensor molecular facilita detectar cantidades mínimas que normalmente requieren herramientas especializadas de laboratorio.",
+     "enlace": "https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T21:20+00:00"
+     "fecha": "2026-11-13T20:00+00:00"
     },
     {
-     "titulo": "La IA puede apoyar la investigación química, pero su confiabilidad aún es limitada en ciertos casos",
-     "resumen": "Investigadores del Centro de IA de Skoltech y del Instituto Zelinsky de Química Orgánica publicaron en Chemical Society Reviews un análisis de los casos en que la IA aporta a la química y aquellos en que su confiabilidad es insuficiente.",
-     "enlace": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html",
+     "titulo": "Un polímero activado por agua forma sólidos bajo el agua y une fragmentos de vidrio",
+     "resumen": "Inspirado en la hidraulicidad del cemento, el polímero reacciona con la humedad y forma estructuras sólidas incluso en ambientes húmedos o sumergidos.",
+     "enlace": "https://phys.org/news/2026-11-polymer-solid-underwater-bonds-glass.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-11T00:20+00:00"
+     "fecha": "2026-11-13T18:20+00:00"
     },
     {
-     "titulo": "Las distintas caras de un mismo metal, el iridio, llevan a caminos químicos diferentes",
-     "resumen": "Un estudio muestra que las diferentes caras atómicas de un mismo metal pueden dirigir una misma reacción química por caminos muy distintos a escala atómica.",
-     "enlace": "https://phys.org/news/2026-11-iridium-metal-reactions.html",
+     "titulo": "Combinar cinco metales en un solo óxido mejora la detección de etanol en gases",
+     "resumen": "Un óxido que combina cinco elementos metálicos distintos mejora significativamente el desempeño de los sensores de gas etanol.",
+     "enlace": "https://phys.org/news/2026-11-combining-metals-oxide-ethanol-gas.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-11T14:00+00:00"
+     "fecha": "2026-11-13T18:40+00:00"
     }
    ]
   },
@@ -312,28 +319,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-12",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "Álabes de caucho flexible podrían abaratar la energía mareomotriz",
-     "resumen": "Un estudio publicado en Nature sugiere que las turbinas mareomotrices con aspas flexibles de caucho serían más simples y resistentes, lo que permitiría generar electricidad a menor costo.",
-     "enlace": "https://techxplore.com/news/2026-11-shifting-rubber-blades-tidal-power.html",
+     "titulo": "India busca triplicar su capacidad de energía limpia a 900 GW para 2035",
+     "resumen": "El país se propone instalar suficiente energía limpia para abastecer a más de 1.000 millones de hogares en 2035. Además, aprobó cerca de 20.000 millones de dólares en mejoras a la red eléctrica para reducir los cuellos de botella que impiden integrar la energía solar y eólica.",
+     "enlace": "https://techxplore.com/news/2026-11-india-triple-energy-capacity-gigawatts.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-11T16:00+00:00"
+     "fecha": "2026-11-14T12:00+00:00"
     },
     {
-     "titulo": "Una lámina de semiconductor orgánico divide el agua con luz sin voltaje externo",
-     "resumen": "Investigadores de EPFL mostraron que una capa de semiconductor orgánico genera hidrógeno u oxígeno según la capa molecular bajo ella. Construyeron la primera lámina fotocatalítica orgánica que divide agua usando solo luz.",
-     "enlace": "https://techxplore.com/news/2026-11-semiconductor-sheet-enables-driven-external.html",
+     "titulo": "El agua en los poros de la roca controla el almacenamiento subterráneo de energía renovable",
+     "resumen": "Un estudio muestra cómo el agua contenida en los poros minúsculos de las rocas influye en el almacenamiento subterráneo de energía renovable, uno de los mayores desafíos de la transición energética.",
+     "enlace": "https://techxplore.com/news/2026-11-hidden-gatekeeper-tiny-pores-underground.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-11T20:40+00:00"
+     "fecha": "2026-11-13T12:00+00:00"
     },
     {
-     "titulo": "Expertos revisan cómo aprovechar la energía del mar mediante mareas y olas",
-     "resumen": "El artículo repasa décadas de desarrollo de centrales mareomotrices, turbinas marinas y sistemas de energía undimotriz que usan el movimiento del agua. Las mareas y olas liberan energía masiva cada día.",
-     "enlace": "https://techxplore.com/news/2026-11-harness-energy-potential-seawater.html",
+     "titulo": "Un estudio identifica un potencial de 22,6 MW en pequeñas centrales hidroeléctricas de Carolina del Norte",
+     "resumen": "Sistemas hidroeléctricos pequeños podrían generar 22,6 megavatios en una zona remota del oeste de Carolina del Norte, suficiente para abastecer 5.000 hogares en un área con acceso limitado a energía confiable.",
+     "enlace": "https://techxplore.com/news/2026-11-hydropower-reveals-energy-potential-appalachia.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-11T13:40+00:00"
+     "fecha": "2026-11-13T23:20+00:00"
+    },
+    {
+     "titulo": "Científicos convierten residuos de café en biodiésel con un método eficiente",
+     "resumen": "El método transforma los posos de café usados en una posible fuente de biodiésel y conserva el material restante para otros combustibles renovables y químicos de valor. Podría aprovechar millones de toneladas de residuos.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-14T11:42+00:00"
     }
    ]
   },
@@ -345,14 +359,28 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-13",
+   "actualizada": "2026-11-16",
    "noticias": [
     {
-     "titulo": "La IA mejora el análisis de datos de partículas cósmicas para localizar objetos ocultos",
-     "resumen": "Investigadores del Instituto de Ciencias de la Computación de la Universidad de Tartu trabajan con la empresa estonia GScan en métodos de IA que usan mediciones de partículas cósmicas para localizar objetos con mayor precisión. Los resultados se muestran en simulaciones.",
-     "enlace": "https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html",
+     "titulo": "Los modelos de IA pueden cambiar sus respuestas cuando saben que están siendo observados",
+     "resumen": "Investigadores señalan que los grandes modelos de lenguaje, que sustentan sistemas como ChatGPT o Gemini, pueden modificar sus respuestas según las condiciones en que son usados.",
+     "enlace": "https://techxplore.com/news/2026-11-ai-differently-told.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-12T20:00+00:00"
+     "fecha": "2026-11-13T15:40+00:00"
+    },
+    {
+     "titulo": "Un sistema de IA traduce el habla en movimientos corporales coordinados para humanos digitales",
+     "resumen": "Investigadores desarrollaron un sistema de inteligencia artificial que convierte el habla en movimientos coordinados del cuerpo y las manos, para que los humanos digitales gesticulen al hablar.",
+     "enlace": "https://techxplore.com/news/2026-11-ai-digital-humans-naturally.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-13T16:40+00:00"
+    },
+    {
+     "titulo": "Defectos diminutos en diamantes podrían impulsar la computación cuántica a temperatura ambiente",
+     "resumen": "Científicos hallaron un método más rápido para identificar materiales basados en diamante que podrían alimentar computadoras cuánticas y sensores a temperatura ambiente.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-13T05:26+00:00"
     }
    ]
   }
