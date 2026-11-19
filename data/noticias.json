@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-18",
- "generado": "2026-11-18T08:59-03:00",
+ "dia": "2026-11-19",
+ "generado": "2026-11-19T07:03-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,35 +11,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "El calentamiento global extiende las temporadas de incendios en los bosques boreales",
-     "resumen": "Según Nature, el aumento de temperaturas alarga las temporadas de incendios en regiones boreales, hacia escenarios sin precedentes.",
-     "enlace": "https://www.nature.com/articles/s41598-026-80387-3",
+     "titulo": "El océano frente a la costa de Columbia Británica registra temperaturas récord vinculadas a El Niño",
+     "resumen": "Observatorios de Ocean Networks Canada registran temperaturas hasta 2,5 °C por encima de los promedios de largo plazo a cientos de metros de profundidad.",
+     "enlace": "https://phys.org/news/2026-11-ocean-hundreds-meters-bc-coast.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-18T17:40+00:00"
+    },
+    {
+     "titulo": "Los incendios récord de Corea del Sur en 2025 se dieron en condiciones meteorológicas cada vez más frecuentes",
+     "resumen": "Un estudio asocia los incendios récord de 2025 en Corea del Sur con intensificaciones rápidas de las condiciones meteorológicas de incendio, que se han vuelto más frecuentes.",
+     "enlace": "https://www.nature.com/articles/s44304-026-00297-2",
      "fuente": "Nature",
      "fecha": "2026-11-17T00:00+00:00"
     },
     {
-     "titulo": "Eventos de pérdida rápida de hielo ocurren en un Ártico en calentamiento",
-     "resumen": "Un estudio de Nature analiza eventos de pérdida rápida de hielo en el Ártico, región que se calienta. El texto disponible no incluye cifras.",
-     "enlace": "https://www.nature.com/articles/s43017-026-00848-1",
+     "titulo": "Regiones del centro-norte de Europa aparecen expuestas a precipitaciones extremas según proyecciones de conjunto",
+     "resumen": "Un estudio con evaluación basada en conjuntos de proyecciones identifica las regiones del centro-norte de Europa con mayor exposición a precipitaciones extremas.",
+     "enlace": "https://www.nature.com/articles/s41598-026-65636-9",
+     "fuente": "Nature",
+     "fecha": "2026-11-17T00:00+00:00"
+    },
+    {
+     "titulo": "Un estudio separa el cambio de posición del de intensidad en reconstrucciones paleoclimáticas de circulación",
+     "resumen": "La investigación distingue, en la reconstrucción paleoclimática de patrones de circulación, los cambios de posición de los cambios de intensidad.",
+     "enlace": "https://www.nature.com/articles/s43247-026-04134-2",
+     "fuente": "Nature",
+     "fecha": "2026-11-18T00:00+00:00"
+    },
+    {
+     "titulo": "Las respuestas térmicas de zonas climáticas locales varían por estación en tres ciudades del noreste de China",
+     "resumen": "Un estudio analiza en tres ciudades de clima frío del noreste de China cómo responden térmicamente las zonas climáticas locales según la estación.",
+     "enlace": "https://www.nature.com/articles/s41598-026-80386-4",
      "fuente": "Nature",
      "fecha": "2026-11-16T00:00+00:00"
-    },
-    {
-     "titulo": "Cambia el secuestro de carbono oceánico según las condiciones glaciales del pasado",
-     "resumen": "Phys.org examina cómo varía la captura de carbono por el océano en distintas condiciones glaciales. Los últimos 800.000 años alternaron periodos cálidos y fríos, con grandes capas de hielo en el hemisferio norte.",
-     "enlace": "https://phys.org/news/2026-11-ocean-carbon-sequestration-glacial-conditions.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-17T20:40+00:00"
-    },
-    {
-     "titulo": "La expansión del Agua Profunda del Atlántico Norte durante la glaciación del hemisferio norte",
-     "resumen": "Un estudio de Nature analiza cómo se expandió el Agua Profunda del Atlántico Norte durante la glaciación del hemisferio norte. Es un tema de paleoclimatología.",
-     "enlace": "https://www.nature.com/articles/s41467-026-79566-7",
-     "fuente": "Nature",
-     "fecha": "2026-11-17T00:00+00:00"
     }
    ]
   },
@@ -101,42 +108,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Un deslizamiento de tierra ocurrido el 16 de abril de 2026 afectó a Ubekimakhi, en Daguestán",
-     "resumen": "Imágenes de Planet Labs tomadas dos días después del evento documentan el deslizamiento de Ubekimakhi, registrado el 16 de abril de 2026.",
-     "enlace": "https://eos.org/thelandslideblog/ubekimakhi-landslide-1",
-     "fuente": "Eos",
-     "fecha": "2026-11-16T08:14+00:00"
+     "titulo": "Corrientes profundas del planeta podrían explicar el vacío de más de mil millones de años en las rocas",
+     "resumen": "Una nueva investigación sugiere que corrientes poderosas en el interior de la Tierra elevaron y hundieron continentes enteros, permitiendo que la erosión borrara esos periodos del registro rocoso.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-18T08:27+00:00"
     },
     {
-     "titulo": "La meteorización mejorada de rocas puede acelerar la captura de carbono atmosférico",
-     "resumen": "Un artículo analiza cómo la meteorización mejorada de rocas puede acelerar la captura de carbono, con ensayos de campo en un centro de investigación de California.",
-     "enlace": "https://phys.org/news/2026-11-weathering-carbon-capture.html",
+     "titulo": "Minerales antiguos permiten datar un episodio perdido en la formación de montañas de Türkiye",
+     "resumen": "En los Tauros Centrales, en el sur de Türkiye, científicos desarrollaron un método para datar movimientos antiguos mediante el análisis de diminutos minerales.",
+     "enlace": "https://phys.org/news/2026-11-ancient-minerals-reveal-chapter-trkiye.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T02:20+00:00"
+     "fecha": "2026-11-19T02:00+00:00"
     },
     {
-     "titulo": "Se publica el total acumulado mundial de deslizamientos de tierra mortales en 2026 hasta septiembre",
-     "resumen": "Eos presenta el recuento acumulado global de deslizamientos mortales de 2026, desglosado por pentadas hasta el fin de septiembre.",
-     "enlace": "https://eos.org/thelandslideblog/fatal-landslides-in-september-2026",
-     "fuente": "Eos",
-     "fecha": "2026-11-18T07:57+00:00"
-    },
-    {
-     "titulo": "Los ríos trenzados emiten gases de efecto invernadero poco contabilizados, según un estudio",
-     "resumen": "Un estudio en los ríos Selwyn Waikirikiri y Rakaia, en Nueva Zelanda, analiza las emisiones ocultas de gases de efecto invernadero en cauces trenzados.",
-     "enlace": "https://eos.org/editor-highlights/the-hidden-greenhouse-gas-emissions-woven-into-braided-rivers",
-     "fuente": "Eos",
-     "fecha": "2026-11-16T19:31+00:00"
-    },
-    {
-     "titulo": "El ciclo anual de las aguas subterráneas en Finlandia cambia de forma distinta en el norte y el sur",
-     "resumen": "Un estudio de 50 años de la Universidad de Oulu y el Instituto Finlandés de Medio Ambiente muestra resultados contrastantes en el ciclo anual del agua subterránea.",
-     "enlace": "https://phys.org/news/2026-11-groundwater-annual-shifting-year-finland.html",
+     "titulo": "Rocas dañadas podrían explicar por qué los sismos pequeños superan en número a los grandes",
+     "resumen": "Investigadores de la Universidad de Michigan proponen considerar el deslizamiento fuera de la falla principal, que los modelos actuales ignoran al predecir el tamaño de los sismos.",
+     "enlace": "https://phys.org/news/2026-11-small-earthquakes-outnumber-large.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-16T16:40+00:00"
+     "fecha": "2026-11-18T19:00+00:00"
     }
    ]
   },
@@ -167,21 +160,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-17",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Radar satelital SAR permite estimar el área de lagos de lava, como el del Kīlauea",
-     "resumen": "Una nueva investigación evalúa el uso de radar de apertura sintética (SAR) para estimar la superficie de lagos de lava, como el del cráter Halemaʻumaʻu, en Hawái.",
-     "enlace": "https://eos.org/research-spotlights/tracking-lava-flows-from-space",
+     "titulo": "Lavas de baja viscosidad en Marte revelan claves de su historia geológica",
+     "resumen": "Datos del rover Perseverance de la NASA permiten estudiar lavas de baja viscosidad en Marte y reconstruir su historia geológica.",
+     "enlace": "https://eos.org/articles/low-viscosity-lavas-reveal-a-key-to-marss-past",
      "fuente": "Eos",
-     "fecha": "2026-11-16T12:33+00:00"
-    },
-    {
-     "titulo": "Un descenso al cráter del Oldoinyo Lengai busca renovar el registro magmático del volcán",
-     "resumen": "Un artículo de Nature describe un descenso al cráter del Oldoinyo Lengai para renovar su registro magmático. El extracto disponible no incluye más datos.",
-     "enlace": "https://www.nature.com/articles/s43017-026-00854-3",
-     "fuente": "Nature",
-     "fecha": "2026-11-16T00:00+00:00"
+     "fecha": "2026-11-18T13:36+00:00"
     }
    ]
   },
@@ -193,42 +179,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Un material de un solo átomo de grosor revela un estado cuántico inusual en su frontera con un metal",
-     "resumen": "Investigadores de la Universidad de Osaka observaron electrones que se comportan como si fueran inusualmente pesados, junto con un estado nuevo creado por interacciones en esa frontera.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-17T01:25+00:00"
+     "titulo": "Científicos realizan los primeros experimentos de compresión dinámica en plutonio en una fuente de luz nacional.",
+     "resumen": "Investigadores de LLNL, ANL y WSU llevaron a cabo los primeros experimentos de compresión dinámica en plutonio en el Dynamic Compression Sector (DCS), una instalación de fuente de luz nacional.",
+     "enlace": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-19T02:40+00:00"
     },
     {
-     "titulo": "Un nuevo marco teórico sin inestabilidades fantasma amplía las simetrías posibles en física de partículas",
-     "resumen": "Durante más de medio siglo se creyó que las simetrías posibles de las teorías cuánticas de campos relativistas estaban restringidas. El trabajo propone un marco libre de inestabilidades fantasma.",
-     "enlace": "https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html",
+     "titulo": "Un computador cuántico fotónico escalable revela nuevas claves sobre los factores que determinan su rendimiento.",
+     "resumen": "Los computadores cuánticos basados en fotónica abren posibilidades para problemas matemáticos complejos y podrían impactar la energía, la química y las comunicaciones seguras. El estudio analiza sus fundamentos de rendimiento.",
+     "enlace": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T13:40+00:00"
+     "fecha": "2026-11-18T22:10+00:00"
     },
     {
-     "titulo": "Un modelo de desintegración alfa-beta podría resolver un misterio nuclear de décadas",
-     "resumen": "Dos investigadores proponen un modelo en el que las desintegraciones alfa y beta ocurren simultáneamente en una sola transición. Lo probaron contra una carta completa de isótopos conocidos.",
-     "enlace": "https://phys.org/news/2026-11-alpha-beta-decay-decades-nuclear.html",
+     "titulo": "Un microscopio de gas cuántico distingue el color de átomos individuales en una sola toma.",
+     "resumen": "Investigadores del grupo Ultracold Quantum Gases de ICFO construyeron un microscopio capaz de obtener imágenes de átomos individuales de estroncio, un paso clave para la simulación cuántica.",
+     "enlace": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-16T16:40+00:00"
+     "fecha": "2026-11-18T00:00+00:00"
     },
     {
-     "titulo": "Un efecto óptico esquivo se demuestra por primera vez en luz dispersada por una partícula pequeña",
-     "resumen": "Investigadores liderados por Skoltech demostraron experimentalmente el desplazamiento de Hall de espín fotónico para luz dispersada por una partícula ópticamente pequeña. El trabajo fue publicado en Advanced Photonics.",
-     "enlace": "https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html",
+     "titulo": "Un estudio explica cómo los electrones llegan a los defectos cuánticos del diamante.",
+     "resumen": "Los defectos del diamante, como un átomo de nitrógeno junto a una vacancia de carbono, son componentes clave de la tecnología cuántica. El estudio describe cómo los electrones llegan hasta ellos.",
+     "enlace": "https://phys.org/news/2026-11-electrons-diamond-quantum-defects.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-16T19:20+00:00"
+     "fecha": "2026-11-18T15:20+00:00"
     },
     {
-     "titulo": "Un equipo extiende la vida de un qubit corrigiendo errores sin medirlos",
-     "resumen": "Los dispositivos cuánticos son muy sensibles a perturbaciones de su entorno. El equipo logra corregir errores sin medir directamente el qubit, lo que prolonga su tiempo de vida.",
-     "enlace": "https://phys.org/news/2026-11-team-qubit-lifetime-errors.html",
+     "titulo": "La superradiancia en átomos sincronizados abre la puerta a un nuevo tipo de peine de frecuencias.",
+     "resumen": "En 2024, investigadores del laboratorio de Andrei Faraon en Caltech observaron un comportamiento inesperado en un cristal iluminado con láser mientras buscaban otro resultado.",
+     "enlace": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T14:00+00:00"
+     "fecha": "2026-11-19T00:00+00:00"
     }
    ]
   },
@@ -240,42 +226,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Indicios de una rotación misteriosa en la luz más antigua del universo podrían revelar nueva física",
-     "resumen": "Científicos detectaron indicios de una rotación en la luz más antigua del universo, que podría relacionarse con la materia oscura y la energía oscura. Una nueva técnica desarrollada en la UC San Diego ayudaría a descartar errores de telescopio.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-17T12:14+00:00"
-    },
-    {
-     "titulo": "Los flujos de salida de galaxias regularían la formación estelar en el mediodía cósmico, según Webb",
-     "resumen": "Observaciones del telescopio Webb de la NASA sugieren que los flujos de gas que salen de las galaxias masivas regulan la formación de estrellas en la época del mediodía cósmico.",
-     "enlace": "https://phys.org/news/2026-11-galaxy-outflows-star-formation-cosmic.html",
+     "titulo": "Webb confirma la primera fusión de una supergigante con una estrella similar al Sol",
+     "resumen": "Una estrella algo menos masiva que el Sol se fusionó con una supergigante en las afueras de la galaxia vecina Andrómeda. Los investigadores llamaron Bao a la estrella resultante, potencialmente rejuvenecida.",
+     "enlace": "https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T15:20+00:00"
+     "fecha": "2026-11-18T23:20+00:00"
     },
     {
-     "titulo": "Nuevas observaciones cuestionan la evidencia de un agujero negro desproporcionado en el universo temprano",
-     "resumen": "Un nuevo análisis de la galaxia UHZ1, con datos de rayos X existentes y nuevas observaciones infrarrojas, desafía una afirmación previa sobre su agujero negro masivo y oculto por polvo.",
-     "enlace": "https://phys.org/news/2026-11-evidence-outsize-black-hole-early.html",
+     "titulo": "Espectros sugieren un chorro magnético de núcleo hueco en el estallido gamma más brillante registrado",
+     "resumen": "Un equipo China-Italia reconstruyó el espectro del GRB 221009A, el estallido de rayos gamma más brillante observado. Proponen, como interpretación posible, un chorro dominado por campos magnéticos y con núcleo hueco.",
+     "enlace": "https://phys.org/news/2026-11-spectral-clues-hollow-core-magnetic.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-15T14:00+00:00"
+     "fecha": "2026-11-18T21:40+00:00"
     },
     {
-     "titulo": "DESI mide la masa de la Vía Láctea con mayor precisión que nunca",
-     "resumen": "Los astrónomos estiman la masa de la Vía Láctea a partir del movimiento de estrellas y galaxias satélite bajo su atracción gravitatoria. Las nuevas mediciones de DESI son más precisas que las anteriores.",
-     "enlace": "https://phys.org/news/2026-11-desi-milky-precisely.html",
+     "titulo": "El Simons Observatory entra en operación completa y abre nuevos estudios de la Vía Láctea y el cosmos",
+     "resumen": "Tras dos años de calibración, el observatorio incorporó telescopios adicionales y un nuevo arreglo de paneles solares para su energía. Su relevamiento del cielo abarca desde grandes estructuras cósmicas hasta polvo y campos magnéticos de la Vía Láctea.",
+     "enlace": "https://phys.org/news/2026-11-fully-online-simons-observatory-milky.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T12:00+00:00"
+     "fecha": "2026-11-16T15:20+00:00"
     },
     {
-     "titulo": "La sonda Voyager 1 está a punto de alcanzar una distancia de un día luz desde la Tierra",
-     "resumen": "La sonda Voyager 1 se acerca a una distancia de un día luz de la Tierra, un hito inédito para una nave espacial.",
-     "enlace": "https://www.nature.com/articles/d41586-026-03672-1",
-     "fuente": "Nature",
-     "fecha": "2026-11-17T00:00+00:00"
+     "titulo": "JWST detecta hielo sucio alrededor de la estrella joven Beta Pictoris, indicando colisiones frecuentes",
+     "resumen": "Por primera vez se detectó hielo alrededor de esta estrella joven, en datos infrarrojos del telescopio James Webb. Los investigadores lo vinculan a colisiones frecuentes y ofrecen pistas sobre la formación del sistema.",
+     "enlace": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-16T17:30+00:00"
+    },
+    {
+     "titulo": "Una supernova a unos 50 millones de años luz es lo bastante cercana para estudios detallados",
+     "resumen": "Se detectó una nueva supernova en NGC 1433, una galaxia espiral a unos 50 millones de años luz. No es de colapso de núcleo y ofrece una oportunidad para un seguimiento detallado.",
+     "enlace": "https://phys.org/news/2026-11-supernova-million-years-astronomers.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-17T17:40+00:00"
     }
    ]
   },
@@ -286,28 +272,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Nuevo material de captura de carbono aprovecha la humedad y puede reutilizarse repetidamente",
-     "resumen": "Científicos desarrollaron un material que captura CO2 y funciona incluso en condiciones de alta humedad, convirtiendo la humedad en una ventaja. Puede reutilizarse repetidamente para emisiones industriales.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+     "titulo": "Reducir el tamaño de catalizadores de rutenio aumenta hasta 57 veces la tasa de producción de amoníaco",
+     "resumen": "Catalizadores de rutenio más pequeños incrementan la velocidad de producción de amoníaco hasta 57 veces. El amoníaco se estudia como medio para almacenar y transportar hidrógeno y como combustible sin emisiones de gases de efecto invernadero.",
+     "enlace": "https://phys.org/news/2026-11-ruthenium-catalysts-boosts-ammonia-production.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-18T22:20+00:00"
+    },
+    {
+     "titulo": "Científicos desarrollan una batería recargable que usa vitamina B12 para generar y almacenar electricidad",
+     "resumen": "El prototipo soportó hasta 250 ciclos de carga y podría abrir la puerta a baterías más seguras, baratas y respetuosas con el medio ambiente.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-17T11:29+00:00"
+     "fecha": "2026-11-18T12:26+00:00"
     },
     {
-     "titulo": "Moléculas de baterías recicladas impulsan reacciones químicas en la interfaz aceite-agua",
-     "resumen": "Un equipo de químicos e ingenieros de Harvard demostró que transformaciones críticas para medicamentos y químicos finos pueden impulsarse con estas moléculas. Así se evitan el calor intenso, los catalizadores de metales pesados y el hidrógeno gaseoso.",
-     "enlace": "https://phys.org/news/2026-11-repurposed-battery-molecules-key-chemical.html",
+     "titulo": "Medir cómo cambian las tasas de reacción con la temperatura permite estudiar reacciones electrocatalíticas",
+     "resumen": "La electrocatálisis convierte electricidad renovable en combustibles y químicos, y los electrolizadores industriales operan a temperaturas moderadamente elevadas. Esa dependencia térmica es una vía poco explorada.",
+     "enlace": "https://phys.org/news/2026-11-temperature-fingerprints-electrocatalytic-reactions.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T22:00+00:00"
+     "fecha": "2026-11-18T23:40+00:00"
     },
     {
-     "titulo": "Estudio describe la evolución de los enlaces en clústeres de oro(I) centrados en carbono",
-     "resumen": "En estos clústeres, un átomo de carbono está rodeado por varios átomos de oro. Los clústeres de oro pequeños pueden tener propiedades ópticas, electrónicas y catalíticas distintas del oro en bloque.",
-     "enlace": "https://phys.org/news/2026-11-unraveling-bonding-evolution-carbon-centered.html",
+     "titulo": "Un método de purificación de agua usa baterías viejas para crear trampas magnéticas de contaminantes",
+     "resumen": "Los colorantes que no se pueden filtrar se adhieren a trampas magnéticas hechas con baterías usadas, lo que facilita retirarlos del agua.",
+     "enlace": "https://phys.org/news/2026-11-purification-method-batteries-magnetic-pollutant.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T20:10+00:00"
+     "fecha": "2026-11-18T18:40+00:00"
     }
    ]
   },
@@ -319,35 +312,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Un periodo prolongado sin viento ni sol reduce la generación renovable en el noroeste de Europa",
-     "resumen": "En noviembre de 2024, un bloque de aire frío, quieto y nublado se instaló sobre el noroeste de Europa durante casi una semana. Las turbinas casi no giraron, los parques solares produjeron muy poco y aumentó la demanda de electricidad para calefacción.",
-     "enlace": "https://techxplore.com/news/2026-11-dunkelflaute-cloudy-windless-weather-power.html",
+     "titulo": "Generador hidrovoltaico con tallos de loto y biopelícula produce electricidad a partir de agua evaporada",
+     "resumen": "Investigadores chinos desarrollaron un generador que aprovecha los canales verticales de los tallos de loto y una biopelícula bacteriana para generar electricidad y alimentar pequeños dispositivos electrónicos. El estudio se publicó en la revista Device.",
+     "enlace": "https://techxplore.com/news/2026-11-lotus-stems-biofilms-generate-electricity.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T17:40+00:00"
+     "fecha": "2026-11-18T17:00+00:00"
     },
     {
-     "titulo": "Estanques de retención de aguas lluvia en Florida se convierten en parques solares flotantes",
-     "resumen": "Algunos de los decenas de miles de estanques diseñados para recoger escorrentía en Florida ya generan energía solar. Según la fuente, la caída de costos y el aumento de la demanda impulsan esta expansión de la producción sostenible.",
-     "enlace": "https://techxplore.com/news/2026-11-florida-stormwater-ponds-solar-farms.html",
+     "titulo": "Modelo predice la electricidad que pueden generar pequeños dispositivos a partir de vibraciones cotidianas",
+     "resumen": "Desarrollado por la Universidad de Surrey y su spinoff Z-PULSE, el modelo estima cuánta electricidad producen generadores pequeños a partir de vibraciones, lo que podría reducir la dependencia de baterías en dispositivos vestibles.",
+     "enlace": "https://techxplore.com/news/2026-11-vibration-harvesting-devices-powered-everyday.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T10:40+00:00"
+     "fecha": "2026-11-16T19:40+00:00"
     },
     {
-     "titulo": "Los parques eólicos y las nubes se afectan mutuamente, un vínculo poco estudiado hasta ahora",
-     "resumen": "En los Países Bajos y el norte de Europa, los parques eólicos se construyen en el mar, donde son comunes las nubes bajas. Las nubes pueden afectar la generación eléctrica, pero sus impactos exactos no han sido bien estudiados.",
-     "enlace": "https://techxplore.com/news/2026-11-farms-affect-clouds-vice-versa.html",
+     "titulo": "Investigación de Adelaide University mejora la seguridad de los artefactos a hidrógeno al hacer visibles sus llamas",
+     "resumen": "El trabajo ayuda a los ingenieros a hacer más seguros y confiables los artefactos a hidrógeno, como cocinas y hornos, lo que favorece su adopción como fuente de energía más limpia que el gas natural.",
+     "enlace": "https://techxplore.com/news/2026-11-hydrogen-flames-easier-power-cleaner.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T16:00+00:00"
-    },
-    {
-     "titulo": "La producción de hidrógeno por electrólisis de óxido sólido exige materiales duraderos y específicos",
-     "resumen": "La electrólisis de óxido sólido (SOEC) requiere menos electricidad que cualquier otra tecnología para producir hidrógeno a partir de agua, pero exige materiales de alto desempeño. Investigadores del Departamento de Química e Ingeniería Química publicaron una nueva revisión sobre el tema.",
-     "enlace": "https://techxplore.com/news/2026-11-energy-efficient-hydrogen-production-requires.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-17T21:40+00:00"
+     "fecha": "2026-11-18T16:20+00:00"
     }
    ]
   },
@@ -359,35 +345,35 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-18",
+   "actualizada": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Científicos desarrollan un método para verificar si las simulaciones de computadoras cuánticas son confiables",
-     "resumen": "El nuevo método mide la incertidumbre de las simulaciones cuánticas. Fue demostrado en un sistema de 51 qubits, ante computadoras cuánticas que ya superan la capacidad de verificación convencional.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-17T00:20+00:00"
+     "titulo": "La FAA suspende la instalación de routers vinculados a una detención nacional de vuelos",
+     "resumen": "La Administración Federal de Aviación de EE. UU. pausó la instalación de los routers ligados a la detención nacional de vuelos de la semana pasada y apagó los routers Juniper ya instalados.",
+     "enlace": "https://techxplore.com/news/2026-11-faa-halts-routers-ground.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-18T09:30+00:00"
     },
     {
-     "titulo": "Una métrica de popularidad en GitHub podría ayudar a priorizar qué fallas de software reparar primero",
-     "resumen": "Investigadores de la Universidad de Leiden desarrollaron la GitHub Popularity Metric para identificar qué vulnerabilidades merecen atención primero. Los ciberataques crecen rápidamente y hay demasiadas vulnerabilidades para corregirlas todas.",
-     "enlace": "https://techxplore.com/news/2026-11-github-popularity-reveal-software-flaws.html",
+     "titulo": "Una caída de servicios de Microsoft interrumpió la comunicación digital de millones de personas",
+     "resumen": "Un fallo grave en los servicios de Microsoft detuvo la comunicación digital de millones de personas en todo el mundo. El artículo lo describe como un llamado urgente a una mayor resiliencia digital.",
+     "enlace": "https://techxplore.com/news/2026-11-microsoft-outage-urgent-wakeup-greater.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-16T18:20+00:00"
+     "fecha": "2026-11-16T17:00+00:00"
     },
     {
-     "titulo": "Microsoft restableció sus servicios y dio por terminada una caída global masiva",
-     "resumen": "Microsoft informó el sábado que restableció el servicio a sus clientes. La caída causó caos e interrumpió servicios públicos y negocios en todo el mundo.",
-     "enlace": "https://techxplore.com/news/2026-11-microsoft-global-outage.html",
+     "titulo": "Un problema técnico en JPMorgan Chase provocó demoras en la banca en línea de bancos estadounidenses",
+     "resumen": "Miles de clientes reportaron dificultades para acceder a sus cuentas en varios grandes bancos de EE. UU. y en el servicio Zelle el lunes, con efectos en todo el sistema financiero.",
+     "enlace": "https://techxplore.com/news/2026-11-technical-issue-jpmorgan-triggers-online.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-14T18:38+00:00"
+     "fecha": "2026-11-17T10:10+00:00"
     },
     {
-     "titulo": "Estudio estima que los 400 mayores centros de datos de EE. UU. emiten más gases que todo Dinamarca",
-     "resumen": "Según un estudio de la Universidad de Harvard, esos centros emitieron en un año más gases de efecto invernadero que Dinamarca completa. La cifra corresponde a un periodo anterior al auge reciente de la inteligencia artificial.",
-     "enlace": "https://techxplore.com/news/2026-11-magnitude-center-pollution-climate-unveil.html",
+     "titulo": "Los centros de datos podrían consumir bastante más agua de lo que sugieren sus desarrolladores",
+     "resumen": "Un artículo advierte que el consumo de agua de los centros de datos podría superar con creces lo que informan sus desarrolladores. Cita como ejemplo el centro de IA de Bell Canada cerca de Regina, Canadá.",
+     "enlace": "https://techxplore.com/news/2026-11-centers-consume.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-17T02:20+00:00"
+     "fecha": "2026-11-17T15:20+00:00"
     }
    ]
   }
