@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-24",
- "generado": "2026-11-24T08:51-03:00",
+ "dia": "2026-11-25",
+ "generado": "2026-11-25T09:56-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,42 +11,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Un super El Niño en desarrollo intensificará el calor y la sequía en partes de África hacia 2027",
-     "resumen": "Se espera que el fenómeno se fortalezca hacia fines de 2026 y persista hasta comienzos de 2027, aumentando el riesgo de enfermedades y muertes relacionadas con el calor, según el artículo.",
-     "enlace": "https://phys.org/news/2026-11-super-el-nio-africa-crisis.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-23T20:50+00:00"
-    },
-    {
-     "titulo": "Plantas antiguas bajo el casquete Barnes sugieren que una edad de hielo pudo iniciarse y detenerse por el calentamiento",
-     "resumen": "Investigadores estudiaron restos vegetales conservados bajo el casquete Barnes, en el Ártico canadiense, y hallaron indicios de que la próxima edad de hielo pudo haber comenzado antes de ser frenada por el calentamiento global.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-24T09:29+00:00"
-    },
-    {
-     "titulo": "Los ríos atmosféricos que llevan humedad a la Antártida ayudan a explicar el día más caluroso registrado",
-     "resumen": "Durante el invierno del Hemisferio Sur, estos ríos aéreos explican picos de corta duración en la temperatura media mundial, según una nueva investigación.",
-     "enlace": "https://phys.org/news/2026-11-antarctica-earth-hottest-day.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-23T17:40+00:00"
-    },
-    {
-     "titulo": "Observaciones satelitales de EarthCARE muestran cómo la lluvia fragmenta las nubes que regulan el clima",
-     "resumen": "La misión EarthCARE de la ESA aporta nuevos datos sobre el papel de las nubes en la regulación climática y sobre un proceso que disgrega grandes formaciones nubosas brillantes.",
-     "enlace": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-23T21:40+00:00"
-    },
-    {
-     "titulo": "Un estudio analiza la evolución temporal y espacial de las irrupciones de aire frío en Norteamérica",
-     "resumen": "El trabajo describe cómo se desarrollan en el espacio y el tiempo las irrupciones de aire frío en Norteamérica y su relación con la circulación atmosférica asociada.",
-     "enlace": "https://www.nature.com/articles/s41612-026-01594-3",
+     "titulo": "Proyecciones CMIP6 con restricciones observacionales anticipan un Hemisferio Norte sin nieve",
+     "resumen": "Un artículo de Nature analiza proyecciones CMIP6 ajustadas con observaciones sobre un Hemisferio Norte sin nieve.",
+     "enlace": "https://www.nature.com/articles/s41467-026-79797-8",
      "fuente": "Nature",
-     "fecha": "2026-11-23T00:00+00:00"
+     "fecha": "2026-11-25T00:00+00:00"
+    },
+    {
+     "titulo": "El rayo podría ser más del doble de frecuente en un mundo más cálido",
+     "resumen": "En un escenario de altas emisiones, los rayos podrían aumentar entre 76% y 140% hacia fines de siglo respecto al periodo de referencia.",
+     "enlace": "https://phys.org/news/2026-11-lightning-world.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-24T14:00+00:00"
+    },
+    {
+     "titulo": "El Niño impulsó un número récord de tormentas en el Pacífico y calmó la temporada atlántica",
+     "resumen": "La temporada de huracanes 2026, que termina el 30 de noviembre, mostró actividad bajo lo normal en el Atlántico, compensada por un récord de tormentas en el Pacífico.",
+     "enlace": "https://phys.org/news/2026-11-hurricane-season-el-nio-fueled.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-25T02:20+00:00"
+    },
+    {
+     "titulo": "Los eventos de viento cálido y seco aumentan en el principal granero de trigo de China",
+     "resumen": "Un estudio de Nature analiza cómo el cambio climático hace aumentar los eventos de viento cálido y seco en la principal zona triguera de China.",
+     "enlace": "https://www.nature.com/articles/s44264-026-00204-2",
+     "fuente": "Nature",
+     "fecha": "2026-11-24T00:00+00:00"
+    },
+    {
+     "titulo": "California se prepara para inundaciones costeras por mareas altas y El Niño",
+     "resumen": "Mareas excepcionalmente altas y clima asociado a El Niño amenazan con inundaciones extremas en zonas costeras durante la semana de mayor viaje en Estados Unidos.",
+     "enlace": "https://phys.org/news/2026-11-california-braces-threat-huge-tides.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-25T11:40+00:00"
     }
    ]
   },
@@ -75,12 +75,33 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Estudio integra observaciones costeras y oceánicas para analizar el mercurio en el océano superficial global",
-     "resumen": "Investigación que combina observaciones de zonas costeras y de mar abierto para estudiar la variabilidad espacial y temporal del mercurio en el océano superficial a escala global.",
-     "enlace": "https://www.nature.com/articles/s41598-026-77810-0",
+     "titulo": "Declive del Agua Modal Central del Pacífico Norte reduce el máximo subsuperficial de oxígeno",
+     "resumen": "Un estudio vincula la reducción del máximo subsuperficial de oxígeno con el rápido declive del Agua Modal Central del Pacífico Norte.",
+     "enlace": "https://www.nature.com/articles/s41467-026-79475-9",
+     "fuente": "Nature",
+     "fecha": "2026-11-24T00:00+00:00"
+    },
+    {
+     "titulo": "Comparan globalmente la eficiencia de métodos oceánicos de eliminación geoquímica de dióxido de carbono",
+     "resumen": "Un estudio intercompara a escala global la eficiencia de métodos basados en el océano para eliminar dióxido de carbono por vía geoquímica.",
+     "enlace": "https://www.nature.com/articles/s41467-026-78856-4",
+     "fuente": "Nature",
+     "fecha": "2026-11-24T00:00+00:00"
+    },
+    {
+     "titulo": "El intercambio entre el océano y los fiordos de Groenlandia está regulado por agua de deshielo recirculante",
+     "resumen": "Un estudio muestra que el agua de deshielo recirculando en surcos glaciares controla el intercambio entre el océano y los fiordos groenlandeses.",
+     "enlace": "https://www.nature.com/articles/s41561-026-02147-2",
+     "fuente": "Nature",
+     "fecha": "2026-11-25T00:00+00:00"
+    },
+    {
+     "titulo": "La reducción del hielo marino ártico aumenta la exposición al oleaje de una comunidad inuit canadiense",
+     "resumen": "El retroceso del hielo marino en el Ártico amplifica la exposición a olas extremas de la comunidad inuit más septentrional de Canadá.",
+     "enlace": "https://www.nature.com/articles/s43247-026-04146-y",
      "fuente": "Nature",
      "fecha": "2026-11-23T00:00+00:00"
     }
@@ -94,35 +115,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Un estudio de ingeniería redefine la comprensión de los terremotos disparados a distancia",
-     "resumen": "Las ondas sísmicas de grandes terremotos pueden activar sismicidad a miles de kilómetros. Una investigación replantea el mecanismo detrás de este fenómeno.",
-     "enlace": "https://phys.org/news/2026-11-reshapes-remotely-triggered-earthquakes.html",
+     "titulo": "La historia de una falla en Myanmar podría ayudar a anticipar futuros deslizamientos sísmicos",
+     "resumen": "Un estudio sobre el terremoto de Myanmar muestra que algunas características de una falla antes de romperse pueden anticiparse con simulaciones en supercomputadoras.",
+     "enlace": "https://phys.org/news/2026-11-myanmar-earthquake-reveals-fault-history.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T18:00+00:00"
+     "fecha": "2026-11-25T00:20+00:00"
     },
     {
-     "titulo": "Los lagos glaciares peligrosos necesitan una supervisión de seguridad similar a la de los embalses",
-     "resumen": "Miles de lagos glaciares crecen tras presas naturales potencialmente inestables. Pese al riesgo de inundación aguas abajo, no están sujetos a regulación formal de seguridad.",
-     "enlace": "https://phys.org/news/2026-11-hazardous-glacial-lakes-reservoir-style.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-20T20:00+00:00"
+     "titulo": "Lagos glaciares del Himalaya podrían aprovecharse para hidroelectricidad y gestionar riesgos de inundación",
+     "resumen": "El lago Galong Co, en la cuenca del río Poiqu, tiene alto riesgo de desborde con inundaciones. Una nueva investigación explora cómo estos lagos podrían generar energía hidroeléctrica.",
+     "enlace": "https://eos.org/research-spotlights/harnessing-glacial-lakes-for-hydropower",
+     "fuente": "Eos",
+     "fecha": "2026-11-23T14:30+00:00"
     },
     {
-     "titulo": "Un nuevo conjunto de herramientas analíticas mejora el estudio de las arenas minerales",
-     "resumen": "Investigadores de la Universidad Curtin desarrollaron herramientas analíticas para estudiar los depósitos de minerales pesados de Australia, según la nota.",
-     "enlace": "https://phys.org/news/2026-11-toolkit-mineral-sands.html",
+     "titulo": "La fórmula de erosión de suelos usada en todo el mundo entrega cifras poco confiables en el Sur Global",
+     "resumen": "La lluvia y el viento erosionan el suelo fértil, que es arrastrado de los campos sobre todo en laderas sin vegetación. Una fórmula estadounidense de cálculo produce resultados no confiables en el Sur Global.",
+     "enlace": "https://phys.org/news/2026-11-soil-erosion-formula-worldwide-unreliable.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T12:20+00:00"
-    },
-    {
-     "titulo": "Reconstruyen la secuencia de avance y desprendimiento del glaciar Dehdal en el Pamir",
-     "resumen": "Un período de aceleración rápida del glaciar terminó en dos desprendimientos de hielo a gran escala en Tayikistán, según la reconstrucción publicada.",
-     "enlace": "https://phys.org/news/2026-11-reveals-surge-detachment-sequence-dehdal.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-23T18:20+00:00"
+     "fecha": "2026-11-23T16:00+00:00"
     }
    ]
   },
@@ -172,42 +186,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Un metal común esconde una forma inusual de magnetismo que altera el comportamiento de los electrones",
-     "resumen": "Científicos hallaron en un metal de apariencia ordinaria un magnetismo sin magnetización neta que cambia profundamente el comportamiento de los electrones. Abre una vía hacia materiales cuánticos exóticos.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
+     "titulo": "Físicos logran atrapar un positrón a temperaturas cercanas al cero absoluto",
+     "resumen": "El positrón, contraparte de antimateria del electrón, quedó suspendido en una trampa sin paredes, separado de la materia ordinaria. El equipo realizará la comparación más precisa hasta ahora entre materia y antimateria.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-24T11:18+00:00"
+     "fecha": "2026-11-25T10:06+00:00"
     },
     {
-     "titulo": "Un láser de rayos X genera destellos con longitud de onda menor que la distancia entre átomos",
-     "resumen": "Investigadores de DESY y European XFEL produjeron y transportaron de forma confiable destellos de rayos X de unos 0,04 nanómetros, con 30.000 electronvoltios, y establecieron un nuevo récord mundial.",
-     "enlace": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-20T21:00+00:00"
-    },
-    {
-     "titulo": "Un nuevo modelo predice la temperatura crítica de superconductores",
-     "resumen": "El modelo aborda los superconductores de óxido de alta temperatura, que la teoría BCS clásica explica mal. Estos materiales conducen corriente sin resistencia.",
-     "enlace": "https://phys.org/news/2026-11-critical-temperature-superconductors.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-20T14:40+00:00"
-    },
-    {
-     "titulo": "Un voltaje extremo genera un tipo nuevo de efecto Hall sin necesidad de imanes",
-     "resumen": "El efecto Hall produce una corriente perpendicular a un voltaje aplicado. Ahora se observa una variante distinta que aparece con voltajes extremos y no requiere imanes.",
-     "enlace": "https://phys.org/news/2026-11-magnets-extreme-voltage-kind-hall.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-23T19:20+00:00"
-    },
-    {
-     "titulo": "Mediciones precisas del titanato de bario podrían acelerar las comunicaciones ópticas",
-     "resumen": "Investigadores de KAIST y Caltech midieron con precisión cómo el titanato de bario controla y absorbe la luz, resolviendo incertidumbres de décadas sobre este material prometedor para internet más rápido.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+     "titulo": "Físicos del MIT y de UC Santa Bárbara hallan que la teoría de Einstein de 120 años omite algo",
+     "resumen": "Nuevos cálculos muestran que la teoría de Einstein sobre el movimiento de partículas omite un efecto importante cuando estas viajan cerca de la velocidad de la luz. El caso analizado son quarks pesados que se mueven por un plasma ultracaliente.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-21T00:02+00:00"
+     "fecha": "2026-11-25T01:35+00:00"
+    },
+    {
+     "titulo": "Un grupo de simetría pasado por alto ofrece una nueva base geométrica para el Modelo Estándar",
+     "resumen": "Los investigadores proponen un grupo de simetría poco explorado como marco geométrico para el Modelo Estándar y para vacíos protegidos topológicamente. La búsqueda de una teoría unificada había seguido por más de medio siglo la regla de usar grupos cada vez más grandes.",
+     "enlace": "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-23T22:40+00:00"
+    },
+    {
+     "titulo": "Un modelo teórico describe una nueva oscilación atómica con simetría de trébol en altermagnetos",
+     "resumen": "Investigadores de la Universidad Martin Luther de Halle-Wittenberg y de la Universidad de Münster hallaron este tipo de oscilación en altermagnetos. Los resultados se publicaron en Physical Review Letters.",
+     "enlace": "https://phys.org/news/2026-11-theoretical-atomic-oscillation-cloverleaf-symmetry.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-23T16:20+00:00"
+    },
+    {
+     "titulo": "La luz láser revela dónde se acumulan los electrones en apilados de semiconductores atómicamente delgados",
+     "resumen": "Iluminar con láser los materiales semiconductores permite observar cómo se mueven los electrones en apilados de capas atómicamente delgadas. Estos apilados transmiten señales más rápido y con menor energía.",
+     "enlace": "https://phys.org/news/2026-11-laser-reveals-electrons-accumulate-atomically.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-25T00:40+00:00"
     }
    ]
   },
@@ -219,42 +233,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Dos agujeros negros gigantes de los inicios del universo desafían las explicaciones actuales",
-     "resumen": "Astrónomos hallaron el par de cuásares compactos más antiguo conocido, alimentado por agujeros negros de 1.500 y 400 millones de veces la masa del Sol, existentes 900 millones de años después del Big Bang.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
+     "titulo": "El telescopio Euclid de la ESA descubre su primer cometa, un objeto helado previamente desconocido",
+     "resumen": "El telescopio espacial Euclid, diseñado para estudiar galaxias distantes y la materia oscura, detectó un cometa desconocido a unos 1.300 millones de kilómetros de la Tierra, con una órbita inusual.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-23T11:21+00:00"
+     "fecha": "2026-11-25T10:35+00:00"
     },
     {
-     "titulo": "Un nuevo récord de cuásar más distante acota los escenarios de formación de agujeros negros",
-     "resumen": "Un equipo liderado por Julien Wolf, del Instituto Max Planck de Astronomía, descubrió el cuásar más distante conocido hasta la fecha, con datos que restringen los modelos de formación de agujeros negros.",
-     "enlace": "https://phys.org/news/2026-11-quasar-tightens-constraints-black-hole.html",
+     "titulo": "Rocas antiguas de la cara oculta de la Luna indican que los impactos de asteroides disminuyeron gradualmente",
+     "resumen": "Estudios de rocas antiguas de la cara oculta de la Luna sugieren que los impactos de asteroides no fueron un único bombardeo catastrófico, sino que declinaron durante miles de millones de años.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-24T10:24+00:00"
+    },
+    {
+     "titulo": "Astrónomos identifican cómo podría ser un planeta oculto más allá de Neptuno",
+     "resumen": "Si existe, un planeta más allá de Neptuno podría explicar fenómenos misteriosos en las regiones distantes del sistema solar. Los investigadores describen cómo podría verse y comportarse.",
+     "enlace": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-24T08:00+00:00"
+     "fecha": "2026-11-23T14:48+00:00"
     },
     {
-     "titulo": "Una onda de choque galáctica podría redefinir el mapa de la Vía Láctea",
-     "resumen": "Hallazgos sugieren que una estructura masiva en rotación cerca del centro galáctico genera ondas de choque que estimulan la formación estelar en lugar de suprimirla.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-23T11:41+00:00"
+     "titulo": "Webb sugiere que las capas de una estrella pudieron fusionarse horas antes de la supernova Cas A",
+     "resumen": "El telescopio James Webb de la NASA observó el remanente de la supernova Casiopea A, y los datos apuntan a que las capas de la estrella se fusionaron horas antes de la explosión.",
+     "enlace": "https://phys.org/news/2026-11-webb-evidence-star-layers-merged.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-23T22:20+00:00"
     },
     {
-     "titulo": "Un telescopio de rayos X rumbo a Mercurio capta sus primeras observaciones y supera expectativas",
-     "resumen": "Tras ocho años y 10.000 millones de kilómetros en el espacio, el instrumento captó sus primeras observaciones y podría revelar pronto la composición química oculta de Mercurio.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-21T02:11+00:00"
-    },
-    {
-     "titulo": "La Voyager 1 está tan lejos que su señal tarda 24 horas en llegar a la Tierra",
-     "resumen": "La sonda Voyager 1 de la NASA recorrió 16.100 millones de millas desde la Tierra, convirtiéndose en la primera nave cuya señal tarda un día completo en llegar. Lleva casi 50 años en viaje.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-20T12:55+00:00"
+     "titulo": "Un mapa de todo el cielo con 14 años de datos de Fermi reduce la llamada brecha MeV en astronomía",
+     "resumen": "Un nuevo artículo usa 14 años de observaciones del telescopio Fermi para mapear el cielo completo en rayos gamma, en el rango de megaelectronvoltios donde medir era especialmente difícil.",
+     "enlace": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-21T13:00+00:00"
     }
    ]
   },
@@ -265,42 +279,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Nuevo material metal-orgánico combina conductividad metálica con potencial para electrónica sensible a la luz",
-     "resumen": "Investigadores describen un material metal-orgánico que conduce cargas eléctricas sin pérdida de energía y que es prometedor para electrónica de detección de luz.",
-     "enlace": "https://phys.org/news/2026-11-metal-material-combines-metallic-electronics.html",
+     "titulo": "Un nuevo catalizador usa luz visible para convertir dióxido de carbono en materia prima industrial",
+     "resumen": "Investigadores de la Universidad Rice demostraron que es posible dividir el dióxido de carbono con luz visible, sin calentamiento externo. Así se supera un obstáculo energético clave en la fabricación química sustentable.",
+     "enlace": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-19T17:40+00:00"
+     "fecha": "2026-11-24T20:20+00:00"
     },
     {
-     "titulo": "Chips más pequeños que un grano de arroz registran el calor durante reacciones químicas",
-     "resumen": "Un chip del tamaño de una mancha, ubicado en el fondo de un tubo de ensayo, entrega datos de cada segundo de una reacción química mientras esta ocurre.",
-     "enlace": "https://phys.org/news/2026-11-chips-smaller-rice-grains-wirelessly.html",
+     "titulo": "Logran la primera síntesis total de la neotuberostemonina, alcaloide vegetal con potencial antitusivo",
+     "resumen": "Su síntesis fue un desafío para la química durante casi 30 años. Los investigadores también sintetizaron la neostenina y el probable compuesto asociado.",
+     "enlace": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-19T19:00+00:00"
+     "fecha": "2026-11-25T01:20+00:00"
     },
     {
-     "titulo": "Las llamas de hidrógeno pasan de naranja a casi invisibles según pequeñas cantidades de sodio en el aire",
-     "resumen": "Trazas de sodio en el aire cambian el color de las llamas de hidrógeno. Los científicos sostienen que este hallazgo podría hacer más seguras las futuras estufas y hornos a hidrógeno.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-19T10:10+00:00"
-    },
-    {
-     "titulo": "Un millón de cristales diminutos revelan cómo los semiconductores forman núcleos y capas distintas",
-     "resumen": "Las perovskitas y materiales relacionados, prometedores para celdas solares, LED y detectores de luz, absorben y emiten luz según sus ingredientes y su estructura cristalina.",
-     "enlace": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+     "titulo": "Científicos explican por qué agregados de seis moléculas de glicina son excepcionalmente estables",
+     "resumen": "Investigadores de la Universidad Bar-Ilan hallaron la causa de la estabilidad excepcional de los agregados de seis moléculas de glicina, el aminoácido más simple.",
+     "enlace": "https://phys.org/news/2026-11-magic-scientists-secret-unusually-stable.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-20T20:00+00:00"
-    },
-    {
-     "titulo": "La química de la piel explica por qué un mismo perfume huele distinto en cada persona",
-     "resumen": "Un perfume puede oler diferente sobre la piel que sobre una tira de papel, fenómeno que se atribuye a la química de la piel de cada persona.",
-     "enlace": "https://phys.org/news/2026-11-perfume-people-skin-chemistry.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-18T13:50+00:00"
+     "fecha": "2026-11-24T22:00+00:00"
     }
    ]
   },
@@ -312,21 +312,21 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Los lagos glaciares podrían aprovecharse para generar hidroelectricidad en zonas de montaña",
-     "resumen": "El retroceso de los glaciares expande los lagos glaciares y aumenta el riesgo de inundaciones repentinas en comunidades río abajo. Su agua excedente podría generar energía hidroeléctrica.",
-     "enlace": "https://techxplore.com/news/2026-11-harnessing-glacial-lakes-hydropower.html",
+     "titulo": "El excedente de electricidad renovable podría alimentar nuevos procesos industriales",
+     "resumen": "Un nuevo estudio en Estados Unidos explora cómo la electricidad sobrante de plantas solares y eólicas podría aprovecharse en tecnologías o procesos productivos, reduciendo costos.",
+     "enlace": "https://techxplore.com/news/2026-11-excess-renewable-energy-power-industrial.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T21:00+00:00"
+     "fecha": "2026-11-24T17:40+00:00"
     },
     {
-     "titulo": "Un nuevo modelo teórico explica por qué la energía azul rinde menos de lo esperado en la práctica",
-     "resumen": "La diferencia de salinidad entre ríos y mar representa una fuente teórica de energía limpia y continua. Los dispositivos construidos para captarla han tenido un rendimiento inferior al previsto.",
-     "enlace": "https://techxplore.com/news/2026-11-blue-energy-falls-short-theoretical.html",
+     "titulo": "Una guerra comercial por tecnologías verdes no tendría ganadores, según un estudio",
+     "resumen": "Según un estudio en Energy Research & Social Science, una guerra comercial en tecnologías ambientales elevaría significativamente los costos globales de combatir el cambio climático.",
+     "enlace": "https://techxplore.com/news/2026-11-war-green-tech-winners.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T18:40+00:00"
+     "fecha": "2026-11-24T14:53+00:00"
     }
    ]
   },
@@ -338,28 +338,28 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Computadora cuántica de IBM resuelve en 15 minutos un cálculo fuera del alcance de los métodos clásicos",
-     "resumen": "Investigadores de IBM y la Universidad de Chicago demostraron que una computadora cuántica completa un cálculo muy complejo en 15 minutos. Un nuevo método de detección de errores también forma parte del estudio.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-24T04:46+00:00"
-    },
-    {
-     "titulo": "Nanoimanes convierten las fluctuaciones térmicas en un método de cómputo sin calibración",
-     "resumen": "Investigadores desarrollaron un método de cómputo estocástico de ley de potencias basado en uniones de túnel magnéticas SOT-MTJ. Usa las fluctuaciones térmicas de dispositivos magnéticos a nanoescala para generar secuencias de bits aleatorias.",
-     "enlace": "https://techxplore.com/news/2026-11-nanomagnets-thermal-fluctuations-calibration-free.html",
+     "titulo": "La UE planea convertirse en potencia global de computación cuántica tras rezagarse en IA",
+     "resumen": "La Unión Europea presentará planes para liderar la computación cuántica, luego de quedar atrás de Estados Unidos y China en inteligencia artificial.",
+     "enlace": "https://techxplore.com/news/2026-11-ai-eu-quantum-big.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T15:40+00:00"
+     "fecha": "2026-11-25T11:40+00:00"
     },
     {
-     "titulo": "Una inteligencia artificial podría haber resuelto el problema matemático más famoso",
-     "resumen": "Según el titular, un sistema de inteligencia artificial podría haber resuelto el problema matemático más conocido. El extracto disponible no entrega más detalles sobre el resultado ni sobre su verificación.",
-     "enlace": "https://robotitus.com/una-inteligencia-artificial-podria-haber-resuelto-el-problema-mas-famoso-de-las-matematicas/",
+     "titulo": "Una herramienta de IA detecta señales ocultas de cáncer de vejiga hasta cinco años antes del diagnóstico",
+     "resumen": "La herramienta identificó el 85% de los casos en un estudio con cerca de 70.000 pacientes, revelando patrones sutiles que el cribado convencional no detecta.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+     "fuente": "ScienceDaily",
+     "fecha": "2026-11-22T03:43+00:00"
+    },
+    {
+     "titulo": "Una IA descubre una señal oculta del corazón que podría predecir la muerte súbita",
+     "resumen": "Un sistema de inteligencia artificial identificó una señal cardíaca oculta que podría anticipar la muerte súbita.",
+     "enlace": "https://robotitus.com/una-inteligencia-artificial-descubre-una-senal-oculta-del-corazon-que-podria-predecir-la-muerte-subita/",
      "fuente": "Robotitus",
-     "fecha": "2026-11-23T17:17+00:00"
+     "fecha": "2026-11-23T21:17+00:00"
     }
    ]
   }
