@@ -1,6 +1,6 @@
 {
- "dia": "2026-11-26",
- "generado": "2026-11-26T08:52-03:00",
+ "dia": "2026-11-27",
+ "generado": "2026-11-27T11:34-03:00",
  "areas": [
   {
    "clave": "climatologia",
@@ -11,35 +11,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Sin organismos marinos, el CO₂ atmosférico alcanzaría niveles entre 35% y 65% mayores hacia 2100",
-     "resumen": "Un nuevo informe de política concluye que, sin el transporte de carbono hacia el océano profundo por organismos marinos, la acumulación de CO₂ en la atmósfera sería mucho mayor en 2100.",
-     "enlace": "https://phys.org/news/2026-11-marine-life-atmospheric-century.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-25T19:30+00:00"
+     "titulo": "Un foco de sequía a fines de verano se extiende por el sur y este de Europa bajo el calentamiento global",
+     "resumen": "Un estudio de Nature identifica un foco de sequía a fines de verano en el sur y este de Europa bajo escenarios de calentamiento global.",
+     "enlace": "https://www.nature.com/articles/s44304-026-00294-5",
+     "fuente": "Nature",
+     "fecha": "2026-11-27T00:00+00:00"
     },
     {
-     "titulo": "El drenaje de turberas deja un legado de calentamiento que se prolonga en el tiempo",
-     "resumen": "Las turberas absorben CO₂ y emiten metano, y tienen un efecto neto de enfriamiento; su drenaje deja un legado de calentamiento prolongado, según un estudio reportado por Phys.org.",
-     "enlace": "https://phys.org/news/2026-11-peatlands-legacy.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-25T22:00+00:00"
+     "titulo": "Atribución de las condiciones de incendios durante el verano mediterráneo de 2025",
+     "resumen": "Nature publica un análisis de atribución de las condiciones meteorológicas de incendios durante el verano mediterráneo de 2025.",
+     "enlace": "https://www.nature.com/articles/s43247-026-04238-9",
+     "fuente": "Nature",
+     "fecha": "2026-11-27T00:00+00:00"
     },
     {
-     "titulo": "Las tormentas de verano en Nueva Inglaterra son más cortas e intensas, según un estudio",
-     "resumen": "Una parte creciente de la lluvia estival cae en chubascos y tormentas intensas ligados al calor, lo que aumenta el riesgo de inundaciones repentinas en la región, según Brown University.",
-     "enlace": "https://phys.org/news/2026-11-england-summer-thunderstorms-shorter-heavier.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-25T19:00+00:00"
+     "titulo": "Fenómenos atmosféricos que coinciden con frecuencia amplifican los extremos de precipitación",
+     "resumen": "Nature reporta que la ocurrencia conjunta frecuente de fenómenos atmosféricos amplifica los extremos de precipitación.",
+     "enlace": "https://www.nature.com/articles/s41558-026-02806-7",
+     "fuente": "Nature",
+     "fecha": "2026-11-27T00:00+00:00"
     },
     {
-     "titulo": "El hielo cercano a la superficie de la Antártida podría guardar registros climáticos de millones de años",
-     "resumen": "Investigadores de la Vrije Universiteit Brussel exploran el potencial de estos archivos antiguos, en coincidencia con dos expediciones de campo antárticas.",
-     "enlace": "https://phys.org/news/2026-11-ice-antarctica-surface-climate-clues.html",
+     "titulo": "Empresas obtienen datos menos precisos sobre clima extremo justo cuando más los necesitan",
+     "resumen": "Phys.org advierte que los datos sobre clima extremo que reciben las empresas son menos precisos en el momento de mayor necesidad. El texto cita El Niño intenso, con inundaciones en Florida y daños en la costa de California.",
+     "enlace": "https://phys.org/news/2026-11-companies-accurate-extreme-weather.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-24T16:40+00:00"
+     "fecha": "2026-11-25T16:00+00:00"
+    },
+    {
+     "titulo": "El procesamiento químico del dióxido de azufre aumenta la sensibilidad de las nubes a los aerosoles",
+     "resumen": "Nature describe que el procesamiento químico del dióxido de azufre incrementa la sensibilidad de las nubes a los aerosoles.",
+     "enlace": "https://www.nature.com/articles/s41561-026-02140-9",
+     "fuente": "Nature",
+     "fecha": "2026-11-27T00:00+00:00"
     }
    ]
   },
@@ -68,28 +75,21 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Depresiones de la plataforma continental definen posibles rutas de aguas cálidas en la Antártida Oriental",
-     "resumen": "Un estudio de Nature identifica depresiones estructurales de la plataforma continental de la bahía Lützow-Holm como posibles vías de ingreso de aguas cálidas en la Antártida Oriental.",
-     "enlace": "https://www.nature.com/articles/s41598-026-78303-w",
-     "fuente": "Nature",
-     "fecha": "2026-11-26T00:00+00:00"
-    },
-    {
-     "titulo": "Las olas de calor marinas crecientes provocan pérdida de especies y rasgos funcionales en arrecifes de coral",
-     "resumen": "Un estudio de Nature documenta que las olas de calor marinas en aumento reducen la diversidad taxonómica y funcional de los arrecifes de coral más cálidos del mundo.",
-     "enlace": "https://www.nature.com/articles/s41598-026-81704-6",
-     "fuente": "Nature",
-     "fecha": "2026-11-26T00:00+00:00"
-    },
-    {
-     "titulo": "Hallan lagos salinos en el fondo del mar Rojo, a más de 1,6 kilómetros de profundidad",
-     "resumen": "Científicos descubrieron lagos de salmuera extremadamente salados y sin oxígeno bajo el mar Rojo, que podrían revelar datos sobre los océanos antiguos de la Tierra.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+     "titulo": "Estudio genético detecta señales de una crisis de extinción oculta en el mar profundo",
+     "resumen": "Científicos analizaron más de una década de datos genéticos de cinco especies de peces y camarones de aguas profundas. Los resultados sugieren una crisis de biodiversidad oculta.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-26T02:42+00:00"
+     "fecha": "2026-11-27T01:55+00:00"
+    },
+    {
+     "titulo": "Combinar ADN y morfología mejora la caracterización de la biodiversidad en Flemish Cap",
+     "resumen": "El estudio integra enfoques basados en ADN y morfológicos para caracterizar la biodiversidad de ecosistemas marinos vulnerables en Flemish Cap.",
+     "enlace": "https://www.nature.com/articles/s41598-026-80699-4",
+     "fuente": "Nature",
+     "fecha": "2026-11-25T00:00+00:00"
     }
    ]
   },
@@ -101,21 +101,14 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Un nuevo mapeo busca explicar el destino de las placas que se hunden y la formación de nueva corteza oceánica",
-     "resumen": "Investigadores estudian el camino oculto desde la destrucción de placas en las zonas de subducción hasta la formación de nueva corteza oceánica, a partir del magma que asciende desde el manto profundo.",
-     "enlace": "https://phys.org/news/2026-11-uncharted-plate-tectonic-hidden-path.html",
+     "titulo": "Una erupción volcánica a través de un lago salado podría explicar el origen de yacimientos de hierro y tierras raras",
+     "resumen": "Un estudio experimental de la Universidad Nacional Australiana (ANU) analiza qué ocurre cuando un volcán entra en erupción a través de un lago salado. Sus resultados reinterpretan la formación de algunos depósitos de mineral de hierro y tierras raras.",
+     "enlace": "https://phys.org/news/2026-11-odds-volcano-erupting-salt-lake.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T19:00+00:00"
-    },
-    {
-     "titulo": "El deterioro de glaciares rocosos pone en riesgo el agua de aldeas del Himalaya occidental",
-     "resumen": "El glaciar rocoso Komic alberga la aldea motorizable más alta del mundo, entre 4.370 y 4.900 metros sobre el nivel del mar, en el Himalaya occidental.",
-     "enlace": "https://eos.org/articles/degrading-rock-glaciers-place-himalayan-villages-water-at-risk",
-     "fuente": "Eos",
-     "fecha": "2026-11-25T13:25+00:00"
+     "fecha": "2026-11-27T12:20+00:00"
     }
    ]
   },
@@ -146,14 +139,14 @@
     "Nature",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-24",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Rocas volcánicas de Hawái sugieren que parte del carbono terrestre proviene de meteoritos antiguos",
-     "resumen": "Una firma inusual de carbono en rocas volcánicas de Hawái indica que parte del carbono de la Tierra tendría origen en meteoritos antiguos y habría escapado desde el núcleo profundo.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
-     "fuente": "ScienceDaily",
-     "fecha": "2026-11-23T05:53+00:00"
+     "titulo": "Satélites detectan una emisión de metano en el volcán Fentale, impulsada por interacciones entre magma y sedimentos",
+     "resumen": "Un estudio publicado en Nature describe una emisión de metano en el volcán Fentale, detectada por satélite, y la atribuye a interacciones entre el magma y los sedimentos.",
+     "enlace": "https://www.nature.com/articles/s41561-026-02137-4",
+     "fuente": "Nature",
+     "fecha": "2026-11-19T00:00+00:00"
     }
    ]
   },
@@ -165,42 +158,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Astrónomos podrían haber detectado un agujero negro primordial formado antes que las primeras estrellas",
-     "resumen": "El objeto llamado Phoebe amplificó brevemente la luz de una estrella lejana. Su masa estimada es tres veces la de la Luna y podría ser una reliquia cósmica de unos 13 mil millones de años.",
-     "enlace": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+     "titulo": "Un chip de Harvard genera 120 veces más luz ultravioleta que enfoques comparables previos",
+     "resumen": "Un dispositivo microscópico convierte luz roja en ultravioleta con mucha más eficiencia. Podría permitir computadores cuánticos más pequeños y relojes atómicos de alta precisión.",
+     "enlace": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
      "fuente": "ScienceDaily",
-     "fecha": "2026-11-26T02:00+00:00"
+     "fecha": "2026-11-27T03:22+00:00"
     },
     {
-     "titulo": "Una medición de la dispersión coherente neutrino-núcleo más precisa a la fecha restringe nuevas fuerzas",
-     "resumen": "Los neutrinos, partículas de masa mínima y sin carga eléctrica, casi no interactúan con la materia. Este estudio midió con mayor precisión su dispersión contra núcleos atómicos y ajusta los límites a nuevas fuerzas.",
-     "enlace": "https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
+     "titulo": "Mediciones locales revelan propiedades cuánticas globales con un número constante de experimentos",
+     "resumen": "Reconstruir el estado completo de un dispositivo cuántico se vuelve impracticable al crecer el sistema. El enfoque propuesto usa mediciones locales para obtener propiedades globales.",
+     "enlace": "https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T13:20+00:00"
+     "fecha": "2026-11-24T00:00+00:00"
     },
     {
-     "titulo": "Una nueva red cuántica entrelaza 123 qubits que almacenan información en las posiciones de átomos",
-     "resumen": "El estudio, publicado en Physical Review Letters, describe una plataforma para manipular redes atómicas entrelazadas. Permite almacenar información en la posición de los átomos.",
-     "enlace": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+     "titulo": "Un modelo teórico mantiene el entrelazamiento entre qubits de diamante a mayores separaciones",
+     "resumen": "Físicos de la Universidad de Delaware proponen alejar los qubits del equilibrio mediante microondas para sostener el entrelazamiento. El estudio fue aceptado en Physical Review B.",
+     "enlace": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T18:00+00:00"
+     "fecha": "2026-11-24T17:30+00:00"
     },
     {
-     "titulo": "Átomos ultrafríos muestran por primera vez el movimiento directo de pares ligados en un sistema fractón",
-     "resumen": "Átomos ultrafríos en una red óptica permitieron observar directamente el movimiento de pares ligados en un sistema fractón, bajo un fuerte gradiente de potencial.",
-     "enlace": "https://phys.org/news/2026-11-ultracold-atoms-reveal-view-bound.html",
+     "titulo": "Una red óptica no lineal aumenta la coherencia espacial al concentrar la luz en un solo modo",
+     "resumen": "La coherencia de la luz describe la consistencia de la relación entre sus fases en el espacio o el tiempo. Métodos confiables para mejorarla podrían facilitar láseres de alta calidad.",
+     "enlace": "https://phys.org/news/2026-11-nonlinear-optical-lattice-boosts-spatial.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-24T11:20+00:00"
+     "fecha": "2026-11-27T12:40+00:00"
     },
     {
-     "titulo": "Un óxido de cobre y aluminio podría reducir 120 veces el grosor de componentes para gafas inteligentes",
-     "resumen": "Investigadores del KAIST identificaron un material que permitiría componentes de control de polarización para gafas de realidad aumentada mucho más delgados y livianos.",
-     "enlace": "https://phys.org/news/2026-11-copper-aluminum-oxide-components-smart.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-24T19:40+00:00"
+     "titulo": "Un estudio vincula el transporte de carga en Cs2TeCl6 con una conducción polarónica",
+     "resumen": "El trabajo unifica el transporte de carga y la dinámica de excitones en Cs2TeCl6. Aporta evidencia de conducción polarónica gobernada por el acoplamiento electrón-fonón.",
+     "enlace": "https://www.nature.com/articles/s41598-026-80630-x",
+     "fuente": "Nature",
+     "fecha": "2026-11-27T00:00+00:00"
     }
    ]
   },
@@ -212,35 +205,42 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Telescopio del Polo Sur publica el mapa más nítido de la materia en el universo distante",
-     "resumen": "Un grupo de 30 instituciones presentó el mapa más detallado hasta ahora de la masa del universo lejano, basado en la radiación de fondo de microondas, luz que viaja desde hace unos 13.800 millones de años.",
-     "enlace": "https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html",
+     "titulo": "Astrónomos descubren el quásar más distante conocido, formado a solo 630 millones de años del Big Bang",
+     "resumen": "El quásar es el núcleo de una galaxia con un agujero negro de crecimiento lento en su centro, datado cerca del amanecer del universo. Supera el récord anterior.",
+     "enlace": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T15:00+00:00"
+     "fecha": "2026-11-26T14:00+00:00"
     },
     {
-     "titulo": "Webb descubre el pequeño punto rojo más lejano de los primeros 500 millones de años del universo",
-     "resumen": "Un equipo internacional halló el punto rojo pequeño más lejano conocido, un tenue agujero negro supermasivo de la época temprana del universo, según un estudio publicado en The Astrophysical Journal Letters.",
-     "enlace": "https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html",
+     "titulo": "Una galaxia enana con un núcleo denso de materia oscura desafía el modelo cosmológico estándar",
+     "resumen": "Observaciones combinadas del instrumento MUSE y del radiotelescopio MeerKAT sobre UGCA 320, una galaxia enana cercana, sugieren que podría contradecir algunas predicciones del modelo cosmológico aceptado.",
+     "enlace": "https://phys.org/news/2026-11-small-galaxy-giant-dark-core.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T14:40+00:00"
+     "fecha": "2026-11-27T13:40+00:00"
     },
     {
-     "titulo": "ALMA mide la masa de un agujero negro del universo temprano y el alcance de su gravedad",
-     "resumen": "Con ALMA se midió la masa del agujero negro supermasivo W2246-0526, cuya luz se ha estirado por la expansión del universo hasta unas 5,6 veces su longitud de onda original.",
-     "enlace": "https://phys.org/news/2026-11-alma-gravitational-black-hole-early.html",
+     "titulo": "El primer destello de una estrella masiva al morir puede revelar el entorno oculto que la rodea",
+     "resumen": "Antes de la supernova, la estrella emite un destello breve de luz invisible que dura solo horas. Ese instante permite estudiar el material que la rodea.",
+     "enlace": "https://phys.org/news/2026-11-dying-star-reveal-hidden.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T15:40+00:00"
+     "fecha": "2026-11-27T14:20+00:00"
     },
     {
-     "titulo": "Una estrella cercana registra una erupción récord que esparce elementos clave por el espacio",
-     "resumen": "Astrónomos liderados por Wouter Vlemmings y Miora Andriantsaralaza, de Chalmers, obtuvieron imágenes de esta estrella con gran detalle usando el telescopio ALMA, ubicado en Chile.",
-     "enlace": "https://phys.org/news/2026-11-star-eruption-key-elements-space.html",
+     "titulo": "Detectan óxido de titanio alrededor de una estrella joven y masiva por primera vez",
+     "resumen": "El hallazgo identifica la primera región fuera del sistema solar donde se determinó la composición de materiales sólidos sin recolectar muestras, a partir de roca vaporizada.",
+     "enlace": "https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-23T20:20+00:00"
+     "fecha": "2026-11-24T20:40+00:00"
+    },
+    {
+     "titulo": "Un púlsar escapa de los restos de la supernova en la que se formó",
+     "resumen": "Un equipo de astrónomos, liderado por Rohit Dokara, detectó por casualidad un caso raro de púlsar que salió de la nube de escombros de su propia explosión estelar.",
+     "enlace": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-26T18:50+00:00"
     }
    ]
   },
@@ -251,28 +251,35 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "El fosfato multiplica por diez la conversión de nitrato en amoníaco con catalizadores de cobre",
-     "resumen": "Un estudio muestra que el fosfato aumenta diez veces la conversión electroquímica de nitrato a amoníaco en catalizadores de cobre. El nitrato es un contaminante de aguas y el amoníaco tiene usos agrícolas e industriales.",
-     "enlace": "https://phys.org/news/2026-11-phosphate-boosts-nitrate-conversion-tenfold.html",
+     "titulo": "Investigadores identifican por qué las jaulas moleculares catalizadoras difieren mucho en rendimiento",
+     "resumen": "Químicos desarrollaron un método para identificar catalizadores artificiales tipo enzima basados en jaulas moleculares huecas que imitan el comportamiento de las enzimas naturales.",
+     "enlace": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T17:00+00:00"
+     "fecha": "2026-11-26T23:20+00:00"
     },
     {
-     "titulo": "Una molécula con forma de cubo de Rubik permite semiconductores flexibles y resistentes a la rotura",
-     "resumen": "Los plásticos conductores actuales contienen cristales rígidos que se agrietan al doblarse. Una molécula con estructura de cubo de Rubik da más elasticidad a los semiconductores de próxima generación.",
-     "enlace": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html",
+     "titulo": "Nuevo sistema detecta hidrógeno en trazas con mayor sensibilidad al reducir la interferencia de fondo",
+     "resumen": "Un equipo liderado por el profesor Fang Yonghua, del Instituto de Ciencias Físicas de Hefei (Academia China de Ciencias), mejoró la sensibilidad para detectar hidrógeno en trazas.",
+     "enlace": "https://phys.org/news/2026-11-enables-highly-sensitive-hydrogen.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T17:40+00:00"
+     "fecha": "2026-11-24T18:00+00:00"
     },
     {
-     "titulo": "La fotosíntesis artificial usa CO₂ residual para cultivar un hongo rico en proteínas en siete días",
-     "resumen": "Un sistema de fotosíntesis artificial aprovecha CO₂ de desecho para cultivar en siete días un hongo comestible rico en proteínas. Busca reducir la demanda de tierra y agua de la producción proteica.",
-     "enlace": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+     "titulo": "Quitar el ruido de fondo permite enfocar mejor las propiedades celulares medidas por dispersión Raman",
+     "resumen": "La dispersión Raman, por la que C. V. Raman recibió el Nobel de Física de 1930, entrega huellas moleculares de los materiales; el estudio aborda cómo quitar el ruido de fondo en estas mediciones.",
+     "enlace": "https://phys.org/news/2026-11-background-noise-cellular-properties-focus.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T22:20+00:00"
+     "fecha": "2026-11-25T15:40+00:00"
+    },
+    {
+     "titulo": "Líquidos circundantes controlarían la formación de una capa de agua sobre hielo sumergido",
+     "resumen": "Estudiar hielo sumergido en un líquido es más difícil que en vacío o vapor, porque los cambios de temperatura hacen que el hielo se disuelva o crezca, generando interfaces fluctuantes.",
+     "enlace": "https://phys.org/news/2026-11-liquids-layer-formation-submerged-ice.html",
+     "fuente": "Phys.org",
+     "fecha": "2026-11-25T13:30+00:00"
     }
    ]
   },
@@ -284,35 +291,28 @@
     "Phys.org",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Un algoritmo inspirado en la caza de lobos ayuda a estabilizar redes con energía eólica y solar",
-     "resumen": "Investigadores desarrollaron un método para gestionar el suministro eléctrico que podría mantener estables las redes cada vez más dependientes de la energía eólica y solar. Se basa en el comportamiento de caza de una manada de lobos.",
-     "enlace": "https://techxplore.com/news/2026-11-wolf-approach-solar-power.html",
+     "titulo": "El auge de la energía eólica podría dejar a países en desarrollo dependientes de tecnología extranjera",
+     "resumen": "Una investigación con participación de la Universidad de Manchester advierte que la transición global a energías renovables podría crear una nueva brecha entre países que controlan la tecnología verde y países que solo fabrican sus componentes.",
+     "enlace": "https://techxplore.com/news/2026-11-power-boom-countries-foreign-technology.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T17:50+00:00"
+     "fecha": "2026-11-27T12:20+00:00"
     },
     {
-     "titulo": "Enlaces a nanoescala mejoran la estabilidad de celdas solares de perovskita sin perder eficiencia",
-     "resumen": "Un equipo del HKUST desarrolló una técnica de ingeniería de interfaces que forma redes de nano-enlaces entre capas. Así aborda la degradación de las celdas causada por fallas mecánicas en sus interfaces.",
-     "enlace": "https://techxplore.com/news/2026-11-nano-links-perovskite-solar-cell.html",
+     "titulo": "Una batería de zinc con agua de lago salada sigue funcionando a −50 °C",
+     "resumen": "Investigadores desarrollaron una batería recargable de zinc que opera a −50 °C usando agua salada como electrolito, pese a que el frío puede congelar los líquidos y frenar el movimiento de los iones.",
+     "enlace": "https://techxplore.com/news/2026-11-salty-lake-zinc-battery-50c.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T15:40+00:00"
+     "fecha": "2026-11-27T14:30+00:00"
     },
     {
-     "titulo": "Escudos térmicos ideales podrían aumentar la producción anual de energía de los paneles solares",
-     "resumen": "Los paneles solares convierten en electricidad solo parte de la luz absorbida; el resto se transforma en calor. Un escudo térmico ideal reflejaría la luz que el panel no puede aprovechar, reduciendo ese calor.",
-     "enlace": "https://techxplore.com/news/2026-11-ideal-shields-boost-solar-panels.html",
+     "titulo": "Un catalizador de boruro de tungsteno podría facilitar el transporte de hidrógeno limpio",
+     "resumen": "Investigadores de Skoltech identificaron boruros de tungsteno como catalizadores prometedores para descomponer amoníaco en hidrógeno y nitrógeno, reacción clave para un mercado global flexible de hidrógeno limpio.",
+     "enlace": "https://techxplore.com/news/2026-11-catalyst-key-hampering-hydrogen-fuel.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T21:00+00:00"
-    },
-    {
-     "titulo": "Material de residuos siderúrgicos y conchas marinas limpia agua y produce hidrógeno con luz solar",
-     "resumen": "Investigadores de universidades federales de Brasil desarrollaron un nanomaterial sostenible a partir de residuos de la industria siderúrgica y conchas marinas. Activado por luz solar, puede realizar ambas tareas simultáneamente.",
-     "enlace": "https://techxplore.com/news/2026-11-steel-industry-seashells-yield-material.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-25T22:20+00:00"
+     "fecha": "2026-11-26T22:20+00:00"
     }
    ]
   },
@@ -324,35 +324,21 @@
     "Robotitus",
     "ScienceDaily"
    ],
-   "actualizada": "2026-11-26",
+   "actualizada": "2026-11-27",
    "noticias": [
     {
-     "titulo": "La UE destinará hasta 50.000 millones de euros a inteligencia artificial y computación cuántica",
-     "resumen": "La Unión Europea anunció planes para invertir hasta 50.000 millones de euros (55.000 millones de dólares) en inteligencia artificial y computación cuántica, para no perder terreno frente a Estados Unidos y China.",
-     "enlace": "https://techxplore.com/news/2026-11-eu-billion-euro-investment-ai.html",
+     "titulo": "Un sistema de comercio de electricidad basado en blockchain reduciría los costos energéticos hasta un 56% en una microrred simulada",
+     "resumen": "Según una investigación publicada en el International Journal of Industrial and Systems Engineering, el sistema permite comprar y vender electricidad directamente entre hogares y empresas. También aumentaría los ingresos de los pequeños productores en casi un 150%.",
+     "enlace": "https://techxplore.com/news/2026-11-blockchain-power-energy-simulated-microgrid.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T16:40+00:00"
+     "fecha": "2026-11-27T12:10+00:00"
     },
     {
-     "titulo": "Un sistema agéntico adapta controles físicos a cada usuario para recuperar el control tangible perdido",
-     "resumen": "Investigadores presentaron un sistema agéntico que personaliza controles físicos como perillas y deslizadores, en un contexto de reemplazo de botones físicos por controles digitales desde 2017.",
-     "enlace": "https://techxplore.com/news/2026-11-agentic-personalizes-physical-users-dj.html",
+     "titulo": "La tecnología de videojuegos ayuda a científicos y cineastas, según un análisis sobre Grand Theft Auto 6",
+     "resumen": "El artículo señala que Grand Theft Auto 6, lanzado el 19 de noviembre, tiene entornos detallados que reflejan años de trabajo para acercar las experiencias digitales a la vida real. Esas técnicas se aplican también fuera del entretenimiento.",
+     "enlace": "https://techxplore.com/news/2026-11-grand-theft-auto-gaming-technology.html",
      "fuente": "Phys.org",
-     "fecha": "2026-11-25T14:00+00:00"
-    },
-    {
-     "titulo": "Los algoritmos de las redes sociales muestran contenido según los hábitos y datos de cada usuario",
-     "resumen": "Los algoritmos de redes sociales sirven contenido a cada usuario según su historial de navegación y sus datos personales, con efectos que pueden ser entretenidos o adictivos.",
-     "enlace": "https://techxplore.com/news/2026-11-addictive-algorithms-powering-social.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-26T09:40+00:00"
-    },
-    {
-     "titulo": "Un nuevo marco busca un crecimiento sostenible de los centros de datos en el Reino Unido",
-     "resumen": "Una investigación busca ayudar al gobierno británico a gestionar el crecimiento de los centros de datos, impulsado sobre todo por la IA, para beneficiar a las comunidades y limitar impactos ambientales.",
-     "enlace": "https://techxplore.com/news/2026-11-roadmap-sustainable-uk-centers.html",
-     "fuente": "Phys.org",
-     "fecha": "2026-11-26T02:20+00:00"
+     "fecha": "2026-11-25T16:10+00:00"
     }
    ]
   }
